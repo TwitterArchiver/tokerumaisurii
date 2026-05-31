@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325474",
+          "name": "American Express "
+        }
+      }
+    ],
+    "conversation_id": "1981847781762555956",
+    "created_at": "2025-10-25T02:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T03:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981911403284910477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881472964382732",
+          "start": 0,
+          "username": "mengguyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981911403284910477",
+    "in_reply_to_user_id": "1464881472964382732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981847781762555956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengguyi 幸好我平常没钱进账没钱出账不怎么薅羊毛，不然我也得思考Amex关户是不是全球关户终生拉黑了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "1981847781762555956",
+        "created_at": "2025-10-25T02:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981911403284910477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881472964382732",
+              "start": 0,
+              "username": "mengguyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981911403284910477",
+        "in_reply_to_user_id": "1464881472964382732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981847781762555956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengguyi 幸好我平常没钱进账没钱出账不怎么薅羊毛，不然我也得思考Amex关户是不是全球关户终生拉黑了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881472964382732",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "1981847781762555956",
+        "created_at": "2025-10-24T22:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T23:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981847781762555956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981847781762555956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩卡小助手提醒大家。HSBC 如果被关户就是全球关户+终身拉黑。这辈子都开不了全世界任何的 HSBC 银行账户了。对卡粉的打击不亚于告诉速山东人这辈子都考不了公了。所以谨慎使用 HSBC，不乱转账，收钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 232,
+          "like_count": 57760,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 10863
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的 Rust 开发者｜20 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2qEtH"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 96,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 73,
+                "url": "https://t.co/H0qW1rtPXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD0GVY"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1174,
+          "like_count": 43432,
+          "listed_count": 6,
+          "media_count": 982,
+          "tweet_count": 4175
+        },
+        "url": "https://t.co/TS2nZD0GVY",
+        "username": "mengguyi",
+        "verified": true
+      }
+    ]
+  }
+}
