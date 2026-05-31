@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2017105545342435644",
+    "created_at": "2026-01-30T09:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017173055680741457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1950091253384974600",
+          "start": 112,
+          "url": "https://t.co/jbYjPwAy9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017173055680741457",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950091253384974600",
+        "type": "quoted"
+      },
+      {
+        "id": "2017105545342435644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi 中国（一些）反诈体系是会监控DNS请求的，不如说是补上了中国的墙的难得的一块缺口。并且不是DNS污染，是监听劫持，因为从境外向中国的DNS服务器请求就没有问题，是本地ISP从中截取的信息。 https://t.co/jbYjPwAy9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_1950091248196612096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxAdqIBbcAAJg0_.jpg",
+        "width": 1944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2017105545342435644",
+        "created_at": "2026-01-30T09:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017173055680741457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1950091253384974600",
+              "start": 112,
+              "url": "https://t.co/jbYjPwAy9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017173055680741457",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950091253384974600",
+            "type": "quoted"
+          },
+          {
+            "id": "2017105545342435644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi 中国（一些）反诈体系是会监控DNS请求的，不如说是补上了中国的墙的难得的一块缺口。并且不是DNS污染，是监听劫持，因为从境外向中国的DNS服务器请求就没有问题，是本地ISP从中截取的信息。 https://t.co/jbYjPwAy9o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950091248196612096"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "1950091253384974600",
+        "created_at": "2025-07-29T07:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950091253384974600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9zJUTPtTt",
+              "end": 172,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1950091253384974600/photo/1",
+              "media_key": "3_1950091248196612096",
+              "start": 149,
+              "url": "https://t.co/D9zJUTPtTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950091253384974600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4454,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "福建电信你罪大恶极，福建/厦门反诈你也罪大恶极，不仅害得我没有小黄文看，而且幸好家宽管得松点，不然又像上次移动网络访问一样跳到反诈页面再给我打电话。一秒也忍受不了，我这就去用DNS over HTTPS，再见。\n\n（第一份是全局代理测的，第二份是用日常分流测的，可能没传给节点去解析，就污染了。） https://t.co/D9zJUTPtTt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356583549",
+        "conversation_id": "2017105545342435644",
+        "created_at": "2026-01-30T05:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017105545342435644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/realNyarime/status/2016874760358285522",
+              "start": 137,
+              "url": "https://t.co/zF0IFnKtpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017105545342435644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我来说一下我朋友最近遇到的情况，就这个月。\n\n他手机是已经刷过系统的，运行的 LineageOS ，操作时使用蜂窝数据网络。\n上午安装运行了 RustDesk （一个开源的远程桌面软件），下午接到 96110 电话问候。\n然后晶哥就上门了，确切说来的是辅警，说是反诈宣传。\n他主动报警要求验证身份，又来了两位辅警。\n然后就被带去了橘子，一位晶哥要求停止录音。\n\n在接待室，晶哥表示，他可能是诈骗分子的受害者，他们要做的是反诈宣讲。\n根据反诈系统的监测，怀疑他安装了一个叫“智汇通”的软件（他都没听说过），并且完全不信是他们自己检测错误。当然现在看来就是奔着 RustDesk 去的。\n他在橘子里有两个选择，承认安装了“智汇通”软件，或者交出手机并解锁，给他们进一步检查。\n\n他选择了前者，于是晶哥没有索取他的手机，直接视为被诈骗分子忽悠和远程操作安装了“智汇通”软件，现在需要对他进行“反诈宣讲”。\n然后，扣押了身份证，冻结支付宝/微信支付和所有银行卡，15个工作日后去派出所领取。他现在甚至买个外卖吃饭都要选他人支付由我来付款。\n\n推测1：晶哥那边是认为下载这个境外远程控制软件，就是被诈骗分子蛊惑了，让诈骗分子直接操作手机并安装一些诈骗或者常规金融软件并实施操作，而本人则被诈骗分子忽悠，所以本人基本说什么他们都不信，认为是在替诈骗分子说话，所以他们只信他们检测到的东西，即使是错误的，也要真的扫了手机再说，除非你直接承认了这事就好办了。但造成的结果是他认了一件自己从来没有干过的事情（安装“智汇通”，而他本人都不认识这个软件）。同时为了“保护不信任晶哥的他的资产，不会在诈骗分子进一步指导或控制下被操作”，直接一键让他进入了吃饭都需要找我要钱的斩杀线模式。\n\n推测2：应该和手机无关，事发时是 LineageOS 官网 ROM 。检测方式更可能是运营商对数据流量监控了，也可能是 DNS 被监听泄露，虽然当时用的不是默认 DNS，但是当时并未在手机上配置 AdGuard 或其他加密 DNS 工具。而且此事似乎也出现在国内使用的海外版 iPhone 用户上。\n\n注意1：该推文只是描述一个事情，不代表我发表或表述任何立场。只是提醒大家，使用 RustDesk 远程控制手机时需要注意可能会有这么个事。\n\n注意2：根据时间和地区不同可能有不同的状况，但我不能透露朋友所属辖区。并且我拒绝提供更细节的内容和录音以保护朋友隐私，不要过来问细节。\n\n注意3：如果想转发、转载该推文，请局部截图或复制文本，请勿包含或者标注我名字和头像。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 37557,
+          "like_count": 144,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016874760358285522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来说一下我朋友最近遇到的情况，就这个月。\n\n他手机是已经刷过系统的，运行的 LineageOS ，操作时使用蜂窝数据网络。\n上午安装运行了 RustDesk （一个开源的远程桌面软件），下午接到 96110 电话问候。\n然后晶哥就上门了，确切说来的是辅警，说是反诈宣传。 https://t.co/zF0IFnKtpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 262,
+          "like_count": 75132,
+          "listed_count": 7,
+          "media_count": 992,
+          "tweet_count": 14339
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没头像/没推/发广告/抽象会拉黑。女装不发R18(但有擦边的)，不讨论政治。喜欢女装、COS、KIG，无性SM(Switch)。友跨顺男偶尔发跨权。G+难民。女装和kig照看账号tag #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgqV77"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "2015424289886134737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15389,
+          "following_count": 5980,
+          "like_count": 21228,
+          "listed_count": 66,
+          "media_count": 532,
+          "tweet_count": 4165
+        },
+        "url": "https://t.co/s9yovgqV77",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

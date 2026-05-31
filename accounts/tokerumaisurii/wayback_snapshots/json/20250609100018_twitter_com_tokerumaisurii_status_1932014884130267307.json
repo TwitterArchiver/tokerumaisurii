@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1931506863058948567",
+    "created_at": "2025-06-09T10:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T11:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932014884130267307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2162812627",
+          "start": 0,
+          "username": "nicksortor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932014884130267307",
+    "in_reply_to_user_id": "2162812627",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931506863058948567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nicksortor “TAKING OUR COUNTRY BACK”?\nWho? And from whom?\nThe government? And taking it from the people?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_1931506810579562496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4XNe3XsAAXMpC.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1535,
+        "media_key": "3_1931506810550120448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4XNewWcAAd8Yb.jpg",
+        "width": 2000
+      },
+      {
+        "duration_ms": 32240,
+        "height": 360,
+        "media_key": "13_1931506810600460288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931506810600460288/img/ueRipCOkdUoN4Oth.jpg",
+        "public_metrics": {
+          "view_count": 2005282
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931506810600460288/vid/avc1/480x270/g7RVgqbnJlxer2vU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931506810600460288/vid/avc1/640x360/FSCHSRn2awn2Oia3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931506810600460288/pl/HnzNtkhyj-U1Crhs.m3u8?v=a5e"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1931506863058948567",
+        "created_at": "2025-06-09T10:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932014884130267307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2162812627",
+              "start": 0,
+              "username": "nicksortor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932014884130267307",
+        "in_reply_to_user_id": "2162812627",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931506863058948567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nicksortor “TAKING OUR COUNTRY BACK”?\nWho? And from whom?\nThe government? And taking it from the people?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931506810579562496",
+            "3_1931506810550120448",
+            "13_1931506810600460288"
+          ]
+        },
+        "author_id": "2162812627",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1931506863058948567",
+        "created_at": "2025-06-08T00:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T01:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931506863058948567"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Trump",
+              "probability": 0.9339,
+              "start": 23,
+              "type": "Person"
+            },
+            {
+              "end": 89,
+              "normalized_text": "California National Guard",
+              "probability": 0.6805,
+              "start": 65,
+              "type": "Organization"
+            },
+            {
+              "end": 161,
+              "normalized_text": "Los Angeles",
+              "probability": 0.9538,
+              "start": 151,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 2,
+              "tag": "BREAKING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9LhLva89u",
+              "end": 255,
+              "expanded_url": "https://x.com/nicksortor/status/1931506863058948567/video/1",
+              "media_key": "3_1931506810579562496",
+              "start": 232,
+              "url": "https://t.co/x9LhLva89u"
+            },
+            {
+              "display_url": "pic.x.com/x9LhLva89u",
+              "end": 255,
+              "expanded_url": "https://x.com/nicksortor/status/1931506863058948567/video/1",
+              "media_key": "3_1931506810550120448",
+              "start": 232,
+              "url": "https://t.co/x9LhLva89u"
+            },
+            {
+              "display_url": "pic.x.com/x9LhLva89u",
+              "end": 255,
+              "expanded_url": "https://x.com/nicksortor/status/1931506863058948567/video/1",
+              "media_key": "13_1931506810600460288",
+              "start": 232,
+              "url": "https://t.co/x9LhLva89u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931506863058948567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3493,
+          "impression_count": 4533837,
+          "like_count": 81173,
+          "quote_count": 969,
+          "reply_count": 4029,
+          "retweet_count": 13126
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 #BREAKING: President Trump has officially taken control of the California National Guard and will be deploying THOUSANDS of troops to the streets of Los Angeles tonight, per Gov. Newsom\n\nLET’S GO! \n\nWE’RE TAKING OUR COUNTRY BACK! https://t.co/x9LhLva89u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 165,
+          "like_count": 20141,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 3489
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-29T13:00:21.000Z",
+        "description": "On-scene covering stories MSM won’t. | Seen on @TuckerCarlson Tonight, Fox News, Newsmax, Timcast, etc. • #EastPalestineOH #Maui #WNC • media@sortor.us",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 106,
+                "tag": "EastPalestineOH"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "Maui"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "WNC"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "TuckerCarlson"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sortor.us/x",
+                "end": 23,
+                "expanded_url": "http://sortor.us/x",
+                "start": 0,
+                "url": "https://t.co/HZRuyTRdE9"
+              }
+            ]
+          }
+        },
+        "id": "2162812627",
+        "location": "KY | TX | DC 🇺🇸",
+        "name": "Nick Sortor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696728176670490626/syt21Drf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985946,
+          "following_count": 18478,
+          "like_count": 54038,
+          "listed_count": 3395,
+          "media_count": 7638,
+          "tweet_count": 33866
+        },
+        "url": "https://t.co/HZRuyTRdE9",
+        "username": "nicksortor",
+        "verified": true
+      }
+    ]
+  }
+}

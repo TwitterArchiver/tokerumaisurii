@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1389632176052858882",
+          "name": "Hot springs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1389632176052858882",
+          "name": "Hot springs"
+        }
+      }
+    ],
+    "conversation_id": "1903682252749394272",
+    "created_at": "2025-03-23T05:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T06:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903682252749394272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LW_OG3/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/LW_OG3/status/1903446348055331310",
+          "start": 21,
+          "url": "https://t.co/SXfO2syEcW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903682252749394272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903446348055331310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶啊啊啊啊啊啊真的尊死&gt;.&lt; https://t.co/SXfO2syEcW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_1903446146997239808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmpmL5DbQAAuEzU.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          }
+        ],
+        "conversation_id": "1903682252749394272",
+        "created_at": "2025-03-23T05:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T06:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903682252749394272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LW_OG3/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/LW_OG3/status/1903446348055331310",
+              "start": 21,
+              "url": "https://t.co/SXfO2syEcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903682252749394272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903446348055331310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶啊啊啊啊啊啊真的尊死&gt;.&lt; https://t.co/SXfO2syEcW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903446146997239808"
+          ]
+        },
+        "author_id": "1352627203159126016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          }
+        ],
+        "conversation_id": "1903446348055331310",
+        "created_at": "2025-03-22T13:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903446348055331310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "東方夜雀食堂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/69qpt6bCsQ",
+              "end": 64,
+              "expanded_url": "https://x.com/LW_OG3/status/1903446348055331310/photo/1",
+              "media_key": "3_1903446146997239808",
+              "start": 41,
+              "url": "https://t.co/69qpt6bCsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903446348055331310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 3735,
+          "like_count": 385,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "風呂行くどー\n\n後でこの露天風呂入った人、厄でヤバそう(小並感)\n＃東方夜雀食堂 https://t.co/69qpt6bCsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité",
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 52,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-22T14:40:43.000Z",
+        "description": "東方＆ランニング用アカウントです。 東方ファン歴16年。推しはパチュリー。東方以外ではざくアクとガンダムが好き！ランニング歴12年で月200kmくらい走ってます。PBはフル3:23 ハーフ1:32",
+        "id": "1352627203159126016",
+        "location": "マック堺のサブチャンネル",
+        "name": "おじナレフ＠東方＆ざくアク&ラン垢",
+        "pinned_tweet_id": "1885651837497626642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352629268958769152/GKotCaGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11779,
+          "following_count": 2915,
+          "like_count": 253000,
+          "listed_count": 79,
+          "media_count": 25900,
+          "tweet_count": 234563
+        },
+        "username": "LW_OG3",
+        "verified": true
+      }
+    ]
+  }
+}

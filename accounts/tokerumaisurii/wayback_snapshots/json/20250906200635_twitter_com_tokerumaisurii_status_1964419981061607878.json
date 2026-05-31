@@ -1,0 +1,613 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "ROG (Republic of Gamers, ASUS)",
+          "id": "1163538731195744258",
+          "name": "ROG (Republic of Gamers, ASUS)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1964419981061607878",
+    "created_at": "2025-09-06T20:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T21:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964419981061607878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newegg/status/…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/newegg/status/1964106348796530976",
+          "start": 62,
+          "url": "https://t.co/acWCbvcalP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964419981061607878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964106348796530976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死了不叫motherboard叫waifuboard，但是如果印瓦罗兰特的角色是不是就要继续叫motherboard了？ https://t.co/acWCbvcalP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_1964105742656700416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0HnxERbgAAiy2P.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "ROG (Republic of Gamers, ASUS)",
+              "id": "1163538731195744258",
+              "name": "ROG (Republic of Gamers, ASUS)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1964419981061607878",
+        "created_at": "2025-09-06T20:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T21:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964419981061607878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newegg/status/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/newegg/status/1964106348796530976",
+              "start": 62,
+              "url": "https://t.co/acWCbvcalP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964419981061607878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964106348796530976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死了不叫motherboard叫waifuboard，但是如果印瓦罗兰特的角色是不是就要继续叫motherboard了？ https://t.co/acWCbvcalP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964105742656700416"
+          ]
+        },
+        "author_id": "17221819",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "ROG (Republic of Gamers, ASUS)",
+              "id": "1163538731195744258",
+              "name": "ROG (Republic of Gamers, ASUS)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1964106348796530976",
+        "created_at": "2025-09-05T23:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T00:19:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964106220404691350",
+          "1964106348796530976"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "ASUS ROG STRIX X870E",
+              "probability": 0.7501,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "H GAMING WIFI7",
+              "probability": 0.6693,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "HatsuneMiku",
+              "probability": 0.7054,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 100,
+              "normalized_text": "miku",
+              "probability": 0.4458,
+              "start": 97,
+              "type": "Other"
+            },
+            {
+              "end": 112,
+              "normalized_text": "waifuboard",
+              "probability": 0.6039,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 69,
+              "tag": "HatsuneMiku"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "miku"
+            },
+            {
+              "end": 113,
+              "start": 102,
+              "tag": "waifuboard"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Buy ASUS ROG STRIX X870E-H GAMING WIFI7 HATSUNE MIKU EDITION AMD X870E ATX motherboard, 16+2+1 power stages, Dynamic OC Switcher, Core Flex, DDR5, WiFi 7, 4x M.2, PCIe 5.0, dual USB4, USB 10Gbps Type-C with fast shipping and top-rated customer service. Once you know, you Newegg!",
+              "display_url": "newegg.io/miku-mb",
+              "end": 137,
+              "expanded_url": "https://newegg.io/miku-mb",
+              "images": [
+                {
+                  "height": 480,
+                  "url": "https://pbs.twimg.com/news_img/1963956605319254016/oN7UKzai?format=png&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963956605319254016/oN7UKzai?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "ASUS ROG STRIX X870E-H GAMING WIFI7 HATSUNE MIKU EDITION AMD X870E ATX motherboard, 16+2+1 power stages, Dynamic OC Switcher, Core Flex, DDR5, WiFi 7, 4x M.2, PCIe 5.0, dual USB4, USB 10Gbps Type-C - Newegg.com",
+              "unwound_url": "https://www.newegg.com/asus-rog-strix-x870e-h-gaming-wifi7-atx-motherboard-amd-x870e-am5/p/N82E16813119763?utm_campaign=snc-twitter-_-promo-_-wd-storage-sale-_-2025&utm_medium=social&utm_source=twitter",
+              "url": "https://t.co/49rasivPde"
+            },
+            {
+              "display_url": "pic.x.com/gh3BBAlh6K",
+              "end": 161,
+              "expanded_url": "https://x.com/Newegg/status/1964106348796530976/photo/1",
+              "media_key": "3_1964105742656700416",
+              "start": 138,
+              "url": "https://t.co/gh3BBAlh6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964106348796530976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 49403,
+          "like_count": 695,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "Now available for pre-order, the ASUS ROG STRIX X870E-H GAMING WIFI7 #HatsuneMiku Edition mobo👀 #miku #waifuboard\nhttps://t.co/49rasivPde https://t.co/gh3BBAlh6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 208,
+          "like_count": 41965,
+          "listed_count": 8,
+          "media_count": 586,
+          "tweet_count": 7775
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-06T23:13:05.000Z",
+        "description": "Your one stop shop for constant tech deals! 💸 Follow @NeweggHotDeals to save 💬 DM @NeweggService for support 🔥#NeweggBuilds to share setups & gear",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 110,
+                "tag": "NeweggBuilds"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "NeweggHotDeals"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "NeweggService"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newegg.io/site",
+                "end": 23,
+                "expanded_url": "https://newegg.io/site",
+                "start": 0,
+                "url": "https://t.co/kQVEajd2ll"
+              }
+            ]
+          }
+        },
+        "id": "17221819",
+        "location": "Southern California 🌴",
+        "name": "Newegg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271099082644295680/mUGmVr42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675985,
+          "following_count": 1064,
+          "like_count": 16337,
+          "listed_count": 2486,
+          "media_count": 14160,
+          "tweet_count": 32451
+        },
+        "url": "https://t.co/kQVEajd2ll",
+        "username": "Newegg",
+        "verified": true
+      }
+    ]
+  }
+}

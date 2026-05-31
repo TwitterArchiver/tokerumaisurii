@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006207679480619009",
+        "3_2006207681028317186"
+      ],
+      "media_source_tweet_id": [
+        "2006207686791020725",
+        "2006207686791020725"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2006479115088757163",
+    "created_at": "2025-12-31T21:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T22:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006479115088757163"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Youtube銀",
+          "probability": 0.3277,
+          "start": 17,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "15833834",
+          "start": 3,
+          "username": "sakuzyo_skz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PPZbIjE5q4",
+          "end": 71,
+          "expanded_url": "https://x.com/sakuzyo_skz/status/2006207686791020725/photo/1",
+          "media_key": "3_2006207679480619009",
+          "start": 48,
+          "url": "https://t.co/PPZbIjE5q4"
+        },
+        {
+          "display_url": "pic.x.com/PPZbIjE5q4",
+          "end": 71,
+          "expanded_url": "https://x.com/sakuzyo_skz/status/2006207686791020725/photo/1",
+          "media_key": "3_2006207681028317186",
+          "start": 48,
+          "url": "https://t.co/PPZbIjE5q4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006479115088757163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 672
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006207686791020725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakuzyo_skz: Youtube銀の盾！チャンネル登録者数10万人ありがとう！ https://t.co/PPZbIjE5q4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006207679480619009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9d7QVEaYAEgOTq.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006207681028317186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9d7Qa1aYAIBD-t.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006207679480619009",
+            "3_2006207681028317186"
+          ],
+          "media_source_tweet_id": [
+            "2006207686791020725",
+            "2006207686791020725"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2006479115088757163",
+        "created_at": "2025-12-31T21:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006479115088757163"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Youtube銀",
+              "probability": 0.3277,
+              "start": 17,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "15833834",
+              "start": 3,
+              "username": "sakuzyo_skz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPZbIjE5q4",
+              "end": 71,
+              "expanded_url": "https://x.com/sakuzyo_skz/status/2006207686791020725/photo/1",
+              "media_key": "3_2006207679480619009",
+              "start": 48,
+              "url": "https://t.co/PPZbIjE5q4"
+            },
+            {
+              "display_url": "pic.x.com/PPZbIjE5q4",
+              "end": 71,
+              "expanded_url": "https://x.com/sakuzyo_skz/status/2006207686791020725/photo/1",
+              "media_key": "3_2006207681028317186",
+              "start": 48,
+              "url": "https://t.co/PPZbIjE5q4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006479115088757163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 672
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006207686791020725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakuzyo_skz: Youtube銀の盾！チャンネル登録者数10万人ありがとう！ https://t.co/PPZbIjE5q4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006207679480619009",
+            "3_2006207681028317186"
+          ]
+        },
+        "author_id": "15833834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2006207686791020725",
+        "created_at": "2025-12-31T03:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006207686791020725"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Youtube",
+              "probability": 0.5155,
+              "start": 0,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPZbIjE5q4",
+              "end": 54,
+              "expanded_url": "https://x.com/sakuzyo_skz/status/2006207686791020725/photo/1",
+              "media_key": "3_2006207679480619009",
+              "start": 31,
+              "url": "https://t.co/PPZbIjE5q4"
+            },
+            {
+              "display_url": "pic.x.com/PPZbIjE5q4",
+              "end": 54,
+              "expanded_url": "https://x.com/sakuzyo_skz/status/2006207686791020725/photo/1",
+              "media_key": "3_2006207681028317186",
+              "start": 31,
+              "url": "https://t.co/PPZbIjE5q4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006207686791020725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 163267,
+          "like_count": 7853,
+          "quote_count": 19,
+          "reply_count": 52,
+          "retweet_count": 672
+        },
+        "reply_settings": "everyone",
+        "text": "Youtube銀の盾！チャンネル登録者数10万人ありがとう！ https://t.co/PPZbIjE5q4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 255,
+          "like_count": 70888,
+          "listed_count": 7,
+          "media_count": 913,
+          "tweet_count": 13371
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2008-08-13T06:35:57.000Z",
+        "description": "音楽家 インスタ: https://t.co/nGchIkOMce Youtube: https://t.co/0jCl2i36k6 お仕事の依頼など→ 44damtk@kha.biglobe.ne.jp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sakuzyo_skz/",
+                "end": 33,
+                "expanded_url": "http://instagram.com/sakuzyo_skz/",
+                "start": 10,
+                "url": "https://t.co/nGchIkOMce"
+              },
+              {
+                "display_url": "youtube.com/@SakuzyoOffici…",
+                "end": 66,
+                "expanded_url": "http://youtube.com/@SakuzyoOfficial",
+                "start": 43,
+                "url": "https://t.co/0jCl2i36k6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/sakuzyo",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/sakuzyo",
+                "start": 0,
+                "url": "https://t.co/7NwbsuD6eX"
+              }
+            ]
+          }
+        },
+        "id": "15833834",
+        "location": "Tokyo",
+        "name": "Sakuzyo / 削除",
+        "pinned_tweet_id": "1979525648696934828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957236100671664128/LpZn9D-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150894,
+          "following_count": 5397,
+          "like_count": 100729,
+          "listed_count": 1052,
+          "media_count": 6771,
+          "tweet_count": 192192
+        },
+        "url": "https://t.co/7NwbsuD6eX",
+        "username": "sakuzyo_skz",
+        "verified": false
+      }
+    ]
+  }
+}

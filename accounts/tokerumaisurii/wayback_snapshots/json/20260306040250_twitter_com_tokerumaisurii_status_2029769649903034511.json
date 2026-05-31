@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2029769649903034511",
+    "created_at": "2026-03-06T04:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T05:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029769649903034511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1928404863156912128",
+          "start": 7,
+          "username": "catphonse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2029307431780573663",
+          "start": 148,
+          "url": "https://t.co/DychUIJeyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029769649903034511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029307431780573663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可怜的原推主 @catphonse 因为一张写着「『如果你不能分清虚构和现实，就请不要购买这本书。』——同人作者」、背景是普通的康娜和朋友的图被封号了，尽管评论区吵翻了天，但我是真的不知道这图本身违规在哪里，触发的是宣扬二筒瑟琴的禁制吗，只能说，很大一部分西方人所患有的这种西方病还是太严重了。 https://t.co/DychUIJeyH"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [catphonse].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "catphonse",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "catphonse"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2029769649903034511",
+        "created_at": "2026-03-06T04:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029769649903034511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1928404863156912128",
+              "start": 7,
+              "username": "catphonse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2029307431780573663",
+              "start": 148,
+              "url": "https://t.co/DychUIJeyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029769649903034511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029307431780573663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可怜的原推主 @catphonse 因为一张写着「『如果你不能分清虚构和现实，就请不要购买这本书。』——同人作者」、背景是普通的康娜和朋友的图被封号了，尽管评论区吵翻了天，但我是真的不知道这图本身违规在哪里，触发的是宣扬二筒瑟琴的禁制吗，只能说，很大一部分西方人所患有的这种西方病还是太严重了。 https://t.co/DychUIJeyH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2029307431780573663",
+        "created_at": "2026-03-04T21:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T22:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029307431780573663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/catphonse/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/catphonse/status/2028802905122214106",
+              "start": 44,
+              "url": "https://t.co/7E2CAWJdTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029307431780573663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2085,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028802905122214106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“如果在GTA里烧杀抢掠的玩家不能叫反社会者杀人犯，那看萝莉本的读者就能叫恋童癖吗？” https://t.co/7E2CAWJdTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 278,
+          "like_count": 84821,
+          "listed_count": 7,
+          "media_count": 1096,
+          "tweet_count": 15732
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

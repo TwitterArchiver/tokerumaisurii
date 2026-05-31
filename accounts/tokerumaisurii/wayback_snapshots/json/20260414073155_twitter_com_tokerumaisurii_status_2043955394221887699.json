@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2043855309710725515",
+    "created_at": "2026-04-14T07:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043955394221887699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1285597765049839616",
+          "start": 0,
+          "username": "lifeistobedead"
+        },
+        {
+          "end": 23,
+          "id": "107653535",
+          "start": 16,
+          "username": "txyyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043955394221887699",
+    "in_reply_to_user_id": "1285597765049839616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043919704092184845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lifeistobedead @txyyss 我也联想了但我觉得不太一样，因为丘奇编码只保证了整数，或者可能最多有理数（可以由整数构造），但这个东西做到了覆盖了整个实数域。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2043855309710725515",
+        "created_at": "2026-04-14T07:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043955394221887699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1285597765049839616",
+              "start": 0,
+              "username": "lifeistobedead"
+            },
+            {
+              "end": 23,
+              "id": "107653535",
+              "start": 16,
+              "username": "txyyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043955394221887699",
+        "in_reply_to_user_id": "1285597765049839616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043919704092184845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lifeistobedead @txyyss 我也联想了但我觉得不太一样，因为丘奇编码只保证了整数，或者可能最多有理数（可以由整数构造），但这个东西做到了覆盖了整个实数域。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285597765049839616",
+        "conversation_id": "2043855309710725515",
+        "created_at": "2026-04-14T05:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043919704092184845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "107653535",
+              "start": 0,
+              "username": "txyyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043919704092184845",
+        "in_reply_to_user_id": "107653535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043855309710725515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txyyss 不就是變個樣子的 lambda calculus ，church number 的4就是 lambda(f).lambda(x).f(f(f(f(x)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3425,
+          "following_count": 305,
+          "like_count": 98841,
+          "listed_count": 9,
+          "media_count": 1198,
+          "tweet_count": 18220
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-21T15:29:36.000Z",
+        "description": "",
+        "id": "1285597765049839616",
+        "name": "Complex",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 2026,
+          "like_count": 1737,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "lifeistobedead",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-23T07:58:03.000Z",
+        "description": "Enthusiast of recreational mathematics | Also in mastodon: @txyyss@c.im",
+        "id": "107653535",
+        "name": "Shengyi Wang",
+        "pinned_tweet_id": "1854333919182700721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645417012/LogoYi512_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16829,
+          "following_count": 1372,
+          "like_count": 7717,
+          "listed_count": 193,
+          "media_count": 2356,
+          "tweet_count": 48150
+        },
+        "username": "txyyss",
+        "verified": false
+      }
+    ]
+  }
+}

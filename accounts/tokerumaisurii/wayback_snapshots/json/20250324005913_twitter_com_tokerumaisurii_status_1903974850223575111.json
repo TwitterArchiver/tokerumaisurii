@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1903957431685689518",
+    "created_at": "2025-03-24T00:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T01:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903974850223575111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1635834366478938112",
+          "start": 0,
+          "username": "B737_9VTRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903974850223575111",
+    "in_reply_to_user_id": "1635834366478938112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903969963976933490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B737_9VTRF 『万年置き傘にご注意を』😿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903969963976933490].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903969963976933490",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903969963976933490"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1903957431685689518",
+        "created_at": "2025-03-24T00:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T01:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903974850223575111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1635834366478938112",
+              "start": 0,
+              "username": "B737_9VTRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903974850223575111",
+        "in_reply_to_user_id": "1635834366478938112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903969963976933490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B737_9VTRF 『万年置き傘にご注意を』😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité -\n🍄 @VentusUta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 57,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 92
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T02:44:50.000Z",
+        "description": "",
+        "id": "1635834366478938112",
+        "location": "Lost Civilisation",
+        "name": "BTS Skytrain- Siemens modular metro",
+        "pinned_tweet_id": "1810904846611992650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843479396168179712/ptdogUCO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 162,
+          "like_count": 15741,
+          "listed_count": 0,
+          "media_count": 1833,
+          "tweet_count": 12128
+        },
+        "username": "B737_9VTRF",
+        "verified": false
+      }
+    ]
+  }
+}

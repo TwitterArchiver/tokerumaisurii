@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948235890452766720"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "1948235898077749548",
+    "created_at": "2025-07-24T04:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T05:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948235898077749548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HxNPqssSEH",
+          "end": 41,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1948235898077749548/photo/1",
+          "media_key": "3_1948235890452766720",
+          "start": 18,
+          "url": "https://t.co/HxNPqssSEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948235898077749548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的朋友喜欢看不等于我喜欢看啊啊。 https://t.co/HxNPqssSEH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948235898077749548].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948235898077749548",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948235898077749548"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_1948235890452766720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwmGOF0aoAALiCv.jpg",
+        "width": 1290
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 187,
+          "like_count": 33466,
+          "listed_count": 6,
+          "media_count": 451,
+          "tweet_count": 5997
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

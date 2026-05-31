@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1586040452628721664",
+          "name": "Slice of life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2039447163495690626",
+    "created_at": "2026-04-01T20:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039447163495690626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "923845298027294720",
+          "start": 3,
+          "username": "ongeki_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "セガの新作音ゲー「オンゲキRe:Fresh」のマンガページ。各キャラクターたちの1コマ漫画を掲載！",
+          "display_url": "ongeki.sega.jp/manga/",
+          "end": 129,
+          "expanded_url": "https://ongeki.sega.jp/manga/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2037076539934986240/dXHJTVkb?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2037076539934986240/dXHJTVkb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "マンガ｜オンゲキRe:Fresh公式サイト｜セガ新作音ゲー",
+          "unwound_url": "https://ongeki.sega.jp/manga/",
+          "url": "https://t.co/svAcI5hau1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039447163495690626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 904
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039221220579926295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ongeki_official: 【いちげき！更新】 \nオンゲキシューターズたちの日常を切り取った1コマ漫画『いちげき！』を更新しました！今後も定期的に更新予定ですので、お楽しみに！過去の漫画はコチラ→ https://t.co/svAcI5hau1\n\n↓その311「ぷ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2038791238896549889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEs91G2bgAEvkpZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2039447163495690626",
+        "created_at": "2026-04-01T20:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039447163495690626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "923845298027294720",
+              "start": 3,
+              "username": "ongeki_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "セガの新作音ゲー「オンゲキRe:Fresh」のマンガページ。各キャラクターたちの1コマ漫画を掲載！",
+              "display_url": "ongeki.sega.jp/manga/",
+              "end": 129,
+              "expanded_url": "https://ongeki.sega.jp/manga/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037076539934986240/dXHJTVkb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037076539934986240/dXHJTVkb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "マンガ｜オンゲキRe:Fresh公式サイト｜セガ新作音ゲー",
+              "unwound_url": "https://ongeki.sega.jp/manga/",
+              "url": "https://t.co/svAcI5hau1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039447163495690626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 904
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039221220579926295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ongeki_official: 【いちげき！更新】 \nオンゲキシューターズたちの日常を切り取った1コマ漫画『いちげき！』を更新しました！今後も定期的に更新予定ですので、お楽しみに！過去の漫画はコチラ→ https://t.co/svAcI5hau1\n\n↓その311「ぷ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038791238896549889"
+          ]
+        },
+        "author_id": "923845298027294720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2039221220579926295",
+        "created_at": "2026-04-01T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039221220579926295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "セガの新作音ゲー「オンゲキRe:Fresh」のマンガページ。各キャラクターたちの1コマ漫画を掲載！",
+              "display_url": "ongeki.sega.jp/manga/",
+              "end": 108,
+              "expanded_url": "https://ongeki.sega.jp/manga/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037076539934986240/dXHJTVkb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037076539934986240/dXHJTVkb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "マンガ｜オンゲキRe:Fresh公式サイト｜セガ新作音ゲー",
+              "unwound_url": "https://ongeki.sega.jp/manga/",
+              "url": "https://t.co/svAcI5hau1"
+            },
+            {
+              "display_url": "pic.x.com/NPKQGOzPrf",
+              "end": 146,
+              "expanded_url": "https://x.com/ongeki_official/status/2039221220579926295/photo/1",
+              "media_key": "3_2038791238896549889",
+              "start": 123,
+              "url": "https://t.co/NPKQGOzPrf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039221220579926295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 62497,
+          "like_count": 2850,
+          "quote_count": 31,
+          "reply_count": 8,
+          "retweet_count": 904
+        },
+        "reply_settings": "everyone",
+        "text": "【いちげき！更新】 \nオンゲキシューターズたちの日常を切り取った1コマ漫画『いちげき！』を更新しました！今後も定期的に更新予定ですので、お楽しみに！過去の漫画はコチラ→ https://t.co/svAcI5hau1\n\n↓その311「ぷよゲキ」 https://t.co/NPKQGOzPrf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 298,
+          "like_count": 93530,
+          "listed_count": 8,
+          "media_count": 1168,
+          "tweet_count": 17304
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-27T09:34:18.000Z",
+        "description": "SEGA音楽ゲーム「オンゲキ」の公式アカウントです。▼ゲキチュウマイ→@performai ▼チュウニズム公式→ @chunithm ▼maimai公式→ @maimai_official ▼公式全国大会→ @kop_sega ▼Youtubeチャンネル→https://t.co/TMlWfMLoQS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "performai"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "chunithm"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "maimai_official"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "kop_sega"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/ONGEKI",
+                "end": 151,
+                "expanded_url": "http://youtube.com/c/ONGEKI",
+                "start": 128,
+                "url": "https://t.co/TMlWfMLoQS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ongeki.sega.jp",
+                "end": 23,
+                "expanded_url": "https://ongeki.sega.jp",
+                "start": 0,
+                "url": "https://t.co/RvEDrgsKoh"
+              }
+            ]
+          }
+        },
+        "id": "923845298027294720",
+        "location": "セガ",
+        "name": "オンゲキ公式",
+        "pinned_tweet_id": "2038994796262678769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905064377474228224/miXy0L6q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126765,
+          "following_count": 63,
+          "like_count": 475,
+          "listed_count": 1077,
+          "media_count": 2074,
+          "tweet_count": 4062
+        },
+        "url": "https://t.co/RvEDrgsKoh",
+        "username": "ongeki_official",
+        "verified": true
+      }
+    ]
+  }
+}

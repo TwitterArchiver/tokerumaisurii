@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1969033937725849878",
+    "created_at": "2025-09-19T19:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T20:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969126143719563486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921426104763682816",
+          "start": 0,
+          "username": "hiner233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969126143719563486",
+    "in_reply_to_user_id": "1921426104763682816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969033937725849878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiner233 这个22款的Pride表达是我认为苹果做得最漂亮的表带（之一）。不是因为是Pride才偏心，而是这个看上去很丝滑好看挺自然的，其它几代Pride也是远远不及。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969033921385185280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Np60rbwAASI6M.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969033921527783424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Np61NboAAFT-7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1969033921607462912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Np61gbcAAqxrF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1969033937725849878",
+        "created_at": "2025-09-19T19:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T20:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969126143719563486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921426104763682816",
+              "start": 0,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969126143719563486",
+        "in_reply_to_user_id": "1921426104763682816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969033937725849878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiner233 这个22款的Pride表达是我认为苹果做得最漂亮的表带（之一）。不是因为是Pride才偏心，而是这个看上去很丝滑好看挺自然的，其它几代Pride也是远远不及。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969033921385185280",
+            "3_1969033921527783424",
+            "3_1969033921607462912"
+          ]
+        },
+        "author_id": "1921426104763682816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1969033937725849878",
+        "created_at": "2025-09-19T13:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969033937725849878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tV8g2BhsYe",
+              "end": 196,
+              "expanded_url": "https://x.com/hiner233/status/1969033937725849878/photo/1",
+              "media_key": "3_1969033921385185280",
+              "start": 173,
+              "url": "https://t.co/tV8g2BhsYe"
+            },
+            {
+              "display_url": "pic.x.com/tV8g2BhsYe",
+              "end": 196,
+              "expanded_url": "https://x.com/hiner233/status/1969033937725849878/photo/1",
+              "media_key": "3_1969033921527783424",
+              "start": 173,
+              "url": "https://t.co/tV8g2BhsYe"
+            },
+            {
+              "display_url": "pic.x.com/tV8g2BhsYe",
+              "end": 196,
+              "expanded_url": "https://x.com/hiner233/status/1969033937725849878/photo/1",
+              "media_key": "3_1969033921607462912",
+              "start": 173,
+              "url": "https://t.co/tV8g2BhsYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969033937725849878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5662,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯别人都在买 iPhone 17 我在买 22 款的 Pride 和已下架的包\n本来真的只是去摸新机的 但是后来看到 Apple 天一留了江浙沪最后一根 41mm 的表带就买了\n又想去摸之前看的 Herschel Only at Apple 的两个包 结果官网售完了😭 不死心去问了一下 从仓库拿了两个出来 告诉我库存不多了 一咬牙两个都买了（ https://t.co/tV8g2BhsYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 又幻想了……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 210,
+          "like_count": 46231,
+          "listed_count": 7,
+          "media_count": 615,
+          "tweet_count": 8740
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "这里是Hiner/15y男高🌈/三次看黄男🚫纯鉴证🚫/互关来找我玩/“再亮眼的星 一闪过就坠落”",
+        "id": "1921426104763682816",
+        "name": "hiner",
+        "pinned_tweet_id": "1960736148806098958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 713,
+          "like_count": 38127,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 5814
+        },
+        "username": "hiner233",
+        "verified": false
+      }
+    ]
+  }
+}

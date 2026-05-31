@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2037605663489012210",
+    "created_at": "2026-03-27T19:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037605663489012210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2037349269925970375",
+          "start": 136,
+          "url": "https://t.co/7RDHtRLTs9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037605663489012210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037349269925970375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不难受了，这活全家的公司不肯公布他们自家API格式的OpenAPI spec，就给那几个Client SDKs，要是语言不一样没法直接用，那谁乐意支持你的协议啊？简直搞天下之大笑，我甚至可以下OpenRouter的OpenAPI spec从里面借用他们给A社写的标准。 https://t.co/7RDHtRLTs9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2037605663489012210",
+        "created_at": "2026-03-27T19:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037605663489012210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2037349269925970375",
+              "start": 136,
+              "url": "https://t.co/7RDHtRLTs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037605663489012210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037349269925970375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不难受了，这活全家的公司不肯公布他们自家API格式的OpenAPI spec，就给那几个Client SDKs，要是语言不一样没法直接用，那谁乐意支持你的协议啊？简直搞天下之大笑，我甚至可以下OpenRouter的OpenAPI spec从里面借用他们给A社写的标准。 https://t.co/7RDHtRLTs9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2037349269925970375",
+        "created_at": "2026-03-27T02:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037349269925970375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037349269925970375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1874,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难受，下了个套壳API聊天软件，结果竟然不能用Anthropic……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 294,
+          "like_count": 91728,
+          "listed_count": 8,
+          "media_count": 1163,
+          "tweet_count": 16936
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

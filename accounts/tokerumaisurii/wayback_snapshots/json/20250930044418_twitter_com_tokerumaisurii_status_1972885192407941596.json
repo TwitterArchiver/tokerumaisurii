@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1972639270193258661",
+    "created_at": "2025-09-30T04:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T05:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972885192407941596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "823092277090209793",
+          "start": 0,
+          "username": "liruifengv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972885192407941596",
+    "in_reply_to_user_id": "823092277090209793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972639270193258661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liruifengv 感动中国（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1972639270193258661",
+        "created_at": "2025-09-30T04:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T05:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972885192407941596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "823092277090209793",
+              "start": 0,
+              "username": "liruifengv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972885192407941596",
+        "in_reply_to_user_id": "823092277090209793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972639270193258661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liruifengv 感动中国（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823092277090209793",
+        "conversation_id": "1972639270193258661",
+        "created_at": "2025-09-29T12:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972639270193258661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972639270193258661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我给大爷写Rust，大爷要送我北京一套房\n\n那年我刚学 Rust 不久，一次在某贝撸代码。这时隔壁桌一位白发大爷正对着笔记本怒吼：“C++ 内存泄漏比这两年冷冻的西蓝花出的水还多！”我忍不住过去看，发现他写的代码确实有问题，Bug 全是预制的。\n\n我三下五除二把他项目迁到 Rust：Arc、Mutex、生命周期管理一顿组合拳，编译器像厨师长一样严格检查。程序跑得比某贝的微波炉倒计时还快。大爷当场愣住：“年轻人，你这 Rust，简直比新鲜食材还安全！”\n\n后来我帮他维护这个项目，从02年一直写到04年。有一天我突然接到他得电话，他说他去养老院了。我也不知道我哪儿感动他了，他就说北京有个房子，一室一厅的，想给我，我那时候17啊，哪敢要。当时手一抖，cargo build 都红温了。\n\n我连忙拒绝。大爷笑道：“小伙子，记住——内存安全不如有房安全 ！”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5855,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我给大爷写Rust，大爷要送我北京一套房\n\n那年我刚学 Rust 不久，一次在某贝撸代码。这时隔壁桌一位白发大爷正对着笔记本怒吼：“C++ 内存泄漏比这两年冷冻的西蓝花出的水还多！”我忍不住过去看，发现他写的代码确实有问题，Bug 全是预制的。\n\n我三下五除二把他项目迁到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 216,
+          "like_count": 50032,
+          "listed_count": 7,
+          "media_count": 655,
+          "tweet_count": 9457
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-22T08:57:46.000Z",
+        "description": "前端/开源爱好者/喜欢摇滚乐🎸远程工作中 @astrodotbuild 开源项目成员 GitHub https://t.co/JLAiaeJcdu Youtube https://t.co/VvvjD04ZYa  博客 https://t.co/43VEYxs4fJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "astrodotbuild"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/liruifengv",
+                "end": 73,
+                "expanded_url": "https://github.com/liruifengv",
+                "start": 50,
+                "url": "https://t.co/JLAiaeJcdu"
+              },
+              {
+                "display_url": "youtube.com/@liruifengv",
+                "end": 105,
+                "expanded_url": "https://youtube.com/@liruifengv",
+                "start": 82,
+                "url": "https://t.co/VvvjD04ZYa"
+              },
+              {
+                "display_url": "liruifengv.com",
+                "end": 133,
+                "expanded_url": "https://liruifengv.com",
+                "start": 110,
+                "url": "https://t.co/43VEYxs4fJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "liruifengv.com",
+                "end": 23,
+                "expanded_url": "https://liruifengv.com",
+                "start": 0,
+                "url": "https://t.co/43VEYxs4fJ"
+              }
+            ]
+          }
+        },
+        "id": "823092277090209793",
+        "name": "liruifengv",
+        "pinned_tweet_id": "1967552058887905315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575140014912000001/pMRGEcaN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4159,
+          "following_count": 1334,
+          "like_count": 6153,
+          "listed_count": 48,
+          "media_count": 392,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/43VEYxs4fJ",
+        "username": "liruifengv",
+        "verified": true
+      }
+    ]
+  }
+}

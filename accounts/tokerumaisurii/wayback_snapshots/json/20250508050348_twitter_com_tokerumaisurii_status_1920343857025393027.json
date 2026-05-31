@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      }
+    ],
+    "conversation_id": "1920343857025393027",
+    "created_at": "2025-05-08T05:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T06:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920343857025393027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maimai_officia…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/maimai_official/status/1920313353076895936",
+          "start": 8,
+          "url": "https://t.co/XkauHGCes7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920343857025393027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920313353076895936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谱师龙.jpg https://t.co/XkauHGCes7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1920313296483143680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqZSxNZWUAAyrAc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "1920343857025393027",
+        "created_at": "2025-05-08T05:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T06:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920343857025393027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maimai_officia…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/maimai_official/status/1920313353076895936",
+              "start": 8,
+              "url": "https://t.co/XkauHGCes7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920343857025393027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920313353076895936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谱师龙.jpg https://t.co/XkauHGCes7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920313296483143680"
+          ]
+        },
+        "author_id": "1001107099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "1920313353076895936",
+        "created_at": "2025-05-08T03:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T04:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920313353076895936"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "niconico",
+              "probability": 0.5145,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "宴譜面",
+              "probability": 0.5532,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "5/9(金)「ドラゴンちほー4」オープン！さらに、「niconico＆ボーカロイド™」に新曲、宴譜面の追加も！",
+              "display_url": "info-maimai.sega.jp/6948/",
+              "end": 123,
+              "expanded_url": "https://info-maimai.sega.jp/6948/",
+              "images": [
+                {
+                  "height": 281,
+                  "url": "https://pbs.twimg.com/news_img/1920313266406088704/CIFPTKRg?format=png&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1920313266406088704/CIFPTKRg?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "5/9(金)「ドラゴンちほー4」オープン！さらに、「niconico＆ボーカロイド™」に新曲、宴譜面の追加も！",
+              "unwound_url": "https://info-maimai.sega.jp/6948/",
+              "url": "https://t.co/59G8nl7FhK"
+            },
+            {
+              "display_url": "pic.x.com/xaZdZcaxva",
+              "end": 147,
+              "expanded_url": "https://x.com/maimai_official/status/1920313353076895936/photo/1",
+              "media_key": "3_1920313296483143680",
+              "start": 124,
+              "url": "https://t.co/xaZdZcaxva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920313353076895936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 187764,
+          "like_count": 3993,
+          "quote_count": 506,
+          "reply_count": 14,
+          "retweet_count": 1664
+        },
+        "reply_settings": "everyone",
+        "text": "【5/9(金)「niconico」楽曲、「宴譜面」追加！】\n\n「￣￣￣￣￣￣￣￣￣￣￣￣￣￣⏋\n  |　　好きな惣菜発表ドラゴン　　＞　🐉\n ⎿＿＿＿＿＿＿＿＿＿＿＿＿＿＿⏌\n\n⬇️詳しくはコチラ！\nhttps://t.co/59G8nl7FhK https://t.co/xaZdZcaxva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 144,
+          "like_count": 10694,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 2094
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "location": "セガ",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "1920313081818984676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165880,
+          "following_count": 26,
+          "like_count": 127,
+          "listed_count": 1378,
+          "media_count": 1211,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true
+      }
+    ]
+  }
+}

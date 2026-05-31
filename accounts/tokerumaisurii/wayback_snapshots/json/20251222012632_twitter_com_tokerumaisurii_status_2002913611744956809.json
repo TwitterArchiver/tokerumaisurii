@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2002887604123906100",
+    "created_at": "2025-12-22T01:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T02:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002913611744956809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002913611744956809",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002887604123906100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan 太真实了，我就每天每天纠结自己要吃什么和怎么吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2002887604123906100",
+        "created_at": "2025-12-22T01:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002913611744956809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002913611744956809",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002887604123906100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan 太真实了，我就每天每天纠结自己要吃什么和怎么吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2002887604123906100",
+        "created_at": "2025-12-21T23:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T00:42:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002887318219411923",
+          "2002887604123906100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "紫云的碎碎念"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002887604123906100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "紫云的碎碎念"
+              }
+            ]
+          },
+          "text": "#紫云的碎碎念\n\n自从跑路到北美以后，吃饭就成了老大难问题。\n\nPhD 每个月的工资捉襟见肘，很难支持顿顿吃食堂或外卖，而且这些东西也谈不上好吃。\n\n于是一个核心问题出现了：\n如何解一个约束优化问题，在保证口味不低于某个阈值、营养不低于某个阈值、价格不高于某个阈值的前提下，最小化做饭时间？\n\n这是一个非常 non-trivial 的问题，以下是一些个人的 intuition：\n\n1. 每周大致规划好要吃什么，比如只做 2–3 次饭，每次做完分装，放冰箱吃 2–3 天。周末再下馆子或点外卖改善一下生活。\n\n2. 尽量减少对“鲜菜”的依赖，多用预切菜、预配菜，避免原料过期，也最大化减少洗菜切菜带来的时间损耗。\n\n3. 一旦开发出一套可行的菜品体系，就需要记录下来，并保证可复现。\n\n4. 一些便宜但不太健康的外卖（比如达美乐、肯德基），可以偶尔作为不想做饭时的替代方案。点一次吃很多顿确实很划算，但高糖高油，如果在乎自己美少女的身材还是要小心（\n\n5. 多考虑一些没有任何技术含量的「公式化」菜品，比如火锅：一个锅底涮两天，每次随便加点肉、菜和面条。\n\n以后有机会可以再展开讲讲每道「公式化」菜的具体做法：如何只做一次饭，保证三天不饿，同时把维生素和蛋白质补齐。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 98,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#紫云的碎碎念\n\n自从跑路到北美以后，吃饭就成了老大难问题。\n\nPhD 每个月的工资捉襟见肘，很难支持顿顿吃食堂或外卖，而且这些东西也谈不上好吃。\n\n于是一个核心问题出现了：\n如何解一个约束优化问题，在保证口味不低于某个阈值、营养不低于某个阈值、价格不高于某个阈值的前提下，最小化做饭时间？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 249,
+          "like_count": 68882,
+          "listed_count": 7,
+          "media_count": 872,
+          "tweet_count": 13011
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 美少女点赞bot | 北美菜校ECE PhD Candidate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 292,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

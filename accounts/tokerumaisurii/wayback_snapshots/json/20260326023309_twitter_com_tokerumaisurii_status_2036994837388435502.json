@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2036989127661441253",
+    "created_at": "2026-03-26T02:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T03:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036994837388435502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036994837388435502",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036989127661441253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请不要太当真，文件和路径确实是Apple放的，不是我编的，但没人能保证这两条路径到底指的是什么。\n这是假药，也是我的一厢情愿——可我确实特别希望这个愿望成真呢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2036989122623987712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETW0IlWYAAaKH-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2036989127661441253",
+        "created_at": "2026-03-26T02:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036994837388435502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036994837388435502",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036989127661441253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请不要太当真，文件和路径确实是Apple放的，不是我编的，但没人能保证这两条路径到底指的是什么。\n这是假药，也是我的一厢情愿——可我确实特别希望这个愿望成真呢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036989122623987712"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2036989127661441253",
+        "created_at": "2026-03-26T02:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036989127661441253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lisyvxrg3J",
+              "end": 211,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2036989127661441253/photo/1",
+              "media_key": "3_2036989122623987712",
+              "start": 188,
+              "url": "https://t.co/lisyvxrg3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036989127661441253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我押macOS 27作为苹果专注于底层优化的一代，会推出自家的包管理器/包管理接口，现在留的PATH就是将来要用的东西。一个`/opt/pkg/env/active/bin`，一个`/opt/pmk/env/global/bin`，我认为前者是用户侧的包管理器，后者是更底层的Package Management Kit，而且从active来说很可能像Nix有滚动配置文件。 https://t.co/lisyvxrg3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 294,
+          "like_count": 91534,
+          "listed_count": 8,
+          "media_count": 1161,
+          "tweet_count": 16901
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

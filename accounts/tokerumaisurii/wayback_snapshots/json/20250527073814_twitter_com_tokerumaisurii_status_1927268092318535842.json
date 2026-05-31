@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1926449374977982919",
+    "created_at": "2025-05-27T07:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T08:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927268092318535842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "isaactan8964"
+        },
+        {
+          "end": 22,
+          "id": "1868205822511288320",
+          "start": 14,
+          "username": "VicoOci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927268092318535842",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927267998630392026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaactan8964 @VicoOci 不知道）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1927267998630392026].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1927267998630392026",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1927267998630392026"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1926449374977982919",
+        "created_at": "2025-05-27T07:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927268092318535842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "isaactan8964"
+            },
+            {
+              "end": 22,
+              "id": "1868205822511288320",
+              "start": 14,
+              "username": "VicoOci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927268092318535842",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927267998630392026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaactan8964 @VicoOci 不知道）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 153,
+          "like_count": 15949,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 2836
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "🥺❤️@VicoOci｜不过陌生人qqqxx｜我的互fo都是很好很好的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "VicoOci"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "把郁文跟vico拍给我再睡",
+        "pinned_tweet_id": "1926657048831254945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924858623592951808/OIbCF7ja_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 137,
+          "like_count": 4002,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1723
+        },
+        "username": "isaactan8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "❤️🥺@isaactan8964 ｜可爱的☺️@Lmao_Quien 妹妹@HyotoChandesuyo 闺蜜@freequan2025 @5mRtist 好厚米@kikyo4000 @LightlyXiaoLu99 @muska56368 @svaghglm @MOLeren198964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "freequan2025"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "5mRtist"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "muska56368"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "svaghglm"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "MOLeren198964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "距离2.50km",
+        "name": "vico_oci",
+        "pinned_tweet_id": "1926609676637991303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924857681665523715/uRGVu7Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 255,
+          "like_count": 9977,
+          "listed_count": 6,
+          "media_count": 144,
+          "tweet_count": 3825
+        },
+        "username": "VicoOci",
+        "verified": false
+      }
+    ]
+  }
+}

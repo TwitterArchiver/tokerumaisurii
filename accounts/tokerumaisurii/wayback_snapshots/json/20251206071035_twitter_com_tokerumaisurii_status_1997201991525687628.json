@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1996980767369711760",
+    "created_at": "2025-12-06T07:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T08:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997201991525687628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1060114903770353664",
+          "start": 0,
+          "username": "erik5187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997201991525687628",
+    "in_reply_to_user_id": "1060114903770353664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996980767369711760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erik5187 去做，一定要做……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1996980767369711760",
+        "created_at": "2025-12-06T07:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997201991525687628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1060114903770353664",
+              "start": 0,
+              "username": "erik5187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997201991525687628",
+        "in_reply_to_user_id": "1060114903770353664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996980767369711760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erik5187 去做，一定要做……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060114903770353664",
+        "conversation_id": "1996980767369711760",
+        "created_at": "2025-12-05T16:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996980767369711760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996980767369711760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三年前我因为ADHD，放弃了数学。\n但现在，我又阴差阳错的获得了一个去做数理逻辑/tcs的机会。\n这次会赢吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 239,
+          "like_count": 64328,
+          "listed_count": 7,
+          "media_count": 804,
+          "tweet_count": 12117
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T10:21:03.000Z",
+        "description": "There is no story\n不懂数学，不会魔法，不是猫猫\n在数理逻辑与复杂度的交叉处\n曾经：some trivial algebraic geometry，cat theory\nADHD/疑似ASD\n学术号（已弃用）@liesbg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "liesbg"
+              }
+            ]
+          }
+        },
+        "id": "1060114903770353664",
+        "location": "topos",
+        "name": "炒面面包",
+        "pinned_tweet_id": "1567836245455437825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529885573132865536/eLIGnu_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 88,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 747
+        },
+        "username": "erik5187",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Join a candid discussion on how agentic AI is transforming business operations. Learn from Amazon’s real-world experience running global ops with agents, explore new agentic solutions from AWS, and hear directly from AWS and OpenAI leaders on what this means for business and technology.",
+          "id": "2046284038357368832",
+          "name": "What's Next with AWS"
+        }
+      }
+    ],
+    "conversation_id": "2049764665274818802",
+    "created_at": "2026-04-30T17:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049899632226955410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1923516127562563584",
+          "start": 0,
+          "username": "penguinmomentjp"
+        },
+        {
+          "end": 26,
+          "id": "136969113",
+          "start": 17,
+          "username": "musanoto"
+        },
+        {
+          "end": 41,
+          "id": "1067388797426393088",
+          "start": 27,
+          "username": "Ceceliasama23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049899632226955410",
+    "in_reply_to_user_id": "1923516127562563584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049868722152812734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penguinmomentjp @musanoto @Ceceliasama23 没有，世界上99%以上的人（尤其是个人博客）不需要考虑这些。而且你用Vercel的话，你跟AWS之间应该没有直接的关系，你只需要处理跟Vercel之间的关系；唯一需要注意的点（可以用AI审一下用户协议）是，例如网站突然火了流量很大，超出免费套餐，那Vercel行为是套餐内尽力服务，还是全数服务都记你账上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join a candid discussion on how agentic AI is transforming business operations. Learn from Amazon’s real-world experience running global ops with agents, explore new agentic solutions from AWS, and hear directly from AWS and OpenAI leaders on what this means for business and technology.",
+              "id": "2046284038357368832",
+              "name": "What's Next with AWS"
+            }
+          }
+        ],
+        "conversation_id": "2049764665274818802",
+        "created_at": "2026-04-30T17:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049899632226955410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923516127562563584",
+              "start": 0,
+              "username": "penguinmomentjp"
+            },
+            {
+              "end": 26,
+              "id": "136969113",
+              "start": 17,
+              "username": "musanoto"
+            },
+            {
+              "end": 41,
+              "id": "1067388797426393088",
+              "start": 27,
+              "username": "Ceceliasama23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049899632226955410",
+        "in_reply_to_user_id": "1923516127562563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049868722152812734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penguinmomentjp @musanoto @Ceceliasama23 没有，世界上99%以上的人（尤其是个人博客）不需要考虑这些。而且你用Vercel的话，你跟AWS之间应该没有直接的关系，你只需要处理跟Vercel之间的关系；唯一需要注意的点（可以用AI审一下用户协议）是，例如网站突然火了流量很大，超出免费套餐，那Vercel行为是套餐内尽力服务，还是全数服务都记你账上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923516127562563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join a candid discussion on how agentic AI is transforming business operations. Learn from Amazon’s real-world experience running global ops with agents, explore new agentic solutions from AWS, and hear directly from AWS and OpenAI leaders on what this means for business and technology.",
+              "id": "2046284038357368832",
+              "name": "What's Next with AWS"
+            }
+          }
+        ],
+        "conversation_id": "2049764665274818802",
+        "created_at": "2026-04-30T15:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049868722152812734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "136969113",
+              "start": 0,
+              "username": "musanoto"
+            },
+            {
+              "end": 24,
+              "id": "1067388797426393088",
+              "start": 10,
+              "username": "Ceceliasama23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049868722152812734",
+        "in_reply_to_user_id": "136969113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049866272675144142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musanoto @Ceceliasama23 所以AWS不能放吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 311,
+          "like_count": 102614,
+          "listed_count": 9,
+          "media_count": 1230,
+          "tweet_count": 18827
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-16T23:09:30.000Z",
+        "description": "ポンコツ\nうちの🐧:@POI74103174",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "POI74103174"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp",
+                "start": 0,
+                "url": "https://t.co/W8PzPw1DcV"
+              }
+            ]
+          }
+        },
+        "id": "1923516127562563584",
+        "name": "ﾌﾗｯｼｭｽﾊﾟｰｸｽ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041656571034488832/9jzbafnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 49,
+          "like_count": 59,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/W8PzPw1DcV",
+        "username": "penguinmomentjp",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-25T12:02:57.000Z",
+        "description": "Follow ≠ endorsement. 已送中，两元买的老账号。JLPTのN5持ち。アタマがダウングレード中。アバター オーヴァーチュア。 ㄈㄟㄊㄞˊㄨㄢㄔㄨㄕㄣ。一生黑：眼镜市场、佐川快递、日本邮便、三井住友海上保险、Yahoo Japan、ヤマダ電機。虚空化应该就是没上来。",
+        "id": "136969113",
+        "location": "Outer Space",
+        "name": "musanoto",
+        "pinned_tweet_id": "1740309097143324849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846581102401732608/PBT8HxHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 62,
+          "like_count": 4928,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2574
+        },
+        "username": "musanoto",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-27T12:04:55.000Z",
+        "description": "大食い/旅行",
+        "id": "1067388797426393088",
+        "location": "サモナーズリフト/ ソラリス",
+        "name": "セセリア",
+        "pinned_tweet_id": "1695462513499103372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960005482124656640/XoBeYAv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4768,
+          "following_count": 3042,
+          "like_count": 261264,
+          "listed_count": 22,
+          "media_count": 4903,
+          "tweet_count": 83553
+        },
+        "username": "Ceceliasama23",
+        "verified": true
+      }
+    ]
+  }
+}

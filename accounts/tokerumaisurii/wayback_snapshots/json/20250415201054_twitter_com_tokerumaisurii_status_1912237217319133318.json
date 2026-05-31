@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1912237161467850752"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1912237217319133318",
+    "created_at": "2025-04-15T20:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T21:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912237217319133318"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 66,
+          "tag": "pixiv"
+        }
+      ],
+      "urls": [
+        {
+          "description": "无题 by Chifuyu",
+          "display_url": "pixiv.net/artworks/12918…",
+          "end": 96,
+          "expanded_url": "https://www.pixiv.net/artworks/129186071",
+          "start": 73,
+          "status": 200,
+          "title": "无题",
+          "unwound_url": "https://www.pixiv.net/artworks/129186071",
+          "url": "https://t.co/bbuCNjn7Fe"
+        },
+        {
+          "display_url": "pic.x.com/k3L9uomPDN",
+          "end": 120,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1912237217319133318/video/1",
+          "media_key": "13_1912237161467850752",
+          "start": 97,
+          "url": "https://t.co/k3L9uomPDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912237217319133318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜，设了桌面和锁屏壁纸可以看到绝美的帕秋莉变化，原图是pixiv上的AI绘画师Chifuyu的作品）\n\n无题 | Chifuyu #pixiv https://t.co/bbuCNjn7Fe https://t.co/k3L9uomPDN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4846,
+        "height": 1080,
+        "media_key": "13_1912237161467850752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912237161467850752/img/-13p0eVwBzD6PwfH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912237161467850752/vid/avc1/388x270/WFMY1z2vKh0vVC9F.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912237161467850752/vid/avc1/1036x720/VQp_t3qXkeYh8Dvr.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912237161467850752/vid/avc1/518x360/sjG_g3CxXPNZVIkh.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912237161467850752/pl/ohqI9hrH_XLiEYPv.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912237161467850752/vid/avc1/1554x1080/Qt-YlWtXmJhR5G2R.mp4?tag=16"
+          }
+        ],
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912237161467850752"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1912237217319133318",
+        "created_at": "2025-04-15T20:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T21:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912237217319133318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 66,
+              "tag": "pixiv"
+            }
+          ],
+          "urls": [
+            {
+              "description": "无题 by Chifuyu",
+              "display_url": "pixiv.net/artworks/12918…",
+              "end": 96,
+              "expanded_url": "https://www.pixiv.net/artworks/129186071",
+              "start": 73,
+              "status": 200,
+              "title": "无题",
+              "unwound_url": "https://www.pixiv.net/artworks/129186071",
+              "url": "https://t.co/bbuCNjn7Fe"
+            },
+            {
+              "display_url": "pic.x.com/k3L9uomPDN",
+              "end": 120,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1912237217319133318/video/1",
+              "media_key": "13_1912237161467850752",
+              "start": 97,
+              "url": "https://t.co/k3L9uomPDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912237217319133318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜，设了桌面和锁屏壁纸可以看到绝美的帕秋莉变化，原图是pixiv上的AI绘画师Chifuyu的作品）\n\n无题 | Chifuyu #pixiv https://t.co/bbuCNjn7Fe https://t.co/k3L9uomPDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 127,
+          "like_count": 5816,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1347
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

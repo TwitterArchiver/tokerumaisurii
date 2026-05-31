@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1947218054292873722",
+    "created_at": "2025-07-21T08:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T09:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947219328899899771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "fuckpregabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947219328899899771",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947218054292873722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin 想起那个听党指挥作风优良能打胜仗的笑话了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1947218054292873722].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947218054292873722",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1947218054292873722"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1947218054292873722",
+        "created_at": "2025-07-21T08:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T09:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947219328899899771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947219328899899771",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947218054292873722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin 想起那个听党指挥作风优良能打胜仗的笑话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 189,
+          "like_count": 32918,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 5873
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "❤️@VicoOci｜🫂@HyotoChandesuyo @yangaaa111｜👾@iTZQing @Lmao_Quien @Cheese_Ghostfox @genya1976 @Chenuden @heherrrrabbit1 @nyamuraTT @EarlofFidonisi @heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "VicoOci"
+              },
+              {
+                "end": 28,
+                "start": 12,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yangaaa111"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "username": "iTZQing"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "genya1976"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Chenuden"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "heherrrrabbit1"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "nyamuraTT"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "EarlofFidonisi"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan",
+                "end": 23,
+                "expanded_url": "https://t.me/IokbunTan",
+                "start": 0,
+                "url": "https://t.co/8W9EYbomIs"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "累到想要一直睡睡睡睡睡",
+        "pinned_tweet_id": "1944390647945023857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945987123372281857/5bdUlOCQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 377,
+          "like_count": 13031,
+          "listed_count": 1,
+          "media_count": 559,
+          "tweet_count": 5463
+        },
+        "url": "https://t.co/8W9EYbomIs",
+        "username": "fuckpregabalin",
+        "verified": false
+      }
+    ]
+  }
+}

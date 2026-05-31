@@ -1,0 +1,690 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041437724",
+          "name": "Apple - Apple Pay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237094778463858688",
+          "name": "Fintech"
+        }
+      }
+    ],
+    "conversation_id": "2053739963951575114",
+    "created_at": "2026-05-12T16:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054245154135908432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "940403420766150656",
+          "start": 0,
+          "username": "Necokeine"
+        },
+        {
+          "end": 22,
+          "id": "1753293214826848256",
+          "start": 11,
+          "username": "tatanakots"
+        },
+        {
+          "end": 35,
+          "id": "1397126849717620742",
+          "start": 23,
+          "username": "sanlivenews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "快科技10月5日消息，对于使用iPhone的用户来说，很快也能享受到地震预警信息提示了。近日有公众向中国地震局询问：地震局能否在地震系统上制作iOS预警应用呢？以及小区广播功能？另外能否推进在地震预警上的0级短信覆盖呢？对此，地震局监测司回复：中国地震局高度重",
+          "display_url": "finance.sina.cn/tech/2025-10-0…",
+          "end": 204,
+          "expanded_url": "https://finance.sina.cn/tech/2025-10-05/detail-infsvsep3459125.d.html?vt=4",
+          "start": 181,
+          "status": 200,
+          "title": "果粉终于等到！中国地震局：推进地震预警信息接入苹果iOS系统功能",
+          "unwound_url": "https://finance.sina.cn/tech/2025-10-05/detail-infsvsep3459125.d.html?vt=4",
+          "url": "https://t.co/ctrHVCpoyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054245154135908432",
+    "in_reply_to_user_id": "940403420766150656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054228036439117880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Necokeine @tatanakots @sanlivenews 其实“iOS的地震预警”不是一套Apple Pay这样苹果控制的系统，其实就是小区广播Cell Broadcast那套规范，是国内很长一段时间停用了这个功能，而且中国（企业）其实毫无疑问是推出小区广播的3GPP的重要成员。而国行安卓的地震提醒普遍靠系统预装应用实现，没有用这个标准接口。\n\nhttps://t.co/ctrHVCpoyb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2053739963951575114",
+        "created_at": "2026-05-12T16:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054245154135908432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "940403420766150656",
+              "start": 0,
+              "username": "Necokeine"
+            },
+            {
+              "end": 22,
+              "id": "1753293214826848256",
+              "start": 11,
+              "username": "tatanakots"
+            },
+            {
+              "end": 35,
+              "id": "1397126849717620742",
+              "start": 23,
+              "username": "sanlivenews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "快科技10月5日消息，对于使用iPhone的用户来说，很快也能享受到地震预警信息提示了。近日有公众向中国地震局询问：地震局能否在地震系统上制作iOS预警应用呢？以及小区广播功能？另外能否推进在地震预警上的0级短信覆盖呢？对此，地震局监测司回复：中国地震局高度重",
+              "display_url": "finance.sina.cn/tech/2025-10-0…",
+              "end": 204,
+              "expanded_url": "https://finance.sina.cn/tech/2025-10-05/detail-infsvsep3459125.d.html?vt=4",
+              "start": 181,
+              "status": 200,
+              "title": "果粉终于等到！中国地震局：推进地震预警信息接入苹果iOS系统功能",
+              "unwound_url": "https://finance.sina.cn/tech/2025-10-05/detail-infsvsep3459125.d.html?vt=4",
+              "url": "https://t.co/ctrHVCpoyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054245154135908432",
+        "in_reply_to_user_id": "940403420766150656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054228036439117880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Necokeine @tatanakots @sanlivenews 其实“iOS的地震预警”不是一套Apple Pay这样苹果控制的系统，其实就是小区广播Cell Broadcast那套规范，是国内很长一段时间停用了这个功能，而且中国（企业）其实毫无疑问是推出小区广播的3GPP的重要成员。而国行安卓的地震提醒普遍靠系统预装应用实现，没有用这个标准接口。\n\nhttps://t.co/ctrHVCpoyb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "940403420766150656",
+        "conversation_id": "2053739963951575114",
+        "created_at": "2026-05-12T15:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054228036439117880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            },
+            {
+              "end": 27,
+              "id": "1753293214826848256",
+              "start": 16,
+              "username": "tatanakots"
+            },
+            {
+              "end": 40,
+              "id": "1397126849717620742",
+              "start": 28,
+              "username": "sanlivenews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054228036439117880",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054101923419046147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii @tatanakots @sanlivenews 捉虫捉得好。因为刚开始对方在表示说“兼容”很容易，但是其实他的兼容的意思是接入一套系统，而不是兼容这个规范，所以我用这个方式反驳了。\n你这个差别其实就是他最开始使用兼容时候遗留的问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14870 弱虫モンブラン AP+ アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 120,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 97,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 314,
+          "like_count": 105789,
+          "listed_count": 11,
+          "media_count": 1262,
+          "tweet_count": 19461
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-12T02:10:22.000Z",
+        "description": "Go, Dream, Deliver\n我会中文  Can speak English  少しの日本语も話しできます\n到处出现，到处消失。\n旅が大好き、色々な場に行きたいです。\n三观比较硬，立场偏左\nPowtain 开发者 https://t.co/sDGm3BqvGH\nTelegram: https://t.co/xaFd1fJPBg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "powtain.com",
+                "end": 134,
+                "expanded_url": "http://powtain.com",
+                "start": 111,
+                "url": "https://t.co/sDGm3BqvGH"
+              },
+              {
+                "display_url": "t.me/necokeine",
+                "end": 168,
+                "expanded_url": "https://t.me/necokeine",
+                "start": 145,
+                "url": "https://t.co/xaFd1fJPBg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.powtain.com/home",
+                "end": 23,
+                "expanded_url": "http://web.powtain.com/home",
+                "start": 0,
+                "url": "https://t.co/yf7pbmoHU8"
+              }
+            ]
+          }
+        },
+        "id": "940403420766150656",
+        "location": "上海",
+        "name": "知识和历史的半兽",
+        "pinned_tweet_id": "1943363060758122572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501095595838439427/ANgAmBua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 620,
+          "like_count": 15819,
+          "listed_count": 6,
+          "media_count": 66,
+          "tweet_count": 8415
+        },
+        "url": "https://t.co/yf7pbmoHU8",
+        "username": "Necokeine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3776,
+          "following_count": 411,
+          "like_count": 28813,
+          "listed_count": 7,
+          "media_count": 1717,
+          "tweet_count": 12745
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T09:46:27.000Z",
+        "description": "全球最新政經脈動、最實用的生活資訊、偶像明星最新話題，快追蹤《三笠新聞臺》讓你搶先知道！",
+        "id": "1397126849717620742",
+        "name": "三笠新闻台",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193243488530432/Rkt-_5___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 162,
+          "like_count": 10,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 2167
+        },
+        "username": "sanlivenews",
+        "verified": false
+      }
+    ]
+  }
+}

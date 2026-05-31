@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1942993297078886434",
+    "created_at": "2025-07-09T17:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T18:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942995763404910962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1512616303512604674",
+          "start": 0,
+          "username": "CeYi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942995763404910962",
+    "in_reply_to_user_id": "1512616303512604674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942994793094877529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CeYi77 但我刚插上的时候是一个写了树莓派系统镜像的MBR分区状态，苹果只能读出bootfs剩下的都是已占用空间，这种情况下为什么会有几分钟的I/O操作，难道在建Spotlight索引而且一点点东西建了这么久吗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1942993297078886434",
+        "created_at": "2025-07-09T17:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942995763404910962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1512616303512604674",
+              "start": 0,
+              "username": "CeYi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942995763404910962",
+        "in_reply_to_user_id": "1512616303512604674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942994793094877529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CeYi77 但我刚插上的时候是一个写了树莓派系统镜像的MBR分区状态，苹果只能读出bootfs剩下的都是已占用空间，这种情况下为什么会有几分钟的I/O操作，难道在建Spotlight索引而且一点点东西建了这么久吗……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512616303512604674",
+        "conversation_id": "1942993297078886434",
+        "created_at": "2025-07-09T17:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942994793094877529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942994793094877529",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942993297078886434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 是I/O被抢完了，时好时坏是设备本身的速度比 USB 的速度慢，所以 USB 会空出时间来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 186,
+          "like_count": 29859,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 5265
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T02:20:19.000Z",
+        "description": "Sleep\nSleep\nSleep\nCyan & Pink.",
+        "id": "1512616303512604674",
+        "name": "Ca Yi",
+        "pinned_tweet_id": "1537672070372392960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526211455816957952/gK7PYmii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 98,
+          "like_count": 6685,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1325
+        },
+        "username": "CeYi77",
+        "verified": false
+      }
+    ]
+  }
+}

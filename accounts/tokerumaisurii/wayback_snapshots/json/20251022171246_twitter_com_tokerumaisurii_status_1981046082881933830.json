@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1980718875454157231",
+    "created_at": "2025-10-22T17:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981046082881933830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3772102818",
+          "start": 0,
+          "username": "AlexYang965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981046082881933830",
+    "in_reply_to_user_id": "3772102818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980718875454157231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexYang965 也不至于，典型例子之没学过空调设计和修理一样可以说说自己的空调好不好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1980718875454157231",
+        "created_at": "2025-10-22T17:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981046082881933830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3772102818",
+              "start": 0,
+              "username": "AlexYang965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981046082881933830",
+        "in_reply_to_user_id": "3772102818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980718875454157231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexYang965 也不至于，典型例子之没学过空调设计和修理一样可以说说自己的空调好不好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3772102818",
+        "conversation_id": "1980718875454157231",
+        "created_at": "2025-10-21T19:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T20:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980718875454157231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980718875454157231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我没学过性别研究所以我不发性别内容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 228,
+          "like_count": 56503,
+          "listed_count": 6,
+          "media_count": 725,
+          "tweet_count": 10604
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-03T17:18:45.000Z",
+        "description": "ENTJ 8w7 278 (sp/sx)/cs bachelor/psychoanalysis/shadow @AlexYang645 /lover @Lys_Mediterrane /buy me coffee tenshi9096@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "AlexYang645"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "Lys_Mediterrane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alexGamingChair",
+                "end": 23,
+                "expanded_url": "https://t.me/alexGamingChair",
+                "start": 0,
+                "url": "https://t.co/A6KzNwsYk4"
+              }
+            ]
+          }
+        },
+        "id": "3772102818",
+        "location": "British Columbia, Canada",
+        "name": "Alex杨",
+        "pinned_tweet_id": "1717626493931856295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1368602571720466439/HV9iruUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 4809,
+          "like_count": 98365,
+          "listed_count": 15,
+          "media_count": 4862,
+          "tweet_count": 24573
+        },
+        "url": "https://t.co/A6KzNwsYk4",
+        "username": "AlexYang965",
+        "verified": false
+      }
+    ]
+  }
+}

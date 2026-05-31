@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2017642852579201087",
+    "created_at": "2026-02-03T21:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T22:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018804685357109683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962556266196418560",
+          "start": 0,
+          "username": "HCl_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018804685357109683",
+    "in_reply_to_user_id": "1962556266196418560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017642852579201087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCl_Chen return会退出函数而不只是循环，所以return a的位置应该写break，或者至少是continue。但话说回来，如果Python也有隐式转换（我不记得有没有），那么0转换为False，非零的数转换为True，你的代码又刚好是过的。\n\n编程里call/return是一对，能return from的一定能被call，for while等等不能，函数才能。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2017642844698107904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAbejHW4AAuiUM.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2017642850045857792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAbe3CXEAAlezj.jpg",
+        "width": 819
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017642842747719681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAbeb2WUAEbhbT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017642843880230912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAbegEXEAA_Hz3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2017642852579201087",
+        "created_at": "2026-02-03T21:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T22:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018804685357109683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962556266196418560",
+              "start": 0,
+              "username": "HCl_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018804685357109683",
+        "in_reply_to_user_id": "1962556266196418560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017642852579201087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCl_Chen return会退出函数而不只是循环，所以return a的位置应该写break，或者至少是continue。但话说回来，如果Python也有隐式转换（我不记得有没有），那么0转换为False，非零的数转换为True，你的代码又刚好是过的。\n\n编程里call/return是一对，能return from的一定能被call，for while等等不能，函数才能。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017642844698107904",
+            "3_2017642850045857792",
+            "3_2017642842747719681",
+            "3_2017642843880230912"
+          ]
+        },
+        "author_id": "1962556266196418560",
+        "conversation_id": "2017642852579201087",
+        "created_at": "2026-01-31T16:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017642852579201087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "水色系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WW4DocAA9V",
+              "end": 55,
+              "expanded_url": "https://x.com/HCl_Chen/status/2017642852579201087/photo/1",
+              "media_key": "3_2017642844698107904",
+              "start": 32,
+              "url": "https://t.co/WW4DocAA9V"
+            },
+            {
+              "display_url": "pic.x.com/WW4DocAA9V",
+              "end": 55,
+              "expanded_url": "https://x.com/HCl_Chen/status/2017642852579201087/photo/1",
+              "media_key": "3_2017642850045857792",
+              "start": 32,
+              "url": "https://t.co/WW4DocAA9V"
+            },
+            {
+              "display_url": "pic.x.com/WW4DocAA9V",
+              "end": 55,
+              "expanded_url": "https://x.com/HCl_Chen/status/2017642852579201087/photo/1",
+              "media_key": "3_2017642842747719681",
+              "start": 32,
+              "url": "https://t.co/WW4DocAA9V"
+            },
+            {
+              "display_url": "pic.x.com/WW4DocAA9V",
+              "end": 55,
+              "expanded_url": "https://x.com/HCl_Chen/status/2017642852579201087/photo/1",
+              "media_key": "3_2017642843880230912",
+              "start": 32,
+              "url": "https://t.co/WW4DocAA9V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017642852579201087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 254,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃品鉴药娘制服并完成本周编程作业 #可爱的男孩子 #水色系 https://t.co/WW4DocAA9V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 262,
+          "like_count": 75014,
+          "listed_count": 7,
+          "media_count": 1002,
+          "tweet_count": 14407
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T16:41:00.000Z",
+        "description": "是稀盐酸\nA cup of 0.1M HCl(aq)\n前化竞人，BBO，BCHO，CCHO老登\n没闯出名堂的家伙\nUofTSG G1 LifeSci 在读\n好痛苦",
+        "id": "1962556266196418560",
+        "name": "HCl_HClO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629619783872521/Q3L3wRRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 86,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 217
+        },
+        "username": "HCl_Chen",
+        "verified": false
+      }
+    ]
+  }
+}

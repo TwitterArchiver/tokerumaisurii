@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2021502550810505726",
+    "created_at": "2026-02-11T19:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T20:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021666020218556681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1665435256130813952",
+          "start": 0,
+          "username": "Elans0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021666020218556681",
+    "in_reply_to_user_id": "1665435256130813952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021665329387376861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elans0g 如果能处理得好这个那也可以直接替换为正确的弯引号了。但是我觉得很难写，甚至会遇到大模型输出引号个数都不对导致错配，以及思考和普通输出现在都是delta增量发给客户端的了，要过程中匹配也是技术活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2021502550810505726",
+        "created_at": "2026-02-11T19:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021666020218556681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1665435256130813952",
+              "start": 0,
+              "username": "Elans0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021666020218556681",
+        "in_reply_to_user_id": "1665435256130813952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021665329387376861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elans0g 如果能处理得好这个那也可以直接替换为正确的弯引号了。但是我觉得很难写，甚至会遇到大模型输出引号个数都不对导致错配，以及思考和普通输出现在都是delta增量发给客户端的了，要过程中匹配也是技术活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665435256130813952",
+        "conversation_id": "2021502550810505726",
+        "created_at": "2026-02-11T19:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021665329387376861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021665329387376861",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021664899920015831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 如果前后引号不匹配，则将两边的引号匹配为中文直角格式（嵌套的情况下可能不太准确）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 262,
+          "like_count": 76116,
+          "listed_count": 6,
+          "media_count": 1029,
+          "tweet_count": 14663
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T19:08:15.000Z",
+        "description": "",
+        "id": "1665435256130813952",
+        "location": "IP location: Nanjing",
+        "name": "Henri fédrérique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665444448396881923/o23phKU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 295,
+          "like_count": 148831,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 8289
+        },
+        "username": "Elans0g",
+        "verified": false
+      }
+    ]
+  }
+}

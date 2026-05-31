@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1944090766365667587",
+    "created_at": "2025-07-15T02:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T03:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944954848375345236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689704132242980870",
+          "start": 0,
+          "username": "LuochancyOWO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1944685206931402893",
+          "start": 26,
+          "url": "https://t.co/Ur2LGVRXrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944954848375345236",
+    "in_reply_to_user_id": "1689704132242980870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944685206931402893",
+        "type": "quoted"
+      },
+      {
+        "id": "1944905816202731534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuochancyOWO 我最后发现好像是劫持🥹 https://t.co/Ur2LGVRXrM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1944090766365667587",
+        "created_at": "2025-07-15T02:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944954848375345236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689704132242980870",
+              "start": 0,
+              "username": "LuochancyOWO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1944685206931402893",
+              "start": 26,
+              "url": "https://t.co/Ur2LGVRXrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944954848375345236",
+        "in_reply_to_user_id": "1689704132242980870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944685206931402893",
+            "type": "quoted"
+          },
+          {
+            "id": "1944905816202731534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuochancyOWO 我最后发现好像是劫持🥹 https://t.co/Ur2LGVRXrM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1944685206931402893",
+        "created_at": "2025-07-14T09:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944685206931402893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1944094669987885415",
+              "start": 86,
+              "url": "https://t.co/UElapQrCEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944685206931402893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1488,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944094669987885415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿手机访问之后不是127.0.0.1了，而是会被劫持到一个提示说疑似诈骗可咨询0592-96110的页面，原来是被反诈部门劫持了，但是测IP网站到底为什么会这个待遇啊…… https://t.co/UElapQrCEC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689704132242980870",
+        "conversation_id": "1944090766365667587",
+        "created_at": "2025-07-14T23:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T00:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944905816202731534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944905816202731534",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944090766365667587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 我们厦门电信是这样的\n特别是猫拨号的时候\n换路由拨号然后DHCP的dns改8888或者223555基本上能解决60%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 187,
+          "like_count": 30956,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 5471
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T18:23:59.000Z",
+        "description": "🤔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luochancy.com",
+                "end": 23,
+                "expanded_url": "http://luochancy.com",
+                "start": 0,
+                "url": "https://t.co/LseLDmi9Iu"
+              }
+            ]
+          }
+        },
+        "id": "1689704132242980870",
+        "location": "一个不为人知的地方",
+        "name": "洛寒兮Luochancy",
+        "pinned_tweet_id": "1713698511844430018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724063864638275584/nJo1Y62G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1148,
+          "like_count": 2877,
+          "listed_count": 3,
+          "media_count": 684,
+          "tweet_count": 3704
+        },
+        "url": "https://t.co/LseLDmi9Iu",
+        "username": "LuochancyOWO",
+        "verified": false
+      }
+    ]
+  }
+}

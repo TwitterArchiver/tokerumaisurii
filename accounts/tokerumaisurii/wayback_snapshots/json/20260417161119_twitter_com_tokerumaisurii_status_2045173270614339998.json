@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1950590283391160372",
+    "created_at": "2026-04-17T16:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045173270614339998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1141010962444480512",
+          "start": 0,
+          "username": "aUXgGGn6TFk5zk5"
+        },
+        {
+          "end": 33,
+          "id": "1856322437144817667",
+          "start": 17,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045173270614339998",
+    "in_reply_to_user_id": "1141010962444480512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045162291361190228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aUXgGGn6TFk5zk5 @ChosekiNoraneko 记不得了，对我来说效果不显著"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ChosekiNoraneko].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ChosekiNoraneko",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ChosekiNoraneko"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1950590283391160372",
+        "created_at": "2026-04-17T16:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045173270614339998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1141010962444480512",
+              "start": 0,
+              "username": "aUXgGGn6TFk5zk5"
+            },
+            {
+              "end": 33,
+              "id": "1856322437144817667",
+              "start": 17,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045173270614339998",
+        "in_reply_to_user_id": "1141010962444480512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045162291361190228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aUXgGGn6TFk5zk5 @ChosekiNoraneko 记不得了，对我来说效果不显著"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141010962444480512",
+        "conversation_id": "1950590283391160372",
+        "created_at": "2026-04-17T15:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045162291361190228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            },
+            {
+              "end": 32,
+              "id": "1856322437144817667",
+              "start": 16,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045162291361190228",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045091384055521693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii @ChosekiNoraneko 14mg吃了最高一盒能瘦多少斤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 307,
+          "like_count": 100040,
+          "listed_count": 9,
+          "media_count": 1202,
+          "tweet_count": 18386
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-18T15:53:07.000Z",
+        "description": "你学过的每一样东西，你遭受的每一次苦难，都会在你一生中的某个时候派上用场。",
+        "id": "1141010962444480512",
+        "name": "小野子的远方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1180100848308736001/5T7K8d-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 226,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "username": "aUXgGGn6TFk5zk5",
+        "verified": false
+      }
+    ]
+  }
+}

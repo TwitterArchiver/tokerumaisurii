@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1981986575886987292",
+    "created_at": "2025-10-25T07:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T08:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981986575886987292"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "東方Project"
+        },
+        {
+          "end": 47,
+          "start": 26,
+          "tag": "InteractiveWallPaper"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596509000438161408",
+          "start": 3,
+          "username": "LancerKoi"
+        },
+        {
+          "end": 75,
+          "id": "1231696504005390338",
+          "start": 65,
+          "username": "gyonihara"
+        }
+      ],
+      "urls": [
+        {
+          "description": "File Sharing I just do the animation，Not my original work 私のオリジナル作品ではありません",
+          "display_url": "ko-fi.com/s/c4f159f754",
+          "end": 133,
+          "expanded_url": "https://ko-fi.com/s/c4f159f754",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1981732480022654976/ABVjHV8h?format=png&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1981732480022654976/ABVjHV8h?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 110,
+          "status": 200,
+          "title": "Copy of Interactive WallPaper File(Html) illustration：なま - LancerKoi🍀's Ko-fi Shop",
+          "unwound_url": "https://ko-fi.com/s/c4f159f754",
+          "url": "https://t.co/tgeYMJfCpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981986575886987292",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981732411227681009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LancerKoi: #東方Project #InteractiveWallPaper\nillustrations:なま(@gyonihara)  \npid:97906760,97906752\ndownload：https://t.co/tgeYMJfCpo\nTeste…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 1080,
+        "media_key": "13_1981615292120809472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981615292120809472/img/NUCPSzYjEN734hr9.jpg",
+        "public_metrics": {
+          "view_count": 6045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981615292120809472/vid/avc1/480x270/iKM_oJi3IDNhON3k.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981615292120809472/vid/avc1/640x360/2d9eYBNefgNBA0lJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981615292120809472/vid/avc1/1280x720/B8nOW1vuupimaReb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981615292120809472/pl/GLj_d-L23TyIERWZ.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1981986575886987292",
+        "created_at": "2025-10-25T07:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981986575886987292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "東方Project"
+            },
+            {
+              "end": 47,
+              "start": 26,
+              "tag": "InteractiveWallPaper"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596509000438161408",
+              "start": 3,
+              "username": "LancerKoi"
+            },
+            {
+              "end": 75,
+              "id": "1231696504005390338",
+              "start": 65,
+              "username": "gyonihara"
+            }
+          ],
+          "urls": [
+            {
+              "description": "File Sharing I just do the animation，Not my original work 私のオリジナル作品ではありません",
+              "display_url": "ko-fi.com/s/c4f159f754",
+              "end": 133,
+              "expanded_url": "https://ko-fi.com/s/c4f159f754",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1981732480022654976/ABVjHV8h?format=png&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981732480022654976/ABVjHV8h?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "Copy of Interactive WallPaper File(Html) illustration：なま - LancerKoi🍀's Ko-fi Shop",
+              "unwound_url": "https://ko-fi.com/s/c4f159f754",
+              "url": "https://t.co/tgeYMJfCpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981986575886987292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981732411227681009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LancerKoi: #東方Project #InteractiveWallPaper\nillustrations:なま(@gyonihara)  \npid:97906760,97906752\ndownload：https://t.co/tgeYMJfCpo\nTeste…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981615292120809472"
+          ]
+        },
+        "author_id": "1596509000438161408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1981732411227681009",
+        "created_at": "2025-10-24T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981732411227681009"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "InteractiveWallPaper",
+              "probability": 0.5235,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            },
+            {
+              "end": 32,
+              "start": 11,
+              "tag": "InteractiveWallPaper"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1231696504005390338",
+              "start": 50,
+              "username": "gyonihara"
+            }
+          ],
+          "urls": [
+            {
+              "description": "File Sharing I just do the animation，Not my original work 私のオリジナル作品ではありません",
+              "display_url": "ko-fi.com/s/c4f159f754",
+              "end": 118,
+              "expanded_url": "https://ko-fi.com/s/c4f159f754",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1981732480022654976/ABVjHV8h?format=png&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981732480022654976/ABVjHV8h?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "Copy of Interactive WallPaper File(Html) illustration：なま - LancerKoi🍀's Ko-fi Shop",
+              "unwound_url": "https://ko-fi.com/s/c4f159f754",
+              "url": "https://t.co/tgeYMJfCpo"
+            },
+            {
+              "display_url": "pic.x.com/gJB3Mdul2Z",
+              "end": 192,
+              "expanded_url": "https://x.com/LancerKoi/status/1981732411227681009/video/1",
+              "media_key": "13_1981615292120809472",
+              "start": 169,
+              "url": "https://t.co/gJB3Mdul2Z"
+            },
+            {
+              "display_url": "x.com/gyonihara/stat…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/gyonihara/status/1866122777193009565",
+              "start": 193,
+              "url": "https://t.co/bwHTsHVmqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981732411227681009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 19698,
+          "like_count": 1219,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866122777193009565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#東方Project #InteractiveWallPaper\nillustrations:なま(@gyonihara)  \npid:97906760,97906752\ndownload：https://t.co/tgeYMJfCpo\nTested the ability to display the computer's time https://t.co/gJB3Mdul2Z https://t.co/bwHTsHVmqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 232,
+          "like_count": 57882,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 10898
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T14:20:00.000Z",
+        "description": "♠Youtube：https://t.co/unmrR4c3Un\n♥Commission：https://t.co/QN4kayuNUz\n♣Discord：https://t.co/X7CuXL0qz1\n♦禁止AI训练&转载B站\n🇺🇦🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LancerKoi",
+                "end": 32,
+                "expanded_url": "https://www.youtube.com/@LancerKoi",
+                "start": 9,
+                "url": "https://t.co/unmrR4c3Un"
+              },
+              {
+                "display_url": "ko-fi.com/lancerkoi",
+                "end": 68,
+                "expanded_url": "http://ko-fi.com/lancerkoi",
+                "start": 45,
+                "url": "https://t.co/QN4kayuNUz"
+              },
+              {
+                "display_url": "discord.com/invite/QN4MSty…",
+                "end": 101,
+                "expanded_url": "http://discord.com/invite/QN4MStyW6k",
+                "start": 78,
+                "url": "https://t.co/X7CuXL0qz1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/LancerKoi",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/LancerKoi",
+                "start": 0,
+                "url": "https://t.co/8h2RXyfnYG"
+              }
+            ]
+          }
+        },
+        "id": "1596509000438161408",
+        "location": "I↓ must↑ be→ the↓ reason→↑ why",
+        "name": "LancerKoi🍀",
+        "pinned_tweet_id": "1980129942936715441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927656832019132416/D6XoWcnQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14567,
+          "following_count": 310,
+          "like_count": 12882,
+          "listed_count": 60,
+          "media_count": 1420,
+          "tweet_count": 5903
+        },
+        "url": "https://t.co/8h2RXyfnYG",
+        "username": "LancerKoi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-23T21:46:58.000Z",
+        "description": "秘封◾️倉本千奈を描きたい",
+        "id": "1231696504005390338",
+        "name": "なま▶︎GSF 2組15",
+        "pinned_tweet_id": "1878066087092429096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917565284824801281/W4ZIKqRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38251,
+          "following_count": 448,
+          "like_count": 20213,
+          "listed_count": 349,
+          "media_count": 586,
+          "tweet_count": 2273
+        },
+        "username": "gyonihara",
+        "verified": false
+      }
+    ]
+  }
+}

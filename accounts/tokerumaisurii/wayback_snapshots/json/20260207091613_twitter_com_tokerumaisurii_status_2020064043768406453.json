@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2020051880118780038",
+    "created_at": "2026-02-07T09:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T10:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020064043768406453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682570508615970816",
+          "start": 0,
+          "username": "ZiggerBorea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020064043768406453",
+    "in_reply_to_user_id": "1682570508615970816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020051880118780038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiggerBorea 持"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020051880118780038].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020051880118780038",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020051880118780038"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2020051880118780038",
+        "created_at": "2026-02-07T09:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020064043768406453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682570508615970816",
+              "start": 0,
+              "username": "ZiggerBorea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020064043768406453",
+        "in_reply_to_user_id": "1682570508615970816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020051880118780038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiggerBorea 持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 267,
+          "like_count": 75401,
+          "listed_count": 6,
+          "media_count": 1014,
+          "tweet_count": 14535
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:57:32.000Z",
+        "description": "孔选仲，上台！\n\n政治立场无透露必要，看不懂的母亲电解",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=us1fmh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=us1fmhYTlJg",
+                "start": 0,
+                "url": "https://t.co/dPphPUvx80"
+              }
+            ]
+          }
+        },
+        "id": "1682570508615970816",
+        "location": "Hyper-🇰🇷",
+        "name": "/uhg/中文官方，，，🇺🇦🐍🟨⬛️",
+        "pinned_tweet_id": "1962559552068661634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019704158975311872/Z7bpudfU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 451,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/dPphPUvx80",
+        "username": "ZiggerBorea",
+        "verified": false
+      }
+    ]
+  }
+}

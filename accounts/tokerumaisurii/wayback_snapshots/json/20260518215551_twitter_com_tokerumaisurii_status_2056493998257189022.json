@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056347512358019072"
+      ],
+      "media_source_tweet_id": [
+        "2056347519291203722"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2056493998257189022",
+    "created_at": "2026-05-18T21:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T22:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056493998257189022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1871892380619857920",
+          "start": 3,
+          "username": "kt10_n7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HSP0lh8gtA",
+          "end": 43,
+          "expanded_url": "https://x.com/kt10_n7/status/2056347519291203722/photo/1",
+          "media_key": "3_2056347512358019072",
+          "start": 20,
+          "url": "https://t.co/HSP0lh8gtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056493998257189022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 939
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056347519291203722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kt10_n7: ゆるキャス達 https://t.co/HSP0lh8gtA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2056347512358019072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImdKuDboAAvtxx.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056347512358019072"
+          ],
+          "media_source_tweet_id": [
+            "2056347519291203722"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2056493998257189022",
+        "created_at": "2026-05-18T21:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056493998257189022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1871892380619857920",
+              "start": 3,
+              "username": "kt10_n7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSP0lh8gtA",
+              "end": 43,
+              "expanded_url": "https://x.com/kt10_n7/status/2056347519291203722/photo/1",
+              "media_key": "3_2056347512358019072",
+              "start": 20,
+              "url": "https://t.co/HSP0lh8gtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056493998257189022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056347519291203722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kt10_n7: ゆるキャス達 https://t.co/HSP0lh8gtA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056347512358019072"
+          ]
+        },
+        "author_id": "1871892380619857920",
+        "conversation_id": "2056347519291203722",
+        "created_at": "2026-05-18T12:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056347519291203722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSP0lh8gtA",
+              "end": 30,
+              "expanded_url": "https://x.com/kt10_n7/status/2056347519291203722/photo/1",
+              "media_key": "3_2056347512358019072",
+              "start": 7,
+              "url": "https://t.co/HSP0lh8gtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056347519291203722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 412,
+          "impression_count": 45118,
+          "like_count": 6450,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "ゆるキャス達 https://t.co/HSP0lh8gtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14870 弱虫モンブラン AP+ アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 120,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 97,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 318,
+          "like_count": 108300,
+          "listed_count": 11,
+          "media_count": 1287,
+          "tweet_count": 19800
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-25T12:16:06.000Z",
+        "description": "絵描いてます ほぼファンアートです",
+        "id": "1871892380619857920",
+        "location": "無断転載・AI(学習・生成)×、その他使用の際は一言下さい",
+        "name": "こたつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006371342585843713/S9wXLsXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7402,
+          "following_count": 121,
+          "like_count": 24588,
+          "listed_count": 30,
+          "media_count": 94,
+          "tweet_count": 1185
+        },
+        "username": "kt10_n7",
+        "verified": false
+      }
+    ]
+  }
+}

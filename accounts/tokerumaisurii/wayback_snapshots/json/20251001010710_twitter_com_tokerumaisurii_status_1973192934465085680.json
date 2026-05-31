@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1973085050536132802",
+    "created_at": "2025-10-01T01:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T02:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973192934465085680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846477785801330688",
+          "start": 0,
+          "username": "Oblivionis___"
+        }
+      ],
+      "urls": [
+        {
+          "description": "中国人工智能公司 DeepSeek 因使用华为昇腾系列芯片进行训练受挫而推迟了其第二代模型的发布，凸显了中国政府力推取代美国技术的局限性。",
+          "display_url": "rfi.fr/cn/%E7%A7%91%E…",
+          "end": 174,
+          "expanded_url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20250814-ft-deepseek-%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E6%88%96%E5%9B%A0%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E8%80%8C%E6%8E%A8%E8%BF%9F%E5%8F%91%E5%B8%83",
+          "start": 151,
+          "status": 200,
+          "title": "FT : DeepSeek 新AI模型或因使用中国芯片而推迟发布",
+          "unwound_url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20250814-ft-deepseek-%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E6%88%96%E5%9B%A0%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E8%80%8C%E6%8E%A8%E8%BF%9F%E5%8F%91%E5%B8%83",
+          "url": "https://t.co/Zncuisf3DR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973192934465085680",
+    "in_reply_to_user_id": "1846477785801330688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973191397256863861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oblivionis___ 我也想，我期待R2好久了，只可惜窝们习神（和他的团队）要硬件国产化，华为又给显卡又派人驻场但还是没用害得项目延期，适配磨合需要的时间太多了。“幸运”的是，西方AI公司会做这种自断手脚的事情，给了DeepSeek很多缓冲时间。西方东方文化禁忌不同，以后估计总是两边都用。\n\nhttps://t.co/Zncuisf3DR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1973085050536132802",
+        "created_at": "2025-10-01T01:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T02:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973192934465085680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846477785801330688",
+              "start": 0,
+              "username": "Oblivionis___"
+            }
+          ],
+          "urls": [
+            {
+              "description": "中国人工智能公司 DeepSeek 因使用华为昇腾系列芯片进行训练受挫而推迟了其第二代模型的发布，凸显了中国政府力推取代美国技术的局限性。",
+              "display_url": "rfi.fr/cn/%E7%A7%91%E…",
+              "end": 174,
+              "expanded_url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20250814-ft-deepseek-%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E6%88%96%E5%9B%A0%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E8%80%8C%E6%8E%A8%E8%BF%9F%E5%8F%91%E5%B8%83",
+              "start": 151,
+              "status": 200,
+              "title": "FT : DeepSeek 新AI模型或因使用中国芯片而推迟发布",
+              "unwound_url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20250814-ft-deepseek-%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E6%88%96%E5%9B%A0%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E8%80%8C%E6%8E%A8%E8%BF%9F%E5%8F%91%E5%B8%83",
+              "url": "https://t.co/Zncuisf3DR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973192934465085680",
+        "in_reply_to_user_id": "1846477785801330688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973191397256863861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oblivionis___ 我也想，我期待R2好久了，只可惜窝们习神（和他的团队）要硬件国产化，华为又给显卡又派人驻场但还是没用害得项目延期，适配磨合需要的时间太多了。“幸运”的是，西方AI公司会做这种自断手脚的事情，给了DeepSeek很多缓冲时间。西方东方文化禁忌不同，以后估计总是两边都用。\n\nhttps://t.co/Zncuisf3DR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846477785801330688",
+        "conversation_id": "1973085050536132802",
+        "created_at": "2025-10-01T01:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T02:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973191397256863861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973191397256863861",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973191085448110091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 来支持DeepSeek喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 217,
+          "like_count": 50355,
+          "listed_count": 7,
+          "media_count": 657,
+          "tweet_count": 9528
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T09:06:36.000Z",
+        "description": "せつなくて いとおしい, 今ならば 分かる気がする, しあわせで くるおしい, あの日泣けなかった僕を @tokerumaisurii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "tokerumaisurii"
+              }
+            ]
+          }
+        },
+        "id": "1846477785801330688",
+        "location": "Brock University",
+        "name": "Sakiko🇨🇦🟡⚫️🍥",
+        "pinned_tweet_id": "1970431995860918386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951623922136301568/toEdXk0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 97,
+          "like_count": 8963,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 3108
+        },
+        "username": "Oblivionis___",
+        "verified": false
+      }
+    ]
+  }
+}

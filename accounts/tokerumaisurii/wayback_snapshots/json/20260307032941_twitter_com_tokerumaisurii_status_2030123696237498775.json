@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2030123696237498775",
+    "created_at": "2026-03-07T03:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T04:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030123696237498775"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 72,
+          "tag": "HonkaiStarRail"
+        },
+        {
+          "end": 97,
+          "start": 88,
+          "tag": "崩壊スターレイル"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 113,
+          "start": 104,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 121,
+          "start": 114,
+          "tag": "Stelle"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497479101724397569",
+          "start": 3,
+          "username": "zaijiawan11"
+        },
+        {
+          "end": 71,
+          "id": "1502606978795077636",
+          "start": 55,
+          "username": "Ihatethestudy77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/JoB6",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/JoB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030123696237498775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029828470638027036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zaijiawan11: 要来一只开拓者娃娃嘛~\n等等什么叫“我喜欢什么颜色的麻袋”😨\n📷＆后期大手子@Ihatethestudy77\n#HonkaiStarRail #崩壊スターレイル #着ぐるみ #kigurumi #Stelle https://t.co/JoB6…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2029828460982718464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtmOxPaUAADoD9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2030123696237498775",
+        "created_at": "2026-03-07T03:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030123696237498775"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 72,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 97,
+              "start": 88,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 113,
+              "start": 104,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 121,
+              "start": 114,
+              "tag": "Stelle"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497479101724397569",
+              "start": 3,
+              "username": "zaijiawan11"
+            },
+            {
+              "end": 71,
+              "id": "1502606978795077636",
+              "start": 55,
+              "username": "Ihatethestudy77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/JoB6",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/JoB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030123696237498775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029828470638027036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zaijiawan11: 要来一只开拓者娃娃嘛~\n等等什么叫“我喜欢什么颜色的麻袋”😨\n📷＆后期大手子@Ihatethestudy77\n#HonkaiStarRail #崩壊スターレイル #着ぐるみ #kigurumi #Stelle https://t.co/JoB6…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029828460982718464"
+          ]
+        },
+        "author_id": "1497479101724397569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2029828470638027036",
+        "created_at": "2026-03-06T07:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029828470638027036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 55,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 80,
+              "start": 71,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 96,
+              "start": 87,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 104,
+              "start": 97,
+              "tag": "Stelle"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1502606978795077636",
+              "start": 38,
+              "username": "Ihatethestudy77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JoB684DE3O",
+              "end": 128,
+              "expanded_url": "https://x.com/zaijiawan11/status/2029828470638027036/photo/1",
+              "media_key": "3_2029828460982718464",
+              "start": 105,
+              "url": "https://t.co/JoB684DE3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029828470638027036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1320,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "要来一只开拓者娃娃嘛~\n等等什么叫“我喜欢什么颜色的麻袋”😨\n📷＆后期大手子@Ihatethestudy77\n#HonkaiStarRail #崩壊スターレイル #着ぐるみ #kigurumi #Stelle https://t.co/JoB684DE3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 277,
+          "like_count": 85410,
+          "listed_count": 8,
+          "media_count": 1101,
+          "tweet_count": 15800
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:50:25.000Z",
+        "description": "确实就叫在家玩（\n角色是崩铁星宝\n会随缘掉落清水和整活娃照\n会转发些涩内容，清水朋友们请自己注意orz",
+        "id": "1497479101724397569",
+        "location": "Yan",
+        "name": "在家玩QwQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874862852730966017/ShXk0RF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 1730,
+          "like_count": 12552,
+          "listed_count": 12,
+          "media_count": 110,
+          "tweet_count": 1047
+        },
+        "username": "zaijiawan11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T11:26:46.000Z",
+        "description": "常驻广州（假期）/东莞（上学）摄影爱好者 不搞涩涩 键政别来 ，魔法不怎么好用所以不怎么营业x，角色：卡芙卡/八奈见杏菜 抖音：学习是个什么东西 b站：禾芷溪溪溪溪溪溪",
+        "id": "1502606978795077636",
+        "location": "广州/东莞",
+        "name": "禾芷溪溪溪溪溪溪",
+        "pinned_tweet_id": "2024388481364193628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973773143904075776/ZwgIVtr7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 563,
+          "like_count": 383,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 92
+        },
+        "username": "Ihatethestudy77",
+        "verified": false
+      }
+    ]
+  }
+}

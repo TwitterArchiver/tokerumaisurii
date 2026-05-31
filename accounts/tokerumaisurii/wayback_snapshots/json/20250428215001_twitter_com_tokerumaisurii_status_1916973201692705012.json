@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1916973201692705012",
+    "created_at": "2025-04-28T21:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T22:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916973201692705012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xsorrowrain/s…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/0xsorrowrain/status/1916807394505412667",
+          "start": 47,
+          "url": "https://t.co/rHNPTcVsxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916973201692705012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916807394505412667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我读第一遍的时候眼神扫过去感觉没什么，认真读下去读了一遍又一遍感觉大脑皮层变得光滑又光滑…… https://t.co/rHNPTcVsxu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1916973201692705012",
+        "created_at": "2025-04-28T21:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T22:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916973201692705012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xsorrowrain/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/0xsorrowrain/status/1916807394505412667",
+              "start": 47,
+              "url": "https://t.co/rHNPTcVsxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916973201692705012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916807394505412667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我读第一遍的时候眼神扫过去感觉没什么，认真读下去读了一遍又一遍感觉大脑皮层变得光滑又光滑…… https://t.co/rHNPTcVsxu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468616147339968513",
+        "conversation_id": "1916807394505412667",
+        "created_at": "2025-04-28T10:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T11:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916807394505412667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916807394505412667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7114,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和客户对接数据\n\n客户给的表主键是uuid，8分钟更新一次\n\n每次更新同一条数据uuid会变\n\n我真是…妈的我活了这么多年第一次见到uuid能变的，我草了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 136,
+          "like_count": 8086,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1676
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T16:19:28.000Z",
+        "description": "02年社畜 | 🏳️‍⚧️ | B端产品画图狗 ，正在努力生活 | 请多指教哦~ | 未来：@NeneK0SMTwTF5_ 姐姐：@ny3a_is_a_cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "NeneK0SMTwTF5_"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ny3a_is_a_cat"
+              }
+            ]
+          }
+        },
+        "id": "1468616147339968513",
+        "name": "SorrowRain",
+        "pinned_tweet_id": "1849456261408194932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845416012168167424/-jdJXRxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 771,
+          "like_count": 875,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5675
+        },
+        "username": "0xSorrowRain",
+        "verified": false
+      }
+    ]
+  }
+}

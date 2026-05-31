@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1931646592769302592",
+    "created_at": "2025-06-08T16:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T17:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931743199334199304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406117662632071170",
+          "start": 0,
+          "username": "TrypanBlue_TPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931743199334199304",
+    "in_reply_to_user_id": "1406117662632071170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931646592769302592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrypanBlue_TPB 哇超级萌🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41633,
+        "height": 720,
+        "media_key": "7_1931646539992285184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931646539992285184/pu/img/pXrTM5jLl1jO0-ie.jpg",
+        "public_metrics": {
+          "view_count": 3678
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931646539992285184/pu/vid/avc1/480x270/AEV38-C6wx5XR3y7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931646539992285184/pu/vid/avc1/640x360/NkLFeODtlWVXCHN0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931646539992285184/pu/vid/avc1/1280x720/RXYoaNelgwvrQ7G-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931646539992285184/pu/pl/fpoBqLAI-5vihvdS.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1931646592769302592",
+        "created_at": "2025-06-08T16:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T17:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931743199334199304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406117662632071170",
+              "start": 0,
+              "username": "TrypanBlue_TPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931743199334199304",
+        "in_reply_to_user_id": "1406117662632071170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931646592769302592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrypanBlue_TPB 哇超级萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931646539992285184"
+          ]
+        },
+        "author_id": "1406117662632071170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "1931646592769302592",
+        "created_at": "2025-06-08T09:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T10:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931646592769302592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 27,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Trypanblue _ TPB's tiny shop. As the goods are sent from overseas, shipping may take a while. Thank you for your understanding and support.【Live2d量販模型配布】ソルト(maimai) FESTiVAL Version(¥ 500), 〖SDVX〗ニア＆ノア Re:son Detre 同人グッズ(¥ 750), 〖maimai〗Acid 同人シリーズ商品(¥ 290), 〖ONGEKI〗C105通販-珠洲島 有栖 BrightMemory(¥",
+              "display_url": "trypanblue.booth.pm",
+              "end": 102,
+              "expanded_url": "http://trypanblue.booth.pm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1931646601178869760/1v_gxpXu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1931646601178869760/1v_gxpXu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "錐の自販機 - BOOTH",
+              "unwound_url": "https://trypanblue.booth.pm/",
+              "url": "https://t.co/EzQdcEl5KB"
+            },
+            {
+              "display_url": "pic.x.com/FUaXpCo3I4",
+              "end": 126,
+              "expanded_url": "https://x.com/TrypanBlue_TPB/status/1931646592769302592/video/1",
+              "media_key": "7_1931646539992285184",
+              "start": 103,
+              "url": "https://t.co/FUaXpCo3I4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931646592769302592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 11923,
+          "like_count": 569,
+          "quote_count": 16,
+          "reply_count": 1,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "ソルト(maimai)のLive2Dモデルを配布開始！#maimai_art\n興味があれば、展示動画をチェックしてください！\n該当のBOOTHページで購入↓\nhttps://t.co/EzQdcEl5KB https://t.co/FUaXpCo3I4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 164,
+          "like_count": 19991,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 3450
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "里@Lanthanum_CSL        \n♢Email:trypanblue.tpb@gmail.com\n♢booth:https://t.co/qbHrRQbIMy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 1,
+                "username": "Lanthanum_CSL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 86,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 63,
+                "url": "https://t.co/qbHrRQbIMy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOOeU"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "location": "ChasingLanthanum",
+        "name": "锥@1日目東ネ-07ab",
+        "pinned_tweet_id": "1930927982455259146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3307,
+          "following_count": 666,
+          "like_count": 4896,
+          "listed_count": 17,
+          "media_count": 168,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/n4kKQKOOeU",
+        "username": "TrypanBlue_TPB",
+        "verified": false
+      }
+    ]
+  }
+}

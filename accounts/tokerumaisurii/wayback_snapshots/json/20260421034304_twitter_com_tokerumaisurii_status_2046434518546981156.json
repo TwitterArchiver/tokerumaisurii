@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2046313728648302819",
+    "created_at": "2026-04-21T03:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046434518546981156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "72473225",
+          "start": 0,
+          "username": "owenzhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046434518546981156",
+    "in_reply_to_user_id": "72473225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "因为我有需求，总有人会遇到不能解决的情况，而且学技术（至少我自己）从来不是为了用来对人说干嘛非得哪样做的。\n我住的公寓楼不允许接任何家运营商的入户线，也没有预留网线接口，设计上就只能用公寓提供的Wi-Fi，并且有安全性设置使得同一Wi-Fi下设备之间不能互相发现；不能走局域网传输就面对实际上下行带宽，很低，一般跑十几MBps就不错了，传一个十多GB的文件得浪费我十多分钟。尽管无线还可以采用安卓手机开热点让电脑连入的方式，但出于某种原因LocalSend跑起来的实际速率非常之低，甚至不如前者。\n最后哪怕要花一分钟查一下adb要用什么指令，但实际传输也不过半分钟的事，比硬等无线十多分钟至少快上五倍。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046425852586672572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owenzhao 因为我有需求，总有人会遇到不能解决的情况，而且学技术（至少我自己）从来不是为了用来对人说干嘛非得哪样做的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2046313728648302819",
+        "created_at": "2026-04-21T03:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046434518546981156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "72473225",
+              "start": 0,
+              "username": "owenzhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046434518546981156",
+        "in_reply_to_user_id": "72473225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为我有需求，总有人会遇到不能解决的情况，而且学技术（至少我自己）从来不是为了用来对人说干嘛非得哪样做的。\n我住的公寓楼不允许接任何家运营商的入户线，也没有预留网线接口，设计上就只能用公寓提供的Wi-Fi，并且有安全性设置使得同一Wi-Fi下设备之间不能互相发现；不能走局域网传输就面对实际上下行带宽，很低，一般跑十几MBps就不错了，传一个十多GB的文件得浪费我十多分钟。尽管无线还可以采用安卓手机开热点让电脑连入的方式，但出于某种原因LocalSend跑起来的实际速率非常之低，甚至不如前者。\n最后哪怕要花一分钟查一下adb要用什么指令，但实际传输也不过半分钟的事，比硬等无线十多分钟至少快上五倍。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046425852586672572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owenzhao 因为我有需求，总有人会遇到不能解决的情况，而且学技术（至少我自己）从来不是为了用来对人说干嘛非得哪样做的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "72473225",
+        "conversation_id": "2046313728648302819",
+        "created_at": "2026-04-21T03:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046425852586672572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046425852586672572",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046313728648302819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 干嘛非得用有线啊。无线传的应用不是有都是嘛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509,
+          "following_count": 310,
+          "like_count": 100968,
+          "listed_count": 9,
+          "media_count": 1211,
+          "tweet_count": 18541
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-08T04:42:31.000Z",
+        "description": "speaking in both Chinese & English now studying in Qt programming on desktop and phones I like: Doctor Who Fringe Tomb Raider bike riding swimming",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhaoxin.pro",
+                "end": 23,
+                "expanded_url": "http://zhaoxin.pro",
+                "start": 0,
+                "url": "https://t.co/8NGSs4X42V"
+              }
+            ]
+          }
+        },
+        "id": "72473225",
+        "location": "City of London, London",
+        "name": "Zhao Xin(肇鑫)",
+        "pinned_tweet_id": "2044742601778278441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/635623734439612416/B7j0yujX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 217,
+          "like_count": 1125,
+          "listed_count": 7,
+          "media_count": 2081,
+          "tweet_count": 16626
+        },
+        "url": "https://t.co/8NGSs4X42V",
+        "username": "owenzhao",
+        "verified": false
+      }
+    ]
+  }
+}

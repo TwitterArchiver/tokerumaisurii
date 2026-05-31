@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1964188835899732403",
+    "created_at": "2025-09-06T04:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964190982318043215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548857263086899201",
+          "start": 0,
+          "username": "DesoleBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964190982318043215",
+    "in_reply_to_user_id": "1548857263086899201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964189755706658839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesoleBot 靠药物减肥其实还算轻松，我初一的时候也100公斤过，并且可能因为雌激素引导脂肪分布还是什么的原因，我这次超重看上去外观还算不错那时候的照片真的有种门酱感，然后我靠自律饮食调整靠自己锻炼靠去健身房硬是在初三减到70公斤，然后体育中考拿了接近满分，长跑满了，偏无氧的仰卧起坐不行，没力气。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1964189755706658839].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1964189755706658839",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1964189755706658839"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1964188835899732403",
+        "created_at": "2025-09-06T04:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964190982318043215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548857263086899201",
+              "start": 0,
+              "username": "DesoleBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964190982318043215",
+        "in_reply_to_user_id": "1548857263086899201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964189755706658839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesoleBot 靠药物减肥其实还算轻松，我初一的时候也100公斤过，并且可能因为雌激素引导脂肪分布还是什么的原因，我这次超重看上去外观还算不错那时候的照片真的有种门酱感，然后我靠自律饮食调整靠自己锻炼靠去健身房硬是在初三减到70公斤，然后体育中考拿了接近满分，长跑满了，偏无氧的仰卧起坐不行，没力气。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 207,
+          "like_count": 41807,
+          "listed_count": 8,
+          "media_count": 584,
+          "tweet_count": 7746
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T02:28:56.000Z",
+        "description": "",
+        "id": "1548857263086899201",
+        "location": "Eileberg-MacLane Space ",
+        "name": "Désolé Bot",
+        "pinned_tweet_id": "1948018699736076540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951278607592202243/xYvz3seu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 104,
+          "like_count": 6513,
+          "listed_count": 0,
+          "media_count": 1796,
+          "tweet_count": 17267
+        },
+        "username": "DesoleBot",
+        "verified": false
+      }
+    ]
+  }
+}

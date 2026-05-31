@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909851970879283200"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1909855461404291346",
+    "created_at": "2025-04-09T06:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T07:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909855461404291346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 179,
+          "id": "1508786871517986817",
+          "start": 170,
+          "username": "zetaraku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "音ゲー譜面情報検索webツール",
+          "display_url": "arcade-songs.zetaraku.dev",
+          "end": 137,
+          "expanded_url": "https://arcade-songs.zetaraku.dev/",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/1909855465430773760/CbJ1E7mN?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1909855465430773760/CbJ1E7mN?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "arcade-songs",
+          "unwound_url": "https://arcade-songs.zetaraku.dev/",
+          "url": "https://t.co/LImRyFHIi1"
+        },
+        {
+          "display_url": "pic.x.com/VYwf9Ofe82",
+          "end": 208,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1909855461404291346/photo/1",
+          "media_key": "3_1909851970879283200",
+          "start": 185,
+          "url": "https://t.co/VYwf9Ofe82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909855461404291346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这歌是不是应该有个别名叫大统华啊x\n\n我很喜欢这首歌和同作者的Electric \"Sister\" Bitch（姐妹曲？），后者我在osu!上玩过和了解到的，不过好像SDVX上也有收录？\n\n（截屏里的是arcade-songs (https://t.co/LImRyFHIi1)，是我很喜欢的很好用的音游曲库网站，源码也教了我很多，感谢作者 @zetaraku orz） https://t.co/VYwf9Ofe82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909851970879283200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoEoP6nW4AAEeBr.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909851970879283200"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1909855461404291346",
+        "created_at": "2025-04-09T06:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909855461404291346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 179,
+              "id": "1508786871517986817",
+              "start": 170,
+              "username": "zetaraku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "音ゲー譜面情報検索webツール",
+              "display_url": "arcade-songs.zetaraku.dev",
+              "end": 137,
+              "expanded_url": "https://arcade-songs.zetaraku.dev/",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/1909855465430773760/CbJ1E7mN?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1909855465430773760/CbJ1E7mN?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "arcade-songs",
+              "unwound_url": "https://arcade-songs.zetaraku.dev/",
+              "url": "https://t.co/LImRyFHIi1"
+            },
+            {
+              "display_url": "pic.x.com/VYwf9Ofe82",
+              "end": 208,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1909855461404291346/photo/1",
+              "media_key": "3_1909851970879283200",
+              "start": 185,
+              "url": "https://t.co/VYwf9Ofe82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909855461404291346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这歌是不是应该有个别名叫大统华啊x\n\n我很喜欢这首歌和同作者的Electric \"Sister\" Bitch（姐妹曲？），后者我在osu!上玩过和了解到的，不过好像SDVX上也有收录？\n\n（截屏里的是arcade-songs (https://t.co/LImRyFHIi1)，是我很喜欢的很好用的音游曲库网站，源码也教了我很多，感谢作者 @zetaraku orz） https://t.co/VYwf9Ofe82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 121,
+          "like_count": 4212,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 961
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T12:44:04.000Z",
+        "description": "arcade-songs の制作者、RAKU です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcade-songs.zetaraku.dev",
+                "end": 23,
+                "expanded_url": "https://arcade-songs.zetaraku.dev/",
+                "start": 0,
+                "url": "https://t.co/mx273WJRIv"
+              }
+            ]
+          }
+        },
+        "id": "1508786871517986817",
+        "location": "台湾",
+        "name": "Raku Zeta",
+        "pinned_tweet_id": "1555370357154267136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508787074140635143/fzxRG7mW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/mx273WJRIv",
+        "username": "zetaraku",
+        "verified": false
+      }
+    ]
+  }
+}

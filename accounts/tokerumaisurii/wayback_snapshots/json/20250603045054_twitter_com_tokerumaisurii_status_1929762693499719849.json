@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1929507271974764991",
+    "created_at": "2025-06-03T04:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T05:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929762693499719849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548857263086899201",
+          "start": 0,
+          "username": "DesoleBot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1929543211724181659",
+          "start": 23,
+          "url": "https://t.co/5sxVDpImec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929762693499719849",
+    "in_reply_to_user_id": "1548857263086899201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929543211724181659",
+        "type": "quoted"
+      },
+      {
+        "id": "1929722579306398090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesoleBot 多不了喵，心不诚则灵的 https://t.co/5sxVDpImec"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929722579306398090].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929722579306398090",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929722579306398090"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1929507271974764991",
+        "created_at": "2025-06-03T04:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929762693499719849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548857263086899201",
+              "start": 0,
+              "username": "DesoleBot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1929543211724181659",
+              "start": 23,
+              "url": "https://t.co/5sxVDpImec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929762693499719849",
+        "in_reply_to_user_id": "1548857263086899201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929543211724181659",
+            "type": "quoted"
+          },
+          {
+            "id": "1929722579306398090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesoleBot 多不了喵，心不诚则灵的 https://t.co/5sxVDpImec"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1929507271974764991",
+        "created_at": "2025-06-02T14:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T15:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929543211724181659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585149194372644864",
+              "start": 0,
+              "username": "suelureoc_sucol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929543211724181659",
+        "in_reply_to_user_id": "1585149194372644864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929522657067720918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suelureoc_sucol 不是故意的也完全没料到，可能因此才有用，刻意地去咒可能就会有魔术阻力了，那就需要很厉害很厉害的咒术师才能对抗阻力做到了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 157,
+          "like_count": 17940,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 3081
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T02:28:56.000Z",
+        "description": "🔥🕳️👊",
+        "id": "1548857263086899201",
+        "location": "CW Complex",
+        "name": "Désolé Bot",
+        "pinned_tweet_id": "1906649874327859436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823173342444077056/7CL3WHUu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 104,
+          "like_count": 6234,
+          "listed_count": 0,
+          "media_count": 1602,
+          "tweet_count": 15039
+        },
+        "username": "DesoleBot",
+        "verified": false
+      }
+    ]
+  }
+}

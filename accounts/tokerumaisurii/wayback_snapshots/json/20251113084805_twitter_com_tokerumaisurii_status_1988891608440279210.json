@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988823199908495361",
+        "3_1988823199925301248"
+      ],
+      "media_source_tweet_id": [
+        "1988823217512018167",
+        "1988823217512018167"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "1988891608440279210",
+    "created_at": "2025-11-13T08:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988891608440279210"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "kirby",
+          "probability": 0.5635,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "Kirby",
+          "probability": 0.608,
+          "start": 46,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "Aurora",
+          "probability": 0.5604,
+          "start": 53,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 45,
+          "tag": "Kirby"
+        },
+        {
+          "end": 59,
+          "start": 52,
+          "tag": "Aurora"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1370752963338145793",
+          "start": 3,
+          "username": "miyashitatama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9Edam3Tle",
+          "end": 83,
+          "expanded_url": "https://x.com/miyashitatama/status/1988823217512018167/photo/1",
+          "media_key": "3_1988823199908495361",
+          "start": 60,
+          "url": "https://t.co/r9Edam3Tle"
+        },
+        {
+          "display_url": "pic.x.com/r9Edam3Tle",
+          "end": 83,
+          "expanded_url": "https://x.com/miyashitatama/status/1988823217512018167/photo/1",
+          "media_key": "3_1988823199925301248",
+          "start": 60,
+          "url": "https://t.co/r9Edam3Tle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988891608440279210",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988823217512018167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyashitatama: kirby explores the world🌟\n#Kirby #Aurora https://t.co/r9Edam3Tle"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_1988823199908495361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5m4Kb-aAAEVFEb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1988823199925301248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5m4KcCacAA-H9b.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988823199908495361",
+            "3_1988823199925301248"
+          ],
+          "media_source_tweet_id": [
+            "1988823217512018167",
+            "1988823217512018167"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "1988891608440279210",
+        "created_at": "2025-11-13T08:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988891608440279210"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "kirby",
+              "probability": 0.5635,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Kirby",
+              "probability": 0.608,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Aurora",
+              "probability": 0.5604,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "Kirby"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "Aurora"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1370752963338145793",
+              "start": 3,
+              "username": "miyashitatama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9Edam3Tle",
+              "end": 83,
+              "expanded_url": "https://x.com/miyashitatama/status/1988823217512018167/photo/1",
+              "media_key": "3_1988823199908495361",
+              "start": 60,
+              "url": "https://t.co/r9Edam3Tle"
+            },
+            {
+              "display_url": "pic.x.com/r9Edam3Tle",
+              "end": 83,
+              "expanded_url": "https://x.com/miyashitatama/status/1988823217512018167/photo/1",
+              "media_key": "3_1988823199925301248",
+              "start": 60,
+              "url": "https://t.co/r9Edam3Tle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988891608440279210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988823217512018167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyashitatama: kirby explores the world🌟\n#Kirby #Aurora https://t.co/r9Edam3Tle"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988823199908495361",
+            "3_1988823199925301248"
+          ]
+        },
+        "author_id": "1370752963338145793",
+        "conversation_id": "1988823217512018167",
+        "created_at": "2025-11-13T04:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988823217512018167"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "kirby",
+              "probability": 0.5743,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "Kirby",
+              "probability": 0.5706,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Aurora",
+              "probability": 0.5914,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "Kirby"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "Aurora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9Edam3Tle",
+              "end": 64,
+              "expanded_url": "https://x.com/miyashitatama/status/1988823217512018167/photo/1",
+              "media_key": "3_1988823199908495361",
+              "start": 41,
+              "url": "https://t.co/r9Edam3Tle"
+            },
+            {
+              "display_url": "pic.x.com/r9Edam3Tle",
+              "end": 64,
+              "expanded_url": "https://x.com/miyashitatama/status/1988823217512018167/photo/1",
+              "media_key": "3_1988823199925301248",
+              "start": 41,
+              "url": "https://t.co/r9Edam3Tle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988823217512018167",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "kirby explores the world🌟\n#Kirby #Aurora https://t.co/r9Edam3Tle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 230,
+          "like_count": 59567,
+          "listed_count": 6,
+          "media_count": 760,
+          "tweet_count": 11255
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T15:06:08.000Z",
+        "description": "𝕀𝕟𝕥𝕖𝕣𝕟𝕖𝕥 𝕐𝕒𝕞𝕖𝕣𝕠",
+        "id": "1370752963338145793",
+        "name": "宮下魂",
+        "pinned_tweet_id": "1672547200080158720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536750048779948033/Prcb8Ntz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 234,
+          "like_count": 17,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 108
+        },
+        "username": "miyashitatama",
+        "verified": false
+      }
+    ]
+  }
+}

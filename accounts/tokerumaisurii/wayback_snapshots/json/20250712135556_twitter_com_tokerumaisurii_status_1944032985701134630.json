@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1943948022863606136",
+    "created_at": "2025-07-12T13:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T14:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944032985701134630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1431310640656748545",
+          "start": 0,
+          "username": "igachiba_0210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944032985701134630",
+    "in_reply_to_user_id": "1431310640656748545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943948022863606136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igachiba_0210 👧🏻「私の名前〜？CHUNITHMから取った名前だよ」\n\n👩🏻「あら、私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察ちゃん、早く帰るわよ〜」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1943948022863606136",
+        "created_at": "2025-07-12T13:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T14:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944032985701134630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1431310640656748545",
+              "start": 0,
+              "username": "igachiba_0210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944032985701134630",
+        "in_reply_to_user_id": "1431310640656748545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943948022863606136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igachiba_0210 👧🏻「私の名前〜？CHUNITHMから取った名前だよ」\n\n👩🏻「あら、私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察ちゃん、早く帰るわよ〜」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431310640656748545",
+        "conversation_id": "1943948022863606136",
+        "created_at": "2025-07-12T08:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943948022863606136"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "みるくちゃん",
+              "probability": 0.768,
+              "start": 61,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943948022863606136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 34404,
+          "like_count": 694,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "👦🏻「お名前はなんて言うんですか？」\n\n👧🏻「私の名前〜？maimaiでらっくすから取った名前だよ」\n\n👦🏻（みるくちゃんかな？…変わった名前だな）\n\n👧🏻「あ、ママー！」\n\n👩🏻「あら、VERTeX (rintaro soma deconstructed remix)ちゃん、早く帰るわよ〜」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 186,
+          "like_count": 30364,
+          "listed_count": 3,
+          "media_count": 400,
+          "tweet_count": 5378
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T17:40:32.000Z",
+        "description": "maimai CHUNITHM その他音ゲー  舞創作譜面  音楽好き エナドリ中毒 よしきさんのクソコラ作ってます  つまらないネタツイ量産",
+        "id": "1431310640656748545",
+        "location": "ちゅーごくちほー",
+        "name": "ⱯꓭIHƆⱯꓨI",
+        "pinned_tweet_id": "1943644532966379554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911495960498212864/JV1aPvmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 1048,
+          "like_count": 43253,
+          "listed_count": 1,
+          "media_count": 3696,
+          "tweet_count": 28111
+        },
+        "username": "igachiba_0210",
+        "verified": true
+      }
+    ]
+  }
+}

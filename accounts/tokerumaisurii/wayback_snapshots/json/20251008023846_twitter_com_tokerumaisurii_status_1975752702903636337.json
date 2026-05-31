@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1975623604974027072",
+    "created_at": "2025-10-08T02:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T03:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975752702903636337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548857263086899201",
+          "start": 0,
+          "username": "DesoleBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975752702903636337",
+    "in_reply_to_user_id": "1548857263086899201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975732797664117133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesoleBot 我觉得就是我的感受，大脑既不是我的附庸，我也不是大脑的附庸，在某个维度上大脑和我是一样的，所以我当然知道是什么感受啦，我也会担心大脑被玩坏，不用大脑“自己”去担心，虽然如此还是会去做，而且谁知道说不定这一切反倒是大脑催促着我去干的呢？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1975732797664117133].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1975732797664117133",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1975732797664117133"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1975623604974027072",
+        "created_at": "2025-10-08T02:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T03:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975752702903636337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548857263086899201",
+              "start": 0,
+              "username": "DesoleBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975752702903636337",
+        "in_reply_to_user_id": "1548857263086899201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975732797664117133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesoleBot 我觉得就是我的感受，大脑既不是我的附庸，我也不是大脑的附庸，在某个维度上大脑和我是一样的，所以我当然知道是什么感受啦，我也会担心大脑被玩坏，不用大脑“自己”去担心，虽然如此还是会去做，而且谁知道说不定这一切反倒是大脑催促着我去干的呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 220,
+          "like_count": 52444,
+          "listed_count": 7,
+          "media_count": 674,
+          "tweet_count": 9934
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T02:28:56.000Z",
+        "description": "",
+        "id": "1548857263086899201",
+        "location": "Eileberg-MacLane Space ",
+        "name": "Désolé Bot",
+        "pinned_tweet_id": "1948018699736076540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951278607592202243/xYvz3seu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 104,
+          "like_count": 6600,
+          "listed_count": 0,
+          "media_count": 1879,
+          "tweet_count": 18005
+        },
+        "username": "DesoleBot",
+        "verified": false
+      }
+    ]
+  }
+}

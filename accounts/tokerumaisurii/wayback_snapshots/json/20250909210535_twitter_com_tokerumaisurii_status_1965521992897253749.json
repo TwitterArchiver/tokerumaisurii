@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1965519275348934886",
+    "created_at": "2025-09-09T21:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T22:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965521992897253749"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "好耶",
+          "probability": 0.5982,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277411486168756231",
+          "start": 0,
+          "username": "mangoiceshake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965521992897253749",
+    "in_reply_to_user_id": "1277411486168756231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965519275348934886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoiceshake 好耶）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965519271510921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0btXRmX0AA5Kd2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1965519275348934886",
+        "created_at": "2025-09-09T21:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T22:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965521992897253749"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "好耶",
+              "probability": 0.5982,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277411486168756231",
+              "start": 0,
+              "username": "mangoiceshake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965521992897253749",
+        "in_reply_to_user_id": "1277411486168756231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965519275348934886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoiceshake 好耶）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965519271510921216"
+          ]
+        },
+        "author_id": "1277411486168756231",
+        "conversation_id": "1965519275348934886",
+        "created_at": "2025-09-09T20:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T21:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965519275348934886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTuhs1GaTM",
+              "end": 31,
+              "expanded_url": "https://x.com/mangoiceshake/status/1965519275348934886/photo/1",
+              "media_key": "3_1965519271510921216",
+              "start": 8,
+              "url": "https://t.co/cTuhs1GaTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965519275348934886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "购入一个qwq https://t.co/cTuhs1GaTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 207,
+          "like_count": 42772,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 8017
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-29T01:20:17.000Z",
+        "description": "🥭 是一颗会自言自语的神奇魔法小芒果猫猫🥭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mangoiceshake.bsky.social",
+                "end": 23,
+                "expanded_url": "http://mangoiceshake.bsky.social",
+                "start": 0,
+                "url": "https://t.co/DZKNtHGRt0"
+              }
+            ]
+          }
+        },
+        "id": "1277411486168756231",
+        "location": "加拿大有机三文鱼甜虾芒果冻干猫条",
+        "name": "🥭🐈❄️ 🍰🐙✨🍦冬眠中(´⌯ ̫⌯`)",
+        "pinned_tweet_id": "1910551654757249100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886264934683549696/hN-LO71W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 465,
+          "like_count": 4425,
+          "listed_count": 4,
+          "media_count": 931,
+          "tweet_count": 9875
+        },
+        "url": "https://t.co/DZKNtHGRt0",
+        "username": "mangoiceshake",
+        "verified": false
+      }
+    ]
+  }
+}

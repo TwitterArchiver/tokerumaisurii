@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1935321821387309146",
+    "created_at": "2025-06-19T00:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T01:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935496516229370202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1606701895719956482",
+          "start": 0,
+          "username": "LepuzArcticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935496516229370202",
+    "in_reply_to_user_id": "1606701895719956482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935496427033284650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LepuzArcticus 这个好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1935321821387309146",
+        "created_at": "2025-06-19T00:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T01:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935496516229370202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1606701895719956482",
+              "start": 0,
+              "username": "LepuzArcticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935496516229370202",
+        "in_reply_to_user_id": "1606701895719956482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935496427033284650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LepuzArcticus 这个好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606701895719956482",
+        "conversation_id": "1935321821387309146",
+        "created_at": "2025-06-19T00:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T01:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935496427033284650"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Critical Break",
+              "probability": 0.8669,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935496427033284650",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935321821387309146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii Catch Critical Break"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我很脆弱，开不起玩笑，求求你们不要开。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 170,
+          "like_count": 23227,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 4098
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T17:22:52.000Z",
+        "description": "00持证MtF🏳️‍⚧️\nINTP-A 5w6 584（表观E，非常NT，非常A）\n轻度强迫/敏感/疑病/癔症/中度抑郁？（仅量表结果，非疾病诊断）\n疑似ADHD-I\n表观情绪极稳定。\nHRT：2025/2/24\n持证：2025/5/3\nRLE：受限于专业\n不定期产出奇怪言论。\n她将继续追逐地平线的光，直到生命尽头。",
+        "id": "1606701895719956482",
+        "location": "Sichuan, China mainland.",
+        "name": "Lepuz Arcticus🍥",
+        "pinned_tweet_id": "1922999173772693602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921786320588066816/7F5Xica3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 119,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 339
+        },
+        "username": "LepuzArcticus",
+        "verified": false
+      }
+    ]
+  }
+}

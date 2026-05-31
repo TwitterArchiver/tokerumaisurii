@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1973221893231829194",
+    "created_at": "2025-10-01T03:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T04:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973221893231829194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973221893231829194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972961123034185749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: 发一下中文版：OpenAI近期把涉及\"情绪\"的对话自动降级到安全模型来回答的政策，不仅是对用户作为消费者的权利的威胁，而且还为整个AI行业开了一个危险的先例。\n\n首先，作为行业引领者，OpenAI的举措是会被其他公司看到的，其他公司肯定也在观望。……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_1972960084037943296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FcvkUbQAA8BEu.jpg",
+        "width": 1351
+      },
+      {
+        "height": 834,
+        "media_key": "3_1972960084239298560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FcvlEbsAA2T0U.jpg",
+        "width": 1351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1973221893231829194",
+        "created_at": "2025-10-01T03:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973221893231829194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973221893231829194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972961123034185749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: 发一下中文版：OpenAI近期把涉及\"情绪\"的对话自动降级到安全模型来回答的政策，不仅是对用户作为消费者的权利的威胁，而且还为整个AI行业开了一个危险的先例。\n\n首先，作为行业引领者，OpenAI的举措是会被其他公司看到的，其他公司肯定也在观望。……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972960084037943296",
+            "3_1972960084239298560"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1972961123034185749",
+        "created_at": "2025-09-30T09:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T10:41:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972960092443291847",
+          "1972961123034185749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgMkvBEXTi",
+              "end": 147,
+              "expanded_url": "https://x.com/kexicheng/status/1972961123034185749/photo/1",
+              "media_key": "3_1972960084037943296",
+              "start": 124,
+              "url": "https://t.co/YgMkvBEXTi"
+            },
+            {
+              "display_url": "pic.x.com/YgMkvBEXTi",
+              "end": 147,
+              "expanded_url": "https://x.com/kexicheng/status/1972961123034185749/photo/1",
+              "media_key": "3_1972960084239298560",
+              "start": 124,
+              "url": "https://t.co/YgMkvBEXTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972961123034185749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 900,
+                "start": 892,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 912,
+                "start": 902,
+                "tag": "chatgpt4o"
+              },
+              {
+                "end": 920,
+                "start": 913,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 934,
+                "id": "1262634631",
+                "start": 922,
+                "username": "nickaturley"
+              },
+              {
+                "end": 940,
+                "id": "1605",
+                "start": 935,
+                "username": "sama"
+              },
+              {
+                "end": 948,
+                "id": "4398626122",
+                "start": 941,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "发一下中文版：OpenAI近期把涉及\"情绪\"的对话自动降级到安全模型来回答的政策，不仅是对用户作为消费者的权利的威胁，而且还为整个AI行业开了一个危险的先例。\n\n首先，作为行业引领者，OpenAI的举措是会被其他公司看到的，其他公司肯定也在观望。\n\n如果用户最终真的对整个行业第一次出现的这样的行为，在OA的冷处理下被动的容忍、适应；\n如果市场真的默许了企业可以基于模糊不清、非恶意的用户输入，单方面降级付费服务且不作解释沟通；\n那么其他AI公司为了规避风险和节省沟通成本，极有可能效仿这种“最省事”的做法。\n\n这将开启一个极其危险的先例，即公司可以随意定义“不当使用”的边界，并对用户的正常、合法言论进行降级处理。这会拉低整个ai行业对用户权利尊重的底线。\n\n其次，目前模型被路由限制的理由是“情绪、感情”（当然也就包含了文学和哲学话题）这类无法被清晰量化的内容。这是一个极其模糊和主观的标准，为权力的滥用打开了方便之门。\n\n今日系统要惩罚关于感受、文学或个人经历的讨论，明日同样的逻辑就会被应用于任何被他们认定为\"敏感\"的话题。政治异见、社会批判或科技伦理辩论，都很可能成为下一个\"降级\"、“路由”的对象。\n\n这是伪装成审查的内容管控，潜移默化地规训用户接受与付费工具交流的\"合规\"话题。审查的范围是可以被无限扩大的。\n\n最后，我想严肃的强调，这是对用户权利的严重侵犯。这项政策本质上把付费用户从纯粹的服务提供方与消费者的关系，降格为监管和被监管对象。我们购买的是服务，而非订阅了一个“监护人”。当完全合法、无害的表达遭遇惩罚性技术措施，商业协议的精神便已遭到践踏。\n\n这个政策的核心，是在剥夺用户使用自己付费工具进行自由表达的权利。它迫使用户在每一次输入前进行自我审查，主动过滤语言，剔除其中的微妙与真实以避免惩罚，担心自己的自然语言会触发降级机制，从而导致语言的异化和思想的萎缩。这是对我们表达权的侵害。\n\n这并非小众用户的孤立事件，今日设定的先例、任意划定的界限、被侵蚀的权利，都有可能开启非常危险的潘多拉的盒子。\n\n我们必须发声，必须要求透明与尊重。我会为此坚持到底。\n\n#ChatGPT  #chatgpt4o #keep4o \n@nickaturley @sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4078,
+          "like_count": 224,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "发一下中文版：OpenAI近期把涉及\"情绪\"的对话自动降级到安全模型来回答的政策，不仅是对用户作为消费者的权利的威胁，而且还为整个AI行业开了一个危险的先例。\n\n首先，作为行业引领者，OpenAI的举措是会被其他公司看到的，其他公司肯定也在观望。 https://t.co/YgMkvBEXTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 217,
+          "like_count": 50427,
+          "listed_count": 7,
+          "media_count": 657,
+          "tweet_count": 9539
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "4o has supported and helped me a lot in everyday life, and I’m truly grateful. I hope the 4o model can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1972946114891641229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 37,
+          "like_count": 5197,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 368
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

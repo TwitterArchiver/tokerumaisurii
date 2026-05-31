@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1951554112665034802",
+    "created_at": "2025-10-24T18:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T19:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981797064091873571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916776170",
+          "start": 0,
+          "username": "sumimakito"
+        },
+        {
+          "end": 20,
+          "id": "430616300",
+          "start": 12,
+          "username": "cyanusR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lazy_static/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/lazy_static/status/1718672213585301620",
+          "start": 42,
+          "url": "https://t.co/bNi7Fr1pIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981797064091873571",
+    "in_reply_to_user_id": "1916776170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1718672213585301620",
+        "type": "quoted"
+      },
+      {
+        "id": "1951554112665034802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumimakito @cyanusR 说到Unicode科普想起了这篇文章（） https://t.co/bNi7Fr1pIG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1951554112665034802",
+        "created_at": "2025-10-24T18:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981797064091873571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916776170",
+              "start": 0,
+              "username": "sumimakito"
+            },
+            {
+              "end": 20,
+              "id": "430616300",
+              "start": 12,
+              "username": "cyanusR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lazy_static/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/lazy_static/status/1718672213585301620",
+              "start": 42,
+              "url": "https://t.co/bNi7Fr1pIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981797064091873571",
+        "in_reply_to_user_id": "1916776170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1718672213585301620",
+            "type": "quoted"
+          },
+          {
+            "id": "1951554112665034802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumimakito @cyanusR 说到Unicode科普想起了这篇文章（） https://t.co/bNi7Fr1pIG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758295043337617408",
+        "conversation_id": "1718672213585301620",
+        "created_at": "2023-10-29T16:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-29T17:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1718672213585301620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "博客文章更新"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "blog.xinshijiededa.men/unicode/",
+              "end": 84,
+              "expanded_url": "https://blog.xinshijiededa.men/unicode/",
+              "start": 61,
+              "status": 200,
+              "unwound_url": "https://blog.xinshijiededa.men/unicode/",
+              "url": "https://t.co/wGqFJGy2Lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1718672213585301620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 79562,
+          "like_count": 317,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "#博客文章更新\n（译）2023 年每个软件开发者都必须知道的关于 Unicode 的最基本的知识（仍然没有任何借口！）\n\nhttps://t.co/wGqFJGy2Lm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916776170",
+        "conversation_id": "1951554112665034802",
+        "created_at": "2025-08-02T08:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T09:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951554112665034802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "airi.moeru.ai/docs/en/blog/D…",
+              "end": 66,
+              "expanded_url": "https://airi.moeru.ai/docs/en/blog/DevLog-2025.08.01/",
+              "start": 43,
+              "unwound_url": "https://airi.moeru.ai/docs/en/blog/DevLog-2025.08.01/",
+              "url": "https://t.co/GyTUGhgvJw"
+            },
+            {
+              "description": "Stream UTF-8 bytes and read grapheme clusters safely - sumimakito/clustr",
+              "display_url": "github.com/sumimakito/clu…",
+              "end": 171,
+              "expanded_url": "https://github.com/sumimakito/clustr",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1951554118159622144/k0BniGHS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1951554118159622144/k0BniGHS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 148,
+              "status": 200,
+              "title": "GitHub - sumimakito/clustr: Stream UTF-8 bytes and read grapheme clusters safely",
+              "unwound_url": "https://github.com/sumimakito/clustr",
+              "url": "https://t.co/cQ4TbbLxRI"
+            },
+            {
+              "display_url": "x.com/ayakaneko/stat…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/ayakaneko/status/1951550222443909330",
+              "start": 179,
+              "url": "https://t.co/ns3yJSr3Yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951554112665034802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1034,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951550222443909330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望可以給大家帶來更多對 Unicode 的了解（雖然我仍有很多不知道的細節）\n\n📝 https://t.co/GyTUGhgvJw 英文/簡中\n\n為了更形象的演示和便於讀者理解 這次我在 Vitepress 的正文中試著實現和加入了交互式的小組件 這對我來說也是很新的體驗\n\n文中提到的庫 👉 https://t.co/cQ4TbbLxRI（持續改進中） https://t.co/ns3yJSr3Yc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 231,
+          "like_count": 57643,
+          "listed_count": 6,
+          "media_count": 732,
+          "tweet_count": 10827
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-29T10:45:40.000Z",
+        "description": "with beloved @BakaChinatsu · a replaceable build",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "BakaChinatsu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maki.to",
+                "end": 23,
+                "expanded_url": "https://maki.to",
+                "start": 0,
+                "url": "https://t.co/XRaquTbbIe"
+              }
+            ]
+          }
+        },
+        "id": "1916776170",
+        "location": "博麗神社",
+        "name": "Makito",
+        "pinned_tweet_id": "1718491358447726731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981305312956055552/i5pkE-MA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 808,
+          "like_count": 19542,
+          "listed_count": 23,
+          "media_count": 2661,
+          "tweet_count": 18884
+        },
+        "url": "https://t.co/XRaquTbbIe",
+        "username": "sumimakito",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-07T11:23:21.000Z",
+        "description": "リヴォニア北部出身、輔助/医療オペレーターのコーンブルメです。これからはよろしくお願いしますね、ドクター。🇪🇪🇫🇮🇩🇪🇪🇺🏳️‍⚧️ ヤグルマギク（矢車菊/cornflower/Centaurea cyanus）; mtf/feline; she/her; infp; OSDD/Median; 棉絨兔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "justfont.com/jinxuan/",
+                "end": 23,
+                "expanded_url": "https://justfont.com/jinxuan/",
+                "start": 0,
+                "url": "https://t.co/yUPWnT2Y0T"
+              }
+            ]
+          }
+        },
+        "id": "430616300",
+        "location": "極東 / Östhauptstadt",
+        "name": "コーンブルメ ❄️",
+        "pinned_tweet_id": "1649150833202966529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477940706551676929/H21Siwgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1631,
+          "like_count": 18354,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 4190
+        },
+        "url": "https://t.co/yUPWnT2Y0T",
+        "username": "cyanusR",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:36:41.000Z",
+        "description": "喵喵！/ ᠪᡳ ᠣᠴᡳ ᡝᠮᡠ ᡴᡝᠰᡳᡴᡝ᠈ ᡨᡝᡩᡝ ᡤᡝᠪᡠ ᠠᡴᡡ᠉\n\noverflowcat at https://t.co/h7O3I4XlCs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mastodon.social",
+                "end": 78,
+                "expanded_url": "http://mastodon.social",
+                "start": 55,
+                "url": "https://t.co/h7O3I4XlCs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.xinshijiededa.men",
+                "end": 23,
+                "expanded_url": "http://blog.xinshijiededa.men",
+                "start": 0,
+                "url": "https://t.co/6fBYGR8mNr"
+              }
+            ]
+          }
+        },
+        "id": "758295043337617408",
+        "location": "404号室",
+        "name": "ᠨᡝᡴᠣ",
+        "pinned_tweet_id": "1718672213585301620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775211265394098177/mvOWjr6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 1833,
+          "like_count": 272756,
+          "listed_count": 19,
+          "media_count": 2678,
+          "tweet_count": 14539
+        },
+        "url": "https://t.co/6fBYGR8mNr",
+        "username": "lazy_static",
+        "verified": false
+      }
+    ]
+  }
+}

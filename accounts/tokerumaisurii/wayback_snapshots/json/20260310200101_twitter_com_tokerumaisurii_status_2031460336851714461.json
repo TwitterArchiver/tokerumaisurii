@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030509124417736704"
+      ],
+      "media_source_tweet_id": [
+        "2030528943942664510"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2031460336851714461",
+    "created_at": "2026-03-10T20:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T21:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031460336851714461"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Genshin Impact サンドローネ",
+          "probability": 0.3147,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 56,
+          "normalized_text": "Sandrone コロンビーナ",
+          "probability": 0.2884,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 88,
+          "tag": "GenshinImpact"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019056641417924608",
+          "start": 3,
+          "username": "onigirann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYAP9K4kVj",
+          "end": 127,
+          "expanded_url": "https://x.com/onigirann/status/2030528943942664510/photo/1",
+          "media_key": "3_2030509124417736704",
+          "start": 104,
+          "url": "https://t.co/MYAP9K4kVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031460336851714461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030528943942664510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onigirann: 原神/Genshin Impact\nサンドローネ /Sandrone \nコロンビーナ/ Columbina \nSFW illustration \n#GenshinImpact📷 https://t.co/MYAP9K4kVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2030509124417736704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3RSmIb0AAGWRN.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030509124417736704"
+          ],
+          "media_source_tweet_id": [
+            "2030528943942664510"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2031460336851714461",
+        "created_at": "2026-03-10T20:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T21:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031460336851714461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Genshin Impact サンドローネ",
+              "probability": 0.3147,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Sandrone コロンビーナ",
+              "probability": 0.2884,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 88,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019056641417924608",
+              "start": 3,
+              "username": "onigirann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYAP9K4kVj",
+              "end": 127,
+              "expanded_url": "https://x.com/onigirann/status/2030528943942664510/photo/1",
+              "media_key": "3_2030509124417736704",
+              "start": 104,
+              "url": "https://t.co/MYAP9K4kVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031460336851714461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030528943942664510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onigirann: 原神/Genshin Impact\nサンドローネ /Sandrone \nコロンビーナ/ Columbina \nSFW illustration \n#GenshinImpact📷 https://t.co/MYAP9K4kVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030509124417736704"
+          ]
+        },
+        "author_id": "2019056641417924608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2030528943942664510",
+        "created_at": "2026-03-08T06:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030528943942664510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Genshin Impact サンドローネ",
+              "probability": 0.3336,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Sandrone コロンビーナ",
+              "probability": 0.3826,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 73,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYAP9K4kVj",
+              "end": 112,
+              "expanded_url": "https://x.com/onigirann/status/2030528943942664510/photo/1",
+              "media_key": "3_2030509124417736704",
+              "start": 89,
+              "url": "https://t.co/MYAP9K4kVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030528943942664510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 23171,
+          "like_count": 3003,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "原神/Genshin Impact\nサンドローネ /Sandrone \nコロンビーナ/ Columbina \nSFW illustration \n#GenshinImpact📷 https://t.co/MYAP9K4kVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 277,
+          "like_count": 86682,
+          "listed_count": 8,
+          "media_count": 1111,
+          "tweet_count": 15999
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T14:33:24.000Z",
+        "description": "2026/02/07スタート\n好きなキャラを好きなようにとうこうしてきもす。アニメ、ゲーム問わず\n無断転載❌️\n\nR18↓\n https://t.co/9OyKoiGREJ\n極稀に案を採用↓\nhttps://t.co/ytOfH6my0M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120030399",
+                "end": 86,
+                "expanded_url": "https://pixiv.net/users/120030399",
+                "start": 63,
+                "url": "https://t.co/9OyKoiGREJ"
+              },
+              {
+                "display_url": "odaibako.net/u/onigiran",
+                "end": 119,
+                "expanded_url": "https://odaibako.net/u/onigiran",
+                "start": 96,
+                "url": "https://t.co/ytOfH6my0M"
+              }
+            ]
+          }
+        },
+        "id": "2019056641417924608",
+        "location": "AI",
+        "name": "おにぎらん",
+        "pinned_tweet_id": "2029200248430870795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026441039352123392/bC2897yW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6313,
+          "following_count": 27,
+          "like_count": 271,
+          "listed_count": 8,
+          "media_count": 106,
+          "tweet_count": 364
+        },
+        "username": "onigirann",
+        "verified": true
+      }
+    ]
+  }
+}

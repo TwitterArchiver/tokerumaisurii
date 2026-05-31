@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945863684426760192",
+        "3_1945863683155828737",
+        "3_1945863725375963136",
+        "3_1945865006127415296"
+      ],
+      "media_source_tweet_id": [
+        "1945865101170647414",
+        "1945865101170647414",
+        "1945865101170647414",
+        "1945865101170647414"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1945876602920808940",
+    "created_at": "2025-07-17T16:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T17:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945876602920808940"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "アリス",
+          "probability": 0.4657,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3733062552",
+          "start": 3,
+          "username": "EDZ_drawz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O8m1xKCHYf",
+          "end": 48,
+          "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+          "media_key": "3_1945863684426760192",
+          "start": 25,
+          "url": "https://t.co/O8m1xKCHYf"
+        },
+        {
+          "display_url": "pic.x.com/O8m1xKCHYf",
+          "end": 48,
+          "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+          "media_key": "3_1945863683155828737",
+          "start": 25,
+          "url": "https://t.co/O8m1xKCHYf"
+        },
+        {
+          "display_url": "pic.x.com/O8m1xKCHYf",
+          "end": 48,
+          "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+          "media_key": "3_1945863725375963136",
+          "start": 25,
+          "url": "https://t.co/O8m1xKCHYf"
+        },
+        {
+          "display_url": "pic.x.com/O8m1xKCHYf",
+          "end": 48,
+          "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+          "media_key": "3_1945865006127415296",
+          "start": 25,
+          "url": "https://t.co/O8m1xKCHYf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945876602920808940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945865101170647414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EDZ_drawz: アリスの日 ... https://t.co/O8m1xKCHYf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_1945863684426760192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEYthuXAAAUU4N.jpg",
+        "width": 2700
+      },
+      {
+        "height": 3200,
+        "media_key": "3_1945863683155828737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEYtc_WIAEJ36Z.jpg",
+        "width": 2800
+      },
+      {
+        "height": 512,
+        "media_key": "3_1945863725375963136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEYv6RaQAAT-48.png",
+        "width": 512
+      },
+      {
+        "height": 621,
+        "media_key": "3_1945865006127415296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEZ6dcWgAAESh6.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945863684426760192",
+            "3_1945863683155828737",
+            "3_1945863725375963136",
+            "3_1945865006127415296"
+          ],
+          "media_source_tweet_id": [
+            "1945865101170647414",
+            "1945865101170647414",
+            "1945865101170647414",
+            "1945865101170647414"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945876602920808940",
+        "created_at": "2025-07-17T16:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T17:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945876602920808940"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "アリス",
+              "probability": 0.4657,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3733062552",
+              "start": 3,
+              "username": "EDZ_drawz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 48,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945863684426760192",
+              "start": 25,
+              "url": "https://t.co/O8m1xKCHYf"
+            },
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 48,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945863683155828737",
+              "start": 25,
+              "url": "https://t.co/O8m1xKCHYf"
+            },
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 48,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945863725375963136",
+              "start": 25,
+              "url": "https://t.co/O8m1xKCHYf"
+            },
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 48,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945865006127415296",
+              "start": 25,
+              "url": "https://t.co/O8m1xKCHYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945876602920808940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945865101170647414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EDZ_drawz: アリスの日 ... https://t.co/O8m1xKCHYf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945863684426760192",
+            "3_1945863683155828737",
+            "3_1945863725375963136",
+            "3_1945865006127415296"
+          ]
+        },
+        "author_id": "3733062552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945865101170647414",
+        "created_at": "2025-07-17T15:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945865101170647414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 33,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945863684426760192",
+              "start": 10,
+              "url": "https://t.co/O8m1xKCHYf"
+            },
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 33,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945863683155828737",
+              "start": 10,
+              "url": "https://t.co/O8m1xKCHYf"
+            },
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 33,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945863725375963136",
+              "start": 10,
+              "url": "https://t.co/O8m1xKCHYf"
+            },
+            {
+              "display_url": "pic.x.com/O8m1xKCHYf",
+              "end": 33,
+              "expanded_url": "https://x.com/EDZ_drawz/status/1945865101170647414/photo/1",
+              "media_key": "3_1945865006127415296",
+              "start": 10,
+              "url": "https://t.co/O8m1xKCHYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945865101170647414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 1786,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "アリスの日 ... https://t.co/O8m1xKCHYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 186,
+          "like_count": 31723,
+          "listed_count": 3,
+          "media_count": 424,
+          "tweet_count": 5647
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-30T04:37:14.000Z",
+        "description": "Draws big stuff.\nPixiv: https://t.co/bLitsK8bZf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/44469205",
+                "end": 47,
+                "expanded_url": "http://pixiv.net/users/44469205",
+                "start": 24,
+                "url": "https://t.co/bLitsK8bZf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@edz_drawz?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@edz_drawz?si=zWwWchbinjGaieV1",
+                "start": 0,
+                "url": "https://t.co/fHcWZ6Swz3"
+              }
+            ]
+          }
+        },
+        "id": "3733062552",
+        "location": "二等座",
+        "name": "🇪 🇩 🇿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915737300618907648/vKOLNX7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14005,
+          "following_count": 617,
+          "like_count": 16259,
+          "listed_count": 73,
+          "media_count": 885,
+          "tweet_count": 2955
+        },
+        "url": "https://t.co/fHcWZ6Swz3",
+        "username": "EDZ_drawz",
+        "verified": false
+      }
+    ]
+  }
+}

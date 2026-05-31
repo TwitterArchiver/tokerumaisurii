@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dance",
+          "id": "847870201580232704",
+          "name": "Dance"
+        }
+      }
+    ],
+    "conversation_id": "2025673504725590129",
+    "created_at": "2026-02-22T20:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T21:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025673504725590129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuthering_wave…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/wuthering_waves/status/2025578826814878079",
+          "start": 33,
+          "url": "https://t.co/LE5TS4vOPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025673504725590129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025578826814878079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ciallo～(∠・ω&lt; )⌒☆\n鸣潮运营也是柚子厨吗？！ https://t.co/LE5TS4vOPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2303,
+        "media_key": "3_2025571812198002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxG1M0bMAAfGA7.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2303,
+        "media_key": "3_2025571861262970880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxG4DmbMAAQe2C.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2025571906506948609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxG6sJbgAEi9YJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2303,
+        "media_key": "3_2025571951092387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxG9SPbUAACXj4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2025673504725590129",
+        "created_at": "2026-02-22T20:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T21:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025673504725590129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuthering_wave…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/wuthering_waves/status/2025578826814878079",
+              "start": 33,
+              "url": "https://t.co/LE5TS4vOPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025673504725590129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025578826814878079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ciallo～(∠・ω&lt; )⌒☆\n鸣潮运营也是柚子厨吗？！ https://t.co/LE5TS4vOPL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025571812198002688",
+            "3_2025571861262970880",
+            "3_2025571906506948609",
+            "3_2025571951092387840"
+          ]
+        },
+        "author_id": "1514126816038256640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2025578826814878079",
+        "created_at": "2026-02-22T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025578826814878079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Ciallo～",
+              "probability": 0.5263,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Encounter Aemeath",
+              "probability": 0.7386,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Cosplay",
+              "probability": 0.5961,
+              "start": 86,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Mascot",
+              "probability": 0.5738,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 220,
+              "normalized_text": "Aemeath",
+              "probability": 0.613,
+              "start": 214,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJuuL3YV1N",
+              "end": 302,
+              "expanded_url": "https://x.com/Wuthering_Waves/status/2025578826814878079/photo/1",
+              "media_key": "3_2025571812198002688",
+              "start": 279,
+              "url": "https://t.co/TJuuL3YV1N"
+            },
+            {
+              "display_url": "pic.x.com/TJuuL3YV1N",
+              "end": 302,
+              "expanded_url": "https://x.com/Wuthering_Waves/status/2025578826814878079/photo/1",
+              "media_key": "3_2025571861262970880",
+              "start": 279,
+              "url": "https://t.co/TJuuL3YV1N"
+            },
+            {
+              "display_url": "pic.x.com/TJuuL3YV1N",
+              "end": 302,
+              "expanded_url": "https://x.com/Wuthering_Waves/status/2025578826814878079/photo/1",
+              "media_key": "3_2025571906506948609",
+              "start": 279,
+              "url": "https://t.co/TJuuL3YV1N"
+            },
+            {
+              "display_url": "pic.x.com/TJuuL3YV1N",
+              "end": 302,
+              "expanded_url": "https://x.com/Wuthering_Waves/status/2025578826814878079/photo/1",
+              "media_key": "3_2025571951092387840",
+              "start": 279,
+              "url": "https://t.co/TJuuL3YV1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025578826814878079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 323,
+                "start": 308,
+                "tag": "WutheringWaves"
+              },
+              {
+                "end": 338,
+                "start": 325,
+                "tag": "AemeathPopup"
+              }
+            ]
+          },
+          "text": "Ciallo～(∠・ω< )⌒☆\nThank you to everyone who came to the \"Encounter Aemeath!\" Mech · Cosplay · Mascot Photo Pop-Up Event! We hope you enjoyed the random dancing, snapping photos, and all the fun interactions with Aemeath in her many forms. Let's look back at some unforgettable moments we shared with Aemeath!\n#WutheringWaves \n#AemeathPopup"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 68472,
+          "like_count": 4154,
+          "quote_count": 9,
+          "reply_count": 31,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "Ciallo～(∠・ω&lt; )⌒☆\nThank you to everyone who came to the \"Encounter Aemeath!\" Mech · Cosplay · Mascot Photo Pop-Up Event! We hope you enjoyed the random dancing, snapping photos, and all the fun interactions with Aemeath in her many forms. Let's look back at some unforgettable https://t.co/TJuuL3YV1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 270,
+          "like_count": 79928,
+          "listed_count": 7,
+          "media_count": 1063,
+          "tweet_count": 15054
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T06:22:39.000Z",
+        "description": "Wuthering Waves is a story-rich open-world game with a high degree of freedom. It is now out across platforms worldwide!\nDownload NOW through the link below.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuwa.kurogames-global.com/EN",
+                "end": 23,
+                "expanded_url": "https://wuwa.kurogames-global.com/EN",
+                "start": 0,
+                "url": "https://t.co/ZfWIpdQFfb"
+              }
+            ]
+          }
+        },
+        "id": "1514126816038256640",
+        "name": "Wuthering Waves",
+        "pinned_tweet_id": "2018519816823620026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017071981209014333/lA7rRbE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099494,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 835,
+          "media_count": 1895,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/ZfWIpdQFfb",
+        "username": "Wuthering_Waves",
+        "verified": true
+      }
+    ]
+  }
+}

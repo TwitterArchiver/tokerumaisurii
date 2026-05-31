@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2054903005346951266",
+    "created_at": "2026-05-14T12:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054903005346951266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshino_2333/s…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/yoshino_2333/status/2054892781735444821",
+          "start": 142,
+          "url": "https://t.co/RlD4QTaMdF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054903005346951266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054892781735444821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此恨绵绵无绝期，我坚持认为虽然Rust有很多闪闪发光的好处，但单凭“没有隐式控制流，没有隐式内存分配，没有预处理器，也没有宏”的特性（摘自官网，但有强大的编译期执行），Zig就是绝对比Rust更优越的语言，哪怕剩下的部分再丑或者怎么了，可是至少干净，而这么改纯粹是跑去用下位替代了。 https://t.co/RlD4QTaMdF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2054892229072945152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRxmFWagAAfDIF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2054903005346951266",
+        "created_at": "2026-05-14T12:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054903005346951266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2054892781735444821",
+              "start": 142,
+              "url": "https://t.co/RlD4QTaMdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054903005346951266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054892781735444821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此恨绵绵无绝期，我坚持认为虽然Rust有很多闪闪发光的好处，但单凭“没有隐式控制流，没有隐式内存分配，没有预处理器，也没有宏”的特性（摘自官网，但有强大的编译期执行），Zig就是绝对比Rust更优越的语言，哪怕剩下的部分再丑或者怎么了，可是至少干净，而这么改纯粹是跑去用下位替代了。 https://t.co/RlD4QTaMdF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054892229072945152"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "conversation_id": "2054892781735444821",
+        "created_at": "2026-05-14T11:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054892781735444821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jb1ljnsj21",
+              "end": 104,
+              "expanded_url": "https://x.com/yoshino_2333/status/2054892781735444821/photo/1",
+              "media_key": "3_2054892229072945152",
+              "start": 81,
+              "url": "https://t.co/Jb1ljnsj21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054892781735444821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 155,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫我下午就小睡了一会儿，醒来 bun 就成 rust 写的了💀，真的合并了竟然。\n\n语言神 rust 你赢了。我决定于近期开始我第三次 rust 入门之旅💀 https://t.co/Jb1ljnsj21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14870 弱虫モンブラン AP+ アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 120,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 97,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 315,
+          "like_count": 106499,
+          "listed_count": 11,
+          "media_count": 1267,
+          "tweet_count": 19586
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054343815625048064/juCM93Sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 631,
+          "like_count": 15219,
+          "listed_count": 5,
+          "media_count": 517,
+          "tweet_count": 10908
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

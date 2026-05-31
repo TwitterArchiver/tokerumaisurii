@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1979168657751064968",
+    "created_at": "2025-10-17T17:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T18:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979232751095083100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "759074605",
+          "start": 0,
+          "username": "Alenjonesyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979232751095083100",
+    "in_reply_to_user_id": "759074605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979168657751064968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alenjonesyi 纽时的立场不是反中，我觉得是反资本主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1979168657751064968",
+        "created_at": "2025-10-17T17:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T18:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979232751095083100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "759074605",
+              "start": 0,
+              "username": "Alenjonesyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979232751095083100",
+        "in_reply_to_user_id": "759074605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979168657751064968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alenjonesyi 纽时的立场不是反中，我觉得是反资本主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "759074605",
+        "conversation_id": "1979168657751064968",
+        "created_at": "2025-10-17T12:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979168657751064968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nytchinese/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nytchinese/status/1979010754721313044",
+              "start": 9,
+              "url": "https://t.co/q06rpkZRaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979168657751064968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979010754721313044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅这也能怪中国？ https://t.co/q06rpkZRaH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 222,
+          "like_count": 55211,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 10356
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-15T10:32:09.000Z",
+        "description": "A privileged foreigner in the United States. I am grateful to the American people for giving me the opportunity to benefit from this services.",
+        "id": "759074605",
+        "location": "Washington, USA",
+        "name": "sudo fixes everything",
+        "pinned_tweet_id": "1534487548046716928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921770994009575426/Gi3-Cf4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 2162,
+          "like_count": 219768,
+          "listed_count": 17,
+          "media_count": 1006,
+          "tweet_count": 30881
+        },
+        "username": "Alenjonesyi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902705565429882880"
+      ],
+      "media_source_tweet_id": [
+        "1902705573080309791"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1903126336304005532",
+    "created_at": "2025-03-21T16:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T17:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903126336304005532"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2258884646",
+          "start": 3,
+          "username": "_neruzou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TAHjFjUMWl",
+          "end": 55,
+          "expanded_url": "https://x.com/_neruzou/status/1902705573080309791/photo/1",
+          "media_key": "3_1902705565429882880",
+          "start": 32,
+          "url": "https://t.co/TAHjFjUMWl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903126336304005532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902705573080309791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_neruzou: 少女作業中\n\n#東方Project https://t.co/TAHjFjUMWl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902705565429882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmfEoXubYAA_Fe8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902705565429882880"
+          ],
+          "media_source_tweet_id": [
+            "1902705573080309791"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1903126336304005532",
+        "created_at": "2025-03-21T16:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T17:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903126336304005532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2258884646",
+              "start": 3,
+              "username": "_neruzou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAHjFjUMWl",
+              "end": 55,
+              "expanded_url": "https://x.com/_neruzou/status/1902705573080309791/photo/1",
+              "media_key": "3_1902705565429882880",
+              "start": 32,
+              "url": "https://t.co/TAHjFjUMWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903126336304005532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902705573080309791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_neruzou: 少女作業中\n\n#東方Project https://t.co/TAHjFjUMWl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902705565429882880"
+          ]
+        },
+        "author_id": "2258884646",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1902705573080309791",
+        "created_at": "2025-03-20T12:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T13:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902705573080309791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAHjFjUMWl",
+              "end": 41,
+              "expanded_url": "https://x.com/_neruzou/status/1902705573080309791/photo/1",
+              "media_key": "3_1902705565429882880",
+              "start": 18,
+              "url": "https://t.co/TAHjFjUMWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902705573080309791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 36312,
+          "like_count": 2407,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "少女作業中\n\n#東方Project https://t.co/TAHjFjUMWl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité",
+        "id": "1903099585129816064",
+        "name": "融けるマイスリー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-23T12:44:17.000Z",
+        "description": "イラストや漫画、稀にアニメーションなどを描いてます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neruzou.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://neruzou.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/D1BfsxpBAi"
+              }
+            ]
+          }
+        },
+        "id": "2258884646",
+        "location": "関東",
+        "name": "ねるぞう＠静岡例大祭え20b",
+        "pinned_tweet_id": "1902632358567932061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886471262853296128/PMiotNrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27420,
+          "following_count": 428,
+          "like_count": 20267,
+          "listed_count": 253,
+          "media_count": 1124,
+          "tweet_count": 65366
+        },
+        "url": "https://t.co/D1BfsxpBAi",
+        "username": "_neruzou",
+        "verified": false
+      }
+    ]
+  }
+}

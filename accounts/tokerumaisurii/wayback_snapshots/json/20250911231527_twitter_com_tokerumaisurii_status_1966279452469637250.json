@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966279448610713600"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "1966279452469637250",
+    "created_at": "2025-09-11T23:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T00:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966279452469637250"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "Prophesy One",
+          "probability": 0.8992,
+          "start": 0,
+          "type": "Other"
+        },
+        {
+          "end": 27,
+          "normalized_text": "Charlie Kirk",
+          "probability": 0.9744,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/63RbVLFJYW",
+          "end": 52,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1966279452469637250/photo/1",
+          "media_key": "3_1966279448610713600",
+          "start": 29,
+          "url": "https://t.co/63RbVLFJYW"
+        },
+        {
+          "display_url": "x.com/charliekirk11/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/charliekirk11/status/480862236173692928",
+          "start": 53,
+          "url": "https://t.co/mEyjk0SDAJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966279452469637250",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "480862236173692928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Prophesy One by Charlie Kirk https://t.co/63RbVLFJYW https://t.co/mEyjk0SDAJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1966279448610713600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0mgvZ-XsAAnyL-.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966279448610713600"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1966279452469637250",
+        "created_at": "2025-09-11T23:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966279452469637250"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Prophesy One",
+              "probability": 0.8992,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Charlie Kirk",
+              "probability": 0.9744,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/63RbVLFJYW",
+              "end": 52,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1966279452469637250/photo/1",
+              "media_key": "3_1966279448610713600",
+              "start": 29,
+              "url": "https://t.co/63RbVLFJYW"
+            },
+            {
+              "display_url": "x.com/charliekirk11/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/charliekirk11/status/480862236173692928",
+              "start": 53,
+              "url": "https://t.co/mEyjk0SDAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966279452469637250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "480862236173692928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Prophesy One by Charlie Kirk https://t.co/63RbVLFJYW https://t.co/mEyjk0SDAJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "292929271",
+        "conversation_id": "480862236173692928",
+        "created_at": "2014-06-22T23:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2014-06-23T00:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "480862236173692928"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "AR-15",
+              "probability": 0.6731,
+              "start": 26,
+              "type": "Product"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "480862236173692928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20729,
+          "impression_count": 0,
+          "like_count": 97306,
+          "quote_count": 23043,
+          "reply_count": 6580,
+          "retweet_count": 33266
+        },
+        "reply_settings": "everyone",
+        "text": "Did I just get shot by an AR-15? Feels like it."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 206,
+          "like_count": 43543,
+          "listed_count": 6,
+          "media_count": 601,
+          "tweet_count": 8185
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-04T13:37:25.000Z",
+        "description": "Founder & CEO: @TPUSA + @TPAction_ • Host: The Charlie Kirk Show • Click the link below to subscribe 🇺🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "TPUSA"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "TPAction_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "podcasts.apple.com/us/podcast/the…",
+                "end": 23,
+                "expanded_url": "https://podcasts.apple.com/us/podcast/the-charlie-kirk-show/id1460600818",
+                "start": 0,
+                "url": "https://t.co/qiKLOzdk76"
+              }
+            ]
+          }
+        },
+        "id": "292929271",
+        "location": "Phoenix, AZ",
+        "name": "Charlie Kirk",
+        "pinned_tweet_id": "1965807372871532818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960021282202021888/uf_03Y-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5727855,
+          "following_count": 184949,
+          "like_count": 38301,
+          "listed_count": 12286,
+          "media_count": 12039,
+          "tweet_count": 71499
+        },
+        "url": "https://t.co/qiKLOzdk76",
+        "username": "charliekirk11",
+        "verified": true
+      }
+    ]
+  }
+}

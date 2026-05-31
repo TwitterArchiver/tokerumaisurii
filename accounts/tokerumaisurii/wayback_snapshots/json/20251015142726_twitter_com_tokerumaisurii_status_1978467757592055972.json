@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1978467757592055972",
+    "created_at": "2025-10-15T14:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T15:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978467757592055972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bubblepipe42/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/bubblepipe42/status/1978341492742619158",
+          "start": 40,
+          "url": "https://t.co/EBiIDdPQfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978467757592055972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978341492742619158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉被说中了，我可能会是那种被做爱+灌酒+喂安眠药伺候舒服了就会特别脆弱的人。 https://t.co/EBiIDdPQfD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1978341492742619158].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1978341492742619158",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978341492742619158"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1978467757592055972",
+        "created_at": "2025-10-15T14:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T15:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978467757592055972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bubblepipe42/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/bubblepipe42/status/1978341492742619158",
+              "start": 40,
+              "url": "https://t.co/EBiIDdPQfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978467757592055972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978341492742619158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉被说中了，我可能会是那种被做爱+灌酒+喂安眠药伺候舒服了就会特别脆弱的人。 https://t.co/EBiIDdPQfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 221,
+          "like_count": 54352,
+          "listed_count": 6,
+          "media_count": 698,
+          "tweet_count": 10256
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2043798052331196671",
+    "created_at": "2026-04-14T02:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043886382679035975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1616632595806322690",
+          "start": 0,
+          "username": "NekoWitchAKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043886382679035975",
+    "in_reply_to_user_id": "1616632595806322690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043884058137272450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoWitchAKR 思考，我应该只动了init_boot用来刷KernelSU……？如果OTA里没有更新这个，应该不会有问题吧？而且A/B分区就算增量也不影响……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2043798052331196671",
+        "created_at": "2026-04-14T02:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043886382679035975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1616632595806322690",
+              "start": 0,
+              "username": "NekoWitchAKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043886382679035975",
+        "in_reply_to_user_id": "1616632595806322690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043884058137272450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoWitchAKR 思考，我应该只动了init_boot用来刷KernelSU……？如果OTA里没有更新这个，应该不会有问题吧？而且A/B分区就算增量也不影响……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616632595806322690",
+        "conversation_id": "2043798052331196671",
+        "created_at": "2026-04-14T02:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043884058137272450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043884058137272450",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043798052331196671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 然后你改了系统分区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3422,
+          "following_count": 305,
+          "like_count": 98680,
+          "listed_count": 9,
+          "media_count": 1198,
+          "tweet_count": 18181
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-21T03:04:10.000Z",
+        "description": "明里，或许是猫 | Shey/They | 无治主义者 | 东方&邦邦&pjsk&术力口🥰  |「人的幻想就是被常识世界所抛弃的产物；幻想不等同于空想，但常识世界总会把它们相提。」",
+        "id": "1616632595806322690",
+        "location": "При́п'ять",
+        "name": "花崎明里🏳️‍⚧️#Ceres",
+        "pinned_tweet_id": "2026100453046669784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875579221453795328/osA1L0Kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1514,
+          "like_count": 138,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 333
+        },
+        "username": "NekoWitchAKR",
+        "verified": false
+      }
+    ]
+  }
+}

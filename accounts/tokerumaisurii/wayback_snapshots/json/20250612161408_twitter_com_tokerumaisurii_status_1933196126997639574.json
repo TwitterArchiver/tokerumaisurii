@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933087583644659712"
+      ],
+      "media_source_tweet_id": [
+        "1933087711092711677"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1933196126997639574",
+    "created_at": "2025-06-12T16:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T17:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933196126997639574"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "東方Project"
+        },
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "アクリルガッシュ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486024231087267843",
+          "start": 3,
+          "username": "sasamik_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SNjvm3Yzz5",
+          "end": 65,
+          "expanded_url": "https://x.com/sasamik_/status/1933087711092711677/photo/1",
+          "media_key": "3_1933087583644659712",
+          "start": 42,
+          "url": "https://t.co/SNjvm3Yzz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933196126997639574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933087711092711677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasamik_: 闇の海を泳ぐ\n#東方Project #アクリルガッシュ https://t.co/SNjvm3Yzz5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_1933087583644659712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtO06lbbsAAyhcB.jpg",
+        "width": 2028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933087583644659712"
+          ],
+          "media_source_tweet_id": [
+            "1933087711092711677"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1933196126997639574",
+        "created_at": "2025-06-12T16:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T17:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933196126997639574"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "東方Project"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "アクリルガッシュ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486024231087267843",
+              "start": 3,
+              "username": "sasamik_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNjvm3Yzz5",
+              "end": 65,
+              "expanded_url": "https://x.com/sasamik_/status/1933087711092711677/photo/1",
+              "media_key": "3_1933087583644659712",
+              "start": 42,
+              "url": "https://t.co/SNjvm3Yzz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933196126997639574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933087711092711677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasamik_: 闇の海を泳ぐ\n#東方Project #アクリルガッシュ https://t.co/SNjvm3Yzz5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933087583644659712"
+          ]
+        },
+        "author_id": "1486024231087267843",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1933087711092711677",
+        "created_at": "2025-06-12T09:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933087711092711677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "東方Project"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "アクリルガッシュ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNjvm3Yzz5",
+              "end": 51,
+              "expanded_url": "https://x.com/sasamik_/status/1933087711092711677/photo/1",
+              "media_key": "3_1933087583644659712",
+              "start": 28,
+              "url": "https://t.co/SNjvm3Yzz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933087711092711677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 12444,
+          "like_count": 1039,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "闇の海を泳ぐ\n#東方Project #アクリルガッシュ https://t.co/SNjvm3Yzz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我很脆弱，开不起玩笑，求求你们不要开。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 165,
+          "like_count": 21265,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3708
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T17:12:59.000Z",
+        "description": "少女絵描き🎨 *｜幻想的でやさしくかわいい絵を目指してます *｜東方.創作.デジタル.アナログ.SDキャラなど *｜✉イラストお仕事募集中*｜🏠https://t.co/WXpWOZDuYh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sasami.art",
+                "end": 95,
+                "expanded_url": "http://sasami.art",
+                "start": 72,
+                "url": "https://t.co/WXpWOZDuYh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasamik.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://sasamik.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/pixrP83650"
+              }
+            ]
+          }
+        },
+        "id": "1486024231087267843",
+        "location": "🗓イベント予定▶︎夏コミ.9月コミティア.紅楼夢.秋例",
+        "name": "花睡ささみ@C106日曜 ウ-29a",
+        "pinned_tweet_id": "1930943001221562855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793507257008934913/JEZ5Qbat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4898,
+          "following_count": 252,
+          "like_count": 3776,
+          "listed_count": 62,
+          "media_count": 114,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/pixrP83650",
+        "username": "sasamik_",
+        "verified": false
+      }
+    ]
+  }
+}

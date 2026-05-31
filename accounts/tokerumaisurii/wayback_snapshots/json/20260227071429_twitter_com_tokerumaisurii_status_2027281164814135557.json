@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027272078731407360"
+      ],
+      "media_source_tweet_id": [
+        "2027272081306710489"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027281164814135557",
+    "created_at": "2026-02-27T07:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027281164814135557"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "WuWa",
+          "probability": 0.3107,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 88,
+          "normalized_text": "WuWaCollection",
+          "probability": 0.4306,
+          "start": 75,
+          "type": "Other"
+        },
+        {
+          "end": 105,
+          "normalized_text": "WuWaAnniversary",
+          "probability": 0.4138,
+          "start": 91,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 48,
+          "tag": "WutheringWaves"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "WuWa"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "鳴潮"
+        },
+        {
+          "end": 89,
+          "start": 74,
+          "tag": "WuWaCollection"
+        },
+        {
+          "end": 106,
+          "start": 90,
+          "tag": "WuWaAnniversary"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823723704918138883",
+          "start": 3,
+          "username": "wuwaguy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l4XbfbvnIL",
+          "end": 130,
+          "expanded_url": "https://x.com/wuwaguy/status/2027272081306710489/photo/1",
+          "media_key": "3_2027272078731407360",
+          "start": 107,
+          "url": "https://t.co/l4XbfbvnIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027281164814135557",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027272081306710489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuwaguy: Happy Birthday my Shorekeeper 🎂 ❤\n\n#WutheringWaves #WuWa #鳴潮 #WuWaCollection #WuWaAnniversary https://t.co/l4XbfbvnIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2027272078731407360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJRNvPacAAkQgo.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027272078731407360"
+          ],
+          "media_source_tweet_id": [
+            "2027272081306710489"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027281164814135557",
+        "created_at": "2026-02-27T07:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027281164814135557"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "WuWa",
+              "probability": 0.3107,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "WuWaCollection",
+              "probability": 0.4306,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "WuWaAnniversary",
+              "probability": 0.4138,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 48,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "WuWa"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 89,
+              "start": 74,
+              "tag": "WuWaCollection"
+            },
+            {
+              "end": 106,
+              "start": 90,
+              "tag": "WuWaAnniversary"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823723704918138883",
+              "start": 3,
+              "username": "wuwaguy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4XbfbvnIL",
+              "end": 130,
+              "expanded_url": "https://x.com/wuwaguy/status/2027272081306710489/photo/1",
+              "media_key": "3_2027272078731407360",
+              "start": 107,
+              "url": "https://t.co/l4XbfbvnIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027281164814135557",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027272081306710489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuwaguy: Happy Birthday my Shorekeeper 🎂 ❤\n\n#WutheringWaves #WuWa #鳴潮 #WuWaCollection #WuWaAnniversary https://t.co/l4XbfbvnIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027272078731407360"
+          ]
+        },
+        "author_id": "1823723704918138883",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027272081306710489",
+        "created_at": "2026-02-27T06:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027272081306710489"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "WutheringWaves",
+              "probability": 0.3695,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "WuWa",
+              "probability": 0.3517,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "WuWaCollection",
+              "probability": 0.3932,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 35,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "WuWa"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 76,
+              "start": 61,
+              "tag": "WuWaCollection"
+            },
+            {
+              "end": 93,
+              "start": 77,
+              "tag": "WuWaAnniversary"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4XbfbvnIL",
+              "end": 117,
+              "expanded_url": "https://x.com/wuwaguy/status/2027272081306710489/photo/1",
+              "media_key": "3_2027272078731407360",
+              "start": 94,
+              "url": "https://t.co/l4XbfbvnIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027272081306710489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 707,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Birthday my Shorekeeper 🎂 ❤\n\n#WutheringWaves #WuWa #鳴潮 #WuWaCollection #WuWaAnniversary https://t.co/l4XbfbvnIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 271,
+          "like_count": 81510,
+          "listed_count": 7,
+          "media_count": 1069,
+          "tweet_count": 15262
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:10:02.000Z",
+        "description": "Updates, informations and much more :) #WutheringWaves | Stay Tuned with us",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 39,
+                "tag": "WutheringWaves"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wuwaguy_updts",
+                "end": 23,
+                "expanded_url": "https://t.me/wuwaguy_updts",
+                "start": 0,
+                "url": "https://t.co/obfTH8DG3u"
+              }
+            ]
+          }
+        },
+        "id": "1823723704918138883",
+        "location": "Solaris-3 (He/Him)",
+        "name": "RinasCita",
+        "pinned_tweet_id": "2026646189333196929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976611850411520001/6Uf10Lno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46173,
+          "following_count": 57,
+          "like_count": 23042,
+          "listed_count": 111,
+          "media_count": 2152,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/obfTH8DG3u",
+        "username": "wuwaguy",
+        "verified": false
+      }
+    ]
+  }
+}

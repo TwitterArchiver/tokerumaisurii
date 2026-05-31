@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1971983723609600498",
+    "created_at": "2025-09-27T17:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T18:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971983723609600498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1971827182084473082",
+          "start": 54,
+          "url": "https://t.co/btC7zaCpGw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971983723609600498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971827182084473082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得自己这句「简直像把海洛因粉末均匀地倒在我的大脑皮层的每一寸沟壑里再烤出蒸腾的烟雾一样」写得特别牛逼🥰 https://t.co/btC7zaCpGw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1971827182084473082].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1971827182084473082",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971827182084473082"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1971983723609600498",
+        "created_at": "2025-09-27T17:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971983723609600498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1971827182084473082",
+              "start": 54,
+              "url": "https://t.co/btC7zaCpGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971983723609600498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971827182084473082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得自己这句「简直像把海洛因粉末均匀地倒在我的大脑皮层的每一寸沟壑里再烤出蒸腾的烟雾一样」写得特别牛逼🥰 https://t.co/btC7zaCpGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 和我一起，进入幻想的世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 213,
+          "like_count": 49145,
+          "listed_count": 7,
+          "media_count": 644,
+          "tweet_count": 9265
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

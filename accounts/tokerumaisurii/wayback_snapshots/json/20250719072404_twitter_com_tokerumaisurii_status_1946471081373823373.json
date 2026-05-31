@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "1946471081373823373",
+    "created_at": "2025-07-19T07:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T08:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946471081373823373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mysticallala/s…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/mysticallala/status/1945940255288271354",
+          "start": 72,
+          "url": "https://t.co/bdMYslOvvw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946471081373823373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945940255288271354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你个鬼畜东西你摔什么摔，你今天这样对待fumo们，你这一生中有朝一日也会被人就像这样摔下楼梯的，像她们一样可怜地摔下楼梯滚来滚去变得满身疮痍。 https://t.co/bdMYslOvvw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11168,
+        "height": 1280,
+        "media_key": "7_1945940229195444224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945940229195444224/pu/img/vxSD_17rSzi7dMkI.jpg",
+        "public_metrics": {
+          "view_count": 11885
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945940229195444224/pu/vid/avc1/320x568/_98LL0e4sF3hncTP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945940229195444224/pu/vid/avc1/480x852/YfXhFUDEZWBm-CMB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945940229195444224/pu/vid/avc1/720x1280/HliMLdJy8d1F5e2d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945940229195444224/pu/pl/2Oo75dKm3mxcjQE-.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1946471081373823373",
+        "created_at": "2025-07-19T07:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946471081373823373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mysticallala/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/mysticallala/status/1945940255288271354",
+              "start": 72,
+              "url": "https://t.co/bdMYslOvvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946471081373823373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945940255288271354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你个鬼畜东西你摔什么摔，你今天这样对待fumo们，你这一生中有朝一日也会被人就像这样摔下楼梯的，像她们一样可怜地摔下楼梯滚来滚去变得满身疮痍。 https://t.co/bdMYslOvvw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945940229195444224"
+          ]
+        },
+        "author_id": "3062525274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1945940255288271354",
+        "created_at": "2025-07-17T20:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T21:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945940255288271354"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Fumo Avalanche",
+              "probability": 0.5789,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "東方Project"
+            },
+            {
+              "end": 72,
+              "start": 58,
+              "tag": "touhouproject"
+            },
+            {
+              "end": 84,
+              "start": 73,
+              "tag": "touhoufumo"
+            },
+            {
+              "end": 94,
+              "start": 85,
+              "tag": "fumofumo"
+            },
+            {
+              "end": 104,
+              "start": 95,
+              "tag": "plushies"
+            },
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "giftfumo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oiKe5dH3O",
+              "end": 138,
+              "expanded_url": "https://x.com/Mysticallala/status/1945940255288271354/video/1",
+              "media_key": "7_1945940229195444224",
+              "start": 115,
+              "url": "https://t.co/5oiKe5dH3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945940255288271354",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 29723,
+          "like_count": 2073,
+          "quote_count": 10,
+          "reply_count": 45,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "Fumo Avalanche 3.0! Now with even more fumos!\n\n#東方Project #touhouproject #touhoufumo #fumofumo #plushies #giftfumo https://t.co/5oiKe5dH3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 187,
+          "like_count": 32269,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 5740
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-05T08:57:27.000Z",
+        "description": "⛩️東方Project⛩️ 🌸Cosplayer🌸⚜️Figure+Fumo Collector⚜️ ⭐Certified Bat⭐                                      \n           ➡️ https://t.co/lUVyRreRTU ⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/mysticallala",
+                "end": 142,
+                "expanded_url": "http://ko-fi.com/mysticallala",
+                "start": 119,
+                "url": "https://t.co/lUVyRreRTU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "etsy.com/shop/MysticalL…",
+                "end": 23,
+                "expanded_url": "https://www.etsy.com/shop/MysticalLala",
+                "start": 0,
+                "url": "https://t.co/plLkpNTTEj"
+              }
+            ]
+          }
+        },
+        "id": "3062525274",
+        "location": "Arizona",
+        "name": "🌹🦇Kayla🦇🌹",
+        "pinned_tweet_id": "1298668748958654465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823952865398022146/KlSNx5nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3665,
+          "following_count": 676,
+          "like_count": 46216,
+          "listed_count": 26,
+          "media_count": 1931,
+          "tweet_count": 8843
+        },
+        "url": "https://t.co/plLkpNTTEj",
+        "username": "Mysticallala",
+        "verified": false
+      }
+    ]
+  }
+}

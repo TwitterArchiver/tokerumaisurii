@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2007972940302909566",
+    "created_at": "2026-01-05T00:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T01:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007972940302909566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tpsoperations/…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/tpsoperations/status/2007969086689472751",
+          "start": 141,
+          "url": "https://t.co/dCZ2uSt2sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007972940302909566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007969086689472751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们知道吗，我一刻钟前刚到这里等车，刚要进站看见一堆警车消防车救护车呼啸而入，候车的人都被要求离开然后封站了，现在更是来了一队纯黑色的警车，我猜是这边的特警吧。\n我不知道枪手是跑了还是车里对峙，看意思应该是跑了（但怎么跑的，大摇大摆威胁开门下车吗），我好怕等会突然被一枪穿心死了。 https://t.co/dCZ2uSt2sk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2007972940302909566",
+        "created_at": "2026-01-05T00:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007972940302909566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tpsoperations/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/tpsoperations/status/2007969086689472751",
+              "start": 141,
+              "url": "https://t.co/dCZ2uSt2sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007972940302909566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007969086689472751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们知道吗，我一刻钟前刚到这里等车，刚要进站看见一堆警车消防车救护车呼啸而入，候车的人都被要求离开然后封站了，现在更是来了一队纯黑色的警车，我猜是这边的特警吧。\n我不知道枪手是跑了还是车里对峙，看意思应该是跑了（但怎么跑的，大摇大摆威胁开门下车吗），我好怕等会突然被一枪穿心死了。 https://t.co/dCZ2uSt2sk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "463933187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337065881617121280",
+              "name": "Toronto"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1337065881617121280",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2007969086689472751",
+        "created_at": "2026-01-05T00:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007969086689472751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Yorkdale Rd",
+              "probability": 0.5638,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 30,
+              "normalized_text": "Allen",
+              "probability": 0.3684,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Yorkdale",
+              "probability": 0.5233,
+              "start": 37,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007969086689472751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 345,
+                "start": 337,
+                "tag": "GO25989"
+              }
+            ]
+          },
+          "text": "SHOOTING:\nYorkdale Rd and Allen ramp\nYorkdale GO bus terminal\n7:00 pm\n-reports of someone that has been shot on the bus\n- police o/s\n-one male located with a gunshot wound\n-possible suspect description: male, brown skin, late 20's,  approx 5'8\", wearing a grey tracksuit, black jacket w/ fake red and brown fur\n-investigation is ongoing\n#GO25989\n^lm"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1505,
+          "like_count": 2,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "SHOOTING:\nYorkdale Rd and Allen ramp\nYorkdale GO bus terminal\n7:00 pm\n-reports of someone that has been shot on the bus\n- police o/s\n-one male located with a gunshot wound\n-possible suspect description: male, brown skin, late 20's,  approx 5'8\", wearing a grey tracksuit, black"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 255,
+          "like_count": 71816,
+          "listed_count": 7,
+          "media_count": 932,
+          "tweet_count": 13514
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-14T17:01:21.000Z",
+        "description": "Official @TorontoPolice Operations Centre ***NOT MONITORED 24/7***. Non Emergency number is 416-808-2222, Emergency 911, TDD 4164670943",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "TorontoPolice"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontopolice.on.ca",
+                "end": 23,
+                "expanded_url": "http://www.torontopolice.on.ca",
+                "start": 0,
+                "url": "https://t.co/d9vr2qyiRb"
+              }
+            ]
+          }
+        },
+        "id": "463933187",
+        "location": "Toronto, Ont, Canada",
+        "name": "Toronto Police Operations",
+        "pinned_tweet_id": "1955242041824207078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1224539699798335491/gOEP7UeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320965,
+          "following_count": 2,
+          "like_count": 1352,
+          "listed_count": 1136,
+          "media_count": 13025,
+          "tweet_count": 95539
+        },
+        "url": "https://t.co/d9vr2qyiRb",
+        "username": "TPSOperations",
+        "verified": true
+      }
+    ]
+  }
+}

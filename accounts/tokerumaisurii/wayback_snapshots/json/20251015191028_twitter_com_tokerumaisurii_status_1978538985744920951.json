@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1978538985744920951",
+    "created_at": "2025-10-15T19:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T20:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978538985744920951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elonmusk/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/elonmusk/status/1977281341264740625",
+          "start": 26,
+          "url": "https://t.co/TStPJ2YeeA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978538985744920951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977281341264740625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次听说微软/巨硬这个梗的时候没料到会有今天🤯 https://t.co/TStPJ2YeeA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1978538985744920951",
+        "created_at": "2025-10-15T19:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T20:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978538985744920951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/elonmusk/status/1977281341264740625",
+              "start": 26,
+              "url": "https://t.co/TStPJ2YeeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978538985744920951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977281341264740625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次听说微软/巨硬这个梗的时候没料到会有今天🤯 https://t.co/TStPJ2YeeA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44196397",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Watch Falcon 9 launch @Starlink satellites to low-Earth orbit. For more details, check out https://spacex.com/launches",
+              "id": "1671610834718453764",
+              "name": "Starlink Mission"
+            }
+          }
+        ],
+        "conversation_id": "1977281341264740625",
+        "created_at": "2025-10-12T07:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977281341264740625"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "MACROHARD",
+              "probability": 0.8244,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 235,
+              "normalized_text": "Apple",
+              "probability": 0.8974,
+              "start": 231,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661523610111193088",
+              "start": 4,
+              "username": "xai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cb_doge/status…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/cb_doge/status/1977250146720346228",
+              "start": 275,
+              "url": "https://t.co/7mDcBOxFLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977281341264740625",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 8,
+                "id": "1661523610111193088",
+                "start": 4,
+                "username": "xAI"
+              }
+            ]
+          },
+          "text": "The @xAI MACROHARD project will be profoundly impactful at an immense scale 😉 \n\nOur goal is to create a company that can do anything short of manufacturing physical objects directly, but will be able to do so indirectly, much like Apple has other companies manufacture their phones."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5371,
+          "impression_count": 17934317,
+          "like_count": 84529,
+          "quote_count": 1202,
+          "reply_count": 8737,
+          "retweet_count": 13732
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977250146720346228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The @xAI MACROHARD project will be profoundly impactful at an immense scale 😉 \n\nOur goal is to create a company that can do anything short of manufacturing physical objects directly, but will be able to do so indirectly, much like Apple has other companies manufacture their https://t.co/7mDcBOxFLi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 220,
+          "like_count": 54428,
+          "listed_count": 6,
+          "media_count": 698,
+          "tweet_count": 10261
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227780473,
+          "following_count": 1219,
+          "like_count": 177564,
+          "listed_count": 164661,
+          "media_count": 4179,
+          "tweet_count": 87623
+        },
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

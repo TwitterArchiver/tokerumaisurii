@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2031099096727945230",
+    "created_at": "2026-03-10T17:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031425540977000572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707730855",
+          "start": 0,
+          "username": "Lucky_Brick"
+        },
+        {
+          "end": 24,
+          "id": "1100776666194882561",
+          "start": 13,
+          "username": "akiEl3venn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031425540977000572",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031425118849683622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucky_Brick @akiEl3venn 而[1]如果Air作为编辑器没有内置足够强大的人本的分析提示功能的情况下，[2]如果Air作为LLM编程统合指导工具不保证像Cursor/Claude Code一样有强大的上下文管理、全局意识等等，那么Air就在[1]编辑器伺候人和[2]编辑器指导LLM方面都输了，那我不如用JB IDEs解决[1]，然后单独用Claude Code解决[2]了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2031099096727945230",
+        "created_at": "2026-03-10T17:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031425540977000572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707730855",
+              "start": 0,
+              "username": "Lucky_Brick"
+            },
+            {
+              "end": 24,
+              "id": "1100776666194882561",
+              "start": 13,
+              "username": "akiEl3venn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031425540977000572",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031425118849683622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucky_Brick @akiEl3venn 而[1]如果Air作为编辑器没有内置足够强大的人本的分析提示功能的情况下，[2]如果Air作为LLM编程统合指导工具不保证像Cursor/Claude Code一样有强大的上下文管理、全局意识等等，那么Air就在[1]编辑器伺候人和[2]编辑器指导LLM方面都输了，那我不如用JB IDEs解决[1]，然后单独用Claude Code解决[2]了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2031099096727945230",
+        "created_at": "2026-03-10T17:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031425118849683622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707730855",
+              "start": 0,
+              "username": "Lucky_Brick"
+            },
+            {
+              "end": 24,
+              "id": "1100776666194882561",
+              "start": 13,
+              "username": "akiEl3venn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031425118849683622",
+        "in_reply_to_user_id": "1707730855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031389891763073410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucky_Brick @akiEl3venn Air的问题我觉得不在Agent支持做得不好，要说哪不够好，那可能是早期版本能Claude OAuth，昨天正式Public Review版限制了，大公司包袱不敢乱搞。我不用Air的原因一个是三栏式它把对话放左边文件标签页放右边我不太习惯也没得调，另一个是代码分析提示功能（可能因为避免竞争IDE）还是太羸弱了……（续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 276,
+          "like_count": 86562,
+          "listed_count": 8,
+          "media_count": 1110,
+          "tweet_count": 15985
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-28T16:25:14.000Z",
+        "description": "Programming, Photography, Anime | ex-tooling developer, reseaching on devtools and produtivity booster | Linux enthusiast | Growth @JetBrains",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "JetBrains"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luckybricks.xyz",
+                "end": 23,
+                "expanded_url": "https://luckybricks.xyz",
+                "start": 0,
+                "url": "https://t.co/DYUw6rUGJe"
+              }
+            ]
+          }
+        },
+        "id": "1707730855",
+        "location": "Earth",
+        "name": "LuckyBricks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000939980575932416/ZwpzjUvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 305,
+          "like_count": 362,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/DYUw6rUGJe",
+        "username": "Lucky_Brick",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-27T15:16:23.000Z",
+        "description": "这个人脑子有病 || 发现有趣的账号就会关注/回关 || 不是男娘 || ACG weeb || Taking Master’s @uoft || -树洞@ich1nana7-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 65,
+                "username": "uoft"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ich1nana7"
+              }
+            ]
+          }
+        },
+        "id": "1100776666194882561",
+        "location": "Toronto, Ontario",
+        "name": "akiEl3venn_",
+        "pinned_tweet_id": "1978640484584046673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999793852970921986/J4gygtMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 331,
+          "like_count": 7282,
+          "listed_count": 1,
+          "media_count": 573,
+          "tweet_count": 2718
+        },
+        "username": "akiEl3venn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1977403437047599600",
+    "created_at": "2025-10-12T16:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977413962577973410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "tanbara_ririka"
+        },
+        {
+          "end": 31,
+          "id": "1670362954590728197",
+          "start": 16,
+          "username": "citric_baizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977413962577973410",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977403437047599600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanbara_ririka @citric_baizhou 你有什么资历？我04年的时候就是跨性别了，当时一群射出来的精比跑速，我其实让过几个带X的，但是他们自己后来又被拦截了没能进去，我只好自己钻进去。只不过后面我发现其实没有当中奖党的机会，就在23年左右决定入圈了也吃药了。结果你们新生代自顾自的又不许跨起来了，我只是在感叹你们悲惨的结局。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1977403437047599600].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977403437047599600",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1977403437047599600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1977403437047599600",
+        "created_at": "2025-10-12T16:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977413962577973410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "tanbara_ririka"
+            },
+            {
+              "end": 31,
+              "id": "1670362954590728197",
+              "start": 16,
+              "username": "citric_baizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977413962577973410",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977403437047599600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanbara_ririka @citric_baizhou 你有什么资历？我04年的时候就是跨性别了，当时一群射出来的精比跑速，我其实让过几个带X的，但是他们自己后来又被拦截了没能进去，我只好自己钻进去。只不过后面我发现其实没有当中奖党的机会，就在23年左右决定入圈了也吃药了。结果你们新生代自顾自的又不许跨起来了，我只是在感叹你们悲惨的结局。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 219,
+          "like_count": 53650,
+          "listed_count": 7,
+          "media_count": 686,
+          "tweet_count": 10172
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "i just wanna break you down so baaaadly💕 | 🐖－＞ @citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "citric_baizhou"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "💤",
+        "pinned_tweet_id": "1969804867117146480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976800565884862466/7g4Y5tlD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 606,
+          "like_count": 23976,
+          "listed_count": 1,
+          "media_count": 991,
+          "tweet_count": 8993
+        },
+        "username": "tanbara_ririka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "前世@Hyotochandesuyo 07｜MtX🍥｜温原/白粥｜Psycho｜ただ夏の匂いに目を瞑りたい｜🐽@tanbara_ririka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Hyotochandesuyo"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tanbara_ririka"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "土星",
+        "name": "枸櫞酸白粥緩釋片🍥",
+        "pinned_tweet_id": "1972936706203783189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975926719380062208/qzvT5spJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1391,
+          "like_count": 20899,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 3985
+        },
+        "username": "citric_baizhou",
+        "verified": false
+      }
+    ]
+  }
+}

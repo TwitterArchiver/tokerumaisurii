@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946502216367431680",
+        "3_1946502216363253761",
+        "3_1946502216183066624"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946423684769702174",
+    "created_at": "2025-07-19T09:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T10:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946502224726864142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919049320546086912",
+          "start": 0,
+          "username": "mizuame19953"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FBgwQGtUV6",
+          "end": 84,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1946502224726864142/photo/1",
+          "media_key": "3_1946502216367431680",
+          "start": 61,
+          "url": "https://t.co/FBgwQGtUV6"
+        },
+        {
+          "display_url": "pic.x.com/FBgwQGtUV6",
+          "end": 84,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1946502224726864142/photo/1",
+          "media_key": "3_1946502216363253761",
+          "start": 61,
+          "url": "https://t.co/FBgwQGtUV6"
+        },
+        {
+          "display_url": "pic.x.com/FBgwQGtUV6",
+          "end": 84,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1946502224726864142/photo/1",
+          "media_key": "3_1946502216183066624",
+          "start": 61,
+          "url": "https://t.co/FBgwQGtUV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946502224726864142",
+    "in_reply_to_user_id": "1919049320546086912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946430189019222312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame19953 TJ.hangneil区域 旅行伙伴 女の子（神威）\n但我不知道你这个有背景的版本哪来的…… https://t.co/FBgwQGtUV6"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946430189019222312].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946430189019222312",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946430189019222312"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_1946502216367431680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNdc-kXYAA30y1.jpg",
+        "width": 256
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946502216363253761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNdc-jXoAE2C1J.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946502216183066624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNdc94aMAAPNUV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946502216367431680",
+            "3_1946502216363253761",
+            "3_1946502216183066624"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946423684769702174",
+        "created_at": "2025-07-19T09:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T10:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946502224726864142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBgwQGtUV6",
+              "end": 84,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1946502224726864142/photo/1",
+              "media_key": "3_1946502216367431680",
+              "start": 61,
+              "url": "https://t.co/FBgwQGtUV6"
+            },
+            {
+              "display_url": "pic.x.com/FBgwQGtUV6",
+              "end": 84,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1946502224726864142/photo/1",
+              "media_key": "3_1946502216363253761",
+              "start": 61,
+              "url": "https://t.co/FBgwQGtUV6"
+            },
+            {
+              "display_url": "pic.x.com/FBgwQGtUV6",
+              "end": 84,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1946502224726864142/photo/1",
+              "media_key": "3_1946502216183066624",
+              "start": 61,
+              "url": "https://t.co/FBgwQGtUV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946502224726864142",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946430189019222312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 TJ.hangneil区域 旅行伙伴 女の子（神威）\n但我不知道你这个有背景的版本哪来的…… https://t.co/FBgwQGtUV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 187,
+          "like_count": 32295,
+          "listed_count": 5,
+          "media_count": 432,
+          "tweet_count": 5747
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "",
+        "id": "1919049320546086912",
+        "name": "バタフライ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946423619749388289/-5n_ADOT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 157,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 288
+        },
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

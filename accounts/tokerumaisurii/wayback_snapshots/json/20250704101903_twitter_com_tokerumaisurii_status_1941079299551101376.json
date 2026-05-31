@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941079288935006208"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "1941006618201936202",
+    "created_at": "2025-07-04T10:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T11:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941079299551101376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548857263086899201",
+          "start": 0,
+          "username": "DesoleBot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CPWNGXVyjl",
+          "end": 45,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1941079299551101376/photo/1",
+          "media_key": "3_1941079288935006208",
+          "start": 22,
+          "url": "https://t.co/CPWNGXVyjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941079299551101376",
+    "in_reply_to_user_id": "1548857263086899201",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941068973803807213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesoleBot Yeah, yeah https://t.co/CPWNGXVyjl"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1941068973803807213].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1941068973803807213",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1941068973803807213"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941079288935006208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvAZVDnWwAAT-5C.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941079288935006208"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "1941006618201936202",
+        "created_at": "2025-07-04T10:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T11:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941079299551101376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548857263086899201",
+              "start": 0,
+              "username": "DesoleBot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPWNGXVyjl",
+              "end": 45,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1941079299551101376/photo/1",
+              "media_key": "3_1941079288935006208",
+              "start": 22,
+              "url": "https://t.co/CPWNGXVyjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941079299551101376",
+        "in_reply_to_user_id": "1548857263086899201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941068973803807213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesoleBot Yeah, yeah https://t.co/CPWNGXVyjl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 178,
+          "like_count": 28176,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 4970
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T02:28:56.000Z",
+        "description": "🕳️",
+        "id": "1548857263086899201",
+        "location": "CW Complex",
+        "name": "Désolé Bot",
+        "pinned_tweet_id": "1906649874327859436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823173342444077056/7CL3WHUu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 104,
+          "like_count": 6330,
+          "listed_count": 0,
+          "media_count": 1646,
+          "tweet_count": 15658
+        },
+        "username": "DesoleBot",
+        "verified": false
+      }
+    ]
+  }
+}

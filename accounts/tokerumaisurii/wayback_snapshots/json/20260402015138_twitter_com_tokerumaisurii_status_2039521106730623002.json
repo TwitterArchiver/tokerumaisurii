@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2039417032605642778",
+    "created_at": "2026-04-02T01:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T02:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039521106730623002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978965126960287744",
+          "start": 0,
+          "username": "notrealnatsume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039521106730623002",
+    "in_reply_to_user_id": "1978965126960287744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039500479043117423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notrealnatsume 不是，我说的是Rust牺牲了ASM做特殊优化带来的性能提升，主要我不知道怎么断句所以我自己看自己写的那句的时候也绕绕的。我知道性能变低，他们说性能会低十倍但是我们要转向关注安全优先，我信了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2039417032605642778",
+        "created_at": "2026-04-02T01:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039521106730623002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978965126960287744",
+              "start": 0,
+              "username": "notrealnatsume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039521106730623002",
+        "in_reply_to_user_id": "1978965126960287744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039500479043117423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notrealnatsume 不是，我说的是Rust牺牲了ASM做特殊优化带来的性能提升，主要我不知道怎么断句所以我自己看自己写的那句的时候也绕绕的。我知道性能变低，他们说性能会低十倍但是我们要转向关注安全优先，我信了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978965126960287744",
+        "conversation_id": "2039417032605642778",
+        "created_at": "2026-04-02T00:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039500479043117423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039500479043117423",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039417032605642778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii Rust怎么会比ASM性能高（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3080,
+          "following_count": 298,
+          "like_count": 93566,
+          "listed_count": 8,
+          "media_count": 1168,
+          "tweet_count": 17316
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T23:23:56.000Z",
+        "description": "",
+        "id": "1978965126960287744",
+        "location": "New Orleans, the South",
+        "name": "loop744",
+        "pinned_tweet_id": "2020768867564609750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008543682673471497/yauhP5qx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 102,
+          "like_count": 9204,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1590
+        },
+        "username": "notrealnatsume",
+        "verified": false
+      }
+    ]
+  }
+}

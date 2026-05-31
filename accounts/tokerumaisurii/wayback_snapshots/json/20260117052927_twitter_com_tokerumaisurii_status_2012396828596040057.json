@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2012357053130670471",
+    "created_at": "2026-01-17T05:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T06:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012396828596040057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1101749446918856705",
+          "start": 0,
+          "username": "Teru5244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012396828596040057",
+    "in_reply_to_user_id": "1101749446918856705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012357053130670471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teru5244 至福www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2012357040241598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1UEPDbYAAKjoO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012357040233152512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1UEPBagAAelue.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012357040249917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1UEPFaUAANqnJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012357040224743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1UEO_aMAAwy80.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2012357053130670471",
+        "created_at": "2026-01-17T05:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012396828596040057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1101749446918856705",
+              "start": 0,
+              "username": "Teru5244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012396828596040057",
+        "in_reply_to_user_id": "1101749446918856705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012357053130670471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teru5244 至福www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012357040241598464",
+            "3_2012357040233152512",
+            "3_2012357040249917440",
+            "3_2012357040224743424"
+          ]
+        },
+        "author_id": "1101749446918856705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2012357053130670471",
+        "created_at": "2026-01-17T02:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012357053130670471"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "飯坂真尋ちゃん",
+              "probability": 0.6007,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "飯坂温泉"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "飯坂真尋"
+            },
+            {
+              "end": 101,
+              "start": 94,
+              "tag": "だいすき飯坂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHX0caiKMf",
+              "end": 125,
+              "expanded_url": "https://x.com/Teru5244/status/2012357053130670471/photo/1",
+              "media_key": "3_2012357040241598464",
+              "start": 102,
+              "url": "https://t.co/LHX0caiKMf"
+            },
+            {
+              "display_url": "pic.x.com/LHX0caiKMf",
+              "end": 125,
+              "expanded_url": "https://x.com/Teru5244/status/2012357053130670471/photo/1",
+              "media_key": "3_2012357040233152512",
+              "start": 102,
+              "url": "https://t.co/LHX0caiKMf"
+            },
+            {
+              "display_url": "pic.x.com/LHX0caiKMf",
+              "end": 125,
+              "expanded_url": "https://x.com/Teru5244/status/2012357053130670471/photo/1",
+              "media_key": "3_2012357040249917440",
+              "start": 102,
+              "url": "https://t.co/LHX0caiKMf"
+            },
+            {
+              "display_url": "pic.x.com/LHX0caiKMf",
+              "end": 125,
+              "expanded_url": "https://x.com/Teru5244/status/2012357053130670471/photo/1",
+              "media_key": "3_2012357040224743424",
+              "start": 102,
+              "url": "https://t.co/LHX0caiKMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012357053130670471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "飯阪溫泉のほりえや旅館に来ました。飯坂真尋ちゃんの部屋を撮ってた、とてもきれいです。温泉は暑すぎでもすごく楽しかったでした！また来ますようによろしくお願いします。\n#飯坂温泉　#飯坂真尋　#だいすき飯坂 https://t.co/LHX0caiKMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 259,
+          "like_count": 73817,
+          "listed_count": 8,
+          "media_count": 962,
+          "tweet_count": 14007
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-02T07:41:52.000Z",
+        "description": "Life enLIGHTened by music",
+        "id": "1101749446918856705",
+        "location": "Boundary of Life",
+        "name": "Teru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161260892346040321/vNgsTrnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 299,
+          "like_count": 439,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "Teru5244",
+        "verified": false
+      }
+    ]
+  }
+}

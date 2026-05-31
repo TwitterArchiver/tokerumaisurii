@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2028679075288793512",
+    "created_at": "2026-03-03T06:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028722353320919082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1165672819",
+          "start": 0,
+          "username": "shibainu_vodka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028722353320919082",
+    "in_reply_to_user_id": "1165672819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028681666382967116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shibainu_vodka 我就说怎么这么专业，要我说其实我真想去Jane Street一边琢磨OCaml一边玩量化，或者去Anthropic造AI，剩下那个我倒是不认识了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2028679075288793512",
+        "created_at": "2026-03-03T06:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028722353320919082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1165672819",
+              "start": 0,
+              "username": "shibainu_vodka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028722353320919082",
+        "in_reply_to_user_id": "1165672819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028681666382967116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shibainu_vodka 我就说怎么这么专业，要我说其实我真想去Jane Street一边琢磨OCaml一边玩量化，或者去Anthropic造AI，剩下那个我倒是不认识了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165672819",
+        "conversation_id": "2028679075288793512",
+        "created_at": "2026-03-03T03:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028681666382967116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028681666382967116",
+        "in_reply_to_user_id": "1165672819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028679075288793512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "配图为meme 不是我妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@Official ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "Official"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "VentusUta"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Opiumash"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 276,
+          "like_count": 83331,
+          "listed_count": 7,
+          "media_count": 1081,
+          "tweet_count": 15521
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-10T11:33:11.000Z",
+        "description": "Falling star in EECS。粗糙理想主义的柴犬。发学术(Theoretical CS)/ACG/电影/文学相关推。喜欢古典和爵士乐，喜欢Lo/JK/vintage穿搭。Very cynical, 来推特上构造一个理想的地狱。",
+        "id": "1165672819",
+        "location": "Cannes, France",
+        "name": "A Pervert’s Guide to Quantum Mechanics",
+        "pinned_tweet_id": "1345773529502019586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600922255495729160/3KGqJSMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4447,
+          "following_count": 3197,
+          "like_count": 169037,
+          "listed_count": 22,
+          "media_count": 1444,
+          "tweet_count": 23336
+        },
+        "username": "shibainu_vodka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1957653698638999962",
+    "created_at": "2025-08-19T03:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T04:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957653698638999962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1957652006535123371",
+          "start": 66,
+          "url": "https://t.co/AiwDs8eLsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957653698638999962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957652006535123371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果这个思路有效的话，那未来的量子计算机是不是真的可以实现机械性能上最理想的e进制了，毕竟好像量子很擅长这些概率可能性什么的东西？ https://t.co/AiwDs8eLsr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1957653698638999962",
+        "created_at": "2025-08-19T03:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957653698638999962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1957652006535123371",
+              "start": 66,
+              "url": "https://t.co/AiwDs8eLsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957653698638999962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957652006535123371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果这个思路有效的话，那未来的量子计算机是不是真的可以实现机械性能上最理想的e进制了，毕竟好像量子很擅长这些概率可能性什么的东西？ https://t.co/AiwDs8eLsr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1957652006535123371",
+        "created_at": "2025-08-19T03:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957652006535123371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957652006535123371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想怎么表达非整数进制的问题，突然灵光一现，假如一般的n进制中必然有n个*总是*能用于组成数的数字的话，那么，例如1.5进制可不可以是系统中有两个数字但其中一个只有50%的情况下/可能性可以用于组成数？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 打舞萌！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 190,
+          "like_count": 38321,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 7012
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1972007819290595734",
+    "created_at": "2025-09-27T18:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T19:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972007819290595734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1971999437632541079",
+          "start": 12,
+          "url": "https://t.co/UtmZLelHjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972007819290595734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971999437632541079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我治好了神经痛.jpg https://t.co/UtmZLelHjz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1972007819290595734",
+        "created_at": "2025-09-27T18:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T19:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972007819290595734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1971999437632541079",
+              "start": 12,
+              "url": "https://t.co/UtmZLelHjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972007819290595734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971999437632541079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我治好了神经痛.jpg https://t.co/UtmZLelHjz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1971999437632541079",
+        "created_at": "2025-09-27T18:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T19:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971999437632541079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971999437632541079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊绝望的周末，起床了吃点普瑞先。\n我草我的普瑞巴林存货要用完了💀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 和我一起，进入幻想的世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 214,
+          "like_count": 49205,
+          "listed_count": 7,
+          "media_count": 644,
+          "tweet_count": 9278
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

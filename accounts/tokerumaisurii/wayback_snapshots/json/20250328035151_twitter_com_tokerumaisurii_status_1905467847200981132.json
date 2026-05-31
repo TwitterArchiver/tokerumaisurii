@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905465967825600512"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1427786661203562498",
+          "name": "AliExpress"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1905354771843682677",
+    "created_at": "2025-03-28T03:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T04:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905467847200981132"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 101,
+          "normalized_text": "cirno",
+          "probability": 0.5036,
+          "start": 97,
+          "type": "Other"
+        },
+        {
+          "end": 131,
+          "normalized_text": "taobao",
+          "probability": 0.7386,
+          "start": 126,
+          "type": "Other"
+        },
+        {
+          "end": 267,
+          "normalized_text": "taobao",
+          "probability": 0.6522,
+          "start": 262,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685345815433240576",
+          "start": 0,
+          "username": "FAKEMrCBT2"
+        },
+        {
+          "end": 22,
+          "id": "1157732583867932672",
+          "start": 12,
+          "username": "aersensei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EV6nSZ9WH3",
+          "end": 324,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1905467847200981132/photo/1",
+          "media_key": "3_1905465967825600512",
+          "start": 301,
+          "url": "https://t.co/EV6nSZ9WH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905467847200981132",
+    "in_reply_to_user_id": "1685345815433240576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905463070895267969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FAKEMrCBT2 @aersensei there actually is, but may be a bit pricey\n\nkeywords are 琪露诺 cos 头套 -&gt; cirno cosplay hood\n\nit is on taobao, the chinese version of aliexpress, and unfortunately it doesn't seem like to be also on aliexpress, however if you really want, taobao also has international shipping https://t.co/EV6nSZ9WH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905465967825600512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGTM7_XQAAh6jl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905465967825600512"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1427786661203562498",
+              "name": "AliExpress"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1905354771843682677",
+        "created_at": "2025-03-28T03:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T04:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905467847200981132"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "cirno",
+              "probability": 0.5036,
+              "start": 97,
+              "type": "Other"
+            },
+            {
+              "end": 131,
+              "normalized_text": "taobao",
+              "probability": 0.7386,
+              "start": 126,
+              "type": "Other"
+            },
+            {
+              "end": 267,
+              "normalized_text": "taobao",
+              "probability": 0.6522,
+              "start": 262,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685345815433240576",
+              "start": 0,
+              "username": "FAKEMrCBT2"
+            },
+            {
+              "end": 22,
+              "id": "1157732583867932672",
+              "start": 12,
+              "username": "aersensei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EV6nSZ9WH3",
+              "end": 324,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1905467847200981132/photo/1",
+              "media_key": "3_1905465967825600512",
+              "start": 301,
+              "url": "https://t.co/EV6nSZ9WH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905467847200981132",
+        "in_reply_to_user_id": "1685345815433240576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905463070895267969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FAKEMrCBT2 @aersensei there actually is, but may be a bit pricey\n\nkeywords are 琪露诺 cos 头套 -&gt; cirno cosplay hood\n\nit is on taobao, the chinese version of aliexpress, and unfortunately it doesn't seem like to be also on aliexpress, however if you really want, taobao also has international shipping https://t.co/EV6nSZ9WH3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685345815433240576",
+        "conversation_id": "1905354771843682677",
+        "created_at": "2025-03-28T03:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T04:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905463070895267969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1157732583867932672",
+              "start": 0,
+              "username": "aersensei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905463070895267969",
+        "in_reply_to_user_id": "1157732583867932672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905354771843682677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aersensei I wish there was somewhere I could buy that costume"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🍄 @VentusUta ::\n🎇 @Acetylene04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 87,
+          "like_count": 1843,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 277
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T17:47:57.000Z",
+        "description": "Don't torment yourself.\nLove others",
+        "id": "1685345815433240576",
+        "name": "JuggerKong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685347029856194561/BEbSZLLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 435,
+          "like_count": 35077,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 554
+        },
+        "username": "FAKEMrCBT2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-03T19:18:52.000Z",
+        "description": "fumos\n\njust fumos\n\nalso hooman of bootleg sakuya",
+        "id": "1157732583867932672",
+        "name": "sakuya's weakest soldier ᗜ‿ᗜ",
+        "pinned_tweet_id": "1714717720460017902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896651241595215872/OMxUPoaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 103,
+          "like_count": 14959,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 1237
+        },
+        "username": "aersensei",
+        "verified": false
+      }
+    ]
+  }
+}

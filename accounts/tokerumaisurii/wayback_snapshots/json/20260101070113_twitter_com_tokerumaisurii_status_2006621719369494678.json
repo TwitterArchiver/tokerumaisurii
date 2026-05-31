@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2006614943496548752",
+    "created_at": "2026-01-01T07:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006621719369494678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006621719369494678",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006615419977703801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且写官谱的人真的好聪明，比如八角星星的前半（后半对称同理）是八分的1V35[32:3]/2V46[8:1]，同样在一个四分音符后启动，以2V46的2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6四段路线为基准，1V35可以认为只有2 -&gt; 3 -&gt;4 -&gt;5三段（1 -&gt; 2算蹭掉），所以3个32分音符的时值也恰好是1个8分音符的四分之三，可以无脑顺手滑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2006614943496548752",
+        "created_at": "2026-01-01T07:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006621719369494678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006621719369494678",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006615419977703801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且写官谱的人真的好聪明，比如八角星星的前半（后半对称同理）是八分的1V35[32:3]/2V46[8:1]，同样在一个四分音符后启动，以2V46的2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6四段路线为基准，1V35可以认为只有2 -&gt; 3 -&gt;4 -&gt;5三段（1 -&gt; 2算蹭掉），所以3个32分音符的时值也恰好是1个8分音符的四分之三，可以无脑顺手滑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2006614943496548752",
+        "created_at": "2026-01-01T06:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006615419977703801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006615419977703801",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006614943496548752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过八角星星放这里好合适，一定会留着的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 256,
+          "like_count": 70950,
+          "listed_count": 7,
+          "media_count": 917,
+          "tweet_count": 13385
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

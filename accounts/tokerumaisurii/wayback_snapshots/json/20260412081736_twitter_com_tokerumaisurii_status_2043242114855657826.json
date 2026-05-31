@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2042575144284229817",
+    "created_at": "2026-04-12T08:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043242114855657826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1572532372347953154",
+          "start": 0,
+          "username": "preferredwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043242114855657826",
+    "in_reply_to_user_id": "1572532372347953154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042575144284229817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@preferredwm 不知道这状态空间怎么算，人类语言如果抽象掉个人音色按国际音标来算，其实也没有那么大的状态空间（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2042575144284229817",
+        "created_at": "2026-04-12T08:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043242114855657826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572532372347953154",
+              "start": 0,
+              "username": "preferredwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043242114855657826",
+        "in_reply_to_user_id": "1572532372347953154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042575144284229817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@preferredwm 不知道这状态空间怎么算，人类语言如果抽象掉个人音色按国际音标来算，其实也没有那么大的状态空间（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572532372347953154",
+        "conversation_id": "2042575144284229817",
+        "created_at": "2026-04-10T12:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042575144284229817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/billtheinvesto…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/billtheinvestor/status/2042390481410367510",
+              "start": 19,
+              "url": "https://t.co/lRDJjUHnad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042575144284229817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042390481410367510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉没有人类的自然语言的状态空间大呢 https://t.co/lRDJjUHnad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 305,
+          "like_count": 97810,
+          "listed_count": 9,
+          "media_count": 1191,
+          "tweet_count": 18032
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T10:25:18.000Z",
+        "description": "#genZ #Founder #AI #ENTP WELCOME TO MY WORLD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "genZ"
+              },
+              {
+                "end": 14,
+                "start": 6,
+                "tag": "Founder"
+              },
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "AI"
+              },
+              {
+                "end": 24,
+                "start": 19,
+                "tag": "ENTP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2wood.cn",
+                "end": 23,
+                "expanded_url": "https://2wood.cn",
+                "start": 0,
+                "url": "https://t.co/Mk63NbFTTW"
+              }
+            ]
+          }
+        },
+        "id": "1572532372347953154",
+        "location": "Antarctica",
+        "name": "preferred",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035282905346580480/jZlfZe8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 955,
+          "like_count": 4720,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/Mk63NbFTTW",
+        "username": "preferredwm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1924818417925976145",
+    "created_at": "2025-05-20T13:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T14:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924819233445445780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1135645790465134592",
+          "start": 0,
+          "username": "bravelyyou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924819233445445780",
+    "in_reply_to_user_id": "1135645790465134592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924818417925976145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bravelyyou_ 这算日本特色吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1924818417925976145",
+        "created_at": "2025-05-20T13:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924819233445445780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1135645790465134592",
+              "start": 0,
+              "username": "bravelyyou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924819233445445780",
+        "in_reply_to_user_id": "1135645790465134592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924818417925976145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bravelyyou_ 这算日本特色吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135645790465134592",
+        "conversation_id": "1924818417925976145",
+        "created_at": "2025-05-20T13:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924818417925976145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bravelyyou_/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/bravelyyou_/status/1924669102842642644",
+              "start": 31,
+              "url": "https://t.co/quBVf3WxWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924818417925976145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924669102842642644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还想吐槽的一点是，惊叹于其超绝的Excel技术和写报告能力。 https://t.co/quBVf3WxWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 150,
+          "like_count": 13866,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 2569
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-03T20:33:50.000Z",
+        "description": "心が凍っていれば傷づくこともないよね。",
+        "id": "1135645790465134592",
+        "location": "Garden Of Eden.",
+        "name": "Hikari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923587788345073664/oD7iZ39O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 64,
+          "like_count": 125408,
+          "listed_count": 11,
+          "media_count": 256,
+          "tweet_count": 2289
+        },
+        "username": "bravelyyou_",
+        "verified": false
+      }
+    ]
+  }
+}

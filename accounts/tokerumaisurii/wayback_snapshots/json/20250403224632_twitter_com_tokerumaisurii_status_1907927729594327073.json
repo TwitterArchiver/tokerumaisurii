@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1907927729594327073",
+    "created_at": "2025-04-03T22:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T23:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907927729594327073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907927729594327073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和小水母用rnd % 10 % 6玩轮盘赌，出于好奇用蒙特卡罗模拟看了一下概率，结果发现rnd % 10 % 6的概率是0, 1, 2, 3: 20%, 4, 5: 10%，但是rnd % 6的概率分布就是每种可能六分之一出现概率，为什么会这样啊……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1907927729594327073",
+        "created_at": "2025-04-03T22:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T23:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907927729594327073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907927729594327073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和小水母用rnd % 10 % 6玩轮盘赌，出于好奇用蒙特卡罗模拟看了一下概率，结果发现rnd % 10 % 6的概率是0, 1, 2, 3: 20%, 4, 5: 10%，但是rnd % 6的概率分布就是每种可能六分之一出现概率，为什么会这样啊……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 106,
+          "like_count": 2886,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 568
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

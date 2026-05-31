@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2048035513009856629",
+    "created_at": "2026-04-25T13:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048035513009856629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2910455761",
+          "start": 3,
+          "username": "Feryquitous_"
+        },
+        {
+          "end": 136,
+          "id": "1815263986746822656",
+          "start": 121,
+          "username": "Castalia_Audio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048035513009856629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 491
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047633638913872169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Feryquitous_: 【告知】\n\n「アークナイツ：エンドフィールド」\n\nキャラクター\n「ゾアン・ファンイ」EPのゲーム内アレンジバージョン\n「且相宜」の編曲を担当いたしました。\n\n制作コーディネート:CastaliaAudio @Castalia_Audio…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2048035513009856629",
+        "created_at": "2026-04-25T13:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048035513009856629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2910455761",
+              "start": 3,
+              "username": "Feryquitous_"
+            },
+            {
+              "end": 136,
+              "id": "1815263986746822656",
+              "start": 121,
+              "username": "Castalia_Audio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048035513009856629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 491
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047633638913872169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Feryquitous_: 【告知】\n\n「アークナイツ：エンドフィールド」\n\nキャラクター\n「ゾアン・ファンイ」EPのゲーム内アレンジバージョン\n「且相宜」の編曲を担当いたしました。\n\n制作コーディネート:CastaliaAudio @Castalia_Audio…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2910455761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2047633638913872169",
+        "created_at": "2026-04-24T11:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047633638913872169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 118,
+              "id": "1815263986746822656",
+              "start": 103,
+              "username": "Castalia_Audio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/akendfieldjp/s…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/akendfieldjp/status/2044989225888874707",
+              "start": 133,
+              "url": "https://t.co/5HRuybfqjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047633638913872169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 106087,
+          "like_count": 1816,
+          "quote_count": 42,
+          "reply_count": 15,
+          "retweet_count": 491
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044989225888874707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【告知】\n\n「アークナイツ：エンドフィールド」\n\nキャラクター\n「ゾアン・ファンイ」EPのゲーム内アレンジバージョン\n「且相宜」の編曲を担当いたしました。\n\n制作コーディネート:CastaliaAudio @Castalia_Audio \n\nよろしくお願いします！ https://t.co/5HRuybfqjM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 310,
+          "like_count": 101642,
+          "listed_count": 9,
+          "media_count": 1217,
+          "tweet_count": 18662
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-26T01:16:56.000Z",
+        "description": "フェリキタス  作曲家 composer Contact「feryquitousworks(at)https://t.co/Ezr3kmFKtz」 bandcamp→ https://t.co/a2HswbFLBu fanbox→ https://t.co/U59qjsNkcT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 72,
+                "expanded_url": "http://gmail.com",
+                "start": 49,
+                "url": "https://t.co/Ezr3kmFKtz"
+              },
+              {
+                "display_url": "feryquitous.bandcamp.com",
+                "end": 107,
+                "expanded_url": "http://feryquitous.bandcamp.com",
+                "start": 84,
+                "url": "https://t.co/a2HswbFLBu"
+              },
+              {
+                "display_url": "feryquitous.fanbox.cc",
+                "end": 139,
+                "expanded_url": "http://feryquitous.fanbox.cc",
+                "start": 116,
+                "url": "https://t.co/U59qjsNkcT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCj2nw…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCj2nw_9puY3sJoDbkE-FCQA?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/51qNG8if6T"
+              }
+            ]
+          }
+        },
+        "id": "2910455761",
+        "location": "Japan",
+        "name": "Feryquitous",
+        "pinned_tweet_id": "1999419991343726783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212576096060764161/nb-gfco7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52493,
+          "following_count": 410,
+          "like_count": 1858,
+          "listed_count": 300,
+          "media_count": 499,
+          "tweet_count": 4991
+        },
+        "url": "https://t.co/51qNG8if6T",
+        "username": "Feryquitous_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T05:54:09.000Z",
+        "description": "ゲーム音楽のエッセンスを届けるサウンドスタジオ。 代表作：インフィニティニキ。東京と上海を拠点に、世界中の優れたゲーム音楽家と共に歩んでいます！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "castalia-audio.com",
+                "end": 23,
+                "expanded_url": "http://castalia-audio.com",
+                "start": 0,
+                "url": "https://t.co/biGdTNjNpW"
+              }
+            ]
+          }
+        },
+        "id": "1815263986746822656",
+        "location": "Shanghai,China",
+        "name": "Castalia Audio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815281313039228928/AJ1lgEWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 24,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/biGdTNjNpW",
+        "username": "Castalia_Audio",
+        "verified": false
+      }
+    ]
+  }
+}

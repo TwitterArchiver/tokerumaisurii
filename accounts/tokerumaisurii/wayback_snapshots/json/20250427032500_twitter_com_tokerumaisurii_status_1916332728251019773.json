@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916332721112289280"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1916332728251019773",
+    "created_at": "2025-04-27T03:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T04:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916332728251019773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5w3j7gsWbR",
+          "end": 56,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1916332728251019773/photo/1",
+          "media_key": "3_1916332721112289280",
+          "start": 33,
+          "url": "https://t.co/5w3j7gsWbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916332728251019773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为逃避13+选择红谱偶遇AP了，这一刻看板娘俊达萌真的好合适w https://t.co/5w3j7gsWbR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916332721112289280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgudOlbEAAjzkh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916332721112289280"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916332728251019773",
+        "created_at": "2025-04-27T03:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916332728251019773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5w3j7gsWbR",
+              "end": 56,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1916332728251019773/photo/1",
+              "media_key": "3_1916332721112289280",
+              "start": 33,
+              "url": "https://t.co/5w3j7gsWbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916332728251019773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为逃避13+选择红谱偶遇AP了，这一刻看板娘俊达萌真的好合适w https://t.co/5w3j7gsWbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 135,
+          "like_count": 7831,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1646
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

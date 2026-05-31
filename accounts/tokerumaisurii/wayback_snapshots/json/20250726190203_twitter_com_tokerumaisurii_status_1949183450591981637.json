@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1949183450591981637",
+    "created_at": "2025-07-26T19:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T20:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949183450591981637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontolife/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/torontolife/status/1948383817711980686",
+          "start": 20,
+          "url": "https://t.co/rFhaGEjaBr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949183450591981637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948383817711980686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这一整篇文章从开头到结尾我都在傻笑，， https://t.co/rFhaGEjaBr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1949183450591981637",
+        "created_at": "2025-07-26T19:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T20:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949183450591981637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontolife/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/torontolife/status/1948383817711980686",
+              "start": 20,
+              "url": "https://t.co/rFhaGEjaBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949183450591981637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948383817711980686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一整篇文章从开头到结尾我都在傻笑，， https://t.co/rFhaGEjaBr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "21238524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194369185473691648",
+              "name": "North America travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197985105790111744",
+              "name": "Canada travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337065881617121280",
+              "name": "Toronto"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1197985105790111744",
+              "name": "Canada travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1337065881617121280",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "1948383817711980686",
+        "created_at": "2025-07-24T14:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948383817711980686"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "TTC",
+              "probability": 0.4003,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "By which we mean Provincial Offences Officers, of course",
+              "display_url": "torontolife.com/city/beware-of…",
+              "end": 108,
+              "expanded_url": "https://torontolife.com/city/beware-of-poo-on-the-ttc/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1948383860313448448/LgHd1DqA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1948383860313448448/LgHd1DqA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "Beware of POO on the TTC - Toronto Life",
+              "unwound_url": "https://torontolife.com/city/beware-of-poo-on-the-ttc/",
+              "url": "https://t.co/ahPT4VJ1LV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948383817711980686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1874,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Beware of POO on the TTC \n(By which we mean Provincial Offences Officers, of course)\nhttps://t.co/ahPT4VJ1LV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 179,
+          "like_count": 34016,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 6121
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-18T20:43:38.000Z",
+        "description": "The essential and entertaining guide to life in Toronto, for over 50 years. Full issues available on @AppleNews+",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "AppleNews"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/torontolife",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/torontolife",
+                "start": 0,
+                "url": "https://t.co/fykzRI1aqP"
+              }
+            ]
+          }
+        },
+        "id": "21238524",
+        "location": "Toronto, Canada",
+        "name": "Toronto Life",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921932189681242112/qeyqKQz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475405,
+          "following_count": 988,
+          "like_count": 238,
+          "listed_count": 2933,
+          "media_count": 5997,
+          "tweet_count": 37812
+        },
+        "url": "https://t.co/fykzRI1aqP",
+        "username": "torontolife",
+        "verified": true
+      }
+    ]
+  }
+}

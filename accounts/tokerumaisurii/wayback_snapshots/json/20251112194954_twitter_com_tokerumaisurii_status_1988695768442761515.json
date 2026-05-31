@@ -1,0 +1,680 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1988450342359691734",
+    "created_at": "2025-11-12T19:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T20:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988695768442761515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "866291995035148288",
+          "start": 0,
+          "username": "pudding_well"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yuushin4662596…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/yuushin46625961/status/1988550420180926951",
+          "start": 36,
+          "url": "https://t.co/FGZ7nigf8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988695768442761515",
+    "in_reply_to_user_id": "866291995035148288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988550420180926951",
+        "type": "quoted"
+      },
+      {
+        "id": "1988450342359691734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pudding_well 在下方的推荐推文里看到了一个很有道理的解释 https://t.co/FGZ7nigf8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1988549771586613248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5i_e0GasAAOEpW.jpg",
+        "width": 1170
+      },
+      {
+        "height": 84,
+        "media_key": "3_1988549952688308224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5i_pWwbQAAVh3E.jpg",
+        "width": 150
+      },
+      {
+        "height": 113,
+        "media_key": "3_1988549987752718336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5i_rZYbsAAz4gu.jpg",
+        "width": 202
+      },
+      {
+        "height": 174,
+        "media_key": "3_1988450044169908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hkx6hbcAAf9JA.png",
+        "width": 191
+      },
+      {
+        "height": 166,
+        "media_key": "3_1988450092085645312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hk0tBbkAA5Uw3.png",
+        "width": 185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1988450342359691734",
+        "created_at": "2025-11-12T19:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988695768442761515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "866291995035148288",
+              "start": 0,
+              "username": "pudding_well"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yuushin4662596…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/yuushin46625961/status/1988550420180926951",
+              "start": 36,
+              "url": "https://t.co/FGZ7nigf8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988695768442761515",
+        "in_reply_to_user_id": "866291995035148288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988550420180926951",
+            "type": "quoted"
+          },
+          {
+            "id": "1988450342359691734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pudding_well 在下方的推荐推文里看到了一个很有道理的解释 https://t.co/FGZ7nigf8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988549771586613248",
+            "3_1988549952688308224",
+            "3_1988549987752718336"
+          ]
+        },
+        "author_id": "938024061023674368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1988550420180926951",
+        "created_at": "2025-11-12T10:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988550420180926951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "moment/memory",
+              "probability": 0.6633,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMgkSk3rIL",
+              "end": 98,
+              "expanded_url": "https://x.com/yuushin46625961/status/1988550420180926951/photo/1",
+              "media_key": "3_1988549771586613248",
+              "start": 75,
+              "url": "https://t.co/tMgkSk3rIL"
+            },
+            {
+              "display_url": "pic.x.com/tMgkSk3rIL",
+              "end": 98,
+              "expanded_url": "https://x.com/yuushin46625961/status/1988550420180926951/photo/1",
+              "media_key": "3_1988549952688308224",
+              "start": 75,
+              "url": "https://t.co/tMgkSk3rIL"
+            },
+            {
+              "display_url": "pic.x.com/tMgkSk3rIL",
+              "end": 98,
+              "expanded_url": "https://x.com/yuushin46625961/status/1988550420180926951/photo/1",
+              "media_key": "3_1988549987752718336",
+              "start": 75,
+              "url": "https://t.co/tMgkSk3rIL"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1988441628210852235",
+              "start": 99,
+              "url": "https://t.co/Cfbm5SJUp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988550420180926951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 36070,
+          "like_count": 517,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441628210852235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "気になって検索してみたらビンゴ\n\n開催日、開催場所の日没時間でした\n本当にこの一瞬だけの交わりって感じだね\n「moment/memory」にピッタリ https://t.co/tMgkSk3rIL https://t.co/Cfbm5SJUp5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988450044169908224",
+            "3_1988450092085645312"
+          ]
+        },
+        "author_id": "866291995035148288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1988450342359691734",
+        "created_at": "2025-11-12T03:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988450342359691734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwEJ8YC4m0",
+              "end": 35,
+              "expanded_url": "https://x.com/pudding_well/status/1988450342359691734/photo/1",
+              "media_key": "3_1988450044169908224",
+              "start": 12,
+              "url": "https://t.co/lwEJ8YC4m0"
+            },
+            {
+              "display_url": "pic.x.com/lwEJ8YC4m0",
+              "end": 35,
+              "expanded_url": "https://x.com/pudding_well/status/1988450342359691734/photo/1",
+              "media_key": "3_1988450092085645312",
+              "start": 12,
+              "url": "https://t.co/lwEJ8YC4m0"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1988441628210852235",
+              "start": 36,
+              "url": "https://t.co/VCJylSCrxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988450342359691734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 135041,
+          "like_count": 932,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441628210852235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "17:36 何の意味🧐 https://t.co/lwEJ8YC4m0 https://t.co/VCJylSCrxh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 230,
+          "like_count": 59547,
+          "listed_count": 6,
+          "media_count": 759,
+          "tweet_count": 11248
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T13:58:01.000Z",
+        "description": "ave mujica垢 | illustrator | 🔞 | 🚫AI | 💛💙💛 | FUB free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neoatmosphere.lofter.com",
+                "end": 23,
+                "expanded_url": "https://neoatmosphere.lofter.com",
+                "start": 0,
+                "url": "https://t.co/wNCVnch1O3"
+              }
+            ]
+          }
+        },
+        "id": "866291995035148288",
+        "name": "布丁井",
+        "pinned_tweet_id": "1980856490887094533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901126259343847429/YbnQJhOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8242,
+          "following_count": 287,
+          "like_count": 6045,
+          "listed_count": 31,
+          "media_count": 120,
+          "tweet_count": 5427
+        },
+        "url": "https://t.co/wNCVnch1O3",
+        "username": "pudding_well",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T12:35:38.000Z",
+        "description": "Ewigkeit(5thLIVE:Day2,Roselia)の亡霊/\nCRYCHICは光でした/\nアサルトリリィ復帰しました\n※リプ返は気まぐれ、野球/虎\n #これからもゆりか組としてもな \n@endo_yurika←世界一美しい姫\nNEXT現地↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 79,
+                "tag": "これからもゆりか組としてもな"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "endo_yurika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2a4qid4rzkg1cu…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/2a4qid4rzkg1cug?t=U0AWjt&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/hNXfeWjAuZ"
+              }
+            ]
+          }
+        },
+        "id": "938024061023674368",
+        "location": "Roselia在りしとこ",
+        "name": "TouRa//513624",
+        "pinned_tweet_id": "1937165094678630866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907086072112422912/tw1WQAZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5263,
+          "following_count": 4020,
+          "like_count": 437702,
+          "listed_count": 50,
+          "media_count": 14683,
+          "tweet_count": 44370
+        },
+        "url": "https://t.co/hNXfeWjAuZ",
+        "username": "yuushin46625961",
+        "verified": false
+      }
+    ]
+  }
+}

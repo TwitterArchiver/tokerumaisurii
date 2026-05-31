@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1950396806392926509",
+    "created_at": "2025-07-30T06:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950445274280964282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682570508615970816",
+          "start": 0,
+          "username": "ZiggerBorea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950445274280964282",
+    "in_reply_to_user_id": "1682570508615970816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950396806392926509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiggerBorea 这人是不是在欧美国家住太久了，加拿大那边确实绝大部分送外卖的都是开小轿车的，当然也跟北美道路建设的汽车中心化有关系就是了，但也确实有发达的因素在"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1950396806392926509].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1950396806392926509",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1950396806392926509"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1950396806392926509",
+        "created_at": "2025-07-30T06:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950445274280964282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682570508615970816",
+              "start": 0,
+              "username": "ZiggerBorea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950445274280964282",
+        "in_reply_to_user_id": "1682570508615970816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950396806392926509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiggerBorea 这人是不是在欧美国家住太久了，加拿大那边确实绝大部分送外卖的都是开小轿车的，当然也跟北美道路建设的汽车中心化有关系就是了，但也确实有发达的因素在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 179,
+          "like_count": 34506,
+          "listed_count": 5,
+          "media_count": 467,
+          "tweet_count": 6292
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:57:32.000Z",
+        "description": "我，雅利安人\n你，非雅利安人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=us1fmh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=us1fmhYTlJg",
+                "start": 0,
+                "url": "https://t.co/uhgxnu2Ila"
+              }
+            ]
+          }
+        },
+        "id": "1682570508615970816",
+        "location": "Ziggerborea",
+        "name": "安寡的石块🇺🇦",
+        "pinned_tweet_id": "1940105611796259019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942524462483857408/Wb9J8c1D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 184,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/uhgxnu2Ila",
+        "username": "ZiggerBorea",
+        "verified": false
+      }
+    ]
+  }
+}

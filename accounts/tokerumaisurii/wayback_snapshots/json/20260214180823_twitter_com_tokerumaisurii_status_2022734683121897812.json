@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294355384874889216",
+          "name": "California Institute of Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1294355384874889216",
+          "name": "California Institute of Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Michigan",
+          "id": "1004448635902259200",
+          "name": "Michigan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      }
+    ],
+    "conversation_id": "2022734683121897812",
+    "created_at": "2026-02-14T18:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T19:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022734683121897812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moran_neko/sta…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/moran_neko/status/2022638279968067674",
+          "start": 161,
+          "url": "https://t.co/ecAGJEt3KX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022734683121897812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022638279968067674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请各位想说“学计算机的跨女”的网友别再点名图灵了，我们计算机科学是有琳·安·康维（英语：Lynn Ann Conway）的，她原本在IBM做超算就是用发明的技术改变了乱序执行范式的大手子，出柜被开除后从头开始，由业界走向学界，又在Caltech、MIT、Michigan当教授做院长，合创了当时芯片领域的一部标准教科书。 https://t.co/ecAGJEt3KX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 585,
+        "media_key": "3_2022638278030307328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHazCcasAAM_0k.jpg",
+        "width": 585
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294355384874889216",
+              "name": "California Institute of Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1294355384874889216",
+              "name": "California Institute of Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "2022734683121897812",
+        "created_at": "2026-02-14T18:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022734683121897812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moran_neko/sta…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/moran_neko/status/2022638279968067674",
+              "start": 161,
+              "url": "https://t.co/ecAGJEt3KX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022734683121897812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022638279968067674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请各位想说“学计算机的跨女”的网友别再点名图灵了，我们计算机科学是有琳·安·康维（英语：Lynn Ann Conway）的，她原本在IBM做超算就是用发明的技术改变了乱序执行范式的大手子，出柜被开除后从头开始，由业界走向学界，又在Caltech、MIT、Michigan当教授做院长，合创了当时芯片领域的一部标准教科书。 https://t.co/ecAGJEt3KX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022638278030307328"
+          ]
+        },
+        "author_id": "1509391402484080646",
+        "conversation_id": "2022638279968067674",
+        "created_at": "2026-02-14T11:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022638279968067674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBcr7g2kzS",
+              "end": 46,
+              "expanded_url": "https://x.com/moran_neko/status/2022638279968067674/photo/1",
+              "media_key": "3_2022638278030307328",
+              "start": 23,
+              "url": "https://t.co/tBcr7g2kzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022638279968067674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6984,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学计算机的难道只有图灵和冯诺依曼这两种走法吗 https://t.co/tBcr7g2kzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 265,
+          "like_count": 76647,
+          "listed_count": 7,
+          "media_count": 1034,
+          "tweet_count": 14732
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "嘘——快躲好，不要被命运抓住了┋成分请看置顶帖┋挂一个走失的孩子@mokuneko_21┋个人博客👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "mokuneko_21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "空调外机",
+        "name": "默然ᓚ𝑀᳐𝑜𝑅𝑎᳐𝑛²¹",
+        "pinned_tweet_id": "1974093214048305419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006408722843873280/S63l1Gbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 1690,
+          "like_count": 35899,
+          "listed_count": 6,
+          "media_count": 1689,
+          "tweet_count": 7545
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      }
+    ],
+    "conversation_id": "1994352947732283418",
+    "created_at": "2025-11-29T05:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994647064505192553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1082119799730130944",
+          "start": 0,
+          "username": "kaf_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994647064505192553",
+    "in_reply_to_user_id": "1082119799730130944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994352947732283418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaf_info 太痛了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_1994352515035590656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61dC7-acAAJBKm.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1994352947732283418",
+        "created_at": "2025-11-29T05:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994647064505192553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1082119799730130944",
+              "start": 0,
+              "username": "kaf_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994647064505192553",
+        "in_reply_to_user_id": "1082119799730130944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994352947732283418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaf_info 太痛了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994352515035590656"
+          ]
+        },
+        "author_id": "1082119799730130944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1994352947732283418",
+        "created_at": "2025-11-28T10:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994352947732283418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "花譜 China 1st Solo Live",
+              "probability": 0.7952,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "上海",
+              "probability": 0.6929,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqd2SxXr6d",
+              "end": 65,
+              "expanded_url": "https://x.com/kaf_info/status/1994352947732283418/photo/1",
+              "media_key": "3_1994352515035590656",
+              "start": 42,
+              "url": "https://t.co/sqd2SxXr6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994352947732283418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 2309258,
+          "like_count": 7130,
+          "quote_count": 428,
+          "reply_count": 218,
+          "retweet_count": 2269
+        },
+        "reply_settings": "everyone",
+        "text": "『花譜 China 1st Solo Live「宿声」』上海公演についてのお知らせ https://t.co/sqd2SxXr6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 232,
+          "like_count": 61937,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 11749
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-07T03:40:39.000Z",
+        "description": "バーチャルシンガー《花譜》公式インフォメーションアカウント/ Contact: kaf.information@kamitsubaki.jp / 花譜: @virtual_kaf / English: @kaf_info_en",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "kaf_info_en"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaf.kamitsubaki.jp",
+                "end": 23,
+                "expanded_url": "https://kaf.kamitsubaki.jp/",
+                "start": 0,
+                "url": "https://t.co/QIz1AM2iOR"
+              }
+            ]
+          }
+        },
+        "id": "1082119799730130944",
+        "location": "KAMITSUBAKI STUDIO",
+        "name": "花譜 information",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576841184869175297/8aDzNllt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94271,
+          "following_count": 30,
+          "like_count": 4,
+          "listed_count": 938,
+          "media_count": 1240,
+          "tweet_count": 3670
+        },
+        "url": "https://t.co/QIz1AM2iOR",
+        "username": "kaf_info",
+        "verified": true
+      }
+    ]
+  }
+}

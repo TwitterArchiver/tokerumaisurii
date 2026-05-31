@@ -1,0 +1,626 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059607742495793152"
+      ],
+      "media_source_tweet_id": [
+        "2059607851082158344"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2059620975117819969",
+    "created_at": "2026-05-27T13:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059620975117819969"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "原神"
+        },
+        {
+          "end": 47,
+          "start": 39,
+          "tag": "Genshin"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "月の少女"
+        },
+        {
+          "end": 61,
+          "start": 54,
+          "tag": "コロンビーナ"
+        },
+        {
+          "end": 76,
+          "start": 62,
+          "tag": "GenshinImpact"
+        },
+        {
+          "end": 87,
+          "start": 77,
+          "tag": "Columbina"
+        },
+        {
+          "end": 95,
+          "start": 88,
+          "tag": "サンドローネ"
+        },
+        {
+          "end": 105,
+          "start": 96,
+          "tag": "Sandrone"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "934448067058659328",
+          "start": 3,
+          "username": "kh3ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5W3m3WIubu",
+          "end": 129,
+          "expanded_url": "https://x.com/kh3ovo/status/2059607851082158344/photo/1",
+          "media_key": "3_2059607742495793152",
+          "start": 106,
+          "url": "https://t.co/5W3m3WIubu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059620975117819969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059607851082158344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kh3ovo: 欢迎回家，桑多涅。这次，我们再也不要分开了。\n#原神 #Genshin #月の少女 #コロンビーナ #GenshinImpact #Columbina #サンドローネ #Sandrone https://t.co/5W3m3WIubu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2059607742495793152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUyVFwbIAAJ-rB.jpg",
+        "width": 1591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059607742495793152"
+          ],
+          "media_source_tweet_id": [
+            "2059607851082158344"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2059620975117819969",
+        "created_at": "2026-05-27T13:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059620975117819969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "原神"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "Genshin"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "月の少女"
+            },
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "コロンビーナ"
+            },
+            {
+              "end": 76,
+              "start": 62,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 87,
+              "start": 77,
+              "tag": "Columbina"
+            },
+            {
+              "end": 95,
+              "start": 88,
+              "tag": "サンドローネ"
+            },
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "Sandrone"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "934448067058659328",
+              "start": 3,
+              "username": "kh3ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5W3m3WIubu",
+              "end": 129,
+              "expanded_url": "https://x.com/kh3ovo/status/2059607851082158344/photo/1",
+              "media_key": "3_2059607742495793152",
+              "start": 106,
+              "url": "https://t.co/5W3m3WIubu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059620975117819969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059607851082158344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kh3ovo: 欢迎回家，桑多涅。这次，我们再也不要分开了。\n#原神 #Genshin #月の少女 #コロンビーナ #GenshinImpact #Columbina #サンドローネ #Sandrone https://t.co/5W3m3WIubu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059607742495793152"
+          ]
+        },
+        "author_id": "934448067058659328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2059607851082158344",
+        "created_at": "2026-05-27T12:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059607851082158344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "原神"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "Genshin"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "月の少女"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "コロンビーナ"
+            },
+            {
+              "end": 64,
+              "start": 50,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 75,
+              "start": 65,
+              "tag": "Columbina"
+            },
+            {
+              "end": 83,
+              "start": 76,
+              "tag": "サンドローネ"
+            },
+            {
+              "end": 93,
+              "start": 84,
+              "tag": "Sandrone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5W3m3WIubu",
+              "end": 117,
+              "expanded_url": "https://x.com/kh3ovo/status/2059607851082158344/photo/1",
+              "media_key": "3_2059607742495793152",
+              "start": 94,
+              "url": "https://t.co/5W3m3WIubu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059607851082158344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 2596,
+          "like_count": 417,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎回家，桑多涅。这次，我们再也不要分开了。\n#原神 #Genshin #月の少女 #コロンビーナ #GenshinImpact #Columbina #サンドローネ #Sandrone https://t.co/5W3m3WIubu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14874 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 322,
+          "like_count": 110960,
+          "listed_count": 10,
+          "media_count": 1304,
+          "tweet_count": 20145
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-25T15:45:55.000Z",
+        "description": "米游社签约画师\n约稿请联系邮箱:kh3ovo@qq.com\nTelegram群：https://t.co/4oMNmryAoA\n微博：https://t.co/SfuELwzt1f\nPIXIV：https://t.co/YBcyDsZI6b\nB站喵咕君QvQ：https://t.co/xQdbyGmve8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kh3ovefans",
+                "end": 63,
+                "expanded_url": "http://t.me/kh3ovefans",
+                "start": 40,
+                "url": "https://t.co/4oMNmryAoA"
+              },
+              {
+                "display_url": "weibo.com/2095295925",
+                "end": 90,
+                "expanded_url": "http://weibo.com/2095295925",
+                "start": 67,
+                "url": "https://t.co/SfuELwzt1f"
+              },
+              {
+                "display_url": "pixiv.net/users/58434088",
+                "end": 120,
+                "expanded_url": "http://pixiv.net/users/58434088",
+                "start": 97,
+                "url": "https://t.co/YBcyDsZI6b"
+              },
+              {
+                "display_url": "space.bilibili.com/14161457",
+                "end": 153,
+                "expanded_url": "http://space.bilibili.com/14161457",
+                "start": 130,
+                "url": "https://t.co/xQdbyGmve8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58434088",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58434088",
+                "start": 0,
+                "url": "https://t.co/u1QtqvKbNJ"
+              }
+            ]
+          }
+        },
+        "id": "934448067058659328",
+        "name": "喵咕君QvQ（KH3）",
+        "pinned_tweet_id": "2033154233135227106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1371850728055185417/7ZaLaiTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43970,
+          "following_count": 500,
+          "like_count": 736,
+          "listed_count": 277,
+          "media_count": 245,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/u1QtqvKbNJ",
+        "username": "kh3ovo",
+        "verified": false
+      }
+    ]
+  }
+}

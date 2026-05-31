@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1978316257112768993",
+    "created_at": "2025-10-15T04:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T05:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978316257112768993"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "凋叶棕 秋季",
+          "probability": 0.3953,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "なだひょうさん",
+          "probability": 0.4499,
+          "start": 57,
+          "type": "Person"
+        },
+        {
+          "end": 95,
+          "normalized_text": "めらみぽっぷさん",
+          "probability": 0.2057,
+          "start": 88,
+          "type": "Person"
+        },
+        {
+          "end": 100,
+          "normalized_text": "いおさん",
+          "probability": 0.6082,
+          "start": 97,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "28563994",
+          "start": 3,
+          "username": "rdwithleaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978316257112768993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 293
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978072308557193266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rdwithleaf: 凋叶棕 秋季例大祭 \"新刊\"\n「靴の音を、響かせて、その手を」\n\n私原案のお話をはなだひょうさんが脚色し素敵な漫画にしてくださいました！！！\n\nめらみぽっぷさん、いおさんによる同曲のツインボーカルverも同梱されます！！\n\nA5 表紙込36P ¥…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_1978072302517673984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OGR2Oa4AAoXL0.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1978316257112768993",
+        "created_at": "2025-10-15T04:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978316257112768993"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "凋叶棕 秋季",
+              "probability": 0.3953,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "なだひょうさん",
+              "probability": 0.4499,
+              "start": 57,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "めらみぽっぷさん",
+              "probability": 0.2057,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 100,
+              "normalized_text": "いおさん",
+              "probability": 0.6082,
+              "start": 97,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "28563994",
+              "start": 3,
+              "username": "rdwithleaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978316257112768993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978072308557193266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rdwithleaf: 凋叶棕 秋季例大祭 \"新刊\"\n「靴の音を、響かせて、その手を」\n\n私原案のお話をはなだひょうさんが脚色し素敵な漫画にしてくださいました！！！\n\nめらみぽっぷさん、いおさんによる同曲のツインボーカルverも同梱されます！！\n\nA5 表紙込36P ¥…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978072302517673984"
+          ]
+        },
+        "author_id": "28563994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1978072308557193266",
+        "created_at": "2025-10-14T12:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T13:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978072308557193266"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "なだひょうさん",
+              "probability": 0.458,
+              "start": 41,
+              "type": "Person"
+            },
+            {
+              "end": 79,
+              "normalized_text": "めらみぽっぷさん",
+              "probability": 0.2175,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "いおさん",
+              "probability": 0.5916,
+              "start": 81,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kr7MGfDBa",
+              "end": 182,
+              "expanded_url": "https://x.com/rdwithleaf/status/1978072308557193266/photo/1",
+              "media_key": "3_1978072302517673984",
+              "start": 159,
+              "url": "https://t.co/4kr7MGfDBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978072308557193266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 40129,
+          "like_count": 682,
+          "quote_count": 24,
+          "reply_count": 1,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "凋叶棕 秋季例大祭 \"新刊\"\n「靴の音を、響かせて、その手を」\n\n私原案のお話をはなだひょうさんが脚色し素敵な漫画にしてくださいました！！！\n\nめらみぽっぷさん、いおさんによる同曲のツインボーカルverも同梱されます！！\n\nA5 表紙込36P ¥700\nあ-20ab 凋叶棕にて頒布いたします！\n\nサンプル(1/4) https://t.co/4kr7MGfDBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 221,
+          "like_count": 54277,
+          "listed_count": 7,
+          "media_count": 698,
+          "tweet_count": 10250
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T13:40:36.000Z",
+        "description": "ＲＤと申します。音楽屋として作・編曲の毎日を頑張っております。主催：凋叶棕 / Feuille-Morte 活動名義：RD-Sounds ついったーでは曲の話とかゲームの話とか。気の向くままに。 作曲編曲作詞ミックス等、ご依頼随時承ります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rd-sounds.com",
+                "end": 23,
+                "expanded_url": "http://www.rd-sounds.com/",
+                "start": 0,
+                "url": "https://t.co/Lfq99L9yV0"
+              }
+            ]
+          }
+        },
+        "id": "28563994",
+        "name": "RD@凋叶棕",
+        "pinned_tweet_id": "1978072308557193266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218464817633058816/xIm4hUgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30516,
+          "following_count": 379,
+          "like_count": 26107,
+          "listed_count": 357,
+          "media_count": 3189,
+          "tweet_count": 160935
+        },
+        "url": "https://t.co/Lfq99L9yV0",
+        "username": "rdwithleaf",
+        "verified": true
+      }
+    ]
+  }
+}

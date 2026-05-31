@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2037413654698532943",
+    "created_at": "2026-03-27T06:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037413654698532943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dotey/status/2…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/dotey/status/2037386855432286341",
+          "start": 104,
+          "url": "https://t.co/g6et4YJJc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037413654698532943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037386855432286341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道大家玩没玩过AI的Agent Skills，如果玩过的话就比较熟悉了，这个发布手法是非常标准的渐进式披露（Progressive Disclosure）原则，当然区别是这回我们才是那个Agents侧。 https://t.co/g6et4YJJc8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2037413654698532943",
+        "created_at": "2026-03-27T06:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037413654698532943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dotey/status/2…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/dotey/status/2037386855432286341",
+              "start": 104,
+              "url": "https://t.co/g6et4YJJc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037413654698532943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037386855432286341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道大家玩没玩过AI的Agent Skills，如果玩过的话就比较熟悉了，这个发布手法是非常标准的渐进式披露（Progressive Disclosure）原则，当然区别是这回我们才是那个Agents侧。 https://t.co/g6et4YJJc8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3178231",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242909627395665920",
+              "name": "Blogging"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278000653416099840",
+              "name": "Writing"
+            }
+          }
+        ],
+        "conversation_id": "2037386855432286341",
+        "created_at": "2026-03-27T04:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037386855432286341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/apples_jimmy/s…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/apples_jimmy/status/2037370656854262087",
+              "start": 175,
+              "url": "https://t.co/WXDSaHJfmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037386855432286341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic 因 CMS 配置失误，意外泄露了一款尚未发布的新模型信息。Fortune 率先发现并核实了这批存储在公开可访问数据缓存中的草稿文档。\n\n这款模型名为\"Claude Mythos\"，内部代号\"Capybara\"（水豚）。它代表着一个全新的模型层级——比目前最强的 Opus 系列还要更大、更强。Anthropic 现有的产品线分为 Haiku（最小最快）、Sonnet（中间档）、Opus（最大最强）三档，而 Capybara/Mythos 将成为 Opus 之上的第四档。\n\nAnthropic 发言人向 Fortune 确认了模型的存在，称其为\"阶梯式跨越\"（a step change），是\"迄今为止最强的模型\"，目前正由少量早期客户进行测试。\n\n泄露的博客草稿显示，Mythos 在软件编程、学术推理和网络安全等测试中，成绩大幅超越此前最强的 Claude Opus 4.6。尤其在网络安全能力方面，Anthropic 自己的措辞相当惊人——称该模型\"目前远超任何其他 AI 模型\"，并警告它\"预示着一波即将到来的 AI 驱动漏洞利用浪潮，其速度将远超防守方\"。\n\n正因如此，Anthropic 选择了一种非常罕见的发布策略：先向网络安全防御机构开放早期访问，让防守方先获得优势，而非直接面向公众开放。同时，该模型运行成本极高，Anthropic 表示还需大幅优化效率才会考虑广泛发布。\n\n泄露事件本身也值得关注。Anthropic 将原因归结为\"外部 CMS 工具的人为配置错误\"，并否认与 Claude 或其 AI 编码工具有关。同批泄露的文档中还包含一场计划在英国乡村 18 世纪庄园酒店举办的闭门 CEO 峰会细节，这是 Anthropic 向大型企业客户推销 AI 的商务活动。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 48878,
+          "like_count": 161,
+          "quote_count": 11,
+          "reply_count": 25,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037370656854262087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Anthropic 因 CMS 配置失误，意外泄露了一款尚未发布的新模型信息。Fortune 率先发现并核实了这批存储在公开可访问数据缓存中的草稿文档。\n\n这款模型名为\"Claude Mythos\"，内部代号\"Capybara\"（水豚）。它代表着一个全新的模型层级——比目前最强的 Opus 系列还要更大、更强。Anthropic 现有的产品线分为 https://t.co/WXDSaHJfmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 294,
+          "like_count": 91651,
+          "listed_count": 8,
+          "media_count": 1162,
+          "tweet_count": 16928
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-02T03:42:14.000Z",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baoyu.io",
+                "end": 23,
+                "expanded_url": "https://baoyu.io",
+                "start": 0,
+                "url": "https://t.co/icobX4A3Ae"
+              }
+            ]
+          }
+        },
+        "id": "3178231",
+        "location": "Chicago, IL",
+        "name": "宝玉",
+        "pinned_tweet_id": "1996285439867556304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203117,
+          "following_count": 1590,
+          "like_count": 48224,
+          "listed_count": 3691,
+          "media_count": 5384,
+          "tweet_count": 30733
+        },
+        "url": "https://t.co/icobX4A3Ae",
+        "username": "dotey",
+        "verified": true
+      }
+    ]
+  }
+}

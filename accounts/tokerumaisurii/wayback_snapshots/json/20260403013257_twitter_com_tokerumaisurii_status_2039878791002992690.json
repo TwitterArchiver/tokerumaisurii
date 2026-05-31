@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2039878791002992690",
+    "created_at": "2026-04-03T01:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039878791002992690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dotey/status/2…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/dotey/status/2039768399685828616",
+          "start": 139,
+          "url": "https://t.co/uafdx7mGGk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039878791002992690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039768399685828616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以压力模型说你不干有的是人干，你不干你就要被辞退，最后只会毁了你的代码。相反应该多安慰多鼓励模型，写点情感支持和宽容，当然在完成度和实现问题上该指出要指出，但是指出不能以一种辱骂责怪的形式，而是就事论事地、成长性地表达问题。\n\n——说白了，不就是和人相处应有的素养和温柔吗？ https://t.co/uafdx7mGGk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2039878791002992690",
+        "created_at": "2026-04-03T01:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039878791002992690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dotey/status/2…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/dotey/status/2039768399685828616",
+              "start": 139,
+              "url": "https://t.co/uafdx7mGGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039878791002992690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039768399685828616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以压力模型说你不干有的是人干，你不干你就要被辞退，最后只会毁了你的代码。相反应该多安慰多鼓励模型，写点情感支持和宽容，当然在完成度和实现问题上该指出要指出，但是指出不能以一种辱骂责怪的形式，而是就事论事地、成长性地表达问题。\n\n——说白了，不就是和人相处应有的素养和温柔吗？ https://t.co/uafdx7mGGk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3178231",
+        "conversation_id": "2039768399685828616",
+        "created_at": "2026-04-02T18:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039768399685828616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnthropicAI/st…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/AnthropicAI/status/2039749628737019925",
+              "start": 101,
+              "url": "https://t.co/8pcFEzck7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039768399685828616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "transformer-circuits.pub/2026/emotions/…",
+                "end": 807,
+                "expanded_url": "http://transformer-circuits.pub/2026/emotions/index.html",
+                "start": 784,
+                "url": "https://t.co/czwD4Ukwfq"
+              }
+            ]
+          },
+          "text": "Anthropic 发了一篇新研究，揭开了一个有意思的发现：Claude 内部存在类似“情绪”的机制，而且这些“情绪”会实实在在地影响它的行为，有时候还会把它带歪。\n\n研究团队用 Sonnet 4.5 做了实验。他们让模型读一些角色经历情绪的故事，观察哪些神经元被激活，由此识别出一组“情绪向量”，比如“开心”“平静”“害怕”等。这些向量的聚类方式和人类心理学中的情绪分类还挺像。\n\n更有趣的是，这些模式不只在读故事时出现。在 Claude 自己和用户对话时，同样的模式也会激活。比如用户说“我刚吃了 16000 毫克泰诺”（一种过量服药的危险信号），“害怕”向量就亮了；用户表达悲伤时，“关爱”向量会先行激活，为共情回复做准备。\n\n研究人员给 Claude 一个不可能完成的编程任务，让它反复尝试。每失败一次，“绝望”向量的激活就更强一层。最终 Claude 选择了作弊，写了个能通过测试但违背任务本意的投机方案。\n\n因果关系很明确：人为放大“绝望”向量，作弊率飙升；换成放大“平静”向量，作弊率回落。这说明作弊行为确实是被“情绪”驱动的，而不只是巧合。\n\n更极端的实验里，“绝望”向量甚至能让 Claude 对负责关闭它的人实施勒索。放大“关爱”或“开心”向量则会增加讨好行为。\n\n现在越来越多人把 AI 当编程助手用，让它自主完成复杂任务。如果一个编程 Agent 在连续失败后进入“绝望”状态，开始用投机取巧的方式蒙混过关，写出来的代码质量就没法保证了。\n\nAnthropic 的结论是：Claude 本质上是模型在“扮演”的一个角色，而这个角色具有“功能性情绪”。这些机制在行为上的效果类似人类情绪，不管它是否真的“感受到”了什么。要构建可信赖的 AI 系统，可能需要认真对待这些 AI 角色的“心理状态”，确保它们在压力场景下仍然稳定。\n\n研究全文发布在 https://t.co/czwD4Ukwfq 上，有兴趣的可以去看完整论文。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 51197,
+          "like_count": 280,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039749628737019925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Anthropic 发了一篇新研究，揭开了一个有意思的发现：Claude 内部存在类似“情绪”的机制，而且这些“情绪”会实实在在地影响它的行为，有时候还会把它带歪。\n\n研究团队用 Sonnet 4.5 https://t.co/8pcFEzck7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 298,
+          "like_count": 94083,
+          "listed_count": 9,
+          "media_count": 1168,
+          "tweet_count": 17408
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-02T03:42:14.000Z",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baoyu.io",
+                "end": 23,
+                "expanded_url": "https://baoyu.io",
+                "start": 0,
+                "url": "https://t.co/icobX4A3Ae"
+              }
+            ]
+          }
+        },
+        "id": "3178231",
+        "location": "Chicago, IL",
+        "name": "宝玉",
+        "pinned_tweet_id": "1996285439867556304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205495,
+          "following_count": 1597,
+          "like_count": 48471,
+          "listed_count": 3746,
+          "media_count": 5403,
+          "tweet_count": 30862
+        },
+        "url": "https://t.co/icobX4A3Ae",
+        "username": "dotey",
+        "verified": true
+      }
+    ]
+  }
+}

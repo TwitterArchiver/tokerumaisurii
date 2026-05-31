@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2035748195675091251",
+    "created_at": "2026-03-22T23:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T00:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035858871671992623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663205241419100162",
+          "start": 0,
+          "username": "CaramelAster00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035858871671992623",
+    "in_reply_to_user_id": "1663205241419100162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035748195675091251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaramelAster00 好想被人边掐脖子边扇巴掌边亲哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2035748195675091251].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2035748195675091251",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2035748195675091251"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2035748195675091251",
+        "created_at": "2026-03-22T23:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T00:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035858871671992623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663205241419100162",
+              "start": 0,
+              "username": "CaramelAster00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035858871671992623",
+        "in_reply_to_user_id": "1663205241419100162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035748195675091251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaramelAster00 好想被人边掐脖子边扇巴掌边亲哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 292,
+          "like_count": 90987,
+          "listed_count": 8,
+          "media_count": 1156,
+          "tweet_count": 16734
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T15:27:27.000Z",
+        "description": "柳垂江上影，梅谢雪中枝\n三重伟大赫尔墨斯  德勒兹\n潮酷骚孩/后人类主义/超个体主义/无性恋",
+        "id": "1663205241419100162",
+        "location": "405,500km",
+        "name": "Yuri",
+        "pinned_tweet_id": "1983477626032558312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035239859804413956/s1JLQ7kt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 445,
+          "like_count": 28291,
+          "listed_count": 7,
+          "media_count": 338,
+          "tweet_count": 4327
+        },
+        "username": "CaramelAster00",
+        "verified": false
+      }
+    ]
+  }
+}

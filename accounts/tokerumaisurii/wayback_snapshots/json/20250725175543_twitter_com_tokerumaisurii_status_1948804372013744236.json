@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1948708135880823187",
+    "created_at": "2025-07-25T17:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T18:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948804372013744236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812217449338785792",
+          "start": 0,
+          "username": "beijieyoufengle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948804372013744236",
+    "in_reply_to_user_id": "1812217449338785792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948802736155492397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beijieyoufengle 草，这些感觉很性别化不太敢看，所以我都是去有中性衣服能买的地方……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1948708135880823187",
+        "created_at": "2025-07-25T17:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948804372013744236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812217449338785792",
+              "start": 0,
+              "username": "beijieyoufengle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948804372013744236",
+        "in_reply_to_user_id": "1812217449338785792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948802736155492397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beijieyoufengle 草，这些感觉很性别化不太敢看，所以我都是去有中性衣服能买的地方……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812217449338785792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116760",
+              "name": "Zara"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          }
+        ],
+        "conversation_id": "1948708135880823187",
+        "created_at": "2025-07-25T17:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948802736155492397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948802736155492397",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948784670096982453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 你说的这种店感觉我一般不太进去逛，可能对运动品牌不是很感冒吧，我印象中线下店比较有熟悉感的店有CK、Zara、朗姿、H&amp;M、之禾这种，再贵就买不起了。包包可能会买贵一点，但我不习惯穿太贵的衣服，太贵要是被家里阿姨洗坏了也会心疼，这个价位就刚刚好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 179,
+          "like_count": 33834,
+          "listed_count": 5,
+          "media_count": 457,
+          "tweet_count": 6087
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T20:08:13.000Z",
+        "description": "北极的一只🦊～不是鹅！//已成年!//Coser//🇭🇰//🏳‍⚧mtf 大证//187/60kg/75B//infp//约拍 寄拍 互fo请私信//聊天🚪30 过门回消息 /接⭕️ 线下🚪100 全国可✈️/🚪扫置顶赞赏码或口令//亲爱的@TudouCn24795/最好的姐姐@liznekoneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "TudouCn24795"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "liznekoneko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EBBSE_Channel",
+                "end": 23,
+                "expanded_url": "https://t.me/EBBSE_Channel",
+                "start": 0,
+                "url": "https://t.co/U2rDCvTdX5"
+              }
+            ]
+          }
+        },
+        "id": "1812217449338785792",
+        "location": "距离你5.0cm/s",
+        "name": "鹅宝不是鹅🍥（三号机）",
+        "pinned_tweet_id": "1823997009357103518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874866528757444608/v6IE-reo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25559,
+          "following_count": 288,
+          "like_count": 1409,
+          "listed_count": 51,
+          "media_count": 259,
+          "tweet_count": 1047
+        },
+        "url": "https://t.co/U2rDCvTdX5",
+        "username": "beijieyoufengle",
+        "verified": false
+      }
+    ]
+  }
+}

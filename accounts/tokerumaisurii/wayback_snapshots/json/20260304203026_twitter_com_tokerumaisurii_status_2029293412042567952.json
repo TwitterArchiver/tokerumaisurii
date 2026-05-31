@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2029225110293627177",
+    "created_at": "2026-03-04T20:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T21:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029293412042567952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514091856765849603",
+          "start": 0,
+          "username": "karana7931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029293412042567952",
+    "in_reply_to_user_id": "1514091856765849603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029225110293627177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karana7931 我记得微软的人说因为没沿用旧代码是重写的新的，所以放侧边的功能还没做，然后公司评估这个需求不重要也没让他们接着做（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2029225110293627177",
+        "created_at": "2026-03-04T20:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029293412042567952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514091856765849603",
+              "start": 0,
+              "username": "karana7931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029293412042567952",
+        "in_reply_to_user_id": "1514091856765849603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029225110293627177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karana7931 我记得微软的人说因为没沿用旧代码是重写的新的，所以放侧边的功能还没做，然后公司评估这个需求不重要也没让他们接着做（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514091856765849603",
+        "conversation_id": "2029225110293627177",
+        "created_at": "2026-03-04T15:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029225110293627177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029225110293627177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现Mac系统可以把程序坞放侧面后更加不能理解微软这帮人Win11强制任务栏放下面的决定了（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 277,
+          "like_count": 84082,
+          "listed_count": 7,
+          "media_count": 1089,
+          "tweet_count": 15625
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T04:05:09.000Z",
+        "description": "✦病み垢✦お水勉強✦サブカル✦夢日記\\YNO✦ボルテ魔騎士\\4k十段✦天鳳4四\\3初✦She\\Them✦メンヘラ✦ASDHD✦BPD✦DD✦向精神薬✦自傷✦占い✦挨拶自由✦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/karana…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/karana7931.bsky.social",
+                "start": 0,
+                "url": "https://t.co/UpFtfYY5Q2"
+              }
+            ]
+          }
+        },
+        "id": "1514091856765849603",
+        "location": "uualcame",
+        "name": "✦空名つぐみ✦",
+        "pinned_tweet_id": "1558531008202526723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558666470359547905/xCsk5xTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 328,
+          "like_count": 43083,
+          "listed_count": 5,
+          "media_count": 613,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/UpFtfYY5Q2",
+        "username": "karana7931",
+        "verified": false
+      }
+    ]
+  }
+}

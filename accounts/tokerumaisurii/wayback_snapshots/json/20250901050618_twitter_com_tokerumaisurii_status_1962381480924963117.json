@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1962194688573886582",
+    "created_at": "2025-09-01T05:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962381480924963117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "913314383526223872",
+          "start": 0,
+          "username": "liseami1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962381480924963117",
+    "in_reply_to_user_id": "913314383526223872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962194688573886582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liseami1 这个听起来确实不错……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2390,
+        "media_key": "3_1962193387798614016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzscfXRbUAAbLwW.jpg",
+        "width": 1428
+      },
+      {
+        "height": 2286,
+        "media_key": "3_1962193387832180736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzscfXZbgAAGBiz.jpg",
+        "width": 3184
+      },
+      {
+        "height": 2260,
+        "media_key": "3_1962193387764973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzscfXJaAAApKqH.jpg",
+        "width": 1774
+      },
+      {
+        "height": 1316,
+        "media_key": "3_1962193387744088064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzscfXEbUAAb4N1.jpg",
+        "width": 2354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1962194688573886582",
+        "created_at": "2025-09-01T05:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962381480924963117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "913314383526223872",
+              "start": 0,
+              "username": "liseami1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962381480924963117",
+        "in_reply_to_user_id": "913314383526223872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962194688573886582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liseami1 这个听起来确实不错……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962193387798614016",
+            "3_1962193387832180736",
+            "3_1962193387764973568",
+            "3_1962193387744088064"
+          ]
+        },
+        "author_id": "913314383526223872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1962194688573886582",
+        "created_at": "2025-08-31T16:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962194688573886582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4RHtQUCZyp",
+              "end": 122,
+              "expanded_url": "https://x.com/liseami1/status/1962194688573886582/photo/1",
+              "media_key": "3_1962193387798614016",
+              "start": 99,
+              "url": "https://t.co/4RHtQUCZyp"
+            },
+            {
+              "display_url": "pic.x.com/4RHtQUCZyp",
+              "end": 122,
+              "expanded_url": "https://x.com/liseami1/status/1962194688573886582/photo/1",
+              "media_key": "3_1962193387832180736",
+              "start": 99,
+              "url": "https://t.co/4RHtQUCZyp"
+            },
+            {
+              "display_url": "pic.x.com/4RHtQUCZyp",
+              "end": 122,
+              "expanded_url": "https://x.com/liseami1/status/1962194688573886582/photo/1",
+              "media_key": "3_1962193387764973568",
+              "start": 99,
+              "url": "https://t.co/4RHtQUCZyp"
+            },
+            {
+              "display_url": "pic.x.com/4RHtQUCZyp",
+              "end": 122,
+              "expanded_url": "https://x.com/liseami1/status/1962194688573886582/photo/1",
+              "media_key": "3_1962193387744088064",
+              "start": 99,
+              "url": "https://t.co/4RHtQUCZyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962194688573886582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "支付宝的NFC碰一碰对我来说是一种巨大的PTSD......这是我第一个创业项目，2019年，拿了天使轮，一腔热血，愚昧之巅，在上海270家线下小咖啡店、小酒吧贴上NFC芯片。碰一下连Wifi + 进群聊。现场社交群，大家回家后也很活跃。群里有服务员头像，可以打赏小费。无会员订阅，0营收，坚信自己很快能拿到下一轮。哈哈。无知者无畏，这也是我对IM有执念的原因。因为我亲眼见过自己产品里的千人大群，消息刷屏，自己在汤臣金融大厦加班到凌晨默默观看，乐此不疲。此后所做的事，似乎都是为了找回、并且超越那一刻的阈值。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 42061,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "支付宝的NFC碰一碰对我来说是一种巨大的PTSD......这是我第一个创业项目，2019年，拿了天使轮，一腔热血，愚昧之巅，在上海270家线下小咖啡店、小酒吧贴上NFC芯片。碰一下连Wifi + https://t.co/4RHtQUCZyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 203,
+          "like_count": 40934,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 7549
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-28T08:08:12.000Z",
+        "description": "📱 独立开发：口袋粉丝App、胃之书App，陌生人闹钟App 🖋 出版小说：《坏一坏》、《人生灿灿》 💻 纯想0基础全栈开发之路 - 帮助你复现我从0自学开发产品的完整路径 💬 可爱信 Founder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chunxiang.space",
+                "end": 23,
+                "expanded_url": "https://chunxiang.space",
+                "start": 0,
+                "url": "https://t.co/fUfMyHYkKY"
+              }
+            ]
+          }
+        },
+        "id": "913314383526223872",
+        "name": "赵纯想",
+        "pinned_tweet_id": "1945357364921766029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851554473174286336/nuzwVwa2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27400,
+          "following_count": 291,
+          "like_count": 1389,
+          "listed_count": 200,
+          "media_count": 267,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/fUfMyHYkKY",
+        "username": "liseami1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      }
+    ],
+    "conversation_id": "2013481968717943116",
+    "created_at": "2026-01-20T05:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T06:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013481968717943116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maruko00o/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/maruko00o/status/2013449551236272360",
+          "start": 25,
+          "url": "https://t.co/k0NhkjjyfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013481968717943116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013449551236272360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Adobe是我全世界最恨的软件公司恐怕没有之一。 https://t.co/k0NhkjjyfT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2013449540649496576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E1sIOWMAA91Pi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 903,
+        "media_key": "3_2013449540611768320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E1sIFWgAAbk0o.jpg",
+        "width": 1080
+      },
+      {
+        "height": 950,
+        "media_key": "3_2013449540435922944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E1sHbbUAAnpFK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2013481968717943116",
+        "created_at": "2026-01-20T05:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013481968717943116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maruko00o/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/maruko00o/status/2013449551236272360",
+              "start": 25,
+              "url": "https://t.co/k0NhkjjyfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013481968717943116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013449551236272360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Adobe是我全世界最恨的软件公司恐怕没有之一。 https://t.co/k0NhkjjyfT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013449540649496576",
+            "3_2013449540611768320",
+            "3_2013449540435922944"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2013449551236272360",
+        "created_at": "2026-01-20T03:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013449551236272360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhRpqhGdh4",
+              "end": 164,
+              "expanded_url": "https://x.com/maruko00o/status/2013449551236272360/photo/1",
+              "media_key": "3_2013449540649496576",
+              "start": 141,
+              "url": "https://t.co/LhRpqhGdh4"
+            },
+            {
+              "display_url": "pic.x.com/LhRpqhGdh4",
+              "end": 164,
+              "expanded_url": "https://x.com/maruko00o/status/2013449551236272360/photo/1",
+              "media_key": "3_2013449540611768320",
+              "start": 141,
+              "url": "https://t.co/LhRpqhGdh4"
+            },
+            {
+              "display_url": "pic.x.com/LhRpqhGdh4",
+              "end": 164,
+              "expanded_url": "https://x.com/maruko00o/status/2013449551236272360/photo/1",
+              "media_key": "3_2013449540435922944",
+              "start": 141,
+              "url": "https://t.co/LhRpqhGdh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013449551236272360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "时间紧任务重，Q&A 三个问题很快的问很快的答：\n\n1. 是的。\nAdobe 这家公司：\n① 不通知我擅自提高我订阅套餐的价格。（现在还在涨）\n② 要取消订阅的时候想收我一大笔「提前取消费」。\n③ 取消订阅之后依然给我扣款。\n④ 根本没法保证软件稳定性，越更新用着越难受。\n\n唯利是图、非常傲慢的一家公司。我的工作流大多围绕着这些软件构建，不得不用，但我拒绝再为它的产品支付任何费用。\n\n2. 目前最主要的刷新点在我的床上、沙发上、电脑前面，以及家附近的各个商场里。 你要是想见我可以直接约我出门玩就好，不用在刷新点蹲我，这个运气成分太高。\n\n3. 做过不少，包括且不限于翻译、混音/母带、平面设计，经验最久的的应该是在很多家 Web3 公司做过区块链相关的工作。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2074,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时间紧任务重，Q&amp;A 三个问题很快的问很快的答：\n\n1. 是的。\nAdobe 这家公司：\n① 不通知我擅自提高我订阅套餐的价格。（现在还在涨）\n② 要取消订阅的时候想收我一大笔「提前取消费」。\n③ 取消订阅之后依然给我扣款。\n④ 根本没法保证软件稳定性，越更新用着越难受。 https://t.co/LhRpqhGdh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 260,
+          "like_count": 74232,
+          "listed_count": 8,
+          "media_count": 972,
+          "tweet_count": 14107
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37012,
+          "following_count": 918,
+          "like_count": 21003,
+          "listed_count": 201,
+          "media_count": 852,
+          "tweet_count": 4722
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

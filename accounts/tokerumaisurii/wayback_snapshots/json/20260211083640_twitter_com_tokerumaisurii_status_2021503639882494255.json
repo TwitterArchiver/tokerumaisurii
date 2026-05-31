@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2021502550810505726",
+    "created_at": "2026-02-11T08:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021503639882494255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Explore developer resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI's platform.",
+          "display_url": "platform.openai.com/tokenizer",
+          "end": 166,
+          "expanded_url": "https://platform.openai.com/tokenizer",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2021353796346183680/AfBHvxW1?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2021353796346183680/AfBHvxW1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 143,
+          "status": 200,
+          "title": "OpenAI Platform",
+          "unwound_url": "https://platform.openai.com/tokenizer",
+          "url": "https://t.co/mAtsxRS55R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021503639882494255",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021502550810505726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据一些帖子，我猜测由于既有语料的问题，各家大模型的分词器（tokenizer）对直引号和弯引号错乱已深，加入中文后更完蛋了。\n也许是没有易混淆的ASCII替代物，也许是用的人很少打错，分词器对直角引号工作很正常，单独token处理，反观「”的」「”和」等等永远混一个token里。\n\nhttps://t.co/mAtsxRS55R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021502545852510209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3R2uYWMAEHiLW.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021502545760268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3R2uCWsAAPESk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2021502550810505726",
+        "created_at": "2026-02-11T08:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021503639882494255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore developer resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI's platform.",
+              "display_url": "platform.openai.com/tokenizer",
+              "end": 166,
+              "expanded_url": "https://platform.openai.com/tokenizer",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2021353796346183680/AfBHvxW1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021353796346183680/AfBHvxW1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "OpenAI Platform",
+              "unwound_url": "https://platform.openai.com/tokenizer",
+              "url": "https://t.co/mAtsxRS55R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021503639882494255",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021502550810505726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据一些帖子，我猜测由于既有语料的问题，各家大模型的分词器（tokenizer）对直引号和弯引号错乱已深，加入中文后更完蛋了。\n也许是没有易混淆的ASCII替代物，也许是用的人很少打错，分词器对直角引号工作很正常，单独token处理，反观「”的」「”和」等等永远混一个token里。\n\nhttps://t.co/mAtsxRS55R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021502545852510209",
+            "3_2021502545760268288"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2021502550810505726",
+        "created_at": "2026-02-11T08:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:28:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021501565035741449",
+          "2021502550810505726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/Chinese_p…",
+              "end": 156,
+              "expanded_url": "https://en.wikipedia.org/wiki/Chinese_punctuation",
+              "start": 133,
+              "status": 200,
+              "title": "Chinese punctuation - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Chinese_punctuation",
+              "url": "https://t.co/bFWfyhQ8EP"
+            },
+            {
+              "display_url": "pic.x.com/2rgHkPhDcj",
+              "end": 180,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2021502550810505726/photo/1",
+              "media_key": "3_2021502545852510209",
+              "start": 157,
+              "url": "https://t.co/2rgHkPhDcj"
+            },
+            {
+              "display_url": "pic.x.com/2rgHkPhDcj",
+              "end": 180,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2021502550810505726/photo/1",
+              "media_key": "3_2021502545760268288",
+              "start": 157,
+              "url": "https://t.co/2rgHkPhDcj"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2021432753745707045",
+              "start": 181,
+              "url": "https://t.co/yAaFL1As4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021502550810505726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021432753745707045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果是语料级别的污染，那么就用一样的办法解决。一键到位的解决方案就是指导Claude对所有中文文本使用直角引号，效果立竿见影，除了没分清直角引号的单双引号之外（暂时懒得优化）已近完美。\n我写提示词的时候参考了以下这条维基百科条目，刚好是以英语描写中文符号使用的。\n\nhttps://t.co/bFWfyhQ8EP https://t.co/2rgHkPhDcj https://t.co/yAaFL1As4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 262,
+          "like_count": 75936,
+          "listed_count": 6,
+          "media_count": 1029,
+          "tweet_count": 14638
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

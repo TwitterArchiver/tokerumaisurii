@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1941088283267895296"
+      ],
+      "media_source_tweet_id": [
+        "1941088348447379477"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1941314050778071056",
+    "created_at": "2025-07-05T01:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T02:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941314050778071056"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 33,
+          "tag": "7月4日はフランの日"
+        },
+        {
+          "end": 60,
+          "start": 46,
+          "tag": "フランドール・スカーレット"
+        },
+        {
+          "end": 72,
+          "start": 62,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "38896126",
+          "start": 3,
+          "username": "act_rock"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Som8bVMdvB",
+          "end": 96,
+          "expanded_url": "https://x.com/act_rock/status/1941088348447379477/video/1",
+          "media_key": "13_1941088283267895296",
+          "start": 73,
+          "url": "https://t.co/Som8bVMdvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941314050778071056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941088348447379477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @act_rock: 原曲：U.N.オーエンは彼女なのか？\n#7月4日はフランの日 \n#フランドール・スカーレット \n#東方Project https://t.co/Som8bVMdvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37640,
+        "height": 1920,
+        "media_key": "13_1941088283267895296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941088283267895296/img/rjooywKqgHsVanNq.jpg",
+        "public_metrics": {
+          "view_count": 1207
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941088283267895296/vid/avc1/720x1280/e36uy9hZCkOqTiBf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941088283267895296/vid/avc1/1080x1920/V72LKH6fVVT5lw9K.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941088283267895296/vid/avc1/320x568/pK6l120GGfu3ldPV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941088283267895296/vid/avc1/480x852/RCL-XAwaBYQtFtzf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941088283267895296/pl/1y7A0IjNyPsFdFXR.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941088283267895296"
+          ],
+          "media_source_tweet_id": [
+            "1941088348447379477"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1941314050778071056",
+        "created_at": "2025-07-05T01:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T02:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941314050778071056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 33,
+              "tag": "7月4日はフランの日"
+            },
+            {
+              "end": 60,
+              "start": 46,
+              "tag": "フランドール・スカーレット"
+            },
+            {
+              "end": 72,
+              "start": 62,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "38896126",
+              "start": 3,
+              "username": "act_rock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Som8bVMdvB",
+              "end": 96,
+              "expanded_url": "https://x.com/act_rock/status/1941088348447379477/video/1",
+              "media_key": "13_1941088283267895296",
+              "start": 73,
+              "url": "https://t.co/Som8bVMdvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941314050778071056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941088348447379477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @act_rock: 原曲：U.N.オーエンは彼女なのか？\n#7月4日はフランの日 \n#フランドール・スカーレット \n#東方Project https://t.co/Som8bVMdvB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941088283267895296"
+          ]
+        },
+        "author_id": "38896126",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1941088348447379477",
+        "created_at": "2025-07-04T10:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T11:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941088348447379477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "7月4日はフランの日"
+            },
+            {
+              "end": 46,
+              "start": 32,
+              "tag": "フランドール・スカーレット"
+            },
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Som8bVMdvB",
+              "end": 82,
+              "expanded_url": "https://x.com/act_rock/status/1941088348447379477/video/1",
+              "media_key": "13_1941088283267895296",
+              "start": 59,
+              "url": "https://t.co/Som8bVMdvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941088348447379477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 3088,
+          "like_count": 270,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "原曲：U.N.オーエンは彼女なのか？\n#7月4日はフランの日 \n#フランドール・スカーレット \n#東方Project https://t.co/Som8bVMdvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 179,
+          "like_count": 28306,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 5007
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-09T17:59:21.000Z",
+        "description": "東方アレンジサークル イノライ代表 Youtube：https://t.co/1KjE671hvg BOOTH：https://t.co/Uka6XkOcZL 東方アレンジ/オリジナル曲 ご用のある方はDMかlit linkへ♪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@inorai",
+                "end": 49,
+                "expanded_url": "http://youtube.com/@inorai",
+                "start": 26,
+                "url": "https://t.co/1KjE671hvg"
+              },
+              {
+                "display_url": "inorai.booth.pm",
+                "end": 79,
+                "expanded_url": "http://inorai.booth.pm",
+                "start": 56,
+                "url": "https://t.co/Uka6XkOcZL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/actrock#",
+                "end": 23,
+                "expanded_url": "https://lit.link/actrock#",
+                "start": 0,
+                "url": "https://t.co/oZJIMKaF41"
+              }
+            ]
+          }
+        },
+        "id": "38896126",
+        "name": "ACTRock@イノライ日曜東イ41ab",
+        "pinned_tweet_id": "1919190305280078312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763204048759726080/BVXrNrCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10151,
+          "following_count": 5528,
+          "like_count": 16099,
+          "listed_count": 122,
+          "media_count": 3268,
+          "tweet_count": 52613
+        },
+        "url": "https://t.co/oZJIMKaF41",
+        "username": "act_rock",
+        "verified": true
+      }
+    ]
+  }
+}

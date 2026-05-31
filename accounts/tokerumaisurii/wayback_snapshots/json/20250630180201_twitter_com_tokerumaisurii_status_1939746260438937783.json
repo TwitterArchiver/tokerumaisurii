@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1939611289333940224"
+      ],
+      "media_source_tweet_id": [
+        "1939611433458897044"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1939746260438937783",
+    "created_at": "2025-06-30T18:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T19:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939746260438937783"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "東方Project"
+        },
+        {
+          "end": 53,
+          "start": 43,
+          "tag": "100日チャレンジ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915552273138348032",
+          "start": 3,
+          "username": "saku_3_17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m0I7UPaQQk",
+          "end": 77,
+          "expanded_url": "https://x.com/saku_3_17/status/1939611433458897044/video/1",
+          "media_key": "13_1939611289333940224",
+          "start": 54,
+          "url": "https://t.co/m0I7UPaQQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939746260438937783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939611433458897044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saku_3_17: 赤魔理沙で熱異常\n※音出ます\n #東方Project  #100日チャレンジ https://t.co/m0I7UPaQQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75333,
+        "height": 720,
+        "media_key": "13_1939611289333940224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939611289333940224/img/ogOb0fqwxs56LA5S.jpg",
+        "public_metrics": {
+          "view_count": 3963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939611289333940224/vid/avc1/480x270/owC-kgVA2iC9iQxG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939611289333940224/vid/avc1/640x360/o2M2fhQg4q5KYuqd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939611289333940224/vid/avc1/1280x720/rbCqJpjRS3Idxrg8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939611289333940224/pl/4VKW0i3Q6hbhznP0.m3u8?v=84c"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939611289333940224"
+          ],
+          "media_source_tweet_id": [
+            "1939611433458897044"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1939746260438937783",
+        "created_at": "2025-06-30T18:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T19:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939746260438937783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "東方Project"
+            },
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "100日チャレンジ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915552273138348032",
+              "start": 3,
+              "username": "saku_3_17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0I7UPaQQk",
+              "end": 77,
+              "expanded_url": "https://x.com/saku_3_17/status/1939611433458897044/video/1",
+              "media_key": "13_1939611289333940224",
+              "start": 54,
+              "url": "https://t.co/m0I7UPaQQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939746260438937783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939611433458897044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saku_3_17: 赤魔理沙で熱異常\n※音出ます\n #東方Project  #100日チャレンジ https://t.co/m0I7UPaQQk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939611289333940224"
+          ]
+        },
+        "author_id": "1915552273138348032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1939611433458897044",
+        "created_at": "2025-06-30T09:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939611433458897044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "東方Project"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "100日チャレンジ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0I7UPaQQk",
+              "end": 62,
+              "expanded_url": "https://x.com/saku_3_17/status/1939611433458897044/video/1",
+              "media_key": "13_1939611289333940224",
+              "start": 39,
+              "url": "https://t.co/m0I7UPaQQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939611433458897044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 11078,
+          "like_count": 986,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "赤魔理沙で熱異常\n※音出ます\n #東方Project  #100日チャレンジ https://t.co/m0I7UPaQQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 176,
+          "like_count": 26875,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 4731
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T23:43:59.000Z",
+        "description": "「あけぼしさく」です。成人済み。魔理沙大好き三馬鹿も好き。サブ垢(仮)➡️ @sakusabunosabu /skeb→ https://t.co/5fMPGZNbJx /ご依頼はDMか以降ご連絡先まで→ meiyoujiyetian7@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "sakusabunosabu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@LilLil1153347",
+                "end": 84,
+                "expanded_url": "https://skeb.jp/@LilLil1153347",
+                "start": 61,
+                "url": "https://t.co/5fMPGZNbJx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kgftuqaddobyp5…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/kgftuqaddobyp5c?t=9XPXq4&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/XJqxs3mcMB"
+              }
+            ]
+          }
+        },
+        "id": "1915552273138348032",
+        "location": "マシュマロ↓↓↓↓↓",
+        "name": "暁星朔/skeb募",
+        "pinned_tweet_id": "1938599621389156381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928834547933970432/2Y8ka9cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 86,
+          "like_count": 3460,
+          "listed_count": 10,
+          "media_count": 131,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/XJqxs3mcMB",
+        "username": "saku_3_17",
+        "verified": false
+      }
+    ]
+  }
+}

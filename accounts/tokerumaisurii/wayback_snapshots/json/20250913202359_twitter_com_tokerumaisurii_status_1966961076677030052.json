@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1966950607027352004",
+    "created_at": "2025-09-13T20:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T21:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966961076677030052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "fuckpregabalin"
+        },
+        {
+          "end": 32,
+          "id": "1680834021377593344",
+          "start": 16,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966961076677030052",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966951291768430945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin @HyotoChandesuyo 不解引用直接把指针传进去了是吧。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1966951291768430945].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1966951291768430945",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1966951291768430945"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1966950607027352004",
+        "created_at": "2025-09-13T20:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T21:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966961076677030052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "fuckpregabalin"
+            },
+            {
+              "end": 32,
+              "id": "1680834021377593344",
+              "start": 16,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966961076677030052",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966951291768430945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin @HyotoChandesuyo 不解引用直接把指针传进去了是吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 208,
+          "like_count": 44035,
+          "listed_count": 6,
+          "media_count": 605,
+          "tweet_count": 8326
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "🐽@HyotoChandesuyo｜👾@vicoOci_Olvidar @yangaaa111 @iTZQing @genya1976 @crypto_incase @Cheese_Ghostfox @Chenuden @heherrrrabbit1 @EarlofFidonisi @heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "yangaaa111"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "username": "iTZQing"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "genya1976"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "crypto_incase"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "Chenuden"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "heherrrrabbit1"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "EarlofFidonisi"
+              },
+              {
+                "end": 156,
+                "start": 142,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan",
+                "end": 23,
+                "expanded_url": "https://t.me/IokbunTan",
+                "start": 0,
+                "url": "https://t.co/8W9EYboUy0"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "💤",
+        "pinned_tweet_id": "1961596935317643350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960382056799846400/a3055saY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 574,
+          "like_count": 21099,
+          "listed_count": 1,
+          "media_count": 895,
+          "tweet_count": 8047
+        },
+        "url": "https://t.co/8W9EYboUy0",
+        "username": "fuckpregabalin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "07｜MtX🍥｜Asexual/Agender｜Psycho｜ただ夏の匂いに目を瞑りたい｜🐖@fuckpregabalin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Room 13",
+        "name": "白粥ひょと🍥🐳",
+        "pinned_tweet_id": "1945313496645972432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965485176517181440/f6tMsI6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 991,
+          "like_count": 129018,
+          "listed_count": 15,
+          "media_count": 4544,
+          "tweet_count": 31165
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

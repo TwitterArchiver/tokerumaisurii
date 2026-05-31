@@ -1,0 +1,592 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395440209873887237",
+          "name": "Niconico Chokaigi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1918136895189483621",
+    "created_at": "2025-05-02T02:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T03:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918136895189483621"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "魔理沙は大変なものを盗んでいきました",
+          "probability": 0.6754,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "てんちゃん",
+          "probability": 0.6177,
+          "start": 49,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 103,
+          "tag": "超超超超てんちゃん"
+        },
+        {
+          "end": 122,
+          "start": 114,
+          "tag": "超会議2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/SpW",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/SpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918136895189483621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4519
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917535791200493730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: 🎤歌ってみた🎤\n\n『魔理沙は大変なものを盗んでいきました』超てんちゃんバージョン\n\nニコニコ超会議で初披露されたあの名曲のカバーを公開！\nごっすんごっすんごすんくぎ～🥺\n\n#超超超超てんちゃん #超会議2025 https://t.co/SpW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 125000,
+        "height": 1080,
+        "media_key": "13_1917534807980199936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917534807980199936/img/m4quLhcXwJmyyXZz.jpg",
+        "public_metrics": {
+          "view_count": 111604
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917534807980199936/pl/hDT1lThV9Yzq-z3O.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917534807980199936/vid/avc1/480x270/1Hcpd_q8Pmr73RlE.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917534807980199936/vid/avc1/1280x720/Vq1p5CAUoU-oucZ-.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917534807980199936/vid/avc1/1920x1080/G_z067KV9gj8cnLO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917534807980199936/vid/avc1/640x360/4lq4OIleD7j_kdmd.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395440209873887237",
+              "name": "Niconico Chokaigi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1918136895189483621",
+        "created_at": "2025-05-02T02:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T03:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918136895189483621"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "魔理沙は大変なものを盗んでいきました",
+              "probability": 0.6754,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "てんちゃん",
+              "probability": 0.6177,
+              "start": 49,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 103,
+              "tag": "超超超超てんちゃん"
+            },
+            {
+              "end": 122,
+              "start": 114,
+              "tag": "超会議2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/SpW",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/SpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918136895189483621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4519
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917535791200493730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: 🎤歌ってみた🎤\n\n『魔理沙は大変なものを盗んでいきました』超てんちゃんバージョン\n\nニコニコ超会議で初披露されたあの名曲のカバーを公開！\nごっすんごっすんごすんくぎ～🥺\n\n#超超超超てんちゃん #超会議2025 https://t.co/SpW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917534807980199936"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395440209873887237",
+              "name": "Niconico Chokaigi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1917535791200493730",
+        "created_at": "2025-04-30T11:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917535791200493730"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "魔理沙は大変なものを盗んでいきました",
+              "probability": 0.7212,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "てんちゃん",
+              "probability": 0.6885,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 86,
+              "tag": "超超超超てんちゃん"
+            },
+            {
+              "end": 105,
+              "start": 97,
+              "tag": "超会議2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SpWMwVqh1g",
+              "end": 129,
+              "expanded_url": "https://x.com/needygirl_o/status/1917535791200493730/video/1",
+              "media_key": "13_1917534807980199936",
+              "start": 106,
+              "url": "https://t.co/SpWMwVqh1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917535791200493730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2541,
+          "impression_count": 413874,
+          "like_count": 15753,
+          "quote_count": 391,
+          "reply_count": 21,
+          "retweet_count": 4519
+        },
+        "reply_settings": "everyone",
+        "text": "🎤歌ってみた🎤\n\n『魔理沙は大変なものを盗んでいきました』超てんちゃんバージョン\n\nニコニコ超会議で初披露されたあの名曲のカバーを公開！\nごっすんごっすんごすんくぎ～🥺\n\n#超超超超てんちゃん #超会議2025 https://t.co/SpWMwVqh1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 137,
+          "like_count": 9102,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 1820
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47671,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 57,
+          "media_count": 400,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

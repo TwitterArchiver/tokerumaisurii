@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325474",
+          "name": "American Express "
+        }
+      }
+    ],
+    "conversation_id": "2033251890272645313",
+    "created_at": "2026-03-20T03:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034835012432851367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "934328484406718464",
+          "start": 0,
+          "username": "jason____owl__"
+        },
+        {
+          "end": 24,
+          "id": "1992293851596558336",
+          "start": 16,
+          "username": "EliKenu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034835012432851367",
+    "in_reply_to_user_id": "934328484406718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033550523022954540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jason____owl__ @EliKenu 我觉得论服务还是Amex舒服，因为Amex有应用内chat，而且不是说那种交个工单等几天，是即时沟通回复的，不是麻烦的事的话连电话都不用打，打字说两句就解决了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "2033251890272645313",
+        "created_at": "2026-03-20T03:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034835012432851367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "934328484406718464",
+              "start": 0,
+              "username": "jason____owl__"
+            },
+            {
+              "end": 24,
+              "id": "1992293851596558336",
+              "start": 16,
+              "username": "EliKenu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034835012432851367",
+        "in_reply_to_user_id": "934328484406718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033550523022954540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jason____owl__ @EliKenu 我觉得论服务还是Amex舒服，因为Amex有应用内chat，而且不是说那种交个工单等几天，是即时沟通回复的，不是麻烦的事的话连电话都不用打，打字说两句就解决了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "934328484406718464",
+        "conversation_id": "2033251890272645313",
+        "created_at": "2026-03-16T14:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033550523022954540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1992293851596558336",
+              "start": 0,
+              "username": "EliKenu"
+            },
+            {
+              "end": 24,
+              "id": "1903099585129816064",
+              "start": 9,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033550523022954540",
+        "in_reply_to_user_id": "1992293851596558336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033409239150961045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EliKenu @tokerumaisurii 但他们家服务很好，我打电话每次很快就有人接，之前卡被盗刷他们一天就搞定，一周我就收到新卡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 寻回自我……？ ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 291,
+          "like_count": 90030,
+          "listed_count": 8,
+          "media_count": 1147,
+          "tweet_count": 16566
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-25T07:50:44.000Z",
+        "description": "",
+        "id": "934328484406718464",
+        "name": "jason",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 114,
+          "like_count": 189,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 579
+        },
+        "username": "jason____owl__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:07:33.000Z",
+        "description": "",
+        "id": "1992293851596558336",
+        "name": "🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033547341504872449/3nK_ybxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "EliKenu",
+        "verified": false
+      }
+    ]
+  }
+}

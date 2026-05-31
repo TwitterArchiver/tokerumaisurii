@@ -1,0 +1,703 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054121482188722177"
+      ],
+      "media_source_tweet_id": [
+        "2054124387448877153"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2054310344219107376",
+    "created_at": "2026-05-12T21:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T22:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054310344219107376"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "緋英"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "スターレイル"
+        },
+        {
+          "end": 55,
+          "start": 40,
+          "tag": "HonkaiStarRail"
+        },
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "에바네시아"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "스타레일"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778171172590657537",
+          "start": 3,
+          "username": "Looming_10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sVpUvxaulu",
+          "end": 92,
+          "expanded_url": "https://x.com/Looming_10/status/2054124387448877153/photo/1",
+          "media_key": "3_2054121482188722177",
+          "start": 69,
+          "url": "https://t.co/sVpUvxaulu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054310344219107376",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054124387448877153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Looming_10: Evanescia🩷\n\n#緋英\n#スターレイル\n#HonkaiStarRail\n#에바네시아\n#스타레일 https://t.co/sVpUvxaulu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_2054121482188722177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG0mtdbkAEDSXI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054121482188722177"
+          ],
+          "media_source_tweet_id": [
+            "2054124387448877153"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2054310344219107376",
+        "created_at": "2026-05-12T21:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T22:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054310344219107376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "緋英"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "スターレイル"
+            },
+            {
+              "end": 55,
+              "start": 40,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "에바네시아"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "스타레일"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778171172590657537",
+              "start": 3,
+              "username": "Looming_10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVpUvxaulu",
+              "end": 92,
+              "expanded_url": "https://x.com/Looming_10/status/2054124387448877153/photo/1",
+              "media_key": "3_2054121482188722177",
+              "start": 69,
+              "url": "https://t.co/sVpUvxaulu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054310344219107376",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054124387448877153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Looming_10: Evanescia🩷\n\n#緋英\n#スターレイル\n#HonkaiStarRail\n#에바네시아\n#스타레일 https://t.co/sVpUvxaulu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054121482188722177"
+          ]
+        },
+        "author_id": "1778171172590657537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2054124387448877153",
+        "created_at": "2026-05-12T08:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054124387448877153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "緋英"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "スターレイル"
+            },
+            {
+              "end": 39,
+              "start": 24,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "에바네시아"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "스타레일"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVpUvxaulu",
+              "end": 76,
+              "expanded_url": "https://x.com/Looming_10/status/2054124387448877153/photo/1",
+              "media_key": "3_2054121482188722177",
+              "start": 53,
+              "url": "https://t.co/sVpUvxaulu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054124387448877153",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 16113,
+          "like_count": 2287,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "Evanescia🩷\n\n#緋英\n#スターレイル\n#HonkaiStarRail\n#에바네시아\n#스타레일 https://t.co/sVpUvxaulu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14870 弱虫モンブラン AP+ アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 120,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 97,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 314,
+          "like_count": 105841,
+          "listed_count": 11,
+          "media_count": 1262,
+          "tweet_count": 19472
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-10T21:20:32.000Z",
+        "description": "https://t.co/N2TckoQKyL\nhttps://t.co/Ucj4QXzWr2\nhttps://t.co/Urulks8CE9\n✉️blooming-bloming@naver.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105142271",
+                "end": 23,
+                "expanded_url": "https://pixiv.net/users/105142271",
+                "start": 0,
+                "url": "https://t.co/N2TckoQKyL"
+              },
+              {
+                "display_url": "artmug.kr/index.php?chan…",
+                "end": 47,
+                "expanded_url": "https://artmug.kr/index.php?channel=view&uid=40414",
+                "start": 24,
+                "url": "https://t.co/Ucj4QXzWr2"
+              },
+              {
+                "display_url": "crepe.cm/@Blooming?sour…",
+                "end": 71,
+                "expanded_url": "https://crepe.cm/@Blooming?source=header",
+                "start": 48,
+                "url": "https://t.co/Urulks8CE9"
+              }
+            ]
+          }
+        },
+        "id": "1778171172590657537",
+        "name": "Looming/ルーミング",
+        "pinned_tweet_id": "1784910736218857658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854383987806121984/xqfT964G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 708,
+          "like_count": 5346,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 4328
+        },
+        "username": "Looming_10",
+        "verified": false
+      }
+    ]
+  }
+}

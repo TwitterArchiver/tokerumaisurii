@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1108388868070371328",
+          "name": "Pabron (パブロン)"
+        }
+      }
+    ],
+    "conversation_id": "1956500981514117518",
+    "created_at": "2025-08-15T23:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T00:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956500981514117518"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956500981514117518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直用来海淘白兔到加拿大的一个网站常年有15000日元包邮活动，但这个数额它刚好可以被每单限购的3大3小白兔和1大1小パブロンS（白兔类药物）凑够，多的不用买，少了就没有，第一次凑出这个发现的时候我真的忍不住笑，也不好说是有趣的笑还是冷笑的心情，但是真的太搞笑了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1108388868070371328",
+              "name": "Pabron (パブロン)"
+            }
+          }
+        ],
+        "conversation_id": "1956500981514117518",
+        "created_at": "2025-08-15T23:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T00:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956500981514117518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956500981514117518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直用来海淘白兔到加拿大的一个网站常年有15000日元包邮活动，但这个数额它刚好可以被每单限购的3大3小白兔和1大1小パブロンS（白兔类药物）凑够，多的不用买，少了就没有，第一次凑出这个发现的时候我真的忍不住笑，也不好说是有趣的笑还是冷笑的心情，但是真的太搞笑了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 虚空甜品店菜单：柚梅纱纷，梨柚刨冰碗。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 189,
+          "like_count": 37703,
+          "listed_count": 5,
+          "media_count": 535,
+          "tweet_count": 6843
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

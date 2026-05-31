@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      }
+    ],
+    "conversation_id": "2039653525899075937",
+    "created_at": "2026-04-02T19:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T20:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039780909616968125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667550141065097217",
+          "start": 0,
+          "username": "VP51Archive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039780909616968125",
+    "in_reply_to_user_id": "1667550141065097217",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039653525899075937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VP51Archive &gt; wait what is liberation day\n&gt; searched online \n&gt; lmao it’s freaking ridiculous like, they call imposing higher taxes as liberation??\n&gt; oh my libertarian brain… (sadly realized that it can no longer understand normies"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039653525899075937].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039653525899075937",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039653525899075937"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2039653525899075937",
+        "created_at": "2026-04-02T19:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T20:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039780909616968125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667550141065097217",
+              "start": 0,
+              "username": "VP51Archive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039780909616968125",
+        "in_reply_to_user_id": "1667550141065097217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039653525899075937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VP51Archive &gt; wait what is liberation day\n&gt; searched online \n&gt; lmao it’s freaking ridiculous like, they call imposing higher taxes as liberation??\n&gt; oh my libertarian brain… (sadly realized that it can no longer understand normies"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 298,
+          "like_count": 94001,
+          "listed_count": 9,
+          "media_count": 1168,
+          "tweet_count": 17386
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T15:11:59.000Z",
+        "description": "Move with the tide.\n🌊☮️🌐⚓️🤍",
+        "id": "1667550141065097217",
+        "location": "Lupinland",
+        "name": "Alan",
+        "pinned_tweet_id": "2030117194944622618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039096377108570113/vpBdi3w0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 1371,
+          "like_count": 10983,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 11373
+        },
+        "username": "VP51Archive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1951107507876930038",
+    "created_at": "2025-08-01T02:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T03:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951107507876930038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gfw_report/sta…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/gfw_report/status/1950828073336676482",
+          "start": 68,
+          "url": "https://t.co/lEv0HVJ8NZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951107507876930038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950828073336676482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国国家防火墙真是每一款有点人气的通信协议的忠实红队啊……\n以及GFW Report真有专业感，可惜我不懂计网，不然我也想参与工作…… https://t.co/lEv0HVJ8NZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_1950826062683758593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxK599TW4AEIaVO.jpg",
+        "width": 2006
+      },
+      {
+        "height": 1012,
+        "media_key": "3_1950826080916398080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxK5_BOW4AAl1a5.jpg",
+        "width": 1408
+      },
+      {
+        "height": 1430,
+        "media_key": "3_1950827109913415681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxK666iXUAEPomO.jpg",
+        "width": 1430
+      },
+      {
+        "height": 1058,
+        "media_key": "3_1950827161037737984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxK694_WkAAhiok.jpg",
+        "width": 1294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1951107507876930038",
+        "created_at": "2025-08-01T02:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T03:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951107507876930038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gfw_report/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/gfw_report/status/1950828073336676482",
+              "start": 68,
+              "url": "https://t.co/lEv0HVJ8NZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951107507876930038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950828073336676482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国国家防火墙真是每一款有点人气的通信协议的忠实红队啊……\n以及GFW Report真有专业感，可惜我不懂计网，不然我也想参与工作…… https://t.co/lEv0HVJ8NZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950826062683758593",
+            "3_1950826080916398080",
+            "3_1950827109913415681",
+            "3_1950827161037737984"
+          ]
+        },
+        "author_id": "1205250880783732737",
+        "conversation_id": "1950828073336676482",
+        "created_at": "2025-07-31T07:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950828073336676482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Since April 2024, the Great Firewall of China (GFW) has been censoring QUIC traffic to specific domains. Our findings show the GFW decrypts QUIC Initial packets at scale and employs a unique blocklist. Our research reveals this system is ineffective under heavy traffic loads and it can also be weaponized to block arbitrary UDP traffic. In response, we collaborate with various open-source communities to integrate circumvention strategies into Mozilla Firefox, the quic-go library, and all major QUIC-based circumvention tools.",
+              "display_url": "gfw.report/publications/u…",
+              "end": 172,
+              "expanded_url": "https://gfw.report/publications/usenixsecurity25/en/",
+              "images": [
+                {
+                  "height": 925,
+                  "url": "https://pbs.twimg.com/news_img/1950819114651389952/K3x_Lqry?format=png&name=orig",
+                  "width": 1292
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1950819114651389952/K3x_Lqry?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 149,
+              "status": 200,
+              "title": "Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China",
+              "unwound_url": "https://gfw.report/publications/usenixsecurity25/en/",
+              "url": "https://t.co/8ixIEXe1zR"
+            },
+            {
+              "display_url": "pic.x.com/PU6t8kL8nZ",
+              "end": 196,
+              "expanded_url": "https://x.com/gfw_report/status/1950828073336676482/photo/1",
+              "media_key": "3_1950826062683758593",
+              "start": 173,
+              "url": "https://t.co/PU6t8kL8nZ"
+            },
+            {
+              "display_url": "pic.x.com/PU6t8kL8nZ",
+              "end": 196,
+              "expanded_url": "https://x.com/gfw_report/status/1950828073336676482/photo/1",
+              "media_key": "3_1950826080916398080",
+              "start": 173,
+              "url": "https://t.co/PU6t8kL8nZ"
+            },
+            {
+              "display_url": "pic.x.com/PU6t8kL8nZ",
+              "end": 196,
+              "expanded_url": "https://x.com/gfw_report/status/1950828073336676482/photo/1",
+              "media_key": "3_1950827109913415681",
+              "start": 173,
+              "url": "https://t.co/PU6t8kL8nZ"
+            },
+            {
+              "display_url": "pic.x.com/PU6t8kL8nZ",
+              "end": 196,
+              "expanded_url": "https://x.com/gfw_report/status/1950828073336676482/photo/1",
+              "media_key": "3_1950827161037737984",
+              "start": 173,
+              "url": "https://t.co/PU6t8kL8nZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950828073336676482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 189722,
+          "like_count": 390,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "推文 1/3\n\n中国防火长城 (GFW) 自2024年4月起进行了升级，现可通过检测加密的QUIC初始包，进行基于SNI的实时审查与域名屏蔽。\n\n我们在USENIX Security '25的最新论文中，深入分析了其审查逻辑、启发式解析规则和黑名单，揭示了GFW的屏蔽方式与目标。\n\n论文中文版: https://t.co/8ixIEXe1zR https://t.co/PU6t8kL8nZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 181,
+          "like_count": 35052,
+          "listed_count": 5,
+          "media_count": 479,
+          "tweet_count": 6384
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-12T22:20:04.000Z",
+        "description": "https://t.co/PPkiIIIscP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gfw.report",
+                "end": 23,
+                "expanded_url": "https://gfw.report",
+                "start": 0,
+                "url": "https://t.co/PPkiIIIscP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gfw.report",
+                "end": 23,
+                "expanded_url": "http://gfw.report",
+                "start": 0,
+                "url": "https://t.co/yOK6sUI6w8"
+              }
+            ]
+          }
+        },
+        "id": "1205250880783732737",
+        "name": "gfw.report",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950433511959142400/TxvyuK4L_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16522,
+          "following_count": 0,
+          "like_count": 44,
+          "listed_count": 98,
+          "media_count": 28,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/yOK6sUI6w8",
+        "username": "gfw_report",
+        "verified": false
+      }
+    ]
+  }
+}

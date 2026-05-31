@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2049041033036460396",
+    "created_at": "2026-04-28T08:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049041033036460396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 193,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2048849358674612455",
+          "start": 170,
+          "url": "https://t.co/m9BKtTD6T2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049041033036460396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048849358674612455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得不能赖多模态，就是智能问题，换回Opus 4.7 1m也没审图就抓出了问题，比如说多行输入框实现圆角矩形不该套Capsule要套RoundedRectangle，或者提示我TextField已经具备有限的多行支持了。不过Claude过度自信到不看MCP工具，改完不调Xcode检查，纯粹的力大砖飞。\n细致的普通鲸鱼和浮躁的天才螃蟹。 https://t.co/m9BKtTD6T2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2049041033036460396",
+        "created_at": "2026-04-28T08:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049041033036460396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2048849358674612455",
+              "start": 170,
+              "url": "https://t.co/m9BKtTD6T2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049041033036460396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048849358674612455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得不能赖多模态，就是智能问题，换回Opus 4.7 1m也没审图就抓出了问题，比如说多行输入框实现圆角矩形不该套Capsule要套RoundedRectangle，或者提示我TextField已经具备有限的多行支持了。不过Claude过度自信到不看MCP工具，改完不调Xcode检查，纯粹的力大砖飞。\n细致的普通鲸鱼和浮躁的天才螃蟹。 https://t.co/m9BKtTD6T2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2048849358674612455",
+        "created_at": "2026-04-27T19:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048849358674612455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048849358674612455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1262,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试用了一下DeepSeek-V4-Pro，接进Claude Code用的，感觉写出来的代码效果惨不忍睹，然后我想起来它是没有多模态的，所以根本没用上Xcode MCP里的当前代码对应界面效果预览来审视。这下发现Claude订阅终究还是关不掉。不过话又说回来，当作Sonnet档位的1m中高级模型，对付通用文本工作应该绰绰有余了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 311,
+          "like_count": 102110,
+          "listed_count": 9,
+          "media_count": 1225,
+          "tweet_count": 18741
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}

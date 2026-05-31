@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "1903269330525036993",
+    "created_at": "2025-03-22T12:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T13:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903418211867001190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1180145574030532608",
+          "start": 0,
+          "username": "y1kaah"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/IKIGAI_ARCADE/…",
+          "end": 60,
+          "expanded_url": "https://x.com/IKIGAI_ARCADE/status/1902867236596916718",
+          "start": 37,
+          "url": "https://t.co/ayVtmDazI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903418211867001190",
+    "in_reply_to_user_id": "1180145574030532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902867236596916718",
+        "type": "quoted"
+      },
+      {
+        "id": "1903269330525036993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y1kaah 甚至除此之外每两年还有强制的$2,000升级维护费……\n\nhttps://t.co/ayVtmDazI6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_1902867230834003968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmhXqiSXkAAA7TM.jpg",
+        "width": 1361
+      },
+      {
+        "height": 217,
+        "media_key": "3_1903269326225874944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmnFXkWXIAAmAI-.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1903269330525036993",
+        "created_at": "2025-03-22T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903418211867001190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1180145574030532608",
+              "start": 0,
+              "username": "y1kaah"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/IKIGAI_ARCADE/…",
+              "end": 60,
+              "expanded_url": "https://x.com/IKIGAI_ARCADE/status/1902867236596916718",
+              "start": 37,
+              "url": "https://t.co/ayVtmDazI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903418211867001190",
+        "in_reply_to_user_id": "1180145574030532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902867236596916718",
+            "type": "quoted"
+          },
+          {
+            "id": "1903269330525036993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y1kaah 甚至除此之外每两年还有强制的$2,000升级维护费……\n\nhttps://t.co/ayVtmDazI6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902867230834003968"
+          ]
+        },
+        "author_id": "1619096108088676352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1902867236596916718",
+        "created_at": "2025-03-20T23:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T00:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902867236596916718"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "maimaiDX",
+              "probability": 0.6996,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Sega",
+              "probability": 0.7501,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "maimaiDX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zg8D07U9TE",
+              "end": 302,
+              "expanded_url": "https://x.com/IKIGAI_ARCADE/status/1902867236596916718/photo/1",
+              "media_key": "3_1902867230834003968",
+              "start": 279,
+              "url": "https://t.co/Zg8D07U9TE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902867236596916718",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "maimaiDX"
+              },
+              {
+                "end": 294,
+                "start": 287,
+                "tag": "maimai"
+              },
+              {
+                "end": 305,
+                "start": 295,
+                "tag": "maimai_us"
+              },
+              {
+                "end": 317,
+                "start": 306,
+                "tag": "Pittsburgh"
+              },
+              {
+                "end": 323,
+                "start": 318,
+                "tag": "Sega"
+              }
+            ]
+          },
+          "text": "#maimaiDX update time!\n\nSega provided a correction/clarification regarding something they stated yesterday.\n\n- 31k price includes 2 years of updates\n\n- After the first 2 years it is $2000 per year to keep the cab online.\n\nWe do have a few questions pending answers however. Stay tuned!\n\n#maimai #maimai_us #Pittsburgh #Sega"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 15603,
+          "like_count": 271,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#maimaiDX update time!\n\nSega provided a correction/clarification regarding something they stated yesterday.\n\n- 31k price includes 2 years of updates\n\n- After the first 2 years it is $2000 per year to keep the cab online.\n\nWe do have a few questions pending answers however. Stay https://t.co/Zg8D07U9TE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903269326225874944"
+          ]
+        },
+        "author_id": "1180145574030532608",
+        "conversation_id": "1903269330525036993",
+        "created_at": "2025-03-22T02:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T03:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903269330525036993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFwpQjzrNp",
+              "end": 30,
+              "expanded_url": "https://x.com/y1kaah/status/1903269330525036993/photo/1",
+              "media_key": "3_1903269326225874944",
+              "start": 7,
+              "url": "https://t.co/OFwpQjzrNp"
+            },
+            {
+              "display_url": "x.com/y1kaah/status/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/y1kaah/status/1898416422327349303",
+              "start": 31,
+              "url": "https://t.co/tk6vVoscdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903269330525036993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898416422327349303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完了3万美金 https://t.co/OFwpQjzrNp https://t.co/tk6vVoscdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité",
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-04T15:40:15.000Z",
+        "description": "加拿大难民｜Class of 2029 @McMasterU ｜小号@cshak1y 不随便通过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "McMasterU"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "cshak1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y1kahsc.cv",
+                "end": 23,
+                "expanded_url": "http://y1kahsc.cv",
+                "start": 0,
+                "url": "https://t.co/hu6NzTFtxy"
+              }
+            ]
+          }
+        },
+        "id": "1180145574030532608",
+        "location": "距离你560m",
+        "name": "怡卡啦",
+        "pinned_tweet_id": "1776323967361437786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864931538237890560/hvijzZWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 709,
+          "like_count": 122777,
+          "listed_count": 2,
+          "media_count": 1042,
+          "tweet_count": 7716
+        },
+        "url": "https://t.co/hu6NzTFtxy",
+        "username": "y1kaah",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T22:12:59.000Z",
+        "description": "GDQ Partner | Ikigai Arcade is the only arcade in Pittsburgh that specializes in Japanese rhythm and arcade games!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "IkigaiArcade.com",
+                "end": 23,
+                "expanded_url": "http://www.IkigaiArcade.com",
+                "start": 0,
+                "url": "https://t.co/L4Ql6CyTVa"
+              }
+            ]
+          }
+        },
+        "id": "1619096108088676352",
+        "location": "5738 Baum Blvd, Pittsburgh, PA",
+        "name": "Ikigai Arcade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619117976740892676/ffFh-OdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 293,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/L4Ql6CyTVa",
+        "username": "IKIGAI_ARCADE",
+        "verified": true
+      }
+    ]
+  }
+}

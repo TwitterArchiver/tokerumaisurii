@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976448837200830464",
+        "3_1976448837209219072"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976448840896246091",
+    "created_at": "2025-10-10T00:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T01:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976448840896246091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NYpzpJIVp",
+          "end": 73,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1976448840896246091/photo/1",
+          "media_key": "3_1976448837200830464",
+          "start": 50,
+          "url": "https://t.co/0NYpzpJIVp"
+        },
+        {
+          "display_url": "pic.x.com/0NYpzpJIVp",
+          "end": 73,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1976448840896246091/photo/1",
+          "media_key": "3_1976448837209219072",
+          "start": 50,
+          "url": "https://t.co/0NYpzpJIVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976448840896246091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "图二是本次鸣潮2.7剧情中最震撼我的一幕。\n\n对不起，石头大人，刚才天空雾蒙蒙的，我没认出您！！！ https://t.co/0NYpzpJIVp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976448840896246091].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976448840896246091",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976448840896246091"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1976448837200830464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23BvuoW4AAC68z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1976448837209219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23BvuqW4AAg03F.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 220,
+          "like_count": 52969,
+          "listed_count": 7,
+          "media_count": 680,
+          "tweet_count": 10052
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

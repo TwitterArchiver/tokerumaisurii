@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2029093016128917762",
+    "created_at": "2026-03-04T08:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T09:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029108885173174437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1855468542705160192",
+          "start": 0,
+          "username": "_sarcophagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029108885173174437",
+    "in_reply_to_user_id": "1855468542705160192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029108221332304075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sarcophagi 是 是这样吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029108221332304075].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029108221332304075",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029108221332304075"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2029093016128917762",
+        "created_at": "2026-03-04T08:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029108885173174437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1855468542705160192",
+              "start": 0,
+              "username": "_sarcophagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029108885173174437",
+        "in_reply_to_user_id": "1855468542705160192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029108221332304075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sarcophagi 是 是这样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@Official ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "Official"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "VentusUta"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Opiumash"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 277,
+          "like_count": 83753,
+          "listed_count": 7,
+          "media_count": 1087,
+          "tweet_count": 15600
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T04:32:43.000Z",
+        "description": "🖤🩶🤍🥺🥺🥺🌸🌸🌸🌸🏳️‍⚧️🌸🌸💫✨🌟❤️‍🩹💕💗🫂🐟🥰🐱🌙🤍🤍🤍我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你",
+        "id": "1855468542705160192",
+        "location": "在你怀里",
+        "name": "引应🌸",
+        "pinned_tweet_id": "1880192768787808463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915304310872719360/4N9xTva-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 79,
+          "like_count": 3245,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1667
+        },
+        "username": "_sarcophagi",
+        "verified": false
+      }
+    ]
+  }
+}

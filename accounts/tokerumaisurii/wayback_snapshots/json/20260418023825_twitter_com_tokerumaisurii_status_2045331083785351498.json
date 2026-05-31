@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2045331083785351498",
+    "created_at": "2026-04-18T02:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045331083785351498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beatmario/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/beatmario/status/2045121844853023054",
+          "start": 16,
+          "url": "https://t.co/wuI0qKTXdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045331083785351498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045121844853023054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的天，加拿大也是好起来了？！ https://t.co/wuI0qKTXdn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2045331083785351498",
+        "created_at": "2026-04-18T02:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045331083785351498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beatmario/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/beatmario/status/2045121844853023054",
+              "start": 16,
+              "url": "https://t.co/wuI0qKTXdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045331083785351498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045121844853023054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的天，加拿大也是好起来了？！ https://t.co/wuI0qKTXdn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "87586612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290395866105131008",
+              "name": "Music producer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308499412067393536",
+              "name": "Doujinshi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2045121844853023054",
+        "created_at": "2026-04-17T12:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045121844853023054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/otakuthon/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/otakuthon/status/2044566944028692617",
+              "start": 87,
+              "url": "https://t.co/7jEHYGWtP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045121844853023054",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12275,
+          "like_count": 323,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044566944028692617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'm going to CANADA!!\nOtakuthon, here I come!!\nLet's go E-rin!! all over the world!!!! https://t.co/7jEHYGWtP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3474,
+          "following_count": 307,
+          "like_count": 100227,
+          "listed_count": 9,
+          "media_count": 1205,
+          "tweet_count": 18411
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-05T01:31:54.000Z",
+        "description": "東方とかVTuberとか💓配信👉#ビートまりお／絵👉#アートまりお／代表作👉ナイト・オブ・ナイツ／最終鬼畜妹フランドール・S／Help me, ERINNNNNN!!／#幻想郷ホロイズム／ウサテイ／シアワセうさぎ／マツヨイナイトバグ／リスペク風神／林檎華憐歌／最強女神†ウーサペコラ／https://t.co/tP7G6HxZK7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "ビートまりお"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "アートまりお"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "tag": "幻想郷ホロイズム"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cool-create.cc",
+                "end": 165,
+                "expanded_url": "http://cool-create.cc",
+                "start": 142,
+                "url": "https://t.co/tP7G6HxZK7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@beatmario?sub…",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@beatmario?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/vcYQF1PY9L"
+              }
+            ]
+          }
+        },
+        "id": "87586612",
+        "location": "tiktok.com/@beatmario",
+        "name": "ビートまりお💓",
+        "pinned_tweet_id": "2038994875958579407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284935983738175488/rXfAnxTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232339,
+          "following_count": 822,
+          "like_count": 25294,
+          "listed_count": 1706,
+          "media_count": 8932,
+          "tweet_count": 51353
+        },
+        "url": "https://t.co/vcYQF1PY9L",
+        "username": "beatmario",
+        "verified": true
+      }
+    ]
+  }
+}

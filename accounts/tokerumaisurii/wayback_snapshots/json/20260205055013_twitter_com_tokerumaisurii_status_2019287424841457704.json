@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2019287424841457704",
+    "created_at": "2026-02-05T05:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T06:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019287424841457704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/phantomrosegam…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/phantomrosegame/status/2018896336410845432",
+          "start": 37,
+          "url": "https://t.co/lfbzLyGYdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019287424841457704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018896336410845432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得很漂亮也很有意思……但是我不觉得我的智力（算力）足够玩这款游戏…… https://t.co/lfbzLyGYdw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14833,
+        "height": 1920,
+        "media_key": "13_2018896138578034689",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018896138578034689/img/TseExnvUGlnC3Be7.jpg",
+        "public_metrics": {
+          "view_count": 8009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018896138578034689/vid/avc1/320x568/yA8UdYEPnfH292g8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018896138578034689/vid/avc1/480x852/DkBHlExbI3nwP9LK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018896138578034689/vid/avc1/720x1280/9uCmrhjHiZtBaGyq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018896138578034689/pl/yxno504KH1e0ZDRM.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2019287424841457704",
+        "created_at": "2026-02-05T05:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019287424841457704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phantomrosegam…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/phantomrosegame/status/2018896336410845432",
+              "start": 37,
+              "url": "https://t.co/lfbzLyGYdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019287424841457704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018896336410845432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得很漂亮也很有意思……但是我不觉得我的智力（算力）足够玩这款游戏…… https://t.co/lfbzLyGYdw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018896138578034689"
+          ]
+        },
+        "author_id": "1060213017491558401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2018896336410845432",
+        "created_at": "2026-02-04T03:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018896336410845432"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Asterika",
+              "probability": 0.46,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 33,
+              "normalized_text": "gamedev",
+              "probability": 0.7006,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "rhythmgame",
+              "probability": 0.7045,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "gamedev"
+            },
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "ゲーム制作"
+            },
+            {
+              "end": 53,
+              "start": 42,
+              "tag": "rhythmgame"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "音ゲー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdZtzSZz6e",
+              "end": 82,
+              "expanded_url": "https://x.com/PhantomRoseGame/status/2018896336410845432/video/1",
+              "media_key": "13_2018896138578034689",
+              "start": 59,
+              "url": "https://t.co/qdZtzSZz6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018896336410845432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 19675,
+          "like_count": 299,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Latest clip of Asterika! \n#gamedev #ゲーム制作 #rhythmgame #音ゲー https://t.co/qdZtzSZz6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 264,
+          "like_count": 75412,
+          "listed_count": 7,
+          "media_count": 1007,
+          "tweet_count": 14474
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T16:50:55.000Z",
+        "description": "Roguelike card game by @makaroll410 / PC, iOS, Android\n#phantomrose #ファントムローズ #asterika #アステリカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 55,
+                "tag": "phantomrose"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "tag": "ファントムローズ"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "tag": "asterika"
+              },
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "アステリカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "makaroll410"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "phantomrosegame.com",
+                "end": 23,
+                "expanded_url": "http://phantomrosegame.com",
+                "start": 0,
+                "url": "https://t.co/Dppfpxu5oE"
+              }
+            ]
+          }
+        },
+        "id": "1060213017491558401",
+        "location": "Lucipia",
+        "name": "Phantom Rose ファントムローズ公式",
+        "pinned_tweet_id": "1985568940613935503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823946485173772288/K7Ok1nu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7391,
+          "following_count": 14,
+          "like_count": 339,
+          "listed_count": 29,
+          "media_count": 47,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/Dppfpxu5oE",
+        "username": "PhantomRoseGame",
+        "verified": false
+      }
+    ]
+  }
+}

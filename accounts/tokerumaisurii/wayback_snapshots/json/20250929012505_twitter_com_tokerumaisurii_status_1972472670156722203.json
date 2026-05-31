@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "1972400635300761616",
+    "created_at": "2025-09-29T01:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T02:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972472670156722203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880109814241746944",
+          "start": 0,
+          "username": "fallenleavesw"
+        },
+        {
+          "end": 23,
+          "id": "1109525216122814465",
+          "start": 15,
+          "username": "Marfu_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972472670156722203",
+    "in_reply_to_user_id": "1880109814241746944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972400635300761616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fallenleavesw @Marfu_x 闲鱼上价格合适的通常不到C$160一只，但分日版国版的话可能不一样，煤炉最好的情况两只单独买的价格含税含运费共计C$340左右，闲鱼上分开买两只自己集运过来也差不多。但如果遇到喜欢MyGO又只懂eBay的人，这个价格可能比eBay上倒还便宜，只能说属于剥削洋人交个爱日懂日入门费了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1972400625850765312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19f60KX0AAsuZJ.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972400625867501568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19f60OXMAAoy_p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972400625871708160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19f60PXYAAmB1-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972400625880051712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19f60RWsAAgqna.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1972400635300761616",
+        "created_at": "2025-09-29T01:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T02:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972472670156722203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880109814241746944",
+              "start": 0,
+              "username": "fallenleavesw"
+            },
+            {
+              "end": 23,
+              "id": "1109525216122814465",
+              "start": 15,
+              "username": "Marfu_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972472670156722203",
+        "in_reply_to_user_id": "1880109814241746944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972400635300761616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fallenleavesw @Marfu_x 闲鱼上价格合适的通常不到C$160一只，但分日版国版的话可能不一样，煤炉最好的情况两只单独买的价格含税含运费共计C$340左右，闲鱼上分开买两只自己集运过来也差不多。但如果遇到喜欢MyGO又只懂eBay的人，这个价格可能比eBay上倒还便宜，只能说属于剥削洋人交个爱日懂日入门费了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972400625850765312",
+            "3_1972400625867501568",
+            "3_1972400625871708160",
+            "3_1972400625880051712"
+          ]
+        },
+        "author_id": "1880109814241746944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1972400635300761616",
+        "created_at": "2025-09-28T20:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972400635300761616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4G1pJQYy0n",
+              "end": 73,
+              "expanded_url": "https://x.com/fallenleavesw/status/1972400635300761616/photo/1",
+              "media_key": "3_1972400625850765312",
+              "start": 50,
+              "url": "https://t.co/4G1pJQYy0n"
+            },
+            {
+              "display_url": "pic.x.com/4G1pJQYy0n",
+              "end": 73,
+              "expanded_url": "https://x.com/fallenleavesw/status/1972400635300761616/photo/1",
+              "media_key": "3_1972400625867501568",
+              "start": 50,
+              "url": "https://t.co/4G1pJQYy0n"
+            },
+            {
+              "display_url": "pic.x.com/4G1pJQYy0n",
+              "end": 73,
+              "expanded_url": "https://x.com/fallenleavesw/status/1972400635300761616/photo/1",
+              "media_key": "3_1972400625871708160",
+              "start": 50,
+              "url": "https://t.co/4G1pJQYy0n"
+            },
+            {
+              "display_url": "pic.x.com/4G1pJQYy0n",
+              "end": 73,
+              "expanded_url": "https://x.com/fallenleavesw/status/1972400635300761616/photo/1",
+              "media_key": "3_1972400625880051712",
+              "start": 50,
+              "url": "https://t.co/4G1pJQYy0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972400635300761616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 464,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一大早有很漂亮的主理人姐姐现场手冲（瑰夏），还抽到了很棒的眼镜miku\n\n（啊对那两个太贵了吧也） https://t.co/4G1pJQYy0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 和我一起，进入幻想的世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 216,
+          "like_count": 49600,
+          "listed_count": 7,
+          "media_count": 649,
+          "tweet_count": 9361
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "非二元pear/坐标多伦多/最爱的人❤️@VentusUta/云 波点 光 也许那里有什么…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880117301489364992/8cjlM9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 535,
+          "like_count": 23181,
+          "listed_count": 4,
+          "media_count": 385,
+          "tweet_count": 4307
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-23T18:40:00.000Z",
+        "description": "nyaaQAQ的专属玩具",
+        "id": "1109525216122814465",
+        "location": "Middle of Nowhere",
+        "name": "Marfu",
+        "pinned_tweet_id": "1849312782027460713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774082076070797312/iPUQMtEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1017,
+          "like_count": 74492,
+          "listed_count": 5,
+          "media_count": 1752,
+          "tweet_count": 7152
+        },
+        "username": "Marfu_x",
+        "verified": false
+      }
+    ]
+  }
+}

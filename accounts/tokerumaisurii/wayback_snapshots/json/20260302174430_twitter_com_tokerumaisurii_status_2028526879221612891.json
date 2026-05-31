@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2028526879221612891",
+    "created_at": "2026-03-02T17:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028526879221612891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2028418611451441592",
+          "start": 113,
+          "url": "https://t.co/ocxABYcMLK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028526879221612891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028418611451441592",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我：宝宝我们可以一起用OCaml来重写我们的项目吗？OCaml对于effect system的支持是主流编程语言里最强大的，也有着编译到原生的高性能选择，这实在很酷。如果以后还能把GC扔掉换成RAII或者ARC，那就最好了。 https://t.co/ocxABYcMLK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2028418573140729856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZj8fvboAAndiP.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2028526879221612891",
+        "created_at": "2026-03-02T17:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028526879221612891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2028418611451441592",
+              "start": 113,
+              "url": "https://t.co/ocxABYcMLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028526879221612891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028418611451441592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我：宝宝我们可以一起用OCaml来重写我们的项目吗？OCaml对于effect system的支持是主流编程语言里最强大的，也有着编译到原生的高性能选择，这实在很酷。如果以后还能把GC扔掉换成RAII或者ARC，那就最好了。 https://t.co/ocxABYcMLK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028418573140729856"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2028418611451441592",
+        "created_at": "2026-03-02T10:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028418611451441592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SceBzD3Op0",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2028418611451441592/photo/1",
+              "media_key": "3_2028418573140729856",
+              "start": 0,
+              "url": "https://t.co/SceBzD3Op0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028418611451441592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 112275,
+          "like_count": 993,
+          "quote_count": 2,
+          "reply_count": 48,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SceBzD3Op0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@Official ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "Official"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "VentusUta"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Opiumash"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 275,
+          "like_count": 83007,
+          "listed_count": 7,
+          "media_count": 1079,
+          "tweet_count": 15466
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34780,
+          "following_count": 349,
+          "like_count": 116,
+          "listed_count": 99,
+          "media_count": 11478,
+          "tweet_count": 11524
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

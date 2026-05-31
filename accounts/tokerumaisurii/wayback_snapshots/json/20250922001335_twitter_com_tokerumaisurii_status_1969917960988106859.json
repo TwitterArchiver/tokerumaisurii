@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1955086838357475787",
+    "created_at": "2025-09-22T00:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969917960988106859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787354800360751104",
+          "start": 0,
+          "username": "ryn23333"
+        },
+        {
+          "end": 21,
+          "id": "984328335290347520",
+          "start": 10,
+          "username": "FireFlyACG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 45,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1969827452403765466",
+          "start": 22,
+          "url": "https://t.co/Kk8d8dWcic"
+        },
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1969827452403765466",
+          "start": 46,
+          "url": "https://t.co/s8s4n62hwp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969917960988106859",
+    "in_reply_to_user_id": "1787354800360751104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969827452403765466",
+        "type": "quoted"
+      },
+      {
+        "id": "1969854818119266427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryn23333 @FireFlyACG https://t.co/Kk8d8dWcic https://t.co/s8s4n62hwp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955086838357475787",
+        "created_at": "2025-09-22T00:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969917960988106859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787354800360751104",
+              "start": 0,
+              "username": "ryn23333"
+            },
+            {
+              "end": 21,
+              "id": "984328335290347520",
+              "start": 10,
+              "username": "FireFlyACG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 45,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1969827452403765466",
+              "start": 22,
+              "url": "https://t.co/Kk8d8dWcic"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1969827452403765466",
+              "start": 46,
+              "url": "https://t.co/s8s4n62hwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969917960988106859",
+        "in_reply_to_user_id": "1787354800360751104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969827452403765466",
+            "type": "quoted"
+          },
+          {
+            "id": "1969854818119266427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryn23333 @FireFlyACG https://t.co/Kk8d8dWcic https://t.co/s8s4n62hwp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955086838357475787",
+        "created_at": "2025-09-21T18:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T19:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969827452403765466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "595037537",
+              "start": 0,
+              "username": "648773596"
+            },
+            {
+              "end": 22,
+              "id": "984328335290347520",
+              "start": 11,
+              "username": "FireFlyACG"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Thank you! Your Email is now subscribed! Thank you! Your EMail is already found in our system. Oops, there is system processing error. Please try again. Introduction Welcome to our application (hereinafter referred to as “the Application”). We highly value your privacy and are committed to protecting your personal information. This privacy policy explains how we collect, use, store, and protect your personal information. Information We Collect When using the Application, we may collect the following",
+              "display_url": "animefiesta.ca/festm-2025/",
+              "end": 80,
+              "expanded_url": "https://animefiesta.ca/festm-2025/",
+              "start": 57,
+              "status": 200,
+              "title": "FestM 2025 - AnimeFiesta",
+              "unwound_url": "https://animefiesta.ca/festm-2025/",
+              "url": "https://t.co/9JbHtOKTwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969827452403765466",
+        "in_reply_to_user_id": "595037537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955260247712444668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@648773596 @FireFlyACG 在合作方Anime Fiesta的官网的FestM 2025页面\n\nhttps://t.co/9JbHtOKTwY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787354800360751104",
+        "conversation_id": "1955086838357475787",
+        "created_at": "2025-09-21T20:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T21:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969854818119266427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "984328335290347520",
+              "start": 0,
+              "username": "FireFlyACG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969854818119266427",
+        "in_reply_to_user_id": "984328335290347520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955086838357475787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FireFlyACG 哪里买票啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 和我一起，进入幻想的世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 211,
+          "like_count": 47067,
+          "listed_count": 7,
+          "media_count": 623,
+          "tweet_count": 8876
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T05:33:22.000Z",
+        "description": "戎燕宁）纯生活号，一些鉴证浓度比较高的推友就不回fo了，抱歉 | 汉服/中国甲胄/绅装/邦多利/碧蓝档案/1999/特摄等，成分比较复杂…",
+        "id": "1787354800360751104",
+        "name": "戎燕宁",
+        "pinned_tweet_id": "1928077892912828703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969193222208380928/yrtw7olf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 443,
+          "like_count": 22235,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 5988
+        },
+        "username": "ryn23333",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-12T07:12:17.000Z",
+        "description": "萤火虫漫展官方账号 | Firefly ACG EXPO Official Account | 蛍火虫動漫遊戯嘉年華公式アカウント",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fireflyacg.com",
+                "end": 23,
+                "expanded_url": "https://www.fireflyacg.com/",
+                "start": 0,
+                "url": "https://t.co/UhmuOPCa44"
+              }
+            ]
+          }
+        },
+        "id": "984328335290347520",
+        "location": "Guangdong",
+        "name": "萤火虫动漫游戏嘉年华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955079783722913794/3l5gQpIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/UhmuOPCa44",
+        "username": "FireFlyACG",
+        "verified": false
+      }
+    ]
+  }
+}

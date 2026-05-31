@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912334514883330048"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1912334523766833205",
+    "created_at": "2025-04-16T02:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T03:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912334523766833205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKHhgSmajg",
+          "end": 56,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1912334523766833205/photo/1",
+          "media_key": "3_1912334514883330048",
+          "start": 33,
+          "url": "https://t.co/HKHhgSmajg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912334523766833205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "魔法的时间结束了……\n但是！\n我回收了世终孤独鸟耶耶耶耶耶！！！ https://t.co/HKHhgSmajg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912334514883330048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gon6G_tXAAAGVHC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912334514883330048"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912334523766833205",
+        "created_at": "2025-04-16T02:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T03:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912334523766833205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKHhgSmajg",
+              "end": 56,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1912334523766833205/photo/1",
+              "media_key": "3_1912334514883330048",
+              "start": 33,
+              "url": "https://t.co/HKHhgSmajg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912334523766833205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔法的时间结束了……\n但是！\n我回收了世终孤独鸟耶耶耶耶耶！！！ https://t.co/HKHhgSmajg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 127,
+          "like_count": 5836,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1352
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

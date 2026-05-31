@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1910992114231677431",
+    "created_at": "2025-04-13T06:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T07:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911313009391075396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658222935717580800",
+          "start": 0,
+          "username": "xiaosong23_3"
+        },
+        {
+          "end": 26,
+          "id": "1350616739848073220",
+          "start": 14,
+          "username": "Kagetsu2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911313009391075396",
+    "in_reply_to_user_id": "1658222935717580800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911043626395963693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong23_3 @Kagetsu2004 草"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1911043626395963693].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1911043626395963693",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1911043626395963693"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1910992114231677431",
+        "created_at": "2025-04-13T06:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T07:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911313009391075396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658222935717580800",
+              "start": 0,
+              "username": "xiaosong23_3"
+            },
+            {
+              "end": 26,
+              "id": "1350616739848073220",
+              "start": 14,
+              "username": "Kagetsu2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911313009391075396",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911043626395963693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong23_3 @Kagetsu2004 草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 125,
+          "like_count": 5117,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1212
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "也许是xiaosong。 钢丝｜战争后霆｜充军 ｜日术｜前odw编辑，曾负责精神病学栏目｜接精神障碍咨询，详见置顶，有事找我的话   https://t.co/Astgqj3Uap",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 90,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 67,
+                "url": "https://t.co/Astgqj3Uap"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuame.chat",
+                "end": 23,
+                "expanded_url": "http://mizuame.chat",
+                "start": 0,
+                "url": "https://t.co/xv2wq7KSUy"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 350,
+          "like_count": 20504,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/xv2wq7KSUy",
+        "username": "xiaosong23_3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T01:31:53.000Z",
+        "description": "你身边的小涂真纪～🌞🌙⭐️\nYou can call me Child Cafe☕️🌙！\nINFP-T/I like FPS and VRchat/Coffee lover/Touhou Music author/正在使用的机场：https://t.co/T6vff53Qvg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cpdd.one/?r=21027",
+                "end": 138,
+                "expanded_url": "https://cpdd.one/?r=21027",
+                "start": 115,
+                "url": "https://t.co/T6vff53Qvg"
+              }
+            ]
+          }
+        },
+        "id": "1350616739848073220",
+        "location": "Corner of magical forest",
+        "name": "Child Cafe☕️🌙",
+        "pinned_tweet_id": "1897137187315159246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909511625306259456/ZRnUqpMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5821,
+          "following_count": 1747,
+          "like_count": 9269,
+          "listed_count": 16,
+          "media_count": 535,
+          "tweet_count": 2750
+        },
+        "username": "Kagetsu2004",
+        "verified": false
+      }
+    ]
+  }
+}

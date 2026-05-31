@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2014192370791682402",
+    "created_at": "2026-01-23T04:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014558895553773922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857684678423248896",
+          "start": 0,
+          "username": "approved_cry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014558895553773922",
+    "in_reply_to_user_id": "1857684678423248896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014192370791682402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@approved_cry 怎么更像了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2014192360947888128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PZR9easAArSBN.jpg",
+        "width": 1280
+      },
+      {
+        "height": 763,
+        "media_key": "3_2014192361157394432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PZR-QXgAA-blh.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2014192370791682402",
+        "created_at": "2026-01-23T04:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014558895553773922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857684678423248896",
+              "start": 0,
+              "username": "approved_cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014558895553773922",
+        "in_reply_to_user_id": "1857684678423248896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014192370791682402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@approved_cry 怎么更像了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014192360947888128",
+            "3_2014192361157394432"
+          ]
+        },
+        "author_id": "1857684678423248896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014192370791682402",
+        "created_at": "2026-01-22T04:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014192370791682402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8KGWFJ632",
+              "end": 64,
+              "expanded_url": "https://x.com/approved_cry/status/2014192370791682402/photo/1",
+              "media_key": "3_2014192360947888128",
+              "start": 41,
+              "url": "https://t.co/V8KGWFJ632"
+            },
+            {
+              "display_url": "pic.x.com/V8KGWFJ632",
+              "end": 64,
+              "expanded_url": "https://x.com/approved_cry/status/2014192370791682402/photo/1",
+              "media_key": "3_2014192361157394432",
+              "start": 41,
+              "url": "https://t.co/V8KGWFJ632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014192370791682402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 49567,
+          "like_count": 655,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "不要再说明日方舟的通行证像避孕套了\n接下来赶到战场的是:明日方舟终末地白名单凭证 https://t.co/V8KGWFJ632"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 261,
+          "like_count": 74621,
+          "listed_count": 8,
+          "media_count": 980,
+          "tweet_count": 14209
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T07:19:03.000Z",
+        "description": "区一哥/\n\n深邃评论制造者/\n\nacg重度依赖/\n\n我要去二次元了/\n\n若你相信我，我便始终如一/\n\nac酱一直在这里/\n\n欢迎私信来扩我qq(小声/\n\n拉菲艾拉是对的/\n\n^^",
+        "id": "1857684678423248896",
+        "location": "劣品酒吧城市",
+        "name": "当一辈子区和特许哭泣吧",
+        "pinned_tweet_id": "1986722152981450880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975071451607900160/W2j2xHWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 744,
+          "like_count": 28935,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 3211
+        },
+        "username": "approved_cry",
+        "verified": false
+      }
+    ]
+  }
+}

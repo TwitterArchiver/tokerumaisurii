@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "1953034908496216372",
+    "created_at": "2025-08-06T10:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T11:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953034908496216372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ventusuta/stat…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/ventusuta/status/1952639633461838201",
+          "start": 163,
+          "url": "https://t.co/6vlajxTmPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953034908496216372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952639633461838201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不像评论区有些“生产力工作者”认为的那样，觉得只有臭写码的才遭罪，做艺术的就不遭罪，甚至问出“那你为什么偏要在意.DS_Store呢”的蠢话。\n——已经2025年了，苹果系统录屏怎么还不能内录本机音频呢？难道生产力的意思是内录音频在macOS上需要复杂地操作一顿BlackHole、在iOS/iPadOS上甚至还需要越狱吗？ https://t.co/6vlajxTmPU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1953034908496216372",
+        "created_at": "2025-08-06T10:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953034908496216372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ventusuta/stat…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/ventusuta/status/1952639633461838201",
+              "start": 163,
+              "url": "https://t.co/6vlajxTmPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953034908496216372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952639633461838201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不像评论区有些“生产力工作者”认为的那样，觉得只有臭写码的才遭罪，做艺术的就不遭罪，甚至问出“那你为什么偏要在意.DS_Store呢”的蠢话。\n——已经2025年了，苹果系统录屏怎么还不能内录本机音频呢？难道生产力的意思是内录音频在macOS上需要复杂地操作一顿BlackHole、在iOS/iPadOS上甚至还需要越狱吗？ https://t.co/6vlajxTmPU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629428861690843136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1952639633461838201",
+        "created_at": "2025-08-05T07:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952639633461838201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952639633461838201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 91151,
+          "like_count": 490,
+          "quote_count": 15,
+          "reply_count": 141,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "一个人如果能用macOS一年一点都不骂，说明他并没有拿macOS当过主力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 187,
+          "like_count": 36458,
+          "listed_count": 5,
+          "media_count": 514,
+          "tweet_count": 6616
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T10:31:36.000Z",
+        "description": "不配苟活、我讨厌我自己 ¦ OLED screen hater ¦ 退步人 ¦ 摇滚長髮男 ¦ ❤️@fallenleavesw ¦ 🌙@tokerumaisurii ¦ 不可以色色！死刑！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "tokerumaisurii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/ventusuta",
+                "end": 23,
+                "expanded_url": "https://bento.me/ventusuta",
+                "start": 0,
+                "url": "https://t.co/SnLolYQeZ3"
+              }
+            ]
+          }
+        },
+        "id": "1629428861690843136",
+        "location": "格里芬安全承包商",
+        "name": "文图丝·乌塔🟨⬛️",
+        "pinned_tweet_id": "1846241949021307000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942173437117485056/LDFJ2GJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 536,
+          "like_count": 22245,
+          "listed_count": 3,
+          "media_count": 668,
+          "tweet_count": 5348
+        },
+        "url": "https://t.co/SnLolYQeZ3",
+        "username": "VentusUta",
+        "verified": false
+      }
+    ]
+  }
+}

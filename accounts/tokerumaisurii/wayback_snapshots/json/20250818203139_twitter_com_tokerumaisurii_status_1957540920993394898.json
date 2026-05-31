@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899856931094543",
+          "name": "Cooperative games"
+        }
+      }
+    ],
+    "conversation_id": "1957190963576668194",
+    "created_at": "2025-08-18T20:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T21:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957540920993394898"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "genshin",
+          "probability": 0.8793,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 111,
+          "normalized_text": "genshin coop",
+          "probability": 0.6879,
+          "start": 100,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1558678388977668096",
+          "start": 0,
+          "username": "downbtn_"
+        },
+        {
+          "end": 17,
+          "id": "1362970811649253376",
+          "start": 10,
+          "username": "arom1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957540920993394898",
+    "in_reply_to_user_id": "1558678388977668096",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957538715921969656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@downbtn_ @arom1a omg thanks genshin, this reply reminds me of when i was in high school and played genshin coop w/ my bff every noon break 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899856931094543",
+              "name": "Cooperative games"
+            }
+          }
+        ],
+        "conversation_id": "1957190963576668194",
+        "created_at": "2025-08-18T20:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957540920993394898"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "genshin",
+              "probability": 0.8793,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "genshin coop",
+              "probability": 0.6879,
+              "start": 100,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1558678388977668096",
+              "start": 0,
+              "username": "downbtn_"
+            },
+            {
+              "end": 17,
+              "id": "1362970811649253376",
+              "start": 10,
+              "username": "arom1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957540920993394898",
+        "in_reply_to_user_id": "1558678388977668096",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957538715921969656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@downbtn_ @arom1a omg thanks genshin, this reply reminds me of when i was in high school and played genshin coop w/ my bff every noon break 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558678388977668096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899856931094543",
+              "name": "Cooperative games"
+            }
+          }
+        ],
+        "conversation_id": "1957190963576668194",
+        "created_at": "2025-08-18T20:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957538715921969656"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "genshin coop",
+              "probability": 0.761,
+              "start": 82,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            },
+            {
+              "end": 23,
+              "id": "1362970811649253376",
+              "start": 16,
+              "username": "arom1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957538715921969656",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957519826999734601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii @arom1a i got lost and sat at a random table and ended up playing genshin coop with the girl next to me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 打舞萌！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 190,
+          "like_count": 38250,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 6985
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T04:55:33.000Z",
+        "description": "en_US/kr_KR | chip cruncher and epic gamer | any pronouns",
+        "id": "1558678388977668096",
+        "location": "pittsburgh",
+        "name": "downbtn",
+        "pinned_tweet_id": "1941011757990105119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892312100686467072/SSCUu8TL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 2892,
+          "like_count": 65698,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 12406
+        },
+        "username": "downbtn_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:43:07.000Z",
+        "description": "Caress across me, like a gentle breeze.\n@CarnegieMellon undergrate\n\nen / zh / ja, DM for following back",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "CarnegieMellon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arom1a.com",
+                "end": 23,
+                "expanded_url": "https://arom1a.com",
+                "start": 0,
+                "url": "https://t.co/fG2RHbw2LK"
+              }
+            ]
+          }
+        },
+        "id": "1362970811649253376",
+        "location": "China",
+        "name": "Aromia ≡/ᐠ. ˍ .ᐟ\\≡",
+        "pinned_tweet_id": "1815203596675535015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810810554212122624/s_BMqLbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 377,
+          "like_count": 17134,
+          "listed_count": 0,
+          "media_count": 853,
+          "tweet_count": 3558
+        },
+        "url": "https://t.co/fG2RHbw2LK",
+        "username": "arom1a",
+        "verified": false
+      }
+    ]
+  }
+}

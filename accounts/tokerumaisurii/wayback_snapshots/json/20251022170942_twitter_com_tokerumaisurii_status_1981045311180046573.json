@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1980927847792525464",
+    "created_at": "2025-10-22T17:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981045311180046573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981045311180046573",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980927847792525464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuchanqwq 哇！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1980927844948611073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32rYSvXkAE_WJv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1980927847792525464",
+        "created_at": "2025-10-22T17:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981045311180046573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981045311180046573",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980927847792525464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq 哇！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980927844948611073"
+          ]
+        },
+        "author_id": "1491429513779359745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1980927847792525464",
+        "created_at": "2025-10-22T09:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980927847792525464"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "しきさん",
+              "probability": 0.583,
+              "start": 46,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lScvAJiJjI",
+              "end": 87,
+              "expanded_url": "https://x.com/mizuchanqwq/status/1980927847792525464/photo/1",
+              "media_key": "3_1980927844948611073",
+              "start": 64,
+              "url": "https://t.co/lScvAJiJjI"
+            },
+            {
+              "display_url": "x.com/yottan20001202…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1980605389550023132",
+              "start": 88,
+              "url": "https://t.co/oRSrWiyuXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980927847792525464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2413,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980605389550023132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "この伝導会に参加することができてとても嬉しいです。\n今回初めてお会いすることができました。よしきさんに心から感謝申し上げます。 https://t.co/lScvAJiJjI https://t.co/oRSrWiyuXx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 228,
+          "like_count": 56495,
+          "listed_count": 6,
+          "media_count": 725,
+          "tweet_count": 10602
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "用天真活潑的心感動世界 | 常駐東京都市圈可隨時貼貼 | 永遠是一隻可愛的小貓qwq | 🍬: @yuzuchanqwq 🥺🐱❤️ | #永住許可の取消しに反対します",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 68,
+                "tag": "永住許可の取消しに反対します"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vr_central",
+                "end": 23,
+                "expanded_url": "https://t.me/vr_central",
+                "start": 0,
+                "url": "https://t.co/kVmSAxROHz"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "born&live 🇯🇵 | 貓屬橫濱",
+        "name": "若水醬🍥",
+        "pinned_tweet_id": "1963167021090173238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978110584110342145/GAh3NpUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 2222,
+          "like_count": 87123,
+          "listed_count": 8,
+          "media_count": 2015,
+          "tweet_count": 10508
+        },
+        "url": "https://t.co/kVmSAxROHz",
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

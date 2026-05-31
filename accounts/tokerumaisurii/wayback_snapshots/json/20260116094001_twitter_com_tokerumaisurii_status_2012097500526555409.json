@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2012097500526555409",
+    "created_at": "2026-01-16T09:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T10:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012097500526555409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maimai_officia…",
+          "end": 275,
+          "expanded_url": "https://twitter.com/maimai_official/status/2011725267879018680",
+          "start": 252,
+          "url": "https://t.co/cQ5suKUPbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012097500526555409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "新曲\nINTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP\n的名字有64个字符，比\nFalse Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)\n的149个字符虽有不如，但也已经超过前纪录\nBad Apple!! feat.nomico (Tetsuya Komuro Remix)\n的49个字符很多了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011725267879018680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新曲\nINTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP\n的名字有64个字符，比\nFalse Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)\n的149个字符虽有不如，但也已经超过前纪录 https://t.co/cQ5suKUPbt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2011724476845867010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sUwMxbQAIw8jD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2011724496466821121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sUxV3bQAEsfR0.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 30030,
+        "height": 1080,
+        "media_key": "13_2011724510383521798",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011724510383521798/img/O7HCQvbgLcu3xK9U.jpg",
+        "public_metrics": {
+          "view_count": 52231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011724510383521798/vid/avc1/1280x720/vlVICMruKDVHKN76.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011724510383521798/vid/avc1/1920x1080/f4dknOADEmQTS0ht.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011724510383521798/vid/avc1/480x270/ANz__NuXgmiTGDHg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011724510383521798/pl/A3oG32p1d45f_gI7.m3u8?v=a0d"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011724510383521798/vid/avc1/640x360/1ZE4D6reSjFc34jW.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2012097500526555409",
+        "created_at": "2026-01-16T09:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012097500526555409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maimai_officia…",
+              "end": 275,
+              "expanded_url": "https://twitter.com/maimai_official/status/2011725267879018680",
+              "start": 252,
+              "url": "https://t.co/cQ5suKUPbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012097500526555409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "新曲\nINTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP\n的名字有64个字符，比\nFalse Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)\n的149个字符虽有不如，但也已经超过前纪录\nBad Apple!! feat.nomico (Tetsuya Komuro Remix)\n的49个字符很多了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011725267879018680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新曲\nINTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP\n的名字有64个字符，比\nFalse Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)\n的149个字符虽有不如，但也已经超过前纪录 https://t.co/cQ5suKUPbt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011724476845867010",
+            "3_2011724496466821121",
+            "13_2011724510383521798"
+          ]
+        },
+        "author_id": "1001107099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2011725267879018680",
+        "created_at": "2026-01-15T09:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011725267879018680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+              "probability": 0.486,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 164,
+              "normalized_text": "はっぴーちゃん",
+              "probability": 0.5143,
+              "start": 158,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "info-maimai.sega.jp/8424/",
+              "end": 152,
+              "expanded_url": "https://info-maimai.sega.jp/8424/",
+              "start": 129,
+              "status": 200,
+              "unwound_url": "https://info-maimai.sega.jp/8424/",
+              "url": "https://t.co/x5ujDA8oy5"
+            },
+            {
+              "display_url": "pic.x.com/QUtRZYLQ5U",
+              "end": 213,
+              "expanded_url": "https://x.com/maimai_official/status/2011725267879018680/video/1",
+              "media_key": "3_2011724476845867010",
+              "start": 190,
+              "url": "https://t.co/QUtRZYLQ5U"
+            },
+            {
+              "display_url": "pic.x.com/QUtRZYLQ5U",
+              "end": 213,
+              "expanded_url": "https://x.com/maimai_official/status/2011725267879018680/video/1",
+              "media_key": "3_2011724496466821121",
+              "start": 190,
+              "url": "https://t.co/QUtRZYLQ5U"
+            },
+            {
+              "display_url": "pic.x.com/QUtRZYLQ5U",
+              "end": 213,
+              "expanded_url": "https://x.com/maimai_official/status/2011725267879018680/video/1",
+              "media_key": "13_2011724510383521798",
+              "start": 190,
+              "url": "https://t.co/QUtRZYLQ5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011725267879018680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "info-maimai.sega.jp/8424/",
+                "end": 152,
+                "expanded_url": "https://info-maimai.sega.jp/8424/",
+                "start": 129,
+                "url": "https://t.co/cpe9zYnj43"
+              },
+              {
+                "display_url": "youtu.be/MuFLFPWEdE8",
+                "end": 281,
+                "expanded_url": "https://youtu.be/MuFLFPWEdE8",
+                "start": 258,
+                "url": "https://t.co/IlPPSJMJP4"
+              }
+            ]
+          },
+          "text": "【1/16(金) 楽曲追加！】\n1/16(金)のアップデートでは、3markets[ ]の楽曲「INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP」が追加！\n⬇️詳しくはコチラ！\nhttps://t.co/cpe9zYnj43\n\nさらに、はっぴーちゃんが3markets[ ]のみなさんをセガに招待！\nいち早く楽曲をプレイしていただきました！\n最後にははっぴーから仕向けられた対決企画も……！？\nぜひご覧ください！\n\n⬇️動画はコチラ！\nhttps://t.co/IlPPSJMJP4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 297928,
+          "like_count": 1835,
+          "quote_count": 284,
+          "reply_count": 17,
+          "retweet_count": 578
+        },
+        "reply_settings": "everyone",
+        "text": "【1/16(金) 楽曲追加！】\n1/16(金)のアップデートでは、3markets[ ]の楽曲「INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP」が追加！\n⬇️詳しくはコチラ！\nhttps://t.co/x5ujDA8oy5\n\nさらに、はっぴーちゃんが3markets[ ]のみなさんをセガに招待！ https://t.co/QUtRZYLQ5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 259,
+          "like_count": 73430,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 13956
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "location": "セガ",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "2011725267879018680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179274,
+          "following_count": 26,
+          "like_count": 152,
+          "listed_count": 1369,
+          "media_count": 1320,
+          "tweet_count": 2992
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true
+      }
+    ]
+  }
+}

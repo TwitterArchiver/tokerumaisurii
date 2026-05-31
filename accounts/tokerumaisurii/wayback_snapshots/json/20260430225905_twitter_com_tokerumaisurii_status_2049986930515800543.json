@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2049764665274818802",
+    "created_at": "2026-04-30T22:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049986930515800543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1923516127562563584",
+          "start": 0,
+          "username": "penguinmomentjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049986930515800543",
+    "in_reply_to_user_id": "1923516127562563584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049985009872982228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penguinmomentjp 不过你可以感觉一下参考样本量在多少的时候效果最好，因为太少容易过拟合（举个例子，假如你只有一篇参考译文，恰好是活泼主题你写了几句“要注意哟～”“知道了吗～”，结果模型抓住这个特点，给你翻译每篇的时候都疯狂“哟～”“呢～”“的说～”），太多容易注意力稀释，不过就一些博客文章应该还不至于太多？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2049764665274818802",
+        "created_at": "2026-04-30T22:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049986930515800543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923516127562563584",
+              "start": 0,
+              "username": "penguinmomentjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049986930515800543",
+        "in_reply_to_user_id": "1923516127562563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049985009872982228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penguinmomentjp 不过你可以感觉一下参考样本量在多少的时候效果最好，因为太少容易过拟合（举个例子，假如你只有一篇参考译文，恰好是活泼主题你写了几句“要注意哟～”“知道了吗～”，结果模型抓住这个特点，给你翻译每篇的时候都疯狂“哟～”“呢～”“的说～”），太多容易注意力稀释，不过就一些博客文章应该还不至于太多？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923516127562563584",
+        "conversation_id": "2049764665274818802",
+        "created_at": "2026-04-30T22:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049985009872982228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049985009872982228",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049984586172498039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 这个有意思，今天让codex做了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 312,
+          "like_count": 102713,
+          "listed_count": 9,
+          "media_count": 1230,
+          "tweet_count": 18845
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-16T23:09:30.000Z",
+        "description": "ポンコツ\nうちの🐧:@POI74103174",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "POI74103174"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp",
+                "start": 0,
+                "url": "https://t.co/W8PzPw1DcV"
+              }
+            ]
+          }
+        },
+        "id": "1923516127562563584",
+        "name": "ﾌﾗｯｼｭｽﾊﾟｰｸｽ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041656571034488832/9jzbafnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 49,
+          "like_count": 62,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/W8PzPw1DcV",
+        "username": "penguinmomentjp",
+        "verified": false
+      }
+    ]
+  }
+}

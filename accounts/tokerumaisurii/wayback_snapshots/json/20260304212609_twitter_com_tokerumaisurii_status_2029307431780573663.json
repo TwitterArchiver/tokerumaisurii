@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2029307431780573663",
+    "created_at": "2026-03-04T21:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T22:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029307431780573663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/catphonse/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/catphonse/status/2028802905122214106",
+          "start": 44,
+          "url": "https://t.co/7E2CAWJdTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029307431780573663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028802905122214106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“如果在GTA里烧杀抢掠的玩家不能叫反社会者杀人犯，那看萝莉本的读者就能叫恋童癖吗？” https://t.co/7E2CAWJdTi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_2028802887107682304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfBeg1XIAAYcVl.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2029307431780573663",
+        "created_at": "2026-03-04T21:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T22:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029307431780573663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/catphonse/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/catphonse/status/2028802905122214106",
+              "start": 44,
+              "url": "https://t.co/7E2CAWJdTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029307431780573663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028802905122214106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“如果在GTA里烧杀抢掠的玩家不能叫反社会者杀人犯，那看萝莉本的读者就能叫恋童癖吗？” https://t.co/7E2CAWJdTi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028802887107682304"
+          ]
+        },
+        "author_id": "1928404863156912128",
+        "conversation_id": "2028802905122214106",
+        "created_at": "2026-03-03T12:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028802905122214106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTNaixMbYC",
+              "end": 23,
+              "expanded_url": "https://x.com/catphonse/status/2028802905122214106/photo/1",
+              "media_key": "3_2028802887107682304",
+              "start": 0,
+              "url": "https://t.co/XTNaixMbYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028802905122214106",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2565,
+          "impression_count": 356249,
+          "like_count": 23347,
+          "quote_count": 62,
+          "reply_count": 197,
+          "retweet_count": 1913
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XTNaixMbYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 277,
+          "like_count": 84180,
+          "listed_count": 7,
+          "media_count": 1091,
+          "tweet_count": 15635
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T10:55:34.000Z",
+        "description": "fujo & a girl | ily @fapuuta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "fapuuta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "incestual.straw.page",
+                "end": 23,
+                "expanded_url": "https://incestual.straw.page",
+                "start": 0,
+                "url": "https://t.co/xpyuVQsg71"
+              }
+            ]
+          }
+        },
+        "id": "1928404863156912128",
+        "location": "19 | 🇯🇵🇳🇱",
+        "name": "yumi ♡",
+        "pinned_tweet_id": "2029291879926272130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028894078763515904/xt6epgzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 176,
+          "like_count": 3781,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/xpyuVQsg71",
+        "username": "catphonse",
+        "verified": false
+      }
+    ]
+  }
+}

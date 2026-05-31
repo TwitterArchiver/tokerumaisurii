@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "2028716387884060752",
+    "created_at": "2026-03-03T06:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028716387884060752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/billintheburbs…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/billintheburbs/status/2027847003095371958",
+          "start": 58,
+          "url": "https://t.co/lUgYMzqXyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028716387884060752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027847003095371958",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“Wtf did I just see” so I decided to let y’all suffer too https://t.co/lUgYMzqXyU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2028716387884060752",
+        "created_at": "2026-03-03T06:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028716387884060752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/billintheburbs…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/billintheburbs/status/2027847003095371958",
+              "start": 58,
+              "url": "https://t.co/lUgYMzqXyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028716387884060752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027847003095371958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“Wtf did I just see” so I decided to let y’all suffer too https://t.co/lUgYMzqXyU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601633666551128068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2027847003095371958",
+        "created_at": "2026-02-28T20:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T21:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027847003095371958"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Ali Khamenei",
+              "probability": 0.9785,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Charlie Kirk",
+              "probability": 0.9757,
+              "start": 28,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027847003095371958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 46916,
+          "like_count": 2990,
+          "quote_count": 24,
+          "reply_count": 35,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "Ali Khamenei is now pumping Charlie Kirk full of cum in heaven"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@Official ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "Official"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "VentusUta"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Opiumash"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 276,
+          "like_count": 83313,
+          "listed_count": 7,
+          "media_count": 1081,
+          "tweet_count": 15520
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T17:43:28.000Z",
+        "description": "Legendary twitter poster. Accountant. White, liberal, Democrat. Elvis Presley enjoyer. Alt: @waltergulick_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "waltergulick_"
+              }
+            ]
+          }
+        },
+        "id": "1601633666551128068",
+        "location": "Santa Monica, CA ",
+        "name": "Tweets from Diamond Bill 🍔🍟🍩☕",
+        "pinned_tweet_id": "1941493676175433787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024614391321112576/CT0i6UDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 1512,
+          "like_count": 123469,
+          "listed_count": 34,
+          "media_count": 5505,
+          "tweet_count": 43675
+        },
+        "username": "billintheburbs",
+        "verified": false
+      }
+    ]
+  }
+}

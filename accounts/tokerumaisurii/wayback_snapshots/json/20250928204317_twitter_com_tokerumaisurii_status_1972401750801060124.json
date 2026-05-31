@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1972401750801060124",
+    "created_at": "2025-09-28T20:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T21:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972401750801060124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "28754022",
+          "start": 3,
+          "username": "coolish"
+        },
+        {
+          "end": 105,
+          "id": "1490631",
+          "start": 99,
+          "username": "Fenng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972401750801060124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972221488616157327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coolish: 为什么这个时候会突然吵微信的存储空间问题呢？\n因为iPhone 17发售了，大家需要迁移微信聊天记录了。\n可以预见的是，往后每年这个问题只会越来越变成焦点。\n\n这应该不属于@Fenng说的“千奇百怪”的问题，\n因为保留自己人生过往的记录，会成为越来越多…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_1972219579209584640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G167Qg3bkAAMLtz.png",
+        "width": 620
+      },
+      {
+        "height": 2796,
+        "media_key": "3_1972219616090116103",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G167SqQb0AckQ5R.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1972401750801060124",
+        "created_at": "2025-09-28T20:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972401750801060124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "28754022",
+              "start": 3,
+              "username": "coolish"
+            },
+            {
+              "end": 105,
+              "id": "1490631",
+              "start": 99,
+              "username": "Fenng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972401750801060124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972221488616157327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coolish: 为什么这个时候会突然吵微信的存储空间问题呢？\n因为iPhone 17发售了，大家需要迁移微信聊天记录了。\n可以预见的是，往后每年这个问题只会越来越变成焦点。\n\n这应该不属于@Fenng说的“千奇百怪”的问题，\n因为保留自己人生过往的记录，会成为越来越多…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972219579209584640",
+            "3_1972219616090116103"
+          ]
+        },
+        "author_id": "28754022",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1972221488616157327",
+        "created_at": "2025-09-28T08:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972221488616157327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1490631",
+              "start": 86,
+              "username": "Fenng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wa915S6Uax",
+              "end": 155,
+              "expanded_url": "https://x.com/coolish/status/1972221488616157327/photo/1",
+              "media_key": "3_1972219579209584640",
+              "start": 132,
+              "url": "https://t.co/wa915S6Uax"
+            },
+            {
+              "display_url": "pic.x.com/wa915S6Uax",
+              "end": 155,
+              "expanded_url": "https://x.com/coolish/status/1972221488616157327/photo/1",
+              "media_key": "3_1972219616090116103",
+              "start": 132,
+              "url": "https://t.co/wa915S6Uax"
+            },
+            {
+              "display_url": "x.com/Fenng/status/1…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/Fenng/status/1971799329334874187",
+              "start": 156,
+              "url": "https://t.co/0CO62uy3E3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972221488616157327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 92,
+                "id": "1490631",
+                "start": 86,
+                "username": "Fenng"
+              }
+            ]
+          },
+          "text": "为什么这个时候会突然吵微信的存储空间问题呢？\n因为iPhone 17发售了，大家需要迁移微信聊天记录了。\n可以预见的是，往后每年这个问题只会越来越变成焦点。\n\n这应该不属于@Fenng说的“千奇百怪”的问题，\n因为保留自己人生过往的记录，会成为越来越多人的刚需，\n这些数据，未来私人的AI助手模型要用，遇到事情查记录要用，\n更别提，回顾过往，甚至是逝去的亲人...\n等未来个人AI模型普及了，这些聊天记录的含金量会越来越高，\n但大部分人会发现自己的历史数据，因为微信糟糕的存储方式而弄丢了，\n未来我们会发现，微信改进存储方式之前，这一代人就是个人宝贵数据不断丢失的一代人。像是大家的聊天记录献祭给了这改进前的过渡期，以等待引起开发者的重视。\n\n微信就是换手机数据迁移的噩梦，\n问题并不是出在聊天记录的“本地存储”这个点上，\n而是出在“不计其数的Hash命名碎片小文件”这个存储方式上。\n几十G甚至上百G的空间占用，相当一部分是几KB的小文件构成...\n\n没有微信情况下，哪怕1TB的手机数据迁移，哪怕用无线方式，\n也能在10小时内解决，睡一觉就够了，\n一旦有微信长年累月的聊天记录，哪怕只占手机空间的10%~20%，\n也会把整体迁移时间拉长2倍甚至3倍以上，\n比如迁移其他数据时是20Mb/s，迁移微信数据时只能是1~5Mb/s，\n也就是说，20%的空间，却需要80%的传输时间，\n苹果都没考虑到这种情况，迁移开始时显示的预估时间，\n在迁移时会不减反增，就是撞到了“碎片小文件”这堵墙。\n无论用再怎么快的传输方式，哪怕用雷电数据线，\n都很难缓解这个问题，因为瓶颈并不在传输速率上。\n\n一个冷知识：\niPhone旧手机向新手机传输数据时，\n如果是用雷电数据线连接两台手机有线迁移传输，\n不仅插口占用不能充电，\n而且是不允许同时用magsafe无线充电的\n（甚至会显示正在充电迷惑你，但实际是0W），\n也就是说，这个传输时间超过一天，期间不能用手机\n到时候还会因为没电，而前功尽弃..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 90147,
+          "like_count": 162,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971799329334874187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这个时候会突然吵微信的存储空间问题呢？\n因为iPhone 17发售了，大家需要迁移微信聊天记录了。\n可以预见的是，往后每年这个问题只会越来越变成焦点。\n\n这应该不属于@Fenng说的“千奇百怪”的问题，\n因为保留自己人生过往的记录，会成为越来越多人的刚需， https://t.co/wa915S6Uax https://t.co/0CO62uy3E3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 和我一起，进入幻想的世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 215,
+          "like_count": 49470,
+          "listed_count": 7,
+          "media_count": 648,
+          "tweet_count": 9338
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-04T06:32:23.000Z",
+        "description": "crypto trader since 2013 / ex co-founder of social network apps with 50+ million users",
+        "id": "28754022",
+        "location": "Hong Kong",
+        "name": "paulwei",
+        "pinned_tweet_id": "1899667968776360007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44497,
+          "following_count": 3326,
+          "like_count": 5088,
+          "listed_count": 1349,
+          "media_count": 1121,
+          "tweet_count": 2997
+        },
+        "username": "coolish",
+        "verified": true
+      },
+      {
+        "created_at": "2007-03-19T11:04:33.000Z",
+        "description": "你所看到的都不是真实的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nocode.com",
+                "end": 23,
+                "expanded_url": "https://nocode.com",
+                "start": 0,
+                "url": "https://t.co/2Htk7UbDPJ"
+              }
+            ]
+          }
+        },
+        "id": "1490631",
+        "location": "Singapore",
+        "name": "Fenng",
+        "pinned_tweet_id": "1953041374611489012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899444791106007040/kWQcEPwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225007,
+          "following_count": 5672,
+          "like_count": 51135,
+          "listed_count": 1929,
+          "media_count": 1868,
+          "tweet_count": 45834
+        },
+        "url": "https://t.co/2Htk7UbDPJ",
+        "username": "Fenng",
+        "verified": true
+      }
+    ]
+  }
+}

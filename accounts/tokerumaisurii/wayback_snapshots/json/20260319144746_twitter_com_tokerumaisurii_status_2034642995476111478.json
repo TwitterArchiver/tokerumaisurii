@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405172481590140933",
+          "name": "Music streaming service"
+        }
+      }
+    ],
+    "conversation_id": "2034443561194995798",
+    "created_at": "2026-03-19T14:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034642995476111478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1220290277056897025",
+          "start": 0,
+          "username": "pangyusio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034642995476111478",
+    "in_reply_to_user_id": "1220290277056897025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034443561194995798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pangyusio 那这汽水音乐不就是个没充钱状态下只能选一首之后随机播放的Spotify吗？？这就是一个退化状态给捧出花来了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2034443289731174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvLZKAakAAOwO9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2034443329736429568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvLbfCaUAA4Qhl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "2034443561194995798",
+        "created_at": "2026-03-19T14:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034642995476111478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1220290277056897025",
+              "start": 0,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034642995476111478",
+        "in_reply_to_user_id": "1220290277056897025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034443561194995798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pangyusio 那这汽水音乐不就是个没充钱状态下只能选一首之后随机播放的Spotify吗？？这就是一个退化状态给捧出花来了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034443289731174400",
+            "3_2034443329736429568"
+          ]
+        },
+        "author_id": "1220290277056897025",
+        "conversation_id": "2034443561194995798",
+        "created_at": "2026-03-19T01:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034443561194995798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzsKRvaPQX",
+              "end": 154,
+              "expanded_url": "https://x.com/pangyusio/status/2034443561194995798/photo/1",
+              "media_key": "3_2034443289731174400",
+              "start": 131,
+              "url": "https://t.co/TzsKRvaPQX"
+            },
+            {
+              "display_url": "pic.x.com/TzsKRvaPQX",
+              "end": 154,
+              "expanded_url": "https://x.com/pangyusio/status/2034443561194995798/photo/1",
+              "media_key": "3_2034443329736429568",
+              "start": 131,
+              "url": "https://t.co/TzsKRvaPQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034443561194995798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近试了下字节的汽水音乐，再打开 QQ 音乐，有种从 2026 穿越回 2016 的感觉。\n\n汽水音乐的逻辑和抖音一脉相承：选个类型，算法推歌，切歌上下滑。整个 App 只有一个核心交互，极简到没有任何决策成本。\n\nQQ 音乐呢？成千上万个歌单，每天推荐 30 首歌。本质上还是十年前网易云那套\"编辑+协同过滤\"的思路，只不过加了更多版权和社交。页面也跟狗皮膏药一样复杂。\n\n都 2026 年了，这套东西看着实在像上个时代的产物。\n\n腾讯的路径一直是：找到被验证的产品，抄过来，嫁接社交关系链和版权优势，靠体量碾压。QQ 音乐对网易云如此，微信对米聊亦如此。\n\n但字节的打法是用算法重新定义交互本身。说白了，歌单这个产品形态，在足够强的推荐算法面前，就是个冗余设计。\n\n字节可怕的地方在于，它不跟你比功能多、版权全，是直接把竞争拉到你不擅长的维度——算法驱动的用户体验。\n\n腾讯如果继续在旧框架里迭代，大概率会像门户网站遇上信息流，赢了所有旧对手，却输给一个改变规则的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 377095,
+          "like_count": 520,
+          "quote_count": 28,
+          "reply_count": 257,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "最近试了下字节的汽水音乐，再打开 QQ 音乐，有种从 2026 穿越回 2016 的感觉。\n\n汽水音乐的逻辑和抖音一脉相承：选个类型，算法推歌，切歌上下滑。整个 App 只有一个核心交互，极简到没有任何决策成本。\n\nQQ 音乐呢？成千上万个歌单，每天推荐 30 https://t.co/TzsKRvaPQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 寻回自我……？ ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 290,
+          "like_count": 89820,
+          "listed_count": 8,
+          "media_count": 1145,
+          "tweet_count": 16528
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-23T10:20:59.000Z",
+        "description": "CS PhD  |  LLM Engineer  |   \nAI · 科技 · 财经 · 社会 · 历史  |  \n观察与思考",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pangyus",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pangyus",
+                "start": 0,
+                "url": "https://t.co/QV3hT8ORSy"
+              }
+            ]
+          }
+        },
+        "id": "1220290277056897025",
+        "location": "Singapore",
+        "name": "Pangyu 胖鱼 🐠",
+        "pinned_tweet_id": "1816822960780673479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220290486516228096/TwYdOfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30217,
+          "following_count": 3407,
+          "like_count": 57487,
+          "listed_count": 180,
+          "media_count": 493,
+          "tweet_count": 10017
+        },
+        "url": "https://t.co/QV3hT8ORSy",
+        "username": "pangyusio",
+        "verified": true
+      }
+    ]
+  }
+}

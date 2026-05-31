@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2043825983921283238",
+    "created_at": "2026-04-14T01:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T02:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043859943816561016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1617094637986156546",
+          "start": 0,
+          "username": "dqivz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043859943816561016",
+    "in_reply_to_user_id": "1617094637986156546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043825983921283238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dqivz 这个100/40比我的60/40好好多……是永久价格吗还是那种减前一年/两年价格的（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2043825978732937216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0g5iUXgAAb-l3.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2230,
+        "media_key": "3_2043825978732859393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0g5iUWUAEIk7U.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2043825983921283238",
+        "created_at": "2026-04-14T01:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043859943816561016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1617094637986156546",
+              "start": 0,
+              "username": "dqivz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043859943816561016",
+        "in_reply_to_user_id": "1617094637986156546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043825983921283238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dqivz 这个100/40比我的60/40好好多……是永久价格吗还是那种减前一年/两年价格的（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043825978732937216",
+            "3_2043825978732859393"
+          ]
+        },
+        "author_id": "1617094637986156546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1490771173893804034",
+              "name": "Rogers Communications"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2043825983921283238",
+        "created_at": "2026-04-13T22:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043825983921283238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HEBkV9pk3",
+              "end": 137,
+              "expanded_url": "https://x.com/dqivz/status/2043825983921283238/photo/1",
+              "media_key": "3_2043825978732937216",
+              "start": 114,
+              "url": "https://t.co/1HEBkV9pk3"
+            },
+            {
+              "display_url": "pic.x.com/1HEBkV9pk3",
+              "end": 137,
+              "expanded_url": "https://x.com/dqivz/status/2043825983921283238/photo/1",
+              "media_key": "3_2043825978732859393",
+              "start": 114,
+              "url": "https://t.co/1HEBkV9pk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043825983921283238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Rogers突然跟我说提速到千兆了\n虽然这点最高速度限制的改变已经意义不大了，反正一般跑不到那么高，但还是谢谢Rogers（？\n话说，我薅到的这个plan叠上绑卡支付减的5刀，应该是全加拿大性价比最高的5G plan之一了吧😋 https://t.co/1HEBkV9pk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3421,
+          "following_count": 305,
+          "like_count": 98612,
+          "listed_count": 9,
+          "media_count": 1197,
+          "tweet_count": 18163
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-22T09:39:56.000Z",
+        "description": "是鱼子酱，可以吃。学生/摄影师\n求fo~",
+        "id": "1617094637986156546",
+        "location": "Toronto, Ontario",
+        "name": "Wyivz",
+        "pinned_tweet_id": "2012394442804613175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008761437703778305/fPsAT1EA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 208,
+          "like_count": 2502,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 874
+        },
+        "username": "dqivz",
+        "verified": false
+      }
+    ]
+  }
+}

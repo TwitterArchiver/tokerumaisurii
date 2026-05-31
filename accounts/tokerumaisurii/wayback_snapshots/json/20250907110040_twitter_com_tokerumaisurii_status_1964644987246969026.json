@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1964416369048637572",
+    "created_at": "2025-09-07T11:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T12:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964644987246969026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1555110213153275905",
+          "start": 0,
+          "username": "liwenka1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964644987246969026",
+    "in_reply_to_user_id": "1555110213153275905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964644422030909576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liwenka1 ……我先问一下你觉得我说的里面那一部分是好的？还是全部？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1964416369048637572",
+        "created_at": "2025-09-07T11:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T12:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964644987246969026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1555110213153275905",
+              "start": 0,
+              "username": "liwenka1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964644987246969026",
+        "in_reply_to_user_id": "1555110213153275905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964644422030909576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwenka1 ……我先问一下你觉得我说的里面那一部分是好的？还是全部？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555110213153275905",
+        "conversation_id": "1964416369048637572",
+        "created_at": "2025-09-07T10:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T11:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964644422030909576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964644422030909576",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964416369048637572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 不好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 207,
+          "like_count": 42204,
+          "listed_count": 8,
+          "media_count": 587,
+          "tweet_count": 7847
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T08:36:07.000Z",
+        "description": "INTP-ADHD 网瘾 coder & gamer  | GitHub 百⭐王者，爱写代码时打游戏 | 抑郁焦虑中学习 AI 与生活 | Internet 人，抽象乐子手 | 主页: https://t.co/Xkl01sJPY6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "liwenkai.fun",
+                "end": 116,
+                "expanded_url": "http://liwenkai.fun",
+                "start": 93,
+                "url": "https://t.co/Xkl01sJPY6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liwenka1",
+                "end": 23,
+                "expanded_url": "https://github.com/liwenka1",
+                "start": 0,
+                "url": "https://t.co/25f8r8AwLe"
+              }
+            ]
+          }
+        },
+        "id": "1555110213153275905",
+        "location": "卖艺不卖身",
+        "name": "VVenKAI 文凯 🍥 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957757089658597378/x74cKxPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 40,
+          "like_count": 60,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/25f8r8AwLe",
+        "username": "liwenka1",
+        "verified": false
+      }
+    ]
+  }
+}

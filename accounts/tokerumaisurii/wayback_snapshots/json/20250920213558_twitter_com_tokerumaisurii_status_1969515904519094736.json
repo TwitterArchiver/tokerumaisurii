@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1969515904519094736",
+    "created_at": "2025-09-20T21:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T22:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969515904519094736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/g_godaka/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/g_godaka/status/1969189764738810188",
+          "start": 17,
+          "url": "https://t.co/FFNJcf4y3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969515904519094736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969189764738810188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“不要忘记你的函数有副作用哦！” https://t.co/FFNJcf4y3B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57666,
+        "height": 1080,
+        "media_key": "13_1967507797958164481",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967507797958164481/img/2yzDdJ1_mg93EVNd.jpg",
+        "public_metrics": {
+          "view_count": 168432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967507797958164481/pl/OwawoNIE3R8ZVLuY.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967507797958164481/vid/avc1/360x270/L-5o8ZqI5cE0OVKx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967507797958164481/vid/avc1/1440x1080/OncOsyECEwCo5kAS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967507797958164481/vid/avc1/480x360/-pqkcdPL8GFMxWGN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967507797958164481/vid/avc1/960x720/WxaTdnyXI0_zZMYN.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1969515904519094736",
+        "created_at": "2025-09-20T21:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T22:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969515904519094736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/g_godaka/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/g_godaka/status/1969189764738810188",
+              "start": 17,
+              "url": "https://t.co/FFNJcf4y3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969515904519094736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969189764738810188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“不要忘记你的函数有副作用哦！” https://t.co/FFNJcf4y3B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967507797958164481"
+          ]
+        },
+        "author_id": "1269944722123943937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1969189764738810188",
+        "created_at": "2025-09-20T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969189764738810188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "STRANGE KEYWORLD",
+              "probability": 0.7913,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMa1rWWboW",
+              "end": 151,
+              "expanded_url": "https://x.com/G_Godaka/status/1969189764738810188/video/1",
+              "media_key": "13_1967507797958164481",
+              "start": 128,
+              "url": "https://t.co/tMa1rWWboW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969189764738810188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1214,
+          "impression_count": 413899,
+          "like_count": 4284,
+          "quote_count": 25,
+          "reply_count": 10,
+          "retweet_count": 697
+        },
+        "reply_settings": "everyone",
+        "text": "不思議なキーボードの世界\n『STRANGE KEYWORLD』\n\nゲーム性はシンプルな2Dパズルアクション。\nひとつ変わっているのは、キーボードと足場が連動していること。\n\nステージを進むだけでも謎解きがあって面白い。\nワンアイデアが光るフリーゲーム作品 https://t.co/tMa1rWWboW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 又幻想了……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 211,
+          "like_count": 46683,
+          "listed_count": 7,
+          "media_count": 618,
+          "tweet_count": 8806
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T10:50:18.000Z",
+        "description": "奇妙なゲームを毎日紹介してます。各紹介は動画欄、反響があった投稿はハイライトへどうぞ｜Sharing weird and unusual games daily.｜ご依頼はDMまたはメールから:godaka53.g@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@G_Godaka",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@G_Godaka",
+                "start": 0,
+                "url": "https://t.co/rIHQcmsZqT"
+              }
+            ]
+          }
+        },
+        "id": "1269944722123943937",
+        "location": "効く奇ゲーはYouTube",
+        "name": "ごだか",
+        "pinned_tweet_id": "1967939275561021618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950598908595544069/OehYlFFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27363,
+          "following_count": 661,
+          "like_count": 23587,
+          "listed_count": 146,
+          "media_count": 1006,
+          "tweet_count": 4053
+        },
+        "url": "https://t.co/rIHQcmsZqT",
+        "username": "G_Godaka",
+        "verified": true
+      }
+    ]
+  }
+}

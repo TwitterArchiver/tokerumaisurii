@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1995555710805930031",
+    "created_at": "2025-12-03T00:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T01:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996012933159997926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854773584407019520",
+          "start": 0,
+          "username": "KyoukoSueharaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996012933159997926",
+    "in_reply_to_user_id": "1854773584407019520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996012892454617426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyoukoSueharaN 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1995555710805930031",
+        "created_at": "2025-12-03T00:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996012933159997926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854773584407019520",
+              "start": 0,
+              "username": "KyoukoSueharaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996012933159997926",
+        "in_reply_to_user_id": "1854773584407019520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996012892454617426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyoukoSueharaN 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854773584407019520",
+        "conversation_id": "1995555710805930031",
+        "created_at": "2025-12-03T00:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996012892454617426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996012892454617426",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995555710805930031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 挂上海爱丽丝幻乐团的名字大概率能过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 236,
+          "like_count": 63387,
+          "listed_count": 7,
+          "media_count": 794,
+          "tweet_count": 11941
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T06:31:23.000Z",
+        "description": "Personal ID of @moe_nodocchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "moe_nodocchi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nodocchi.moe",
+                "end": 23,
+                "expanded_url": "http://nodocchi.moe",
+                "start": 0,
+                "url": "https://t.co/BCxW5GmdV0"
+              }
+            ]
+          }
+        },
+        "id": "1854773584407019520",
+        "location": "Beijing",
+        "name": "Kyouko Suehara",
+        "pinned_tweet_id": "1988995361831264572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988162416635768834/HcoZmdOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 59,
+          "like_count": 58811,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/BCxW5GmdV0",
+        "username": "KyoukoSueharaN",
+        "verified": false
+      }
+    ]
+  }
+}

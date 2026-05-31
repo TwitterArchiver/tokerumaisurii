@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1907789851820540035",
+    "created_at": "2025-04-04T01:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T02:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907961419347415363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1866494581539512320",
+          "start": 0,
+          "username": "echo25217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907961419347415363",
+    "in_reply_to_user_id": "1866494581539512320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907789851820540035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echo25217 呜呜抱抱你们……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1907789851820540035",
+        "created_at": "2025-04-04T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907961419347415363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1866494581539512320",
+              "start": 0,
+              "username": "echo25217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907961419347415363",
+        "in_reply_to_user_id": "1866494581539512320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907789851820540035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echo25217 呜呜抱抱你们……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866494581539512320",
+        "conversation_id": "1907789851820540035",
+        "created_at": "2025-04-03T13:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907789851820540035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907789851820540035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1145,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最喜欢的人初吻被强走了😭😭😭😭😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 106,
+          "like_count": 2900,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 572
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T14:46:11.000Z",
+        "description": "我要减肥（180cm70kg）",
+        "id": "1866494581539512320",
+        "name": "echo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890217870069755906/orzUTBQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 257,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 84
+        },
+        "username": "echo25217",
+        "verified": false
+      }
+    ]
+  }
+}

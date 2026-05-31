@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1951107507876930038",
+    "created_at": "2025-08-02T02:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T03:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951470163792154829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1912096783951712256",
+          "start": 0,
+          "username": "vioka404"
+        },
+        {
+          "end": 24,
+          "id": "1846477785801330688",
+          "start": 10,
+          "username": "Oblivionis___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951470163792154829",
+    "in_reply_to_user_id": "1912096783951712256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951462457559650745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vioka404 @Oblivionis___ 甚至可能污染都有限，欧盟为了数字主权，投钱但不控制地做了个DNS4EU，有unfiltered选项也有DoH/DoT，那么欧盟ISP即使屏蔽一些网站也不敢屏蔽它，只要设置DoH/DoT DNS被ISP审查的就只有一个查询DNS4EU域名解析的请求，剩下的DNS请求全都加密，甚至DoH的话都看不出来了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1951107507876930038",
+        "created_at": "2025-08-02T02:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T03:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951470163792154829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1912096783951712256",
+              "start": 0,
+              "username": "vioka404"
+            },
+            {
+              "end": 24,
+              "id": "1846477785801330688",
+              "start": 10,
+              "username": "Oblivionis___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951470163792154829",
+        "in_reply_to_user_id": "1912096783951712256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951462457559650745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vioka404 @Oblivionis___ 甚至可能污染都有限，欧盟为了数字主权，投钱但不控制地做了个DNS4EU，有unfiltered选项也有DoH/DoT，那么欧盟ISP即使屏蔽一些网站也不敢屏蔽它，只要设置DoH/DoT DNS被ISP审查的就只有一个查询DNS4EU域名解析的请求，剩下的DNS请求全都加密，甚至DoH的话都看不出来了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912096783951712256",
+        "conversation_id": "1951107507876930038",
+        "created_at": "2025-08-02T01:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T02:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951462457559650745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846477785801330688",
+              "start": 0,
+              "username": "Oblivionis___"
+            },
+            {
+              "end": 30,
+              "id": "1903099585129816064",
+              "start": 15,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951462457559650745",
+        "in_reply_to_user_id": "1846477785801330688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951165851777786353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oblivionis___ @tokerumaisurii 除非他们能像中国那样无限制的投入资金仅仅是为了审查所有人，不然我估计技术层面最多只是DNS污染。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 182,
+          "like_count": 35390,
+          "listed_count": 5,
+          "media_count": 481,
+          "tweet_count": 6423
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T10:53:04.000Z",
+        "description": "",
+        "id": "1912096783951712256",
+        "location": "::1",
+        "name": "vioka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946594164717572098/nWt-zPlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 186,
+          "like_count": 4531,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 396
+        },
+        "username": "vioka404",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T09:06:36.000Z",
+        "description": "せつなくて いとおしい, 今ならば 分かる気がする, しあわせで くるおしい, あの日泣けなかった僕を @tokerumaisurii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "tokerumaisurii"
+              }
+            ]
+          }
+        },
+        "id": "1846477785801330688",
+        "location": "Brock University",
+        "name": "Sakiko🇨🇦🟡⚫️🍥",
+        "pinned_tweet_id": "1891735667253620855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898100143959752704/5wj5dCTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 96,
+          "like_count": 8051,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 2867
+        },
+        "username": "Oblivionis___",
+        "verified": false
+      }
+    ]
+  }
+}

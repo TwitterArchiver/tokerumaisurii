@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936605712182022144"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "1936605721443135907",
+    "created_at": "2025-06-22T02:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T03:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936605721443135907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0cNAilK47W",
+          "end": 70,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1936605721443135907/photo/1",
+          "media_key": "3_1936605712182022144",
+          "start": 47,
+          "url": "https://t.co/0cNAilK47W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936605721443135907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这人（@/yzhlzi3 ）的破bio图是我一个月内看过最最恶心人的一张，真的可怜小天子了。 https://t.co/0cNAilK47W"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936605721443135907].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936605721443135907",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936605721443135907"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1936605712182022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuA0oniaEAAISow.jpg",
+        "width": 1500
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 唉，重金求主.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 174,
+          "like_count": 24453,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 4296
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

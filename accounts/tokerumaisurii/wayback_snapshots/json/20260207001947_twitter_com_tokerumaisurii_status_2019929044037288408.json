@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019687291560816640"
+      ],
+      "media_source_tweet_id": [
+        "2019687300867977281"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2019929044037288408",
+    "created_at": "2026-02-07T00:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T01:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019929044037288408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491781041253916672",
+          "start": 3,
+          "username": "amamiya__15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YxJqNZrWuW",
+          "end": 40,
+          "expanded_url": "https://x.com/amamiya__15/status/2019687300867977281/photo/1",
+          "media_key": "3_2019687291560816640",
+          "start": 17,
+          "url": "https://t.co/YxJqNZrWuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019929044037288408",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 679
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019687300867977281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @amamiya__15: https://t.co/YxJqNZrWuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019687291560816640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAde5BLacAAroLA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019687291560816640"
+          ],
+          "media_source_tweet_id": [
+            "2019687300867977281"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2019929044037288408",
+        "created_at": "2026-02-07T00:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T01:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019929044037288408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491781041253916672",
+              "start": 3,
+              "username": "amamiya__15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxJqNZrWuW",
+              "end": 40,
+              "expanded_url": "https://x.com/amamiya__15/status/2019687300867977281/photo/1",
+              "media_key": "3_2019687291560816640",
+              "start": 17,
+              "url": "https://t.co/YxJqNZrWuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019929044037288408",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 679
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019687300867977281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @amamiya__15: https://t.co/YxJqNZrWuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019687291560816640"
+          ]
+        },
+        "author_id": "1491781041253916672",
+        "conversation_id": "2019687300867977281",
+        "created_at": "2026-02-06T08:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019687300867977281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxJqNZrWuW",
+              "end": 23,
+              "expanded_url": "https://x.com/amamiya__15/status/2019687300867977281/photo/1",
+              "media_key": "3_2019687291560816640",
+              "start": 0,
+              "url": "https://t.co/YxJqNZrWuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019687300867977281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 374,
+          "impression_count": 29912,
+          "like_count": 4255,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 679
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/YxJqNZrWuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 267,
+          "like_count": 75256,
+          "listed_count": 7,
+          "media_count": 1011,
+          "tweet_count": 14504
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T14:28:18.000Z",
+        "description": "あまみん￤18⬆️ 雑多 F外通知📴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/amamiyaichigo",
+                "end": 23,
+                "expanded_url": "https://lit.link/amamiyaichigo",
+                "start": 0,
+                "url": "https://t.co/PP2Tf3mkDn"
+              }
+            ]
+          }
+        },
+        "id": "1491781041253916672",
+        "location": "icon♡skeb",
+        "name": "甘宮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012917116710592512/Fjj0tnJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9330,
+          "following_count": 62,
+          "like_count": 1506,
+          "listed_count": 60,
+          "media_count": 309,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/PP2Tf3mkDn",
+        "username": "amamiya__15",
+        "verified": false
+      }
+    ]
+  }
+}

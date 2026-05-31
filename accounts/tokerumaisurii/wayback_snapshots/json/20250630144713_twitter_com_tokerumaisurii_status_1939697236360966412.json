@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1939692423502016729",
+    "created_at": "2025-06-30T14:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T15:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939697236360966412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919049320546086912",
+          "start": 0,
+          "username": "mizuame19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939697236360966412",
+    "in_reply_to_user_id": "1919049320546086912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939695912508662209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame19953 这人骂不骂我小留也无所谓，但我很好奇这类人被比自己穷的人抨击辱骂的时候会作何姿态，是原则一致地低头接受批评闭口不言，还是转身一变说“我（也）是无产阶级是穷人，并且我还是进步分子是觉醒的先锋队，所以你无权批评我”呢？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939695912508662209].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939695912508662209",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939695912508662209"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1939692423502016729",
+        "created_at": "2025-06-30T14:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939697236360966412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939697236360966412",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939695912508662209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 这人骂不骂我小留也无所谓，但我很好奇这类人被比自己穷的人抨击辱骂的时候会作何姿态，是原则一致地低头接受批评闭口不言，还是转身一变说“我（也）是无产阶级是穷人，并且我还是进步分子是觉醒的先锋队，所以你无权批评我”呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 176,
+          "like_count": 26777,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 4699
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "",
+        "id": "1919049320546086912",
+        "name": "バタフライ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939352694973673472/HVYIGg3F_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 125,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 159
+        },
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1968468342118740305",
+    "created_at": "2025-09-18T03:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T04:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968522597949157502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956760772291579904",
+          "start": 0,
+          "username": "catower233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968522597949157502",
+    "in_reply_to_user_id": "1956760772291579904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968468342118740305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catower233 爆了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12200,
+        "height": 720,
+        "media_key": "13_1968468285164224512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968468285164224512/img/_vElNJavGcNWDDBG.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968468285164224512/vid/avc1/480x270/xwWY6ZTzKY_Mqi6L.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968468285164224512/vid/avc1/640x360/5T1z6VaPMbAHyYmc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968468285164224512/vid/avc1/1280x720/N2xoXRec5RhnMjQx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968468285164224512/pl/BqyIMb-xKBhJJgNy.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1968468342118740305",
+        "created_at": "2025-09-18T03:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T04:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968522597949157502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968522597949157502",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968468342118740305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 爆了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968468285164224512"
+          ]
+        },
+        "author_id": "1956760772291579904",
+        "conversation_id": "1968468342118740305",
+        "created_at": "2025-09-18T00:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T01:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968468342118740305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAGt5yc92z",
+              "end": 23,
+              "expanded_url": "https://x.com/catower233/status/1968468342118740305/video/1",
+              "media_key": "13_1968468285164224512",
+              "start": 0,
+              "url": "https://t.co/BAGt5yc92z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968468342118740305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BAGt5yc92z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 又幻想了……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 210,
+          "like_count": 45600,
+          "listed_count": 7,
+          "media_count": 611,
+          "tweet_count": 8628
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "en-ca/zh-cn，K-W区域，大卫戴良子，梦想是可以有个爱人然后天天都可以抱起来睡到饱，最爱🍅",
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "Catower233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956761029175562240/IaD5K9v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 52,
+          "like_count": 1669,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 341
+        },
+        "username": "catower233",
+        "verified": false
+      }
+    ]
+  }
+}

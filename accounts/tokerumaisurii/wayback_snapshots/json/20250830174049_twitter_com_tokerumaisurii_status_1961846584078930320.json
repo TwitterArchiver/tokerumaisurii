@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961767721080905729"
+      ],
+      "media_source_tweet_id": [
+        "1961767728098017498"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "1961846584078930320",
+    "created_at": "2025-08-30T17:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T18:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961846584078930320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c7uRpsujPc",
+          "end": 48,
+          "expanded_url": "https://x.com/yottan20001202/status/1961767728098017498/photo/1",
+          "media_key": "3_1961767721080905729",
+          "start": 25,
+          "url": "https://t.co/c7uRpsujPc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961846584078930320",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961767728098017498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: FA?🥰 https://t.co/c7uRpsujPc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1961767721080905729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmZWTLa4AEMx9Q.jpg",
+        "width": 1519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961767721080905729"
+          ],
+          "media_source_tweet_id": [
+            "1961767728098017498"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "1961846584078930320",
+        "created_at": "2025-08-30T17:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T18:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961846584078930320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7uRpsujPc",
+              "end": 48,
+              "expanded_url": "https://x.com/yottan20001202/status/1961767728098017498/photo/1",
+              "media_key": "3_1961767721080905729",
+              "start": 25,
+              "url": "https://t.co/c7uRpsujPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961846584078930320",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961767728098017498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: FA?🥰 https://t.co/c7uRpsujPc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961767721080905729"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "1961767728098017498",
+        "created_at": "2025-08-30T12:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961767728098017498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7uRpsujPc",
+              "end": 28,
+              "expanded_url": "https://x.com/yottan20001202/status/1961767728098017498/photo/1",
+              "media_key": "3_1961767721080905729",
+              "start": 5,
+              "url": "https://t.co/c7uRpsujPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961767728098017498",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 14725,
+          "like_count": 474,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "FA?🥰 https://t.co/c7uRpsujPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 200,
+          "like_count": 40516,
+          "listed_count": 7,
+          "media_count": 566,
+          "tweet_count": 7487
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走＆理論値＆☆5／太鼓.全良71(25)／ウニ、プロセカ／サブ@ysk__sub_／インスタ→yottan20001202／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47526,
+          "following_count": 792,
+          "like_count": 24714,
+          "listed_count": 88,
+          "media_count": 13201,
+          "tweet_count": 64181
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2034360805894856804",
+    "created_at": "2026-03-18T20:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034360805894856804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869316389040697344",
+          "start": 3,
+          "username": "0xngmir"
+        },
+        {
+          "end": 26,
+          "id": "106407106",
+          "start": 13,
+          "username": "ikarosalpha_"
+        },
+        {
+          "end": 36,
+          "id": "1059638356609396736",
+          "start": 27,
+          "username": "fxtrader"
+        },
+        {
+          "end": 49,
+          "id": "1353836358901501952",
+          "start": 37,
+          "username": "AnthropicAI"
+        },
+        {
+          "end": 57,
+          "id": "4398626122",
+          "start": 50,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034360805894856804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034214153120858349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xngmir: @ikarosalpha_ @fxtrader @AnthropicAI @OpenAI 你的直觉很对，但还可以拉紧。我每天工作调GPT方案（评估和迭代），长期调试中完成了双向蒸馏，系统输出与我的认知路径收束，最终摸到一致性表达。所以从验收方向看，我已…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2034360805894856804",
+        "created_at": "2026-03-18T20:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034360805894856804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869316389040697344",
+              "start": 3,
+              "username": "0xngmir"
+            },
+            {
+              "end": 26,
+              "id": "106407106",
+              "start": 13,
+              "username": "ikarosalpha_"
+            },
+            {
+              "end": 36,
+              "id": "1059638356609396736",
+              "start": 27,
+              "username": "fxtrader"
+            },
+            {
+              "end": 49,
+              "id": "1353836358901501952",
+              "start": 37,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 57,
+              "id": "4398626122",
+              "start": 50,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034360805894856804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034214153120858349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xngmir: @ikarosalpha_ @fxtrader @AnthropicAI @OpenAI 你的直觉很对，但还可以拉紧。我每天工作调GPT方案（评估和迭代），长期调试中完成了双向蒸馏，系统输出与我的认知路径收束，最终摸到一致性表达。所以从验收方向看，我已…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869316389040697344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2034196991249649969",
+        "created_at": "2026-03-18T10:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034214153120858349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "106407106",
+              "start": 0,
+              "username": "ikarosalpha_"
+            },
+            {
+              "end": 23,
+              "id": "1059638356609396736",
+              "start": 14,
+              "username": "fxtrader"
+            },
+            {
+              "end": 36,
+              "id": "1353836358901501952",
+              "start": 24,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 44,
+              "id": "4398626122",
+              "start": 37,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034214153120858349",
+        "in_reply_to_user_id": "106407106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1964,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034210586704400707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikarosalpha_ @fxtrader @AnthropicAI @OpenAI 你的直觉很对，但还可以拉紧。我每天工作调GPT方案（评估和迭代），长期调试中完成了双向蒸馏，系统输出与我的认知路径收束，最终摸到一致性表达。所以从验收方向看，我已经成为一个在线RLHF的GPT实例。\n\n如果你愿意再往前走一步，其实可以把它变成一个更有意思的提示：\n是否存在一种“逆图灵测试”？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 寻回自我……？ ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 287,
+          "like_count": 89460,
+          "listed_count": 8,
+          "media_count": 1138,
+          "tweet_count": 16468
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T09:39:17.000Z",
+        "description": "GenAI application engineer (unemployed)",
+        "id": "1869316389040697344",
+        "location": "under your bed",
+        "name": "InvalidPathException",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983850387904802816/HD-fq6Ws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 156,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 284
+        },
+        "username": "0xngmir",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T13:17:29.000Z",
+        "description": "",
+        "id": "106407106",
+        "location": "Moon",
+        "name": "Ikaros",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/641588148/face_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 164,
+          "like_count": 420,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 98
+        },
+        "username": "ikarosalpha_",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-06T02:47:26.000Z",
+        "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+        "id": "1059638356609396736",
+        "location": "Hong Kong",
+        "name": "外汇交易员",
+        "pinned_tweet_id": "2034196991249649969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389686,
+          "following_count": 497,
+          "like_count": 7626,
+          "listed_count": 3683,
+          "media_count": 14320,
+          "tweet_count": 45797
+        },
+        "username": "fxtrader",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "name": "Anthropic",
+        "pinned_tweet_id": "2029719864533721481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022931,
+          "following_count": 35,
+          "like_count": 1548,
+          "listed_count": 10632,
+          "media_count": 581,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4686586,
+          "following_count": 4,
+          "like_count": 1788,
+          "listed_count": 28144,
+          "media_count": 526,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940050868964818944"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1940050880117842358",
+    "created_at": "2025-07-01T14:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T15:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940050880117842358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tfWY4BqgiE",
+          "end": 64,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1940050880117842358/photo/1",
+          "media_key": "3_1940050868964818944",
+          "start": 41,
+          "url": "https://t.co/tfWY4BqgiE"
+        },
+        {
+          "display_url": "x.com/chunithm/statu…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/chunithm/status/1939851450923819160",
+          "start": 65,
+          "url": "https://t.co/8f23AIwzCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940050880117842358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939851450923819160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在音游群里刷到的ww\n说起来看到这张第一眼甚至联想到了大宇宙ステージ的封面…… https://t.co/tfWY4BqgiE https://t.co/8f23AIwzCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1940050868964818944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guxx_IrWAAAGCzF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2918,
+        "media_key": "3_1938108088491634688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWLCbba8AA9n-j.jpg",
+        "width": 2062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940050868964818944"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1940050880117842358",
+        "created_at": "2025-07-01T14:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T15:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940050880117842358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfWY4BqgiE",
+              "end": 64,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1940050880117842358/photo/1",
+              "media_key": "3_1940050868964818944",
+              "start": 41,
+              "url": "https://t.co/tfWY4BqgiE"
+            },
+            {
+              "display_url": "x.com/chunithm/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/chunithm/status/1939851450923819160",
+              "start": 65,
+              "url": "https://t.co/8f23AIwzCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940050880117842358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939851450923819160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在音游群里刷到的ww\n说起来看到这张第一眼甚至联想到了大宇宙ステージ的封面…… https://t.co/tfWY4BqgiE https://t.co/8f23AIwzCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938108088491634688"
+          ]
+        },
+        "author_id": "2903786371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1939851450923819160",
+        "created_at": "2025-07-01T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939851450923819160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "チュウニズム",
+              "probability": 0.4232,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "CHUNITHM VERSE",
+              "probability": 0.6101,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "CHUNITHM X-VERSE(チュウニズム クロスバース)",
+              "probability": 0.2711,
+              "start": 51,
+              "type": "Product"
+            },
+            {
+              "end": 130,
+              "normalized_text": "チュウニズム",
+              "probability": 0.3954,
+              "start": 125,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "7/16(水) CHUNITHMのバージョンアップにともなうお知らせ",
+              "display_url": "info-chunithm.sega.jp/10018/",
+              "end": 174,
+              "expanded_url": "https://info-chunithm.sega.jp/10018/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1939851485199691776/yvsqRmsC?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1939851485199691776/yvsqRmsC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "7/16(水) CHUNITHMのバージョンアップにともなうお知らせ",
+              "unwound_url": "https://info-chunithm.sega.jp/10018/",
+              "url": "https://t.co/PYSkK0sOG2"
+            },
+            {
+              "display_url": "pic.x.com/DbAXEmf3tD",
+              "end": 198,
+              "expanded_url": "https://x.com/chunithm/status/1939851450923819160/photo/1",
+              "media_key": "3_1938108088491634688",
+              "start": 175,
+              "url": "https://t.co/DbAXEmf3tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939851450923819160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 697177,
+          "like_count": 8460,
+          "quote_count": 1103,
+          "reply_count": 48,
+          "retweet_count": 4357
+        },
+        "reply_settings": "everyone",
+        "text": "チュウニズム10周年を迎える7月16日(水)、『CHUNITHM VERSE』がバージョンアップ！\n『CHUNITHM X-VERSE(チュウニズム クロスバース)』が稼働します！\n7月4日(金)から新情報をドンドン発表していきます！10周年の特別なチュウニズムをお楽しみに！！\n\n🔽詳しくはこちら🔽\nhttps://t.co/PYSkK0sOG2 https://t.co/DbAXEmf3tD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 177,
+          "like_count": 27229,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 4793
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-18T15:12:08.000Z",
+        "description": "SEGA音楽ゲーム「CHUNITHM（チュウニズム）」の公式アカウントです。▼ゲキチュウマイ→@performai ▼イロドリミドリ→ @irodorimidori5 ▼maimai公式→ @maimai_official ▼オンゲキ公式→ @ongeki_official ▼公式全国大会→ @kop_sega",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "performai"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "irodorimidori5"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "maimai_official"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "ongeki_official"
+              },
+              {
+                "end": 156,
+                "start": 147,
+                "username": "kop_sega"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chunithm.sega.jp",
+                "end": 23,
+                "expanded_url": "http://chunithm.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/ieZUf6RyaN"
+              }
+            ]
+          }
+        },
+        "id": "2903786371",
+        "location": "セガ",
+        "name": "チュウニズム公式",
+        "pinned_tweet_id": "1939851450923819160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735059307195256832/6YSNiEle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216537,
+          "following_count": 160,
+          "like_count": 302,
+          "listed_count": 1907,
+          "media_count": 1823,
+          "tweet_count": 3428
+        },
+        "url": "https://t.co/ieZUf6RyaN",
+        "username": "chunithm",
+        "verified": true
+      }
+    ]
+  }
+}

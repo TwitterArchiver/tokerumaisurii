@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059233419780063232"
+      ],
+      "media_source_tweet_id": [
+        "2059234787605487881"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "2059492463144771877",
+    "created_at": "2026-05-27T04:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059492463144771877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "ゼンゼロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "989169537877594112",
+          "start": 3,
+          "username": "Uwata_h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/anxARIZYMb",
+          "end": 50,
+          "expanded_url": "https://x.com/Uwata_h/status/2059234787605487881/photo/1",
+          "media_key": "3_2059233419780063232",
+          "start": 27,
+          "url": "https://t.co/anxARIZYMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059492463144771877",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 910
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059234787605487881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uwata_h: エレン・ジョー\n#ゼンゼロ https://t.co/anxARIZYMb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3640,
+        "media_key": "3_2059233419780063232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPd4o-agAAejPY.jpg",
+        "width": 2570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059233419780063232"
+          ],
+          "media_source_tweet_id": [
+            "2059234787605487881"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2059492463144771877",
+        "created_at": "2026-05-27T04:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059492463144771877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "989169537877594112",
+              "start": 3,
+              "username": "Uwata_h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/anxARIZYMb",
+              "end": 50,
+              "expanded_url": "https://x.com/Uwata_h/status/2059234787605487881/photo/1",
+              "media_key": "3_2059233419780063232",
+              "start": 27,
+              "url": "https://t.co/anxARIZYMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059492463144771877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 910
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059234787605487881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uwata_h: エレン・ジョー\n#ゼンゼロ https://t.co/anxARIZYMb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059233419780063232"
+          ]
+        },
+        "author_id": "989169537877594112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "2059234787605487881",
+        "created_at": "2026-05-26T11:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059234787605487881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/anxARIZYMb",
+              "end": 37,
+              "expanded_url": "https://x.com/Uwata_h/status/2059234787605487881/photo/1",
+              "media_key": "3_2059233419780063232",
+              "start": 14,
+              "url": "https://t.co/anxARIZYMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059234787605487881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1053,
+          "impression_count": 64159,
+          "like_count": 10729,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 910
+        },
+        "reply_settings": "everyone",
+        "text": "エレン・ジョー\n#ゼンゼロ https://t.co/anxARIZYMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14874 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3980,
+          "following_count": 323,
+          "like_count": 110828,
+          "listed_count": 10,
+          "media_count": 1304,
+          "tweet_count": 20135
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-25T15:49:30.000Z",
+        "description": "東方がすき。イラストレーター skeb▶https://t.co/qm41mLhWEU グッズ通販▶https://t.co/0l4oe3tpqh PixivFANBOX▶https://t.co/nIjqZypIH8 お題箱▶https://t.co/j2fgPQ7k2T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Uwata_h",
+                "end": 43,
+                "expanded_url": "http://skeb.jp/@Uwata_h",
+                "start": 20,
+                "url": "https://t.co/qm41mLhWEU"
+              },
+              {
+                "display_url": "hisha.booth.pm",
+                "end": 73,
+                "expanded_url": "https://hisha.booth.pm",
+                "start": 50,
+                "url": "https://t.co/0l4oe3tpqh"
+              },
+              {
+                "display_url": "hisha.fanbox.cc",
+                "end": 109,
+                "expanded_url": "http://hisha.fanbox.cc",
+                "start": 86,
+                "url": "https://t.co/nIjqZypIH8"
+              },
+              {
+                "display_url": "odaibako.net/u/Hlsha_",
+                "end": 137,
+                "expanded_url": "https://odaibako.net/u/Hlsha_",
+                "start": 114,
+                "url": "https://t.co/j2fgPQ7k2T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=112486",
+                "start": 0,
+                "url": "https://t.co/uihd4BzeVx"
+              }
+            ]
+          }
+        },
+        "id": "989169537877594112",
+        "location": "お仕事▶︎yatsuhashi18@gmail.com",
+        "name": "飛者@春例大祭あ06ab",
+        "pinned_tweet_id": "2052899950833680748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987663726330429440/pC0rCLfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96271,
+          "following_count": 605,
+          "like_count": 4631,
+          "listed_count": 522,
+          "media_count": 1078,
+          "tweet_count": 10459
+        },
+        "url": "https://t.co/uihd4BzeVx",
+        "username": "Uwata_h",
+        "verified": true
+      }
+    ]
+  }
+}

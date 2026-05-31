@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1917758671179702414",
+    "created_at": "2025-05-01T01:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T02:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917760875542302976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1609907541861076994",
+          "start": 0,
+          "username": "Inwal3310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917760875542302976",
+    "in_reply_to_user_id": "1609907541861076994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917758671179702414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inwal3310 如果真的是TMU很好吧，感觉UT压力太大太大了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917758671179702414].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917758671179702414",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917758671179702414"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1917758671179702414",
+        "created_at": "2025-05-01T01:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T02:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917760875542302976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1609907541861076994",
+              "start": 0,
+              "username": "Inwal3310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917760875542302976",
+        "in_reply_to_user_id": "1609907541861076994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917758671179702414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inwal3310 如果真的是TMU很好吧，感觉UT压力太大太大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 136,
+          "like_count": 8656,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1769
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:40:56.000Z",
+        "description": "Floweriable/伐兰在左，企鹅在右/里推@_sarcophagi/🌸@zuifeiwu/🤍🐧@Silent121_5/🍂@fallenleavesw/👧@kagurazakahyoto/小孩@imilkdragon923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_sarcophagi"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "kagurazakahyoto"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "imilkdragon923"
+              }
+            ]
+          }
+        },
+        "id": "1609907541861076994",
+        "location": "企鹅巢",
+        "name": "🌸坂下らん🤍",
+        "pinned_tweet_id": "1913110344727134329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899752473205596160/19hGlrhW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1264,
+          "like_count": 56073,
+          "listed_count": 18,
+          "media_count": 756,
+          "tweet_count": 29374
+        },
+        "username": "Inwal3310",
+        "verified": false
+      }
+    ]
+  }
+}

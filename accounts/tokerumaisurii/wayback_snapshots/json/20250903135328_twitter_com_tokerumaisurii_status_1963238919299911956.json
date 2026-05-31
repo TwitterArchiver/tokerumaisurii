@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1963238919299911956",
+    "created_at": "2025-09-03T13:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T14:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963238919299911956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abcchinese/sta…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/abcchinese/status/1963128772225593512",
+          "start": 76,
+          "url": "https://t.co/CaG67jBHGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963238919299911956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963128772225593512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“人类的器官会不断地移植”，而且还不是治病而是延寿保健意味上的吗？\n爆了……真的爆了……\n普哥习哥金哥不要摘我们的器官用你们自己的干细胞来做好不好…… https://t.co/CaG67jBHGS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31280,
+        "height": 1080,
+        "media_key": "13_1963128591090331648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963128591090331648/img/bWDRZiTpsv6CQXPp.jpg",
+        "public_metrics": {
+          "view_count": 186005
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963128591090331648/vid/avc1/1280x720/o_d16KshHJ_KV3Zm.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963128591090331648/vid/avc1/1920x1080/CbnewfqlZ9kcaUaV.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963128591090331648/pl/IlIkv3uEgZcpc1BA.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963128591090331648/vid/avc1/640x360/EYzD8Z_KoDzs8oI9.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963128591090331648/vid/avc1/480x270/L_bi-42za86pfaQI.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1963238919299911956",
+        "created_at": "2025-09-03T13:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963238919299911956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abcchinese/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/abcchinese/status/1963128772225593512",
+              "start": 76,
+              "url": "https://t.co/CaG67jBHGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963238919299911956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963128772225593512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“人类的器官会不断地移植”，而且还不是治病而是延寿保健意味上的吗？\n爆了……真的爆了……\n普哥习哥金哥不要摘我们的器官用你们自己的干细胞来做好不好…… https://t.co/CaG67jBHGS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963128591090331648"
+          ]
+        },
+        "author_id": "222793635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1963128772225593512",
+        "created_at": "2025-09-03T06:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T07:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963128772225593512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxqrmjXGtY",
+              "end": 169,
+              "expanded_url": "https://x.com/ABCChinese/status/1963128772225593512/video/1",
+              "media_key": "13_1963128591090331648",
+              "start": 146,
+              "url": "https://t.co/DxqrmjXGtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963128772225593512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 427370,
+          "like_count": 1203,
+          "quote_count": 52,
+          "reply_count": 178,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "“九三阅兵”典礼开始前，习近平与各国元首一同前往会场。期间，俄罗斯总统普京和他谈起了寿命话题。现场转播中，普京的翻译对习近平说随着生物技术的发展，人是越活越年轻，甚至会长生不老。习近平回答，预测本世纪人们“可能可以活到150岁”。ABC无法从现场转播中听到这段对话中普京自己进行的完整表达。 https://t.co/DxqrmjXGtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 0,
+          "like_count": 25,
+          "listed_count": 7,
+          "media_count": 578,
+          "tweet_count": 7627
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-04T13:33:59.000Z",
+        "description": "坐居澳洲，看懂世界。ABC中文是澳大利亚广播公司旗下的中文新闻服务。订阅ABC中文周报 https://t.co/jUJk22qxTA｜An official @abcaustralia account.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "abcaustralia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ab.co/3X8G1AT",
+                "end": 67,
+                "expanded_url": "http://ab.co/3X8G1AT",
+                "start": 44,
+                "url": "https://t.co/jUJk22qxTA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abc.net.au/news/chinese",
+                "end": 23,
+                "expanded_url": "http://www.abc.net.au/news/chinese",
+                "start": 0,
+                "url": "https://t.co/wZd2nCe4K7"
+              }
+            ]
+          }
+        },
+        "id": "222793635",
+        "location": "Australia",
+        "name": "ABC中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861234823156899842/5O5jCkuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516865,
+          "following_count": 89,
+          "like_count": 8,
+          "listed_count": 2481,
+          "media_count": 3767,
+          "tweet_count": 22112
+        },
+        "url": "https://t.co/wZd2nCe4K7",
+        "username": "ABCChinese",
+        "verified": false
+      }
+    ]
+  }
+}

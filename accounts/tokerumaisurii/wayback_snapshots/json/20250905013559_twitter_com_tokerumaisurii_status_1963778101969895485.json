@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1963513388530630672",
+    "created_at": "2025-09-05T01:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T02:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963778101969895485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548857263086899201",
+          "start": 0,
+          "username": "DesoleBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963778101969895485",
+    "in_reply_to_user_id": "1548857263086899201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963513388530630672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesoleBot 好耶恭喜 以及这个对话看着好可爱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963513388530630672].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963513388530630672",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1963513388530630672"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1963513388530630672",
+        "created_at": "2025-09-05T01:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T02:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963778101969895485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548857263086899201",
+              "start": 0,
+              "username": "DesoleBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963778101969895485",
+        "in_reply_to_user_id": "1548857263086899201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963513388530630672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesoleBot 好耶恭喜 以及这个对话看着好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 207,
+          "like_count": 41505,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 7686
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T02:28:56.000Z",
+        "description": "",
+        "id": "1548857263086899201",
+        "location": "Eileberg-MacLane Space ",
+        "name": "Désolé Bot",
+        "pinned_tweet_id": "1948018699736076540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951278607592202243/xYvz3seu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 104,
+          "like_count": 6510,
+          "listed_count": 0,
+          "media_count": 1790,
+          "tweet_count": 17241
+        },
+        "username": "DesoleBot",
+        "verified": false
+      }
+    ]
+  }
+}

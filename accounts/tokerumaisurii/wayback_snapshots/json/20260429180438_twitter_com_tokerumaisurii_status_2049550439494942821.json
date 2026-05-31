@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2049548640356606172",
+    "created_at": "2026-04-29T18:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T19:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049550439494942821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Download Android Wallpapers ✓ Get Free Android Wallpapers in sizes up to 8K ✓ 100% Free ✓ Download & Personalise for all Devices.",
+          "display_url": "Android.mk",
+          "end": 109,
+          "expanded_url": "http://Android.mk",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/2049550440556044289/VVhBfnbR?format=jpg&name=orig",
+              "width": 506
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049550440556044289/VVhBfnbR?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 86,
+          "status": 200,
+          "title": "[1500+] Android Wallpapers | Wallpapers.com",
+          "unwound_url": "https://wallpapers.com/android",
+          "url": "https://t.co/VWm1X3QT5V"
+        },
+        {
+          "display_url": "BoardConfig.mk",
+          "end": 133,
+          "expanded_url": "http://BoardConfig.mk",
+          "start": 110,
+          "unwound_url": "http://BoardConfig.mk",
+          "url": "https://t.co/WuTUXMcjwf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049550439494942821",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049548640356606172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也没得现成的抄（例如LOS）。高通CodeLinaro上面有canoe的，但我打算从官方系统扒kernel和vendor，只构建system，这个就太重了。我适合裸写几个https://t.co/VWm1X3QT5V https://t.co/WuTUXMcjwf文件，但根本没文档标明该写什么必须有哪些变量，lunch报错约等于废物，没法像Rust搞“编译器驱动开发”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2049548640356606172",
+        "created_at": "2026-04-29T18:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049550439494942821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Download Android Wallpapers ✓ Get Free Android Wallpapers in sizes up to 8K ✓ 100% Free ✓ Download & Personalise for all Devices.",
+              "display_url": "Android.mk",
+              "end": 109,
+              "expanded_url": "http://Android.mk",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2049550440556044289/VVhBfnbR?format=jpg&name=orig",
+                  "width": 506
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049550440556044289/VVhBfnbR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "[1500+] Android Wallpapers | Wallpapers.com",
+              "unwound_url": "https://wallpapers.com/android",
+              "url": "https://t.co/VWm1X3QT5V"
+            },
+            {
+              "display_url": "BoardConfig.mk",
+              "end": 133,
+              "expanded_url": "http://BoardConfig.mk",
+              "start": 110,
+              "unwound_url": "http://BoardConfig.mk",
+              "url": "https://t.co/WuTUXMcjwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049550439494942821",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049548640356606172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也没得现成的抄（例如LOS）。高通CodeLinaro上面有canoe的，但我打算从官方系统扒kernel和vendor，只构建system，这个就太重了。我适合裸写几个https://t.co/VWm1X3QT5V https://t.co/WuTUXMcjwf文件，但根本没文档标明该写什么必须有哪些变量，lunch报错约等于废物，没法像Rust搞“编译器驱动开发”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2049548640356606172",
+        "created_at": "2026-04-29T17:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049548640356606172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049548640356606172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉Android也不是特别开放，网上几乎没有教人写device/&lt;vendor&gt;/&lt;codename&gt;树移植的文档，哪怕有估计也是AOSP或者芯片厂商的partner-only文档或者内部wiki，个人移植基本上就是抄相似的改，每个变量都去翻源代码看make定义和注释了。它最多是开放消费构建好的ROM，但低开放生产，现在消费也快没了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 309,
+          "like_count": 102286,
+          "listed_count": 9,
+          "media_count": 1229,
+          "tweet_count": 18775
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2039795945852764464",
+    "created_at": "2026-04-03T01:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039884745769652536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1855468542705160192",
+          "start": 0,
+          "username": "_sarcophagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039884745769652536",
+    "in_reply_to_user_id": "1855468542705160192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039795945852764464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sarcophagi 蒙特利尔可能对于西人算城，对于老中（指文化亲密度）来说我觉得加拿大只有温哥华和多伦多算城，剩下的只有大镇子、小镇子、城乡结合部和村等等"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039795945852764464].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039795945852764464",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039795945852764464"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2039795945852764464",
+        "created_at": "2026-04-03T01:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039884745769652536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1855468542705160192",
+              "start": 0,
+              "username": "_sarcophagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039884745769652536",
+        "in_reply_to_user_id": "1855468542705160192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039795945852764464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sarcophagi 蒙特利尔可能对于西人算城，对于老中（指文化亲密度）来说我觉得加拿大只有温哥华和多伦多算城，剩下的只有大镇子、小镇子、城乡结合部和村等等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 298,
+          "like_count": 94093,
+          "listed_count": 9,
+          "media_count": 1168,
+          "tweet_count": 17412
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T04:32:43.000Z",
+        "description": "🖤🩶🤍🥺🥺🥺🌸🌸🌸🌸🏳️‍⚧️🌸🌸💫✨🌟❤️‍🩹💕💗🫂🐟🥰🐱🌙🤍🤍🤍我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你我喜欢你",
+        "id": "1855468542705160192",
+        "location": "永远在你怀里",
+        "name": "花星",
+        "pinned_tweet_id": "1880192768787808463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915304310872719360/4N9xTva-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 82,
+          "like_count": 3619,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1835
+        },
+        "username": "_sarcophagi",
+        "verified": false
+      }
+    ]
+  }
+}

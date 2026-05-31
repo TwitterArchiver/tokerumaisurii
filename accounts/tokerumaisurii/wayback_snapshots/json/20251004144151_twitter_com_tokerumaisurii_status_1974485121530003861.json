@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cuisines",
+          "id": "860133563332648963",
+          "name": "Cuisines"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Chinese Cuisine",
+          "id": "860136866950950912",
+          "name": "Chinese cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chinese Cuisine",
+          "id": "860136866950950912",
+          "name": "Chinese cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1193991001892745216",
+          "name": "Cuisines"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1974485121530003861",
+    "created_at": "2025-10-04T14:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T15:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974485121530003861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "291283805",
+          "start": 3,
+          "username": "RekuMczk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974485121530003861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 538
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895082127387173153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RekuMczk: 完全栄養食（かんぜんえいようしょく・英語: complete nutritional food）とは、中華麺とスープを主とし、様々な具としてチャーシュー・メンマ・味付け玉子・刻み葱・海苔などを組み合わせた、人間が健康を維持するために必要な栄養素を全て…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25738,
+        "height": 1080,
+        "media_key": "13_1895082007748812800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1895082007748812800/img/eHc8mxexhFfDZ9yV.jpg",
+        "public_metrics": {
+          "view_count": 39778
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895082007748812800/vid/avc1/1920x1080/eRA5iQ3joED0GG_g.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1895082007748812800/pl/fnA0XxufgLa4FAZQ.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895082007748812800/vid/avc1/640x360/uMPK9lrkQLWtSv4S.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895082007748812800/vid/avc1/1280x720/g_7Px5nU1wCn0It_.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895082007748812800/vid/avc1/480x270/QY21LmCcitsjk_tc.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1974485121530003861",
+        "created_at": "2025-10-04T14:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974485121530003861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "291283805",
+              "start": 3,
+              "username": "RekuMczk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974485121530003861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 538
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895082127387173153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RekuMczk: 完全栄養食（かんぜんえいようしょく・英語: complete nutritional food）とは、中華麺とスープを主とし、様々な具としてチャーシュー・メンマ・味付け玉子・刻み葱・海苔などを組み合わせた、人間が健康を維持するために必要な栄養素を全て…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1895082007748812800"
+          ]
+        },
+        "author_id": "291283805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1895082127387173153",
+        "created_at": "2025-02-27T12:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895082127387173153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 159,
+              "start": 152,
+              "tag": "maimai"
+            },
+            {
+              "end": 169,
+              "start": 160,
+              "tag": "maimai称号"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7iw2qnDVJ",
+              "end": 193,
+              "expanded_url": "https://x.com/RekuMczk/status/1895082127387173153/video/1",
+              "media_key": "13_1895082007748812800",
+              "start": 170,
+              "url": "https://t.co/d7iw2qnDVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895082127387173153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 195120,
+          "like_count": 2065,
+          "quote_count": 71,
+          "reply_count": 14,
+          "retweet_count": 538
+        },
+        "reply_settings": "everyone",
+        "text": "完全栄養食（かんぜんえいようしょく・英語: complete nutritional food）とは、中華麺とスープを主とし、様々な具としてチャーシュー・メンマ・味付け玉子・刻み葱・海苔などを組み合わせた、人間が健康を維持するために必要な栄養素を全て含んだ食品である。\n\n⁉️⁉️⁉️⁉️⁉️⁉️⁉️\n\n#maimai #maimai称号 https://t.co/d7iw2qnDVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 219,
+          "like_count": 51111,
+          "listed_count": 7,
+          "media_count": 663,
+          "tweet_count": 9674
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-01T19:02:21.000Z",
+        "description": "フリーランス作編曲家｜Works：音楽ゲーム(CHUNITHM, maimai, オンゲキ, ポラリスコード, EZ2ON, Muse Dash, Phigros 他多数)／VTuber, アイドル楽曲提供／商業誌への記事執筆など｜お仕事募集中です！ご依頼は下記メールまでお願いします📨 #れくもち絵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 144,
+                "tag": "れくもち絵"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RekuMczk",
+                "end": 23,
+                "expanded_url": "https://lit.link/RekuMczk",
+                "start": 0,
+                "url": "https://t.co/xyS1V1Yc8Z"
+              }
+            ]
+          }
+        },
+        "id": "291283805",
+        "location": "Contact : rekumczk@gmail.com",
+        "name": "Reku Mochizuki 🍜🔋 秋M3 V-12ab",
+        "pinned_tweet_id": "1969348459414045014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580363538148622337/meE-Ckx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21925,
+          "following_count": 2973,
+          "like_count": 80038,
+          "listed_count": 104,
+          "media_count": 6257,
+          "tweet_count": 27687
+        },
+        "url": "https://t.co/xyS1V1Yc8Z",
+        "username": "RekuMczk",
+        "verified": true
+      }
+    ]
+  }
+}

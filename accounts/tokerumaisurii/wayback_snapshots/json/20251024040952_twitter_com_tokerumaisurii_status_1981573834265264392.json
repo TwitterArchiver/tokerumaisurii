@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1981573834265264392",
+    "created_at": "2025-10-24T04:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T05:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981573834265264392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 180,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1956923387760239014",
+          "start": 157,
+          "url": "https://t.co/a1Aw17fofc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981573834265264392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956923387760239014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没想到这真的会派上用场。\n机厅群的群友要绑查分器需要IDm的“原始”ACCESS CODE，抱着试试看的心情说除了等之后上机看还可以这样扫Felica IDm算出来，没想到对方真的做了……\n而且，而且，还成功了……！\n而且人家文科高中生纯问GPT做到的，如果不是转整数出幻觉就全部自行完成了，好厉害，我好感动。 https://t.co/a1Aw17fofc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1981573834265264392",
+        "created_at": "2025-10-24T04:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981573834265264392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1956923387760239014",
+              "start": 157,
+              "url": "https://t.co/a1Aw17fofc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981573834265264392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956923387760239014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没想到这真的会派上用场。\n机厅群的群友要绑查分器需要IDm的“原始”ACCESS CODE，抱着试试看的心情说除了等之后上机看还可以这样扫Felica IDm算出来，没想到对方真的做了……\n而且，而且，还成功了……！\n而且人家文科高中生纯问GPT做到的，如果不是转整数出幻觉就全部自行完成了，好厉害，我好感动。 https://t.co/a1Aw17fofc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1956923387760239014",
+        "created_at": "2025-08-17T03:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956923387760239014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956923387760239014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 606,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "读过maimai资料乃至源码的朋友都知道，刷卡的卡只是身份凭证而不记载任何游戏数据，而且该身份有着两种形态，在官机官卡上最易见为ACCESS CODE，但更底层的形态则是作为FeliCa卡片所具有的IDm和PMm字段。\n一般情况下，客户端会将读取到的IDm和PMm发往服务端（的AiMeDB）进行AC查询或注册；但……\n\n1/2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 231,
+          "like_count": 57515,
+          "listed_count": 6,
+          "media_count": 731,
+          "tweet_count": 10784
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

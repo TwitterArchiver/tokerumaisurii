@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1996301293099663850",
+    "created_at": "2025-12-05T01:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T02:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996749488468492640"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Apple",
+          "probability": 0.8251,
+          "start": 19,
+          "type": "Organization"
+        },
+        {
+          "end": 51,
+          "normalized_text": "Liquid Glass",
+          "probability": 0.8779,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "15958614",
+          "start": 0,
+          "username": "markgurman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996749488468492640",
+    "in_reply_to_user_id": "15958614",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996301293099663850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@markgurman Please Apple don't drop the Liquid Glass 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1996301293099663850",
+        "created_at": "2025-12-05T01:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996749488468492640"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Apple",
+              "probability": 0.8251,
+              "start": 19,
+              "type": "Organization"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Liquid Glass",
+              "probability": 0.8779,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "15958614",
+              "start": 0,
+              "username": "markgurman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996749488468492640",
+        "in_reply_to_user_id": "15958614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996301293099663850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@markgurman Please Apple don't drop the Liquid Glass 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15958614",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1996301293099663850",
+        "created_at": "2025-12-03T19:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T20:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996301293099663850"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Apple",
+              "probability": 0.6959,
+              "start": 10,
+              "type": "Organization"
+            },
+            {
+              "end": 46,
+              "normalized_text": "Alan Dye",
+              "probability": 0.9115,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "iPhone",
+              "probability": 0.955,
+              "start": 63,
+              "type": "Product"
+            },
+            {
+              "end": 117,
+              "normalized_text": "Meta",
+              "probability": 0.3398,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meta Platforms Inc. has poached Apple Inc.’s most prominent design executive in a major coup that underscores a push by the social networking giant into AI-equipped consumer devices.",
+              "display_url": "bloomberg.com/news/articles/…",
+              "end": 197,
+              "expanded_url": "https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1996303267048140800/DedXXHuF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1996303267048140800/DedXXHuF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 174,
+              "status": 200,
+              "title": "Apple Design Executive Alan Dye Poached by Meta in Major Coup",
+              "unwound_url": "https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup",
+              "url": "https://t.co/OuzpoBc82K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996301293099663850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 3614194,
+          "like_count": 2646,
+          "quote_count": 328,
+          "reply_count": 251,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Apple interface design chief Alan Dye is leaving the iPhone maker to become the Chief Design Officer at Meta in a blockbuster coup for the social networking giant. https://t.co/OuzpoBc82K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 238,
+          "like_count": 64064,
+          "listed_count": 7,
+          "media_count": 800,
+          "tweet_count": 12042
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2008-08-23T16:43:17.000Z",
+        "description": "Breaking News on Apple & Tech. Bloomberg Managing Editor. @UMSI Board Member. Send secure tips on Signal: markgurman.01 or email markgurman@protonmail.com.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 58,
+                "username": "UMSI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "markgurman.com",
+                "end": 23,
+                "expanded_url": "http://markgurman.com",
+                "start": 0,
+                "url": "https://t.co/sjCxNxYUT0"
+              }
+            ]
+          }
+        },
+        "id": "15958614",
+        "location": "Los Angeles, CA",
+        "name": "Mark Gurman",
+        "pinned_tweet_id": "1996301293099663850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831342499719479296/biKqSezf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438928,
+          "following_count": 2134,
+          "like_count": 28655,
+          "listed_count": 5737,
+          "media_count": 889,
+          "tweet_count": 13112
+        },
+        "url": "https://t.co/sjCxNxYUT0",
+        "username": "markgurman",
+        "verified": true
+      }
+    ]
+  }
+}

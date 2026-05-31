@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1390006514509762568",
+          "name": "Karl Marx"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1390006514509762568",
+          "name": "Karl Marx"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390006514509762568",
+          "name": "Karl Marx"
+        }
+      }
+    ],
+    "conversation_id": "1975953085647438067",
+    "created_at": "2025-10-08T22:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T23:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976058363373928951"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 135,
+          "normalized_text": "Adam Smith",
+          "probability": 0.976,
+          "start": 126,
+          "type": "Person"
+        },
+        {
+          "end": 163,
+          "normalized_text": "Karl Marx",
+          "probability": 0.9786,
+          "start": 155,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1770650175150882816",
+          "start": 0,
+          "username": "Known_Unknown05"
+        },
+        {
+          "end": 29,
+          "id": "1667550141065097217",
+          "start": 17,
+          "username": "VP51Archive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976058363373928951",
+    "in_reply_to_user_id": "1770650175150882816",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975953085647438067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Known_Unknown05 @VP51Archive Wait forgive my bad history knowledge but I'm so surprised they are in the same era?? I thought Adam Smith lived long before Karl Marx's time…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_1975953082686263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2v-3BJaUAA8bMk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          }
+        ],
+        "conversation_id": "1975953085647438067",
+        "created_at": "2025-10-08T22:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T23:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976058363373928951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 135,
+              "normalized_text": "Adam Smith",
+              "probability": 0.976,
+              "start": 126,
+              "type": "Person"
+            },
+            {
+              "end": 163,
+              "normalized_text": "Karl Marx",
+              "probability": 0.9786,
+              "start": 155,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1770650175150882816",
+              "start": 0,
+              "username": "Known_Unknown05"
+            },
+            {
+              "end": 29,
+              "id": "1667550141065097217",
+              "start": 17,
+              "username": "VP51Archive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976058363373928951",
+        "in_reply_to_user_id": "1770650175150882816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975953085647438067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Known_Unknown05 @VP51Archive Wait forgive my bad history knowledge but I'm so surprised they are in the same era?? I thought Adam Smith lived long before Karl Marx's time…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975953082686263296"
+          ]
+        },
+        "author_id": "1770650175150882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          }
+        ],
+        "conversation_id": "1975953085647438067",
+        "created_at": "2025-10-08T15:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975953085647438067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gBQbL9QPPp",
+              "end": 31,
+              "expanded_url": "https://x.com/Known_Unknown05/status/1975953085647438067/photo/1",
+              "media_key": "3_1975953082686263296",
+              "start": 8,
+              "url": "https://t.co/gBQbL9QPPp"
+            },
+            {
+              "display_url": "x.com/lunarleahhhhh/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/lunarleahhhhh/status/1975644367517008289",
+              "start": 32,
+              "url": "https://t.co/QzUZdYFSb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975953085647438067",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 296,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975644367517008289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kurdish https://t.co/gBQbL9QPPp https://t.co/QzUZdYFSb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 220,
+          "like_count": 52612,
+          "listed_count": 7,
+          "media_count": 676,
+          "tweet_count": 9988
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T03:15:04.000Z",
+        "description": "Neoliberal shill 🗽🌐 | Shameless woke libtard 🏳️‍🌈 🏳️‍⚧️| Military-industrial complex enjoyer 💵 💣 | The Deep Sate's strongest warrior 🇺🇸 🦅",
+        "id": "1770650175150882816",
+        "location": "The nearest taco truck",
+        "name": "TheKnownUnknown 🌐",
+        "pinned_tweet_id": "1905734297472151924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970323772575227906/Iax4dSt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 204,
+          "like_count": 8657,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1539
+        },
+        "username": "Known_Unknown05",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T15:11:59.000Z",
+        "description": "We live in a simulation, and the show must go on.",
+        "id": "1667550141065097217",
+        "location": "Lupinland",
+        "name": "Alan",
+        "pinned_tweet_id": "1898807229152727505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967830212235689985/iHcSywZk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 913,
+          "like_count": 6965,
+          "listed_count": 0,
+          "media_count": 573,
+          "tweet_count": 7982
+        },
+        "username": "VP51Archive",
+        "verified": false
+      }
+    ]
+  }
+}

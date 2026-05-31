@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1244688939719348224",
+          "name": "Kagerou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1244688939719348224",
+          "name": "Kagerou Project"
+        }
+      }
+    ],
+    "conversation_id": "1932427370377687283",
+    "created_at": "2025-06-10T13:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T14:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932427370377687283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/remiria_maimai…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/remiria_maimai/status/1932397925747081569",
+          "start": 7,
+          "url": "https://t.co/xRdPWtoo1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932427370377687283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932397925747081569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想学这个…… https://t.co/xRdPWtoo1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932397304226734080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFBHCNbYAA7pmg.jpg",
+        "width": 1542
+      },
+      {
+        "duration_ms": 119511,
+        "height": 720,
+        "media_key": "7_1932397619613241344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932397619613241344/pu/img/H2gpiTsfbxaMM9mL.jpg",
+        "public_metrics": {
+          "view_count": 3884
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932397619613241344/pu/vid/avc1/480x270/ta25ryVXQJH1DqSU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932397619613241344/pu/vid/avc1/640x360/gvP5P7lKXVxVTiRs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932397619613241344/pu/vid/avc1/1280x720/J1RZvm78FVBPMqFl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932397619613241344/pu/pl/FI1ifyK198CevA1b.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          }
+        ],
+        "conversation_id": "1932427370377687283",
+        "created_at": "2025-06-10T13:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T14:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932427370377687283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/remiria_maimai…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/remiria_maimai/status/1932397925747081569",
+              "start": 7,
+              "url": "https://t.co/xRdPWtoo1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932427370377687283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932397925747081569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想学这个…… https://t.co/xRdPWtoo1L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932397304226734080",
+            "7_1932397619613241344"
+          ]
+        },
+        "author_id": "1136890000711213056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          }
+        ],
+        "conversation_id": "1932397925747081569",
+        "created_at": "2025-06-10T11:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T12:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932397925747081569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4eUJCPcF4",
+              "end": 79,
+              "expanded_url": "https://x.com/ReMiRiA_maimai/status/1932397925747081569/video/1",
+              "media_key": "3_1932397304226734080",
+              "start": 56,
+              "url": "https://t.co/s4eUJCPcF4"
+            },
+            {
+              "display_url": "pic.x.com/s4eUJCPcF4",
+              "end": 79,
+              "expanded_url": "https://x.com/ReMiRiA_maimai/status/1932397925747081569/video/1",
+              "media_key": "7_1932397619613241344",
+              "start": 56,
+              "url": "https://t.co/s4eUJCPcF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932397925747081569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 15398,
+          "like_count": 499,
+          "quote_count": 21,
+          "reply_count": 6,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "109（＋8）.カゲロウデイズ Re:MASTER\n\n14MAX2譜面目！！！嬉しいぞー！！！！！！！！！！！ https://t.co/s4eUJCPcF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 165,
+          "like_count": 20524,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3589
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-07T06:57:53.000Z",
+        "description": "2022.9.13〜 maimai制覇  KoP5th 準優勝 系ぎてRe:MASTER最速AP/☆5/理論値 KoP6th スコアアタック1位 弐寺 CHUNITHM オンゲキ SDVX アイコンは麗星夜いぶさんより(@Eve24186720)\n気軽に話してる垢→（@ReMiRiA__sub）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Eve24186720"
+              },
+              {
+                "end": 147,
+                "start": 134,
+                "username": "ReMiRiA__sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCl7qv…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCl7qvrReik70YENwdT64CiQ/videos?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/cphbzQHlMi"
+              }
+            ]
+          }
+        },
+        "id": "1136890000711213056",
+        "location": "紅魔館でありたい人生でした",
+        "name": "ハル",
+        "pinned_tweet_id": "1770326016440807582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766042118160834560/wHVL2yhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21045,
+          "following_count": 700,
+          "like_count": 53581,
+          "listed_count": 56,
+          "media_count": 5048,
+          "tweet_count": 40401
+        },
+        "url": "https://t.co/cphbzQHlMi",
+        "username": "ReMiRiA_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

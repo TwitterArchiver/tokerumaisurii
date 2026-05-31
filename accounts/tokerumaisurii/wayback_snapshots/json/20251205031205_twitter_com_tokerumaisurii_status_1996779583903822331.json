@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1996705414692422044",
+    "created_at": "2025-12-05T03:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996779583903822331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919049320546086912",
+          "start": 0,
+          "username": "mizuame19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996779583903822331",
+    "in_reply_to_user_id": "1919049320546086912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996761946704785409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame19953 好像还没有去过。\n因为周黑鸭、热干面之类出名食物的缘故，我一想到湖北食物脑子里面是干的加辣的，但是一种口味调得挺不错的状态。\n武汉大学的樱花季很漂亮，我没有亲眼看过，但是有朋友非常钟爱这个，拍出来的照片也确实好看。\n一定要说的话，小时候很有名的黄冈小状元练习册，黄冈好像也是湖北的。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996761946704785409].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996761946704785409",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996761946704785409"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1996705414692422044",
+        "created_at": "2025-12-05T03:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996779583903822331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996779583903822331",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996761946704785409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 好像还没有去过。\n因为周黑鸭、热干面之类出名食物的缘故，我一想到湖北食物脑子里面是干的加辣的，但是一种口味调得挺不错的状态。\n武汉大学的樱花季很漂亮，我没有亲眼看过，但是有朋友非常钟爱这个，拍出来的照片也确实好看。\n一定要说的话，小时候很有名的黄冈小状元练习册，黄冈好像也是湖北的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 238,
+          "like_count": 64076,
+          "listed_count": 7,
+          "media_count": 800,
+          "tweet_count": 12049
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "于45%vol泥中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mizuame19953",
+                "end": 23,
+                "expanded_url": "https://t.me/mizuame19953",
+                "start": 0,
+                "url": "https://t.co/pDo1KVJowb"
+              }
+            ]
+          }
+        },
+        "id": "1919049320546086912",
+        "name": "バタフライ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946423619749388289/-5n_ADOT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 252,
+          "like_count": 23886,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/pDo1KVJowb",
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

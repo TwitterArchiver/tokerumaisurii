@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2035091865943322984",
+    "created_at": "2026-03-20T20:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T21:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035091865943322984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kimi_moonshot/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/kimi_moonshot/status/2035074972943831491",
+          "start": 44,
+          "url": "https://t.co/mYTlG66qxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035091865943322984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035074972943831491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的天，这简直是彻底掌握了说话的艺术，以后我生气了就这样暗戳戳捅刀子地和别人说话……！ https://t.co/mYTlG66qxv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2035091865943322984",
+        "created_at": "2026-03-20T20:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T21:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035091865943322984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kimi_moonshot/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/kimi_moonshot/status/2035074972943831491",
+              "start": 44,
+              "url": "https://t.co/mYTlG66qxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035091865943322984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035074972943831491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的天，这简直是彻底掌握了说话的艺术，以后我生气了就这样暗戳戳捅刀子地和别人说话……！ https://t.co/mYTlG66qxv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863959670169501696",
+        "conversation_id": "2035074972943831491",
+        "created_at": "2026-03-20T19:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T20:08:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035070938824450173",
+          "2035074972943831491"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "Composer 2",
+              "probability": 0.9173,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Kimi-k2.5",
+              "probability": 0.8178,
+              "start": 85,
+              "type": "Other"
+            },
+            {
+              "end": 172,
+              "normalized_text": "Cursor",
+              "probability": 0.7792,
+              "start": 167,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1695890961094909952",
+              "start": 16,
+              "username": "cursor_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035074972943831491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 26,
+                "id": "1695890961094909952",
+                "start": 16,
+                "username": "cursor_ai"
+              },
+              {
+                "end": 327,
+                "id": "1575886662957047812",
+                "start": 312,
+                "username": "FireworksAI_HQ"
+              }
+            ]
+          },
+          "text": "Congrats to the @cursor_ai team on the launch of Composer 2!   \n\nWe are proud to see Kimi-k2.5 provide the foundation. Seeing our model integrated effectively through Cursor's continued pretraining & high-compute RL training is the open model ecosystem we love to support.  \n\nNote: Cursor accesses Kimi-k2.5 via @FireworksAI_HQ ' hosted RL and inference platform as part of an authorized commercial partnership."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 176176,
+          "like_count": 4426,
+          "quote_count": 176,
+          "reply_count": 153,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "Congrats to the @cursor_ai team on the launch of Composer 2!   \n\nWe are proud to see Kimi-k2.5 provide the foundation. Seeing our model integrated effectively through Cursor's continued pretraining &amp; high-compute RL training is the open model ecosystem we love to support."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 寻回自我……？ ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 292,
+          "like_count": 90362,
+          "listed_count": 8,
+          "media_count": 1150,
+          "tweet_count": 16619
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T14:54:14.000Z",
+        "description": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/ggYlFf809H\n@KimiProduct where we share cool use cases and prompts.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "KimiProduct"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "platform.moonshot.ai",
+                "end": 89,
+                "expanded_url": "https://platform.moonshot.ai/",
+                "start": 66,
+                "url": "https://t.co/ggYlFf809H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimi.com",
+                "end": 23,
+                "expanded_url": "https://www.kimi.com/",
+                "start": 0,
+                "url": "https://t.co/mlnKFmsdLe"
+              }
+            ]
+          }
+        },
+        "id": "1863959670169501696",
+        "name": "Kimi.ai",
+        "pinned_tweet_id": "2016024049869324599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135548,
+          "following_count": 133,
+          "like_count": 258,
+          "listed_count": 1341,
+          "media_count": 112,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/mlnKFmsdLe",
+        "username": "Kimi_Moonshot",
+        "verified": true
+      }
+    ]
+  }
+}

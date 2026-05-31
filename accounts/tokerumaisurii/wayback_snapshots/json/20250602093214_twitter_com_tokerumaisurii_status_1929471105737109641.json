@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929236770153271296"
+      ],
+      "media_source_tweet_id": [
+        "1929236775115145300"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1929471105737109641",
+    "created_at": "2025-06-02T09:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T10:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929471105737109641"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "東方Project"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "東方"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1895754498536341504",
+          "start": 3,
+          "username": "r9nr9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARPxGorPcR",
+          "end": 54,
+          "expanded_url": "https://x.com/r9nr9/status/1929236775115145300/photo/1",
+          "media_key": "3_1929236770153271296",
+          "start": 31,
+          "url": "https://t.co/ARPxGorPcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929471105737109641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929236775115145300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r9nr9: 幽々子🦋\n#東方Project\n#東方 https://t.co/ARPxGorPcR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1929236770153271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsYGnvSbkAAMJWz.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929236770153271296"
+          ],
+          "media_source_tweet_id": [
+            "1929236775115145300"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1929471105737109641",
+        "created_at": "2025-06-02T09:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T10:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929471105737109641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "東方Project"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "東方"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1895754498536341504",
+              "start": 3,
+              "username": "r9nr9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARPxGorPcR",
+              "end": 54,
+              "expanded_url": "https://x.com/r9nr9/status/1929236775115145300/photo/1",
+              "media_key": "3_1929236770153271296",
+              "start": 31,
+              "url": "https://t.co/ARPxGorPcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929471105737109641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929236775115145300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r9nr9: 幽々子🦋\n#東方Project\n#東方 https://t.co/ARPxGorPcR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929236770153271296"
+          ]
+        },
+        "author_id": "1895754498536341504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1929236775115145300",
+        "created_at": "2025-06-01T18:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T19:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929236775115145300"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "東方Project"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "東方"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARPxGorPcR",
+              "end": 43,
+              "expanded_url": "https://x.com/r9nr9/status/1929236775115145300/photo/1",
+              "media_key": "3_1929236770153271296",
+              "start": 20,
+              "url": "https://t.co/ARPxGorPcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929236775115145300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 8635,
+          "like_count": 806,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "幽々子🦋\n#東方Project\n#東方 https://t.co/ARPxGorPcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 157,
+          "like_count": 17799,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 3060
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T08:34:54.000Z",
+        "description": "いろいろ｜ust作品とか東方とか｜ブロックミュートご自由に｜フォローする前に読んでね→https://t.co/WCBoRjHfip うぇぼ→https://t.co/vhuyS8e71Q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/xp3nUINv9wWl…",
+                "end": 66,
+                "expanded_url": "https://profcard.info/u/xp3nUINv9wWlpbJSfXW9aR1PvxO2",
+                "start": 43,
+                "url": "https://t.co/WCBoRjHfip"
+              },
+              {
+                "display_url": "wavebox.me/wave/a2hb9vddn…",
+                "end": 94,
+                "expanded_url": "https://wavebox.me/wave/a2hb9vddnnoquale/",
+                "start": 71,
+                "url": "https://t.co/vhuyS8e71Q"
+              }
+            ]
+          }
+        },
+        "id": "1895754498536341504",
+        "name": "Roku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906752787641458688/aTicBfQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 10,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 67
+        },
+        "username": "r9nr9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892013850138116096",
+        "3_1892013850138161152"
+      ],
+      "media_source_tweet_id": [
+        "1919708729483919841",
+        "1919708729483919841"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1920021444899074219",
+    "created_at": "2025-05-07T07:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920021444899074219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427182786956251136",
+          "start": 3,
+          "username": "marupo000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZLHDEARjv",
+          "end": 77,
+          "expanded_url": "https://x.com/marupo000/status/1919708729483919841/photo/1",
+          "media_key": "3_1892013850138116096",
+          "start": 54,
+          "url": "https://t.co/BZLHDEARjv"
+        },
+        {
+          "display_url": "pic.x.com/BZLHDEARjv",
+          "end": 77,
+          "expanded_url": "https://x.com/marupo000/status/1919708729483919841/photo/1",
+          "media_key": "3_1892013850138161152",
+          "start": 54,
+          "url": "https://t.co/BZLHDEARjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920021444899074219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 379
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919708729483919841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marupo000: 道路の標識みたいなのが音ゲーにもあったら便利かもと思いいくつか作ってみました https://t.co/BZLHDEARjv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_1892013850138116096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkHIkoeaAAAYgGj.jpg",
+        "width": 1200
+      },
+      {
+        "height": 488,
+        "media_key": "3_1892013850138161152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkHIkoeasAAjx2q.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892013850138116096",
+            "3_1892013850138161152"
+          ],
+          "media_source_tweet_id": [
+            "1919708729483919841",
+            "1919708729483919841"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1920021444899074219",
+        "created_at": "2025-05-07T07:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920021444899074219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427182786956251136",
+              "start": 3,
+              "username": "marupo000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZLHDEARjv",
+              "end": 77,
+              "expanded_url": "https://x.com/marupo000/status/1919708729483919841/photo/1",
+              "media_key": "3_1892013850138116096",
+              "start": 54,
+              "url": "https://t.co/BZLHDEARjv"
+            },
+            {
+              "display_url": "pic.x.com/BZLHDEARjv",
+              "end": 77,
+              "expanded_url": "https://x.com/marupo000/status/1919708729483919841/photo/1",
+              "media_key": "3_1892013850138161152",
+              "start": 54,
+              "url": "https://t.co/BZLHDEARjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920021444899074219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919708729483919841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marupo000: 道路の標識みたいなのが音ゲーにもあったら便利かもと思いいくつか作ってみました https://t.co/BZLHDEARjv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892013850138116096",
+            "3_1892013850138161152"
+          ]
+        },
+        "author_id": "1427182786956251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1919708729483919841",
+        "created_at": "2025-05-06T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919708729483919841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZLHDEARjv",
+              "end": 62,
+              "expanded_url": "https://x.com/marupo000/status/1919708729483919841/photo/1",
+              "media_key": "3_1892013850138116096",
+              "start": 39,
+              "url": "https://t.co/BZLHDEARjv"
+            },
+            {
+              "display_url": "pic.x.com/BZLHDEARjv",
+              "end": 62,
+              "expanded_url": "https://x.com/marupo000/status/1919708729483919841/photo/1",
+              "media_key": "3_1892013850138161152",
+              "start": 39,
+              "url": "https://t.co/BZLHDEARjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919708729483919841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 114190,
+          "like_count": 2031,
+          "quote_count": 39,
+          "reply_count": 18,
+          "retweet_count": 379
+        },
+        "reply_settings": "everyone",
+        "text": "道路の標識みたいなのが音ゲーにもあったら便利かもと思いいくつか作ってみました https://t.co/BZLHDEARjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 143,
+          "like_count": 10423,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 2066
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T08:18:00.000Z",
+        "description": "動画とか作ってます",
+        "id": "1427182786956251136",
+        "name": "marupo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887100097277861888/fibLSo3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19406,
+          "following_count": 9675,
+          "like_count": 20813,
+          "listed_count": 33,
+          "media_count": 2162,
+          "tweet_count": 6758
+        },
+        "username": "marupo000",
+        "verified": false
+      }
+    ]
+  }
+}

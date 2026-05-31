@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1993216714482630868",
+    "created_at": "2025-11-25T07:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993216714482630868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/azurlane_en/st…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/azurlane_en/status/1878230417230143734",
+          "start": 56,
+          "url": "https://t.co/k6WrCNxkiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993216714482630868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878230417230143734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刚在B站上刷到了碧蓝航线一个叫长门的角色的春节皮肤，找了一下原帖在这里，这个衣服设计，真的，好厉害的点子…… https://t.co/k6WrCNxkiU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1877645678966685696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg68y_zbQAAFG2w.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1993216714482630868",
+        "created_at": "2025-11-25T07:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993216714482630868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azurlane_en/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/azurlane_en/status/1878230417230143734",
+              "start": 56,
+              "url": "https://t.co/k6WrCNxkiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993216714482630868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878230417230143734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刚在B站上刷到了碧蓝航线一个叫长门的角色的春节皮肤，找了一下原帖在这里，这个衣服设计，真的，好厉害的点子…… https://t.co/k6WrCNxkiU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877645678966685696"
+          ]
+        },
+        "author_id": "993682160744738816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1878230417230143734",
+        "created_at": "2025-01-12T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878230417230143734"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 228,
+              "normalized_text": "Nagato",
+              "probability": 0.5398,
+              "start": 223,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZARujSZPi",
+              "end": 298,
+              "expanded_url": "https://x.com/AzurLane_EN/status/1878230417230143734/photo/1",
+              "media_key": "3_1877645678966685696",
+              "start": 275,
+              "url": "https://t.co/wZARujSZPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878230417230143734",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 337,
+                "start": 328,
+                "tag": "AzurLane"
+              },
+              {
+                "end": 345,
+                "start": 338,
+                "tag": "Yostar"
+              }
+            ]
+          },
+          "text": "❀Guardian Fox's Blessed Bonds❀\n\nC-Commander? What brings you here at such a time? I was just... trying to help everyone prepare for the New Year's celebrations... Ngh, why isn't this red string... coming loose at all?\n\nIJN Nagato is changing into her new dynamic attire. She will grace your dock in the near future, Commander.\n\n#AzurLane #Yostar"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 167558,
+          "like_count": 4316,
+          "quote_count": 46,
+          "reply_count": 61,
+          "retweet_count": 571
+        },
+        "reply_settings": "everyone",
+        "text": "❀Guardian Fox's Blessed Bonds❀\n\nC-Commander? What brings you here at such a time? I was just... trying to help everyone prepare for the New Year's celebrations... Ngh, why isn't this red string... coming loose at all?\n\nIJN Nagato is changing into her new dynamic attire. She https://t.co/wZARujSZPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 234,
+          "like_count": 61112,
+          "listed_count": 6,
+          "media_count": 780,
+          "tweet_count": 11598
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T02:41:03.000Z",
+        "description": "The battleship girls game Azur Lane is now available! #AzurLane This is our official twitter. If you have any questions, please email to al.cs@yo-star.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 54,
+                "tag": "AzurLane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azurlane.yo-star.com",
+                "end": 23,
+                "expanded_url": "http://azurlane.yo-star.com/",
+                "start": 0,
+                "url": "https://t.co/NY5TmcD1BI"
+              }
+            ]
+          }
+        },
+        "id": "993682160744738816",
+        "location": "California, USA",
+        "name": "Azur Lane Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967554350294941696/V9NMxNmj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504409,
+          "following_count": 21,
+          "like_count": 73,
+          "listed_count": 1490,
+          "media_count": 6943,
+          "tweet_count": 7945
+        },
+        "url": "https://t.co/NY5TmcD1BI",
+        "username": "AzurLane_EN",
+        "verified": true
+      }
+    ]
+  }
+}

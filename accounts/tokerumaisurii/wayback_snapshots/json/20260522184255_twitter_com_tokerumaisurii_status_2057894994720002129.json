@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2057842343252840652",
+    "created_at": "2026-05-22T18:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057894994720002129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1649280169805479936",
+          "start": 0,
+          "username": "LaiskyCai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057894994720002129",
+    "in_reply_to_user_id": "1649280169805479936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057893310966980684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiskyCai 如果TEE保证数据不出域，那需要分别的服务器来服务没有ZDR的用户（因为这些人的数据就是会被拿来分析的），和有ZDR的用户吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2057842343252840652",
+        "created_at": "2026-05-22T18:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057894994720002129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1649280169805479936",
+              "start": 0,
+              "username": "LaiskyCai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057894994720002129",
+        "in_reply_to_user_id": "1649280169805479936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057893310966980684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiskyCai 如果TEE保证数据不出域，那需要分别的服务器来服务没有ZDR的用户（因为这些人的数据就是会被拿来分析的），和有ZDR的用户吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649280169805479936",
+        "conversation_id": "2057842343252840652",
+        "created_at": "2026-05-22T18:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057893310966980684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057893310966980684",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057842343252840652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii TEE 保证数据不出域，叠加审计证明程序和流程合规"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14874 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3919,
+          "following_count": 322,
+          "like_count": 109487,
+          "listed_count": 11,
+          "media_count": 1297,
+          "tweet_count": 19987
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T05:14:00.000Z",
+        "description": "⛱️blog: https://t.co/8XFsIQDhrw 📚learning: https://t.co/avJupASfht",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.laisky.com",
+                "end": 31,
+                "expanded_url": "https://blog.laisky.com/",
+                "start": 8,
+                "url": "https://t.co/8XFsIQDhrw"
+              },
+              {
+                "display_url": "t.me/laiskynotes",
+                "end": 66,
+                "expanded_url": "https://t.me/laiskynotes",
+                "start": 43,
+                "url": "https://t.co/avJupASfht"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.laisky.com",
+                "end": 23,
+                "expanded_url": "https://blog.laisky.com",
+                "start": 0,
+                "url": "https://t.co/hNLlDzqT9Q"
+              }
+            ]
+          }
+        },
+        "id": "1649280169805479936",
+        "location": "Ottawa, ON, Canada",
+        "name": "Laisky🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731127361964482560/1Am3mj9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3178,
+          "following_count": 776,
+          "like_count": 3203,
+          "listed_count": 38,
+          "media_count": 1665,
+          "tweet_count": 10190
+        },
+        "url": "https://t.co/hNLlDzqT9Q",
+        "username": "LaiskyCai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1998700830451515443",
+    "created_at": "2025-12-11T00:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T01:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998920337023811607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3191059784",
+          "start": 0,
+          "username": "USAO926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998920337023811607",
+    "in_reply_to_user_id": "3191059784",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998700830451515443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USAO926 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1998700830451515443",
+        "created_at": "2025-12-11T00:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T01:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998920337023811607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3191059784",
+              "start": 0,
+              "username": "USAO926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998920337023811607",
+        "in_reply_to_user_id": "3191059784",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998700830451515443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USAO926 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3191059784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          }
+        ],
+        "conversation_id": "1998700830451515443",
+        "created_at": "2025-12-10T10:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998700830451515443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Dota2",
+              "probability": 0.2882,
+              "start": 24,
+              "type": "Organization"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Immortality",
+              "probability": 0.3966,
+              "start": 48,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998700830451515443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 33397,
+          "like_count": 806,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "陰毛.mp3ってファイルを発見して再生してみたらDota2の声乗っけただけのCartoon - Immortality (Futuristik Remix)が流れ出した2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 241,
+          "like_count": 65564,
+          "listed_count": 7,
+          "media_count": 820,
+          "tweet_count": 12376
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-10T18:52:05.000Z",
+        "description": "音楽を作ります。\nhttps://t.co/bFLZd613fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/USAO926",
+                "end": 32,
+                "expanded_url": "http://youtube.com/USAO926",
+                "start": 9,
+                "url": "https://t.co/bFLZd613fo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/usao926",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/usao926",
+                "start": 0,
+                "url": "https://t.co/FPOdxL5zBS"
+              }
+            ]
+          }
+        },
+        "id": "3191059784",
+        "location": "横浜の辺り",
+        "name": "USAO@山奥",
+        "pinned_tweet_id": "1994326888752566285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329004510161694722/DkD9DvBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143053,
+          "following_count": 677,
+          "like_count": 31995,
+          "listed_count": 654,
+          "media_count": 5821,
+          "tweet_count": 41727
+        },
+        "url": "https://t.co/FPOdxL5zBS",
+        "username": "USAO926",
+        "verified": true
+      }
+    ]
+  }
+}

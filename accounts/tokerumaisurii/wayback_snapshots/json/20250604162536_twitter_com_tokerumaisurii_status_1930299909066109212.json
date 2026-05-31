@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "1930299909066109212",
+    "created_at": "2025-06-04T16:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930299909066109212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/403_net/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/403_net/status/1930097510909128992",
+          "start": 10,
+          "url": "https://t.co/zqwfAZtZ7G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930299909066109212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930097510909128992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇多么理想的职业啊 https://t.co/zqwfAZtZ7G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73833,
+        "height": 1920,
+        "media_key": "13_1930097086214877186",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930097086214877186/img/6oi_EJ0rG-uNkOAU.jpg",
+        "public_metrics": {
+          "view_count": 118923
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930097086214877186/vid/avc1/480x852/QvxkzqiUArn7vDw1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930097086214877186/vid/avc1/720x1280/kB8zn9o9yoadjeDw.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930097086214877186/vid/avc1/320x568/GUtApX8Di5_q5HLM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930097086214877186/pl/nYVtxDlSNv0kBjnx.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930097086214877186/vid/avc1/1080x1920/3IfSOBNHSPpZpoDu.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1930299909066109212",
+        "created_at": "2025-06-04T16:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930299909066109212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/403_net/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/403_net/status/1930097510909128992",
+              "start": 10,
+              "url": "https://t.co/zqwfAZtZ7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930299909066109212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930097510909128992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇多么理想的职业啊 https://t.co/zqwfAZtZ7G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930097086214877186"
+          ]
+        },
+        "author_id": "1436926542311878660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1930097510909128992",
+        "created_at": "2025-06-04T03:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930097510909128992"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ガンビア",
+              "probability": 0.4147,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 8,
+              "normalized_text": "メイさん",
+              "probability": 0.3369,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLelBCZgPc",
+              "end": 46,
+              "expanded_url": "https://x.com/403_net/status/1930097510909128992/video/1",
+              "media_key": "13_1930097086214877186",
+              "start": 23,
+              "url": "https://t.co/nLelBCZgPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930097510909128992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 808,
+          "impression_count": 339003,
+          "like_count": 6234,
+          "quote_count": 126,
+          "reply_count": 34,
+          "retweet_count": 2244
+        },
+        "reply_settings": "everyone",
+        "text": "ガンビア・メイさんをぬいぐるみクリーニング🚢 https://t.co/nLelBCZgPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 156,
+          "like_count": 18722,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 3223
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T05:36:09.000Z",
+        "description": "会員数10万人｜宅配クリーニング「ネットで洗濯.com」｜ぬいぐるみ、NewEra、帽子、スーツケース、高級ダウン、チャイルドシート、ベビーカー、ヘルメット、ウェットスーツ、ゴルフ、登山、羽毛布団を専門クリーニング・修理｜#ネットで洗濯com｜職人のキラリと光る技術をアップ中｜フォローしてください😍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 111,
+                "tag": "ネットで洗濯com"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "net929.com",
+                "end": 23,
+                "expanded_url": "https://net929.com",
+                "start": 0,
+                "url": "https://t.co/gOmzy6Yhmk"
+              }
+            ]
+          }
+        },
+        "id": "1436926542311878660",
+        "location": "山梨県南都留郡富士河口湖町船津３１６１－２",
+        "name": "ネットで洗濯.com【大切な１点を任せられるクリーニング店】",
+        "pinned_tweet_id": "1872541942195900852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439877029390737408/CztIICEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65363,
+          "following_count": 9,
+          "like_count": 8088,
+          "listed_count": 184,
+          "media_count": 1575,
+          "tweet_count": 3027
+        },
+        "url": "https://t.co/gOmzy6Yhmk",
+        "username": "403_net",
+        "verified": true
+      }
+    ]
+  }
+}

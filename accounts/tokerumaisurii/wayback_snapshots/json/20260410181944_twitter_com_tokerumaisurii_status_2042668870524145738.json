@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042433743550627842"
+      ],
+      "media_source_tweet_id": [
+        "2042433756896825639"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2042668870524145738",
+    "created_at": "2026-04-10T18:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042668870524145738"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550486997684592640",
+          "start": 3,
+          "username": "Zer0___7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lOBu07ngyc",
+          "end": 49,
+          "expanded_url": "https://x.com/Zer0___7/status/2042433756896825639/photo/1",
+          "media_key": "3_2042433743550627842",
+          "start": 26,
+          "url": "https://t.co/lOBu07ngyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042668870524145738",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042433756896825639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Zer0___7: #arcaea_art https://t.co/lOBu07ngyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2042433743550627842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFguqyGbQAI5SzZ.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042433743550627842"
+          ],
+          "media_source_tweet_id": [
+            "2042433756896825639"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2042668870524145738",
+        "created_at": "2026-04-10T18:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042668870524145738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550486997684592640",
+              "start": 3,
+              "username": "Zer0___7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOBu07ngyc",
+              "end": 49,
+              "expanded_url": "https://x.com/Zer0___7/status/2042433756896825639/photo/1",
+              "media_key": "3_2042433743550627842",
+              "start": 26,
+              "url": "https://t.co/lOBu07ngyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042668870524145738",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042433756896825639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Zer0___7: #arcaea_art https://t.co/lOBu07ngyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042433743550627842"
+          ]
+        },
+        "author_id": "1550486997684592640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2042433756896825639",
+        "created_at": "2026-04-10T02:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042433756896825639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOBu07ngyc",
+              "end": 35,
+              "expanded_url": "https://x.com/Zer0___7/status/2042433756896825639/photo/1",
+              "media_key": "3_2042433743550627842",
+              "start": 12,
+              "url": "https://t.co/lOBu07ngyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042433756896825639",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 5848,
+          "like_count": 722,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "reply_settings": "following",
+        "text": "#arcaea_art https://t.co/lOBu07ngyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3315,
+          "following_count": 307,
+          "like_count": 96966,
+          "listed_count": 9,
+          "media_count": 1186,
+          "tweet_count": 17885
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T14:25:01.000Z",
+        "description": "🚫ai/無断転載\nヘッダー：@_kakkei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "_kakkei"
+              }
+            ]
+          }
+        },
+        "id": "1550486997684592640",
+        "location": "☕️衛星露天咖啡館🔭",
+        "name": "シャコウレ",
+        "pinned_tweet_id": "2041163295500177709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008451699695091712/d1BMUtRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 31,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 53
+        },
+        "username": "Zer0___7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1924341367997976994",
+    "created_at": "2025-05-19T07:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T08:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924368411842511233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861412609121210368",
+          "start": 0,
+          "username": "SFyear_15_32768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924368411842511233",
+    "in_reply_to_user_id": "1861412609121210368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924368038620754226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SFyear_15_32768 上海好像没有寿司郎呜呜，不过有滨寿司什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1924341367997976994",
+        "created_at": "2025-05-19T07:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924368411842511233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861412609121210368",
+              "start": 0,
+              "username": "SFyear_15_32768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924368411842511233",
+        "in_reply_to_user_id": "1861412609121210368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924368038620754226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SFyear_15_32768 上海好像没有寿司郎呜呜，不过有滨寿司什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861412609121210368",
+        "conversation_id": "1924341367997976994",
+        "created_at": "2025-05-19T07:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924368038620754226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924368038620754226",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924343179450728647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 好想吃🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 150,
+          "like_count": 13564,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 2525
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T14:12:21.000Z",
+        "description": "",
+        "id": "1861412609121210368",
+        "location": "White World System",
+        "name": "sfv",
+        "pinned_tweet_id": "1903706395746222178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916016048421437440/2Kh_6Oem_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 112,
+          "like_count": 1057,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 843
+        },
+        "username": "SFyear_15_32768",
+        "verified": false
+      }
+    ]
+  }
+}

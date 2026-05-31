@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2006614943496548752",
+    "created_at": "2026-01-01T06:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T07:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006615419977703801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006615419977703801",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006614943496548752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过八角星星放这里好合适，一定会留着的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44383,
+        "height": 720,
+        "media_key": "13_2006614123329576960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006614123329576960/img/f3tparlDLO-mteKv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006614123329576960/vid/avc1/430x270/QgqKUDUkzeHDQlQ4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006614123329576960/vid/avc1/574x360/7d7wk1rhRTL7V0zI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006614123329576960/vid/avc1/1148x720/0DuwlZs8X2J8uOHY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006614123329576960/pl/up37XaWQalz2Zmhr.m3u8"
+          }
+        ],
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2006614943496548752",
+        "created_at": "2026-01-01T06:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006615419977703801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006615419977703801",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006614943496548752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过八角星星放这里好合适，一定会留着的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006614123329576960"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2006614943496548752",
+        "created_at": "2026-01-01T06:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006614943496548752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGmZZNV9lT",
+              "end": 124,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2006614943496548752/video/1",
+              "media_key": "13_2006614123329576960",
+              "start": 101,
+              "url": "https://t.co/FGmZZNV9lT"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2003938043594723477",
+              "start": 125,
+              "url": "https://t.co/LgEw3yKY9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006614943496548752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003938043594723477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样完完整整地抄袭官谱……\n不过问题是幽闇に目醒めしは的BPM只有120，而这首歌有160，抄了之后原本悠闲的四分音符双押拍滑变得有点累人了……\n我觉得之后会删掉重写或者大改，抄完了才发现不对…… https://t.co/FGmZZNV9lT https://t.co/LgEw3yKY9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 256,
+          "like_count": 70945,
+          "listed_count": 7,
+          "media_count": 917,
+          "tweet_count": 13382
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

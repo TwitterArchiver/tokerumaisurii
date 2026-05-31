@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1913616896005460178",
+    "created_at": "2025-04-19T16:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T17:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913628550445322499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277411486168756231",
+          "start": 0,
+          "username": "mangoiceshake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913628550445322499",
+    "in_reply_to_user_id": "1277411486168756231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913616896005460178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoiceshake 抱抱拍拍你quq"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1913616896005460178].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1913616896005460178",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1913616896005460178"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1913616896005460178",
+        "created_at": "2025-04-19T16:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T17:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913628550445322499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277411486168756231",
+              "start": 0,
+              "username": "mangoiceshake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913628550445322499",
+        "in_reply_to_user_id": "1277411486168756231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913616896005460178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoiceshake 抱抱拍拍你quq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 130,
+          "like_count": 6437,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1454
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-29T01:20:17.000Z",
+        "description": "🥭 是一颗会自言自语的神奇魔法小芒果猫猫🥭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mangoiceshake.bsky.social",
+                "end": 23,
+                "expanded_url": "http://mangoiceshake.bsky.social",
+                "start": 0,
+                "url": "https://t.co/lOjvi40dtF"
+              }
+            ]
+          }
+        },
+        "id": "1277411486168756231",
+        "location": "加拿大有机三文鱼甜虾冻干猫条",
+        "name": "🥭🐈❄️ 🍰🐙✨🍦冬眠中(´⌯ ̫⌯`)",
+        "pinned_tweet_id": "1910551654757249100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886264934683549696/hN-LO71W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 406,
+          "like_count": 4111,
+          "listed_count": 1,
+          "media_count": 779,
+          "tweet_count": 8080
+        },
+        "url": "https://t.co/lOjvi40dtF",
+        "username": "mangoiceshake",
+        "verified": false
+      }
+    ]
+  }
+}

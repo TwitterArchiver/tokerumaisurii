@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1979737262586994998",
+    "created_at": "2025-10-19T05:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T06:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979774525761028270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "942859622",
+          "start": 0,
+          "username": "gift_news"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979774525761028270",
+    "in_reply_to_user_id": "942859622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979737262586994998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gift_news 哇哦——"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_1979737249446047744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lwig3XMAAMSXl.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1979737262586994998",
+        "created_at": "2025-10-19T05:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T06:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979774525761028270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "942859622",
+              "start": 0,
+              "username": "gift_news"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979774525761028270",
+        "in_reply_to_user_id": "942859622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979737262586994998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gift_news 哇哦——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979737249446047744"
+          ]
+        },
+        "author_id": "942859622",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1979737262586994998",
+        "created_at": "2025-10-19T02:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979737262586994998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "The",
+              "probability": 0.5135,
+              "start": 2,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Touhou Plush Series",
+              "probability": 0.7786,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Touhou Plush",
+              "probability": 0.7289,
+              "start": 94,
+              "type": "Other"
+            },
+            {
+              "end": 159,
+              "normalized_text": "Touhou Plush",
+              "probability": 0.7094,
+              "start": 148,
+              "type": "Other"
+            },
+            {
+              "end": 183,
+              "normalized_text": "Hakurei Reimu",
+              "probability": 0.7456,
+              "start": 171,
+              "type": "Other"
+            },
+            {
+              "end": 199,
+              "normalized_text": "Fumofumo Reimu",
+              "probability": 0.7594,
+              "start": 186,
+              "type": "Other"
+            },
+            {
+              "end": 213,
+              "normalized_text": "Touhou Plush",
+              "probability": 0.715,
+              "start": 202,
+              "type": "Other"
+            },
+            {
+              "end": 239,
+              "normalized_text": "Kirisame Marisa",
+              "probability": 0.6499,
+              "start": 225,
+              "type": "Other"
+            },
+            {
+              "end": 256,
+              "normalized_text": "Fumofumo Marisa",
+              "probability": 0.6148,
+              "start": 242,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCUwdljsmJ",
+              "end": 297,
+              "expanded_url": "https://x.com/gift_news/status/1979737262586994998/photo/1",
+              "media_key": "3_1979737249446047744",
+              "start": 274,
+              "url": "https://t.co/XCUwdljsmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979737262586994998",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "― The Origin and the Pinnacle ―\nThe history of the \"Touhou Plush Series\" begins anew.\n\n✨️Gift Touhou Plush Series 100th Achievement Commemoration✨\n\nTouhou Plush Series 1 [Hakurei Reimu] Fumofumo Reimu.\nTouhou Plush Series 2 [Kirisame Marisa] Fumofumo Marisa.\n\ncoming back!!\n\nDetails will be announced at a later date. Please look forward to further updates!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 10352,
+          "like_count": 468,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "― The Origin and the Pinnacle ―\nThe history of the \"Touhou Plush Series\" begins anew.\n\n✨️Gift Touhou Plush Series 100th Achievement Commemoration✨\n\nTouhou Plush Series 1 [Hakurei Reimu] Fumofumo Reimu.\nTouhou Plush Series 2 [Kirisame Marisa] Fumofumo Marisa.\n\ncoming back!! https://t.co/XCUwdljsmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 223,
+          "like_count": 55644,
+          "listed_count": 6,
+          "media_count": 706,
+          "tweet_count": 10416
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-12T05:08:55.000Z",
+        "description": "ぬいぐるみメーカーのGiftです。新商品のご案内、イベント情報、Gift ONLINE SHOPのお知らせなどをツイートします。※基本的に本アカウントからは個別にリプライはしておりません。お問い合わせはGift公式サイトへ！\n\"Official maker of Touhou FUMOFUMO plush toys.\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gift-gift.jp",
+                "end": 23,
+                "expanded_url": "https://www.gift-gift.jp/",
+                "start": 0,
+                "url": "https://t.co/ehjFqhNSd0"
+              }
+            ]
+          }
+        },
+        "id": "942859622",
+        "location": "TOKYO",
+        "name": "株式会社Gift",
+        "pinned_tweet_id": "1979714116034994231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/458829947721613312/idZoDlPj_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58901,
+          "following_count": 73,
+          "like_count": 51,
+          "listed_count": 599,
+          "media_count": 10593,
+          "tweet_count": 24666
+        },
+        "url": "https://t.co/ehjFqhNSd0",
+        "username": "gift_news",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1957269360499896509",
+    "created_at": "2025-08-19T00:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T01:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957602003271705085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1769689823584075778",
+          "start": 0,
+          "username": "Ddddddsjwhxbdh"
+        },
+        {
+          "end": 28,
+          "id": "1644567522031853570",
+          "start": 16,
+          "username": "Kirara_Miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957602003271705085",
+    "in_reply_to_user_id": "1769689823584075778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957491837100519944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ddddddsjwhxbdh @Kirara_Miku 这些都是街机游戏，都没有手机版。不过，图1左上的maimai有移动端模拟器AstroDX，图1右下的CHUNITHM有同厂商出品、玩法也很相似的移动端游戏世界计划缤纷舞台，图2的太鼓之达人玩法上比较相似的有一款MuseDash，图3的音击可能真的没有，图4的SDVX……Arcaea可能看着会有一点点像？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1957269360499896509",
+        "created_at": "2025-08-19T00:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T01:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957602003271705085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769689823584075778",
+              "start": 0,
+              "username": "Ddddddsjwhxbdh"
+            },
+            {
+              "end": 28,
+              "id": "1644567522031853570",
+              "start": 16,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957602003271705085",
+        "in_reply_to_user_id": "1769689823584075778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957491837100519944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ddddddsjwhxbdh @Kirara_Miku 这些都是街机游戏，都没有手机版。不过，图1左上的maimai有移动端模拟器AstroDX，图1右下的CHUNITHM有同厂商出品、玩法也很相似的移动端游戏世界计划缤纷舞台，图2的太鼓之达人玩法上比较相似的有一款MuseDash，图3的音击可能真的没有，图4的SDVX……Arcaea可能看着会有一点点像？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769689823584075778",
+        "conversation_id": "1957269360499896509",
+        "created_at": "2025-08-18T17:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T18:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957491837100519944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644567522031853570",
+              "start": 0,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957491837100519944",
+        "in_reply_to_user_id": "1644567522031853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957269360499896509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Miku 有哪些是手機有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 打舞萌！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 190,
+          "like_count": 38266,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 6993
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T11:38:57.000Z",
+        "description": "",
+        "id": "1769689823584075778",
+        "name": "WOW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919768433576837121/5ReiCmQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 366,
+          "like_count": 12708,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 75
+        },
+        "username": "Ddddddsjwhxbdh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T05:07:14.000Z",
+        "description": "起飞吧，和大家一起。| osu 5 digit player | 椿大好き✨ |\n男，音游，galgame | 互fo随缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "http://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/n91ct8aC9h"
+              }
+            ]
+          }
+        },
+        "id": "1644567522031853570",
+        "location": "雲母の星",
+        "name": "雲母ミク",
+        "pinned_tweet_id": "1906720128693113327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784620826220007424/r2J4Sxz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 1459,
+          "like_count": 91462,
+          "listed_count": 5,
+          "media_count": 1304,
+          "tweet_count": 13805
+        },
+        "url": "https://t.co/n91ct8aC9h",
+        "username": "Kirara_Miku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1919318981984620599",
+    "created_at": "2025-05-06T00:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T01:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919553514029621490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372480003401609216",
+          "start": 0,
+          "username": "MuronJungehaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919553514029621490",
+    "in_reply_to_user_id": "1372480003401609216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919318981984620599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuronJungehaya 你怎么配代表我？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1919318981984620599",
+        "created_at": "2025-05-06T00:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T01:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919553514029621490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372480003401609216",
+              "start": 0,
+              "username": "MuronJungehaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919553514029621490",
+        "in_reply_to_user_id": "1372480003401609216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919318981984620599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuronJungehaya 你怎么配代表我？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372480003401609216",
+        "conversation_id": "1919318981984620599",
+        "created_at": "2025-05-05T09:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T10:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919318981984620599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xinyi_ADHD/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Xinyi_ADHD/status/1919280310149136895",
+              "start": 15,
+              "url": "https://t.co/L2pBSFwMri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919318981984620599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919280310149136895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杀狗，跨圈自己都不欢迎这个人 https://t.co/L2pBSFwMri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 140,
+          "like_count": 9967,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1985
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T09:28:34.000Z",
+        "description": "TJU丨严以做事，温以对世，柔以待人丨粉丝群号782941108丨妹妹＆Lover❤️@KEVC_Bot丨hrt ing~丨双相丨互关私信基本都会回的丨纯清水丨已关🚪全凭自愿丨不键政丨容貌焦虑不线下｜千粉前每100粉抄id丨不定时锁推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KEVC_Bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/325788065",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/325788065",
+                "start": 0,
+                "url": "https://t.co/MQ7bJEvdlx"
+              }
+            ]
+          }
+        },
+        "id": "1372480003401609216",
+        "location": "天津大学北洋园校区",
+        "name": "慕容云野haya🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1911318969732239508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906538309914152960/J4yRU39p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 327,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/MQ7bJEvdlx",
+        "username": "MuronJungehaya",
+        "verified": false
+      }
+    ]
+  }
+}

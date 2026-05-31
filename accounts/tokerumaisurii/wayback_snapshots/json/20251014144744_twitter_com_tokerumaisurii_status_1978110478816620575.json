@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978030396391710720"
+      ],
+      "media_source_tweet_id": [
+        "1978037564700229774"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1978110478816620575",
+    "created_at": "2025-10-14T14:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T15:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978110478816620575"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "243218101",
+          "start": 3,
+          "username": "kgmmmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/elGaYwYskj",
+          "end": 53,
+          "expanded_url": "https://x.com/kgmmmm/status/1978037564700229774/photo/1",
+          "media_key": "3_1978030396391710720",
+          "start": 30,
+          "url": "https://t.co/elGaYwYskj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978110478816620575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978037564700229774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kgmmmm: 白パチュリー #東方Project https://t.co/elGaYwYskj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_1978030396391710720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3NgKlvaYAAIAKH.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978030396391710720"
+          ],
+          "media_source_tweet_id": [
+            "1978037564700229774"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1978110478816620575",
+        "created_at": "2025-10-14T14:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978110478816620575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "243218101",
+              "start": 3,
+              "username": "kgmmmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/elGaYwYskj",
+              "end": 53,
+              "expanded_url": "https://x.com/kgmmmm/status/1978037564700229774/photo/1",
+              "media_key": "3_1978030396391710720",
+              "start": 30,
+              "url": "https://t.co/elGaYwYskj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978110478816620575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978037564700229774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kgmmmm: 白パチュリー #東方Project https://t.co/elGaYwYskj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978030396391710720"
+          ]
+        },
+        "author_id": "243218101",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1978037564700229774",
+        "created_at": "2025-10-14T09:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978037564700229774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/elGaYwYskj",
+              "end": 41,
+              "expanded_url": "https://x.com/kgmmmm/status/1978037564700229774/photo/1",
+              "media_key": "3_1978030396391710720",
+              "start": 18,
+              "url": "https://t.co/elGaYwYskj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978037564700229774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 4664,
+          "like_count": 512,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "白パチュリー #東方Project https://t.co/elGaYwYskj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 219,
+          "like_count": 54051,
+          "listed_count": 7,
+          "media_count": 696,
+          "tweet_count": 10232
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-26T15:31:04.000Z",
+        "description": "猫と透明水彩とデフォルメお絵描き パチュリー┊東方┊三魔女┊旅行┊ vfk┊Jリーグとマスコット┊シズラ ◆BOOTH → https://t.co/7Oz8IVF2zQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kagomeame.booth.pm",
+                "end": 85,
+                "expanded_url": "http://kagomeame.booth.pm",
+                "start": 62,
+                "url": "https://t.co/7Oz8IVF2zQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kgmmmm",
+                "end": 23,
+                "expanded_url": "https://lit.link/kgmmmm",
+                "start": 0,
+                "url": "https://t.co/fFGmuFUnuq"
+              }
+            ]
+          }
+        },
+        "id": "243218101",
+        "location": "かんさい",
+        "name": "藤乃かごめ🌟秋例い79b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1122306296483442689/9bEV0Z1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6406,
+          "following_count": 330,
+          "like_count": 3374,
+          "listed_count": 140,
+          "media_count": 3572,
+          "tweet_count": 40529
+        },
+        "url": "https://t.co/fFGmuFUnuq",
+        "username": "kgmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2018317193247592913",
+    "created_at": "2026-02-02T13:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T14:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018317193247592913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Find Init (GNU Emacs Manual)",
+          "display_url": "gnu.org/software/emacs…",
+          "end": 245,
+          "expanded_url": "https://www.gnu.org/software/emacs/manual/html_node/emacs/Find-Init.html",
+          "start": 222,
+          "status": 200,
+          "title": "gnu.org",
+          "unwound_url": "https://www.gnu.org/software/emacs/manual/html_node/emacs/Find-Init.html",
+          "url": "https://t.co/zOmXlWcGxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018317193247592913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虚假的Emacs初始化文件：\n传统：~/.emacs\n统合：~/.emacs.d/init.el\nXDG兼容：~/.config/emacs/init.el\n\n真正的Emacs初始化文件：\n/Library/Application Support/Emacs/init.el + `ln -s /Library/Application\\ Support/Emacs/init.el ~/.emacs.el`\n\n(~/.emacs.el最先查找：https://t.co/zOmXlWcGxt）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2018317193247592913",
+        "created_at": "2026-02-02T13:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018317193247592913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Find Init (GNU Emacs Manual)",
+              "display_url": "gnu.org/software/emacs…",
+              "end": 245,
+              "expanded_url": "https://www.gnu.org/software/emacs/manual/html_node/emacs/Find-Init.html",
+              "start": 222,
+              "status": 200,
+              "title": "gnu.org",
+              "unwound_url": "https://www.gnu.org/software/emacs/manual/html_node/emacs/Find-Init.html",
+              "url": "https://t.co/zOmXlWcGxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018317193247592913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚假的Emacs初始化文件：\n传统：~/.emacs\n统合：~/.emacs.d/init.el\nXDG兼容：~/.config/emacs/init.el\n\n真正的Emacs初始化文件：\n/Library/Application Support/Emacs/init.el + `ln -s /Library/Application\\ Support/Emacs/init.el ~/.emacs.el`\n\n(~/.emacs.el最先查找：https://t.co/zOmXlWcGxt）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 262,
+          "like_count": 74937,
+          "listed_count": 7,
+          "media_count": 996,
+          "tweet_count": 14373
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

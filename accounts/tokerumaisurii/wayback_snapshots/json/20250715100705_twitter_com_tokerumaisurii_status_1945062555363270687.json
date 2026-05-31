@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1944994565062082565",
+    "created_at": "2025-07-15T10:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945062555363270687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682570508615970816",
+          "start": 0,
+          "username": "ZiggerBorea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945062555363270687",
+    "in_reply_to_user_id": "1682570508615970816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944994565062082565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiggerBorea 我一想到“六个钱包”这个词我就不忍直视他写出的affordable了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1944994565062082565].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1944994565062082565",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1944994565062082565"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1944994565062082565",
+        "created_at": "2025-07-15T10:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945062555363270687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682570508615970816",
+              "start": 0,
+              "username": "ZiggerBorea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945062555363270687",
+        "in_reply_to_user_id": "1682570508615970816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944994565062082565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiggerBorea 我一想到“六个钱包”这个词我就不忍直视他写出的affordable了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 188,
+          "like_count": 31192,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 5513
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:57:32.000Z",
+        "description": "我，雅利安人\n你，非雅利安人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=us1fmh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=us1fmhYTlJg",
+                "start": 0,
+                "url": "https://t.co/uhgxnu2Ila"
+              }
+            ]
+          }
+        },
+        "id": "1682570508615970816",
+        "location": "Ziggerborea",
+        "name": "安寡的石块🇺🇦",
+        "pinned_tweet_id": "1940105611796259019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942524462483857408/Wb9J8c1D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 157,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/uhgxnu2Ila",
+        "username": "ZiggerBorea",
+        "verified": false
+      }
+    ]
+  }
+}

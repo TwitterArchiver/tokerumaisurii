@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2001669740822135111",
+    "created_at": "2025-12-18T23:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T00:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001792441033125920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598639824118124544",
+          "start": 0,
+          "username": "ShiroiTree_idol"
+        },
+        {
+          "end": 31,
+          "id": "1721288623654658048",
+          "start": 17,
+          "username": "cv41___midway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001792441033125920",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001791779322880326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroiTree_idol @cv41___midway 清华的rCore-Tutorial-v3也许你也可以参考，虽然架构是RISC-V的，但是写得我觉得很好看，经验应该可以转化互通。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2001669740822135111",
+        "created_at": "2025-12-18T23:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T00:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001792441033125920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598639824118124544",
+              "start": 0,
+              "username": "ShiroiTree_idol"
+            },
+            {
+              "end": 31,
+              "id": "1721288623654658048",
+              "start": 17,
+              "username": "cv41___midway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001792441033125920",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001791779322880326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroiTree_idol @cv41___midway 清华的rCore-Tutorial-v3也许你也可以参考，虽然架构是RISC-V的，但是写得我觉得很好看，经验应该可以转化互通。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2001669740822135111",
+        "created_at": "2025-12-18T23:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T00:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001791779322880326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598639824118124544",
+              "start": 0,
+              "username": "ShiroiTree_idol"
+            },
+            {
+              "end": 31,
+              "id": "1721288623654658048",
+              "start": 17,
+              "username": "cv41___midway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001791779322880326",
+        "in_reply_to_user_id": "1598639824118124544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001669740822135111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroiTree_idol @cv41___midway 所以特别指定qemu-system-mipsel是因为遇到了什么qemu特别的问题吗？或者是因为只能用qemu平台，没有物理机这样子？不知道你对开发系统的水平在哪里，如果有些初级中级的问题也许可以看看OSDev Wiki，可能文章不是MISP架构但可以借鉴，或者别的架构的qemu文档和别人的相关经验。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 247,
+          "like_count": 68068,
+          "listed_count": 7,
+          "media_count": 858,
+          "tweet_count": 12854
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T11:27:10.000Z",
+        "description": "she ❤️@NaiveTomcat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "NaiveTomcat"
+              }
+            ]
+          }
+        },
+        "id": "1598639824118124544",
+        "location": "世界树",
+        "name": "フリーレン",
+        "pinned_tweet_id": "1949502981940113850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772226181120819200/3--rSoW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 559,
+          "like_count": 19132,
+          "listed_count": 5,
+          "media_count": 350,
+          "tweet_count": 12390
+        },
+        "username": "ShiroiTree_idol",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T22:09:35.000Z",
+        "description": "Midway-class No. 1 ship |want to be cute~|Computational fluid dynamics|Please feel free to use personal pronouns QAQ|亲姐姐 @Abs0lutHydra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Abs0lutHydra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/midway_channel",
+                "end": 23,
+                "expanded_url": "https://t.me/midway_channel",
+                "start": 0,
+                "url": "https://t.co/FF1lx06EJS"
+              }
+            ]
+          }
+        },
+        "id": "1721288623654658048",
+        "location": "Amsterdam, The Netherlands",
+        "name": "米德伟",
+        "pinned_tweet_id": "1973759746042904806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777195227951820800/Ye9qu7qF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 1283,
+          "like_count": 13975,
+          "listed_count": 11,
+          "media_count": 654,
+          "tweet_count": 6363
+        },
+        "url": "https://t.co/FF1lx06EJS",
+        "username": "cv41___midway",
+        "verified": false
+      }
+    ]
+  }
+}

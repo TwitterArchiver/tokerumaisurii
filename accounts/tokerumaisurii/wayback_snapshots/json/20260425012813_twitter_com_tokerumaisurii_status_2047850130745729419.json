@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2047757391295619132",
+    "created_at": "2026-04-25T01:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047850130745729419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "34293595",
+          "start": 0,
+          "username": "jajia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047850130745729419",
+    "in_reply_to_user_id": "34293595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047757391295619132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jajia 如果CMI全线阻断TLS那和整条线路拆了不卖了也几乎没有区别了，HTTP(S)是绝大部分的流量，而H3又没多普及，此前的HTTPS全是封装进TLS包的啊。感觉不太可能吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2047757391295619132",
+        "created_at": "2026-04-25T01:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047850130745729419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "34293595",
+              "start": 0,
+              "username": "jajia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047850130745729419",
+        "in_reply_to_user_id": "34293595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047757391295619132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jajia 如果CMI全线阻断TLS那和整条线路拆了不卖了也几乎没有区别了，HTTP(S)是绝大部分的流量，而H3又没多普及，此前的HTTPS全是封装进TLS包的啊。感觉不太可能吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "34293595",
+        "conversation_id": "2047757391295619132",
+        "created_at": "2026-04-24T19:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047757391295619132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047757391295619132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "忙死了真是！\n\n1. 江蘇移動已對境外443端口實施白名單阻斷，TLS協議無法完成握手。\n2. 中國移動CMI線路全線阻斷TLS流量，CN2線路暫不受影響。\n3. 移動蜂窩網絡已證實對TCP協議進行定向限制，UDP協議暫時可用。\n4. 下一步將推行境外IP連坐封禁，主要方法為回程阻斷。福建、江蘇、河南等多省已部署省級審查系統，針對SNI、DNS實施主動干擾。\n5. 由於現網DPI設備對IPv6的分析和封鎖能力較弱，IPv6目前成為一條相對穩定的備用通道。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 87237,
+          "like_count": 318,
+          "quote_count": 6,
+          "reply_count": 49,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "忙死了真是！\n\n1. 江蘇移動已對境外443端口實施白名單阻斷，TLS協議無法完成握手。\n2. 中國移動CMI線路全線阻斷TLS流量，CN2線路暫不受影響。\n3. 移動蜂窩網絡已證實對TCP協議進行定向限制，UDP協議暫時可用。\n4."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 310,
+          "like_count": 101620,
+          "listed_count": 9,
+          "media_count": 1217,
+          "tweet_count": 18656
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-22T14:58:55.000Z",
+        "description": "Columnist based in Tokyo🇯🇵｜🐈🐈‍⬛貓奴｜前新聞人｜禁書作家｜知食分子｜YouTuber｜持不同證件☂️🎗️缺一不可｜歡迎訂閱寶藏頻道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jajiai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jajiai",
+                "start": 0,
+                "url": "https://t.co/M3UAKYP9qf"
+              }
+            ]
+          }
+        },
+        "id": "34293595",
+        "location": "HK/Tokyo",
+        "name": "賈葭",
+        "pinned_tweet_id": "2006583668719104098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609404274089545728/NnDmsv72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126996,
+          "following_count": 2847,
+          "like_count": 85082,
+          "listed_count": 668,
+          "media_count": 4085,
+          "tweet_count": 55241
+        },
+        "url": "https://t.co/M3UAKYP9qf",
+        "username": "jajia",
+        "verified": true
+      }
+    ]
+  }
+}

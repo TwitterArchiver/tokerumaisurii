@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1963851931136246256",
+    "created_at": "2025-09-07T15:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T16:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964712911949213741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "420282584",
+          "start": 0,
+          "username": "Yonah_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964712911949213741",
+    "in_reply_to_user_id": "420282584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963851931136246256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yonah_x 这个东西听起来像一个递归下降解析器……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_1963851731042738176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0EAvpRWoAAjO-o.jpg",
+        "width": 1724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1963851931136246256",
+        "created_at": "2025-09-07T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964712911949213741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "420282584",
+              "start": 0,
+              "username": "Yonah_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964712911949213741",
+        "in_reply_to_user_id": "420282584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963851931136246256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yonah_x 这个东西听起来像一个递归下降解析器……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963851731042738176"
+          ]
+        },
+        "author_id": "420282584",
+        "conversation_id": "1963851931136246256",
+        "created_at": "2025-09-05T06:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T07:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963851931136246256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEfEdgrEYZ",
+              "end": 130,
+              "expanded_url": "https://x.com/Yonah_x/status/1963851931136246256/photo/1",
+              "media_key": "3_1963851731042738176",
+              "start": 107,
+              "url": "https://t.co/cEfEdgrEYZ"
+            },
+            {
+              "display_url": "x.com/Kimi_Moonshot/…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/Kimi_Moonshot/status/1963802687230947698",
+              "start": 131,
+              "url": "https://t.co/d8ktphiArZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963851931136246256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Kimi 说他们的 tool-call 准确率能做到 100%，你可能会觉得这是什么黑科技。其实，背后的原理说穿了也很简单，就是给模型带上了一副“镣铐”，让它没法“说错话”。这副“镣铐”有个学名，叫“约束解码”。\n\n想象一下你在玩填字游戏。有些格子里，你知道只能填某个字母，否则整个单词就错了。约束解码做的就是类似的事情。模型在生成每个词（token）的时候，都会提前算好，哪些词放在这里是“合规”的，哪些是“违章”的。然后，它会直接无视掉所有“违章”的选项，就像你根本不会考虑在那个格子里填一个错误的字母一样。\n\n那模型怎么知道什么是“合规”的呢？你得先给它一本“规则手册”，比如告诉它“你现在必须说 JSON 格式的话”。模型拿到手册后，会把它拆解成一步步的小指令。比如，它知道 JSON 开头必须是 {，那么在第一步，它脑子里就只有 { 这一个选项，其他所有词都被暂时“拉黑”了。\n\n写完 { 之后，规则手册又说了，下一个必须是引号 \"。于是模型又把所有不是以 \" 开头的词都屏蔽掉。就这样一步一步，每走一步，模型都只在“规则允许”的范围内选择。这就像一个新手司机，严格按照导航的每一步指令开车，绝不偏离路线。结果就是，它永远不会开到沟里去——也就是永远不会生成格式错误的输出。\n\n所以，当你要模型生成一个 JSON 时，它不会自由发挥，说出像 Here is the JSON... 这样的话。它会被迫直接从 { 开始。这听起来有点“笨”，但却异常可靠。对于需要精确控制输出格式的任务来说，这种“笨办法”往往是最好的办法。\n\nKimi 在论文里面其实也提到他们使用的方法：参考了 lm-format-enforcer 的实现。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 49510,
+          "like_count": 276,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963802687230947698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Kimi 说他们的 tool-call 准确率能做到 100%，你可能会觉得这是什么黑科技。其实，背后的原理说穿了也很简单，就是给模型带上了一副“镣铐”，让它没法“说错话”。这副“镣铐”有个学名，叫“约束解码”。 https://t.co/cEfEdgrEYZ https://t.co/d8ktphiArZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 207,
+          "like_count": 42289,
+          "listed_count": 8,
+          "media_count": 591,
+          "tweet_count": 7872
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-24T12:26:43.000Z",
+        "description": "大厂大模型应用开发 | AI 降临派 | 终身学习者 | Taste is all you need",
+        "id": "420282584",
+        "name": "汉松",
+        "pinned_tweet_id": "1904050671609155738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655216038819278848/2pI0hAsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6099,
+          "following_count": 431,
+          "like_count": 517,
+          "listed_count": 86,
+          "media_count": 174,
+          "tweet_count": 716
+        },
+        "username": "Yonah_x",
+        "verified": true
+      }
+    ]
+  }
+}

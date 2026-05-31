@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018736203957256192"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2018738046527574051",
+    "created_at": "2026-02-03T17:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018738046527574051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/okObt9hrC4",
+          "end": 197,
+          "expanded_url": "https://x.com/tokerumaisurii/status/2018738046527574051/photo/1",
+          "media_key": "3_2018736203957256192",
+          "start": 174,
+          "url": "https://t.co/okObt9hrC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018738046527574051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于在看那些SDK的源代码的时候破案了，怪不得没有Swift版的用，因为AI大户大多都在用这个从API文档生成代码再做一点逻辑设计和改动，没支持就不会干活了，一片的“File generated from our OpenAPI spec by Stainless.”，让他们写点模版代码比死了还难受。\n等下，那你们还好意思吹你们的编程辅助产品？ https://t.co/okObt9hrC4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2168,
+        "media_key": "3_2018736203957256192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAP94bwXwAApdj-.jpg",
+        "width": 3456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018736203957256192"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2018738046527574051",
+        "created_at": "2026-02-03T17:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018738046527574051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/okObt9hrC4",
+              "end": 197,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2018738046527574051/photo/1",
+              "media_key": "3_2018736203957256192",
+              "start": 174,
+              "url": "https://t.co/okObt9hrC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018738046527574051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于在看那些SDK的源代码的时候破案了，怪不得没有Swift版的用，因为AI大户大多都在用这个从API文档生成代码再做一点逻辑设计和改动，没支持就不会干活了，一片的“File generated from our OpenAPI spec by Stainless.”，让他们写点模版代码比死了还难受。\n等下，那你们还好意思吹你们的编程辅助产品？ https://t.co/okObt9hrC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 262,
+          "like_count": 74977,
+          "listed_count": 7,
+          "media_count": 1001,
+          "tweet_count": 14394
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1933890628494180591",
+    "created_at": "2025-06-15T00:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T01:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934047009184604187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741878236139909120",
+          "start": 0,
+          "username": "MuzA23400157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934047009184604187",
+    "in_reply_to_user_id": "1741878236139909120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933924871115080141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuzA23400157 这个我也没做到可能得你鼓励我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1933890628494180591",
+        "created_at": "2025-06-15T00:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T01:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934047009184604187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741878236139909120",
+              "start": 0,
+              "username": "MuzA23400157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934047009184604187",
+        "in_reply_to_user_id": "1741878236139909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933924871115080141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuzA23400157 这个我也没做到可能得你鼓励我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741878236139909120",
+        "conversation_id": "1933890628494180591",
+        "created_at": "2025-06-14T16:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933924871115080141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933924871115080141",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933890628494180591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 哇塞，我也要(130斤了想减到110斤)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我很脆弱，开不起玩笑，求求你们不要开。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 166,
+          "like_count": 21974,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 3848
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:45:17.000Z",
+        "description": "可以先称呼咱为小兮（昵称含柯西是因为很敬佩数学家柯西)|最喜欢的@HeronMocki |喜欢Kaf的歌|mtf(果然内心还是偏向女生）|愿望是温和地从容地生活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "HeronMocki"
+              }
+            ]
+          }
+        },
+        "id": "1741878236139909120",
+        "name": "可兮苦学复变函数(复变期末不挂科版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933336147926949888/p7bsP0-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 382,
+          "like_count": 4893,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 6219
+        },
+        "username": "MuzA23400157",
+        "verified": false
+      }
+    ]
+  }
+}

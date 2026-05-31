@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1965946186214551644",
+    "created_at": "2025-09-11T02:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T03:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965971986867499152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682570508615970816",
+          "start": 0,
+          "username": "ZiggerBorea"
+        },
+        {
+          "end": 21,
+          "id": "711402650655305728",
+          "start": 13,
+          "username": "HOHRUBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965971986867499152",
+    "in_reply_to_user_id": "1682570508615970816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965959950175523055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiggerBorea @HOHRUBT 这是不是那个乌克兰孙笑川来着（（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1965959950175523055].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1965959950175523055",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1965959950175523055"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1965946186214551644",
+        "created_at": "2025-09-11T02:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T03:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965971986867499152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682570508615970816",
+              "start": 0,
+              "username": "ZiggerBorea"
+            },
+            {
+              "end": 21,
+              "id": "711402650655305728",
+              "start": 13,
+              "username": "HOHRUBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965971986867499152",
+        "in_reply_to_user_id": "1682570508615970816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965959950175523055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiggerBorea @HOHRUBT 这是不是那个乌克兰孙笑川来着（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 206,
+          "like_count": 43218,
+          "listed_count": 6,
+          "media_count": 598,
+          "tweet_count": 8113
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:57:32.000Z",
+        "description": "我至高无上，你窝囊废一个/全心全意为您揭露：这人死妈/这里是ZiggerBorea",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=us1fmh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=us1fmhYTlJg",
+                "start": 0,
+                "url": "https://t.co/uhgxnu2Ila"
+              }
+            ]
+          }
+        },
+        "id": "1682570508615970816",
+        "location": "Ziggerborea",
+        "name": "夺舍",
+        "pinned_tweet_id": "1962559552068661634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964733070793482241/MUOkZ_XA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 311,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/uhgxnu2Ila",
+        "username": "ZiggerBorea",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-20T04:03:03.000Z",
+        "description": "语言：简体中文/喜欢Love Live!（缪斯）、少歌、Vtuber、Murder Drones、FPE等/右派自由主义者/温和派/反华、反俄、反伊斯兰教/反对共产主义、社会主义、法西斯主义、纳粹主义等极权主义思想/反对任何极端与魔怔思想/反对大政府/反对大中华主义和大俄罗斯主义/支持🇺🇦🇮🇱🇯🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/POLLBS",
+                "end": 23,
+                "expanded_url": "https://t.me/POLLBS",
+                "start": 0,
+                "url": "https://t.co/rXtsuVGMw8"
+              }
+            ]
+          }
+        },
+        "id": "711402650655305728",
+        "location": "Львівська область",
+        "name": "Kosaka Karen",
+        "pinned_tweet_id": "1854443049989873819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947827693657210880/qrc8f777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 5182,
+          "like_count": 13064,
+          "listed_count": 16,
+          "media_count": 3525,
+          "tweet_count": 16844
+        },
+        "url": "https://t.co/rXtsuVGMw8",
+        "username": "HOHRUBT",
+        "verified": false
+      }
+    ]
+  }
+}

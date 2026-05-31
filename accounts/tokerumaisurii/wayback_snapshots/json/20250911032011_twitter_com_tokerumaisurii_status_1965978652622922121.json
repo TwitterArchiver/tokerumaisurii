@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1965973883074556410",
+    "created_at": "2025-09-11T03:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T04:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965978652622922121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "818146680587558913",
+          "start": 0,
+          "username": "Fermi_ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965978652622922121",
+    "in_reply_to_user_id": "818146680587558913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965973883074556410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fermi_ko 读题不仔细，人家说了还需要psychiatric drugs的（开玩笑的，请避免真的吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1965973883074556410",
+        "created_at": "2025-09-11T03:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T04:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965978652622922121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "818146680587558913",
+              "start": 0,
+              "username": "Fermi_ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965978652622922121",
+        "in_reply_to_user_id": "818146680587558913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965973883074556410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fermi_ko 读题不仔细，人家说了还需要psychiatric drugs的（开玩笑的，请避免真的吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818146680587558913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1965973883074556410",
+        "created_at": "2025-09-11T03:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T04:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965973883074556410"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Gensokyo",
+              "probability": 0.9188,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Touhou",
+              "probability": 0.9473,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Acyn/status/19…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Acyn/status/1965494701160857867",
+              "start": 53,
+              "url": "https://t.co/pbgnsbIOP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965973883074556410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965494701160857867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "When can I enter Gensokyo if I played Touhou series? https://t.co/pbgnsbIOP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 206,
+          "like_count": 43248,
+          "listed_count": 6,
+          "media_count": 598,
+          "tweet_count": 8124
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-08T17:25:43.000Z",
+        "description": "PhD student in particle physics，language: EN/中文。不欢迎粉红。",
+        "id": "818146680587558913",
+        "location": "Z³",
+        "name": "Majorana費米子",
+        "pinned_tweet_id": "1155361944842330113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617602110207709184/GlRETZrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4802,
+          "following_count": 1244,
+          "like_count": 81225,
+          "listed_count": 20,
+          "media_count": 1348,
+          "tweet_count": 39531
+        },
+        "username": "Fermi_ko",
+        "verified": false
+      }
+    ]
+  }
+}

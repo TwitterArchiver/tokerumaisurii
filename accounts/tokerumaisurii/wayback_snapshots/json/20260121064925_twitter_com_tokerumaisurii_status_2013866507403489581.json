@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2013866507403489581",
+    "created_at": "2026-01-21T06:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T07:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013866507403489581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "FreeBSD has three firewalls built into the base system: PF, IPFW, and IPFILTER. This chapter covers how to define packet filtering rules, the differences between the firewalls built into FreeBSD and how to use them",
+          "display_url": "docs.freebsd.org/en/books/handb…",
+          "end": 149,
+          "expanded_url": "https://docs.freebsd.org/en/books/handbook/firewalls/#firewalls-pf",
+          "start": 126,
+          "status": 200,
+          "title": "Chapter 33. Firewalls",
+          "unwound_url": "https://docs.freebsd.org/en/books/handbook/firewalls/#firewalls-pf",
+          "url": "https://t.co/FMWv3AqOQT"
+        },
+        {
+          "description": "Network Address Translation (NAT) is a way to map an entire network (or networks) to a single IP address. It is necessary, for example, when the number of IP addresses assigned to a customer by an internet service provider is less than the total number of computers in that household that need internet access. NAT is described in RFC 1631. NAT allows an administrator to take advantage of the reserved address blocks described in RFC 1918. Typically, the internal network will be set up to use one or more of",
+          "display_url": "openbsd.org/faq/pf/nat.html",
+          "end": 173,
+          "expanded_url": "https://www.openbsd.org/faq/pf/nat.html",
+          "start": 150,
+          "status": 200,
+          "title": "OpenBSD PF: Network Address Translation",
+          "unwound_url": "https://www.openbsd.org/faq/pf/nat.html",
+          "url": "https://t.co/Hdjo9jMdOD"
+        },
+        {
+          "description": "Before explaining the actual comands in detail, it may be extremely instructive to first watch them being used by two peers being configured side by side: Or individually, a single configuration looks like: A new interface can be added via ip-link(8), which should automatically handle module loading: (Non-Linux users will instead write wireguard-go wg0.) # ip address add dev wg0 192.168.2.1/24 Or, if there are only two peers total, something like this might be more desirable: # wg setconf wg0 myconfig.conf",
+          "display_url": "wireguard.com/quickstart/",
+          "end": 197,
+          "expanded_url": "https://www.wireguard.com/quickstart/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2013866512457633792/D70rWbL4?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2013866512457633792/D70rWbL4?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 174,
+          "status": 200,
+          "title": "Quick Start - WireGuard",
+          "unwound_url": "https://www.wireguard.com/quickstart/",
+          "url": "https://t.co/tRrIx0llIR"
+        },
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 232,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2010101978018525434",
+          "start": 209,
+          "url": "https://t.co/p1iPjBpLfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013866507403489581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010101978018525434",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我宣布BSD操作系统大胜Linux发行版，可能是我的智力和经验有问题，但那个nftables搞死搞活没配出来NAT，用pf一下就配对了。不过FreeBSD没有ip-link/ip-address只有ifconfig有点不习惯，学了一下。\n\n参考文献：\nhttps://t.co/FMWv3AqOQT\nhttps://t.co/Hdjo9jMdOD\nhttps://t.co/tRrIx0llIR\net cetera. https://t.co/p1iPjBpLfd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2013866507403489581",
+        "created_at": "2026-01-21T06:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013866507403489581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeBSD has three firewalls built into the base system: PF, IPFW, and IPFILTER. This chapter covers how to define packet filtering rules, the differences between the firewalls built into FreeBSD and how to use them",
+              "display_url": "docs.freebsd.org/en/books/handb…",
+              "end": 149,
+              "expanded_url": "https://docs.freebsd.org/en/books/handbook/firewalls/#firewalls-pf",
+              "start": 126,
+              "status": 200,
+              "title": "Chapter 33. Firewalls",
+              "unwound_url": "https://docs.freebsd.org/en/books/handbook/firewalls/#firewalls-pf",
+              "url": "https://t.co/FMWv3AqOQT"
+            },
+            {
+              "description": "Network Address Translation (NAT) is a way to map an entire network (or networks) to a single IP address. It is necessary, for example, when the number of IP addresses assigned to a customer by an internet service provider is less than the total number of computers in that household that need internet access. NAT is described in RFC 1631. NAT allows an administrator to take advantage of the reserved address blocks described in RFC 1918. Typically, the internal network will be set up to use one or more of",
+              "display_url": "openbsd.org/faq/pf/nat.html",
+              "end": 173,
+              "expanded_url": "https://www.openbsd.org/faq/pf/nat.html",
+              "start": 150,
+              "status": 200,
+              "title": "OpenBSD PF: Network Address Translation",
+              "unwound_url": "https://www.openbsd.org/faq/pf/nat.html",
+              "url": "https://t.co/Hdjo9jMdOD"
+            },
+            {
+              "description": "Before explaining the actual comands in detail, it may be extremely instructive to first watch them being used by two peers being configured side by side: Or individually, a single configuration looks like: A new interface can be added via ip-link(8), which should automatically handle module loading: (Non-Linux users will instead write wireguard-go wg0.) # ip address add dev wg0 192.168.2.1/24 Or, if there are only two peers total, something like this might be more desirable: # wg setconf wg0 myconfig.conf",
+              "display_url": "wireguard.com/quickstart/",
+              "end": 197,
+              "expanded_url": "https://www.wireguard.com/quickstart/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2013866512457633792/D70rWbL4?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2013866512457633792/D70rWbL4?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 174,
+              "status": 200,
+              "title": "Quick Start - WireGuard",
+              "unwound_url": "https://www.wireguard.com/quickstart/",
+              "url": "https://t.co/tRrIx0llIR"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 232,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2010101978018525434",
+              "start": 209,
+              "url": "https://t.co/p1iPjBpLfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013866507403489581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010101978018525434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宣布BSD操作系统大胜Linux发行版，可能是我的智力和经验有问题，但那个nftables搞死搞活没配出来NAT，用pf一下就配对了。不过FreeBSD没有ip-link/ip-address只有ifconfig有点不习惯，学了一下。\n\n参考文献：\nhttps://t.co/FMWv3AqOQT\nhttps://t.co/Hdjo9jMdOD\nhttps://t.co/tRrIx0llIR\net cetera. https://t.co/p1iPjBpLfd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2010101978018525434",
+        "created_at": "2026-01-10T21:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T22:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010101978018525434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010101978018525434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想死，我配了一天WireGuard还是连不上，到底为什么啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 261,
+          "like_count": 74417,
+          "listed_count": 8,
+          "media_count": 975,
+          "tweet_count": 14150
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

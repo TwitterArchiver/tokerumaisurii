@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2049764665274818802",
+    "created_at": "2026-04-30T22:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049984586172498039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1923516127562563584",
+          "start": 0,
+          "username": "penguinmomentjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049984586172498039",
+    "in_reply_to_user_id": "1923516127562563584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049970304198578559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penguinmomentjp 这么说起来的话你甚至可以把手写的也当作参考，“你翻译的时候可以参考之前有些文章我自己是怎么翻译的”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2049764665274818802",
+        "created_at": "2026-04-30T22:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049984586172498039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923516127562563584",
+              "start": 0,
+              "username": "penguinmomentjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049984586172498039",
+        "in_reply_to_user_id": "1923516127562563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049970304198578559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penguinmomentjp 这么说起来的话你甚至可以把手写的也当作参考，“你翻译的时候可以参考之前有些文章我自己是怎么翻译的”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923516127562563584",
+        "conversation_id": "2049764665274818802",
+        "created_at": "2026-04-30T21:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T22:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049970304198578559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049970304198578559",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049897725026607125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 接了deepseek api写一种自动翻译其他两种，但也保留了修改功能，翻的太烂就自己手写🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 我觉得我每天都活在卖火柴的小女孩临终时的那种幻想里 ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 110,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 87,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 312,
+          "like_count": 102711,
+          "listed_count": 9,
+          "media_count": 1230,
+          "tweet_count": 18844
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-16T23:09:30.000Z",
+        "description": "ポンコツ\nうちの🐧:@POI74103174",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "POI74103174"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp",
+                "start": 0,
+                "url": "https://t.co/W8PzPw1DcV"
+              }
+            ]
+          }
+        },
+        "id": "1923516127562563584",
+        "name": "ﾌﾗｯｼｭｽﾊﾟｰｸｽ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041656571034488832/9jzbafnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 49,
+          "like_count": 61,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/W8PzPw1DcV",
+        "username": "penguinmomentjp",
+        "verified": false
+      }
+    ]
+  }
+}

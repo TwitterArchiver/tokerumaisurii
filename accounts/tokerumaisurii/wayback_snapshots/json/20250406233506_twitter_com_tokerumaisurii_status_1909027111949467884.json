@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1903711210610262094",
+    "created_at": "2025-04-06T23:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T00:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909027111949467884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547136310489792512",
+          "start": 0,
+          "username": "kondoushinichi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909027111949467884",
+    "in_reply_to_user_id": "1547136310489792512",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903711210610262094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kondoushinichi1 hbd :3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1903711210610262094",
+        "created_at": "2025-04-06T23:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T00:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909027111949467884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547136310489792512",
+              "start": 0,
+              "username": "kondoushinichi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909027111949467884",
+        "in_reply_to_user_id": "1547136310489792512",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903711210610262094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kondoushinichi1 hbd :3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547136310489792512",
+        "conversation_id": "1903711210610262094",
+        "created_at": "2025-03-23T07:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T08:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903711210610262094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903711210610262094",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04 ::\n神待ち少女です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 116,
+          "like_count": 3699,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 849
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T08:30:40.000Z",
+        "description": "chill random mode activate",
+        "id": "1547136310489792512",
+        "location": "Hong Kong",
+        "name": "Kondou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609701994524205056/bNGEJFdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 67,
+          "like_count": 4558,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 685
+        },
+        "username": "kondoushinichi1",
+        "verified": false
+      }
+    ]
+  }
+}

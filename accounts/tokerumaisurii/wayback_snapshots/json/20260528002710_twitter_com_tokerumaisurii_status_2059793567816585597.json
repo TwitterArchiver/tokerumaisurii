@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059624834628489216"
+      ],
+      "media_source_tweet_id": [
+        "2059624839393267851"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2059793567816585597",
+    "created_at": "2026-05-28T00:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059793567816585597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417272894606909441",
+          "start": 3,
+          "username": "nasuka_gee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kiJGRKpthU",
+          "end": 48,
+          "expanded_url": "https://x.com/nasuka_gee/status/2059624839393267851/photo/1",
+          "media_key": "3_2059624834628489216",
+          "start": 25,
+          "url": "https://t.co/kiJGRKpthU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059793567816585597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059624839393267851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nasuka_gee: おかえりなのかな https://t.co/kiJGRKpthU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2059624834628489216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVB3-6akAAYWzd.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059624834628489216"
+          ],
+          "media_source_tweet_id": [
+            "2059624839393267851"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2059793567816585597",
+        "created_at": "2026-05-28T00:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059793567816585597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417272894606909441",
+              "start": 3,
+              "username": "nasuka_gee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kiJGRKpthU",
+              "end": 48,
+              "expanded_url": "https://x.com/nasuka_gee/status/2059624839393267851/photo/1",
+              "media_key": "3_2059624834628489216",
+              "start": 25,
+              "url": "https://t.co/kiJGRKpthU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059793567816585597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059624839393267851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nasuka_gee: おかえりなのかな https://t.co/kiJGRKpthU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059624834628489216"
+          ]
+        },
+        "author_id": "1417272894606909441",
+        "conversation_id": "2059624839393267851",
+        "created_at": "2026-05-27T13:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059624839393267851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kiJGRKpthU",
+              "end": 32,
+              "expanded_url": "https://x.com/nasuka_gee/status/2059624839393267851/photo/1",
+              "media_key": "3_2059624834628489216",
+              "start": 9,
+              "url": "https://t.co/kiJGRKpthU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059624839393267851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 22262,
+          "like_count": 3222,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "おかえりなのかな https://t.co/kiJGRKpthU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14874 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 322,
+          "like_count": 111214,
+          "listed_count": 10,
+          "media_count": 1305,
+          "tweet_count": 20177
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T23:59:58.000Z",
+        "description": "20↑/⚠️獣化/🔕/🚫メディアの転載＆使用禁止🚫Don't re-upload or use./🏠shop▶︎ https://t.co/FpWDRNj0YH ネコチャングッズ販売中！/💮LINEスタンプ▶︎ https://t.co/k5RsLDXvpf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tktnsk.booth.pm",
+                "end": 80,
+                "expanded_url": "https://tktnsk.booth.pm/",
+                "start": 57,
+                "url": "https://t.co/FpWDRNj0YH"
+              },
+              {
+                "display_url": "line.me/S/sticker/3291…",
+                "end": 129,
+                "expanded_url": "https://line.me/S/sticker/32915553",
+                "start": 106,
+                "url": "https://t.co/k5RsLDXvpf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nasuKa",
+                "end": 23,
+                "expanded_url": "https://lit.link/nasuKa",
+                "start": 0,
+                "url": "https://t.co/7TGsSGpAjz"
+              }
+            ]
+          }
+        },
+        "id": "1417272894606909441",
+        "name": "ナスカ@5/31超にじ描５号館ひ02ab",
+        "pinned_tweet_id": "2059437212971020592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045084824298541056/IZYZF1KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96001,
+          "following_count": 83,
+          "like_count": 4385,
+          "listed_count": 359,
+          "media_count": 3915,
+          "tweet_count": 11568
+        },
+        "url": "https://t.co/7TGsSGpAjz",
+        "username": "nasuka_gee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,787 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2000378748240277850",
+    "created_at": "2025-12-17T18:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T19:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001355943276412973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705855853231005696",
+          "start": 0,
+          "username": "real_clover_yan"
+        },
+        {
+          "end": 24,
+          "id": "20536157",
+          "start": 17,
+          "username": "Google"
+        },
+        {
+          "end": 33,
+          "id": "382267114",
+          "start": 25,
+          "username": "Android"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 57,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1988913287979847844",
+          "start": 34,
+          "url": "https://t.co/MaFqnMzXic"
+        },
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1988913287979847844",
+          "start": 58,
+          "url": "https://t.co/Ahxm87AHNJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001355943276412973",
+    "in_reply_to_user_id": "1705855853231005696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988913287979847844",
+        "type": "quoted"
+      },
+      {
+        "id": "2001257508778963114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_clover_yan @Google @Android https://t.co/MaFqnMzXic https://t.co/Ahxm87AHNJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2000378748240277850",
+        "created_at": "2025-12-17T18:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T19:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001355943276412973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705855853231005696",
+              "start": 0,
+              "username": "real_clover_yan"
+            },
+            {
+              "end": 24,
+              "id": "20536157",
+              "start": 17,
+              "username": "Google"
+            },
+            {
+              "end": 33,
+              "id": "382267114",
+              "start": 25,
+              "username": "Android"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 57,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1988913287979847844",
+              "start": 34,
+              "url": "https://t.co/MaFqnMzXic"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1988913287979847844",
+              "start": 58,
+              "url": "https://t.co/Ahxm87AHNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001355943276412973",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988913287979847844",
+            "type": "quoted"
+          },
+          {
+            "id": "2001257508778963114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_clover_yan @Google @Android https://t.co/MaFqnMzXic https://t.co/Ahxm87AHNJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1988913287979847844",
+        "created_at": "2025-11-13T10:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988913287979847844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988913287979847844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候我其实是比较早的代的Material Design的爱好者，但现在看到最新的M3 Expressive之后，我只觉得头晕难看，就像看到过量低质的Corporate Memphis一样令人作呕啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705855853231005696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2000378748240277850",
+        "created_at": "2025-12-17T11:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001257508778963114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "20536157",
+              "start": 0,
+              "username": "Google"
+            },
+            {
+              "end": 16,
+              "id": "382267114",
+              "start": 8,
+              "username": "Android"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001257508778963114",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000378748240277850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Google @Android MD3E 是很好的，但是 Google 的实作是真的让人吐血……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 247,
+          "like_count": 67742,
+          "listed_count": 7,
+          "media_count": 854,
+          "tweet_count": 12774
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T08:05:19.000Z",
+        "description": "InfoSec @ HainanU／当将死之人化石在灰烬中发芽／INFP-T／男的／🦋 https://t.co/rxsZKGz4Qb／转推、关注、互关不等于完全赞同／放心取关，但请勿双向／会屏蔽人，若认为有误请联系／FF 外失礼大丈夫／本人所有账号不主动涉及任何政治内容。／Sorry, but I have a life.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 67,
+                "expanded_url": "http://khyan.top",
+                "start": 44,
+                "url": "https://t.co/rxsZKGz4Qb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 23,
+                "expanded_url": "https://www.khyan.top",
+                "start": 0,
+                "url": "https://t.co/xt0HrKTz0b"
+              }
+            ]
+          }
+        },
+        "id": "1705855853231005696",
+        "location": "＜100 m",
+        "name": "𝓒𝓵𝓸𝓿𝓮𝓻 𝓨𝓪𝓷 ～(∠・ω＜)⌒",
+        "pinned_tweet_id": "1818914665768067403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993343063088066561/IHiXBk-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 795,
+          "like_count": 20219,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 4782
+        },
+        "url": "https://t.co/xt0HrKTz0b",
+        "username": "real_clover_yan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-10T19:14:39.000Z",
+        "description": "Here to help.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.google/newsletter-sub…",
+                "end": 23,
+                "expanded_url": "https://blog.google/newsletter-subscribe/",
+                "start": 0,
+                "url": "https://t.co/RS3iU873QG"
+              }
+            ]
+          }
+        },
+        "id": "20536157",
+        "location": "Mountain View, CA",
+        "name": "Google",
+        "pinned_tweet_id": "2001322381533409733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972718204565811200/adTFhODz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31505786,
+          "following_count": 287,
+          "like_count": 3876,
+          "listed_count": 89555,
+          "media_count": 37656,
+          "tweet_count": 248494
+        },
+        "url": "https://t.co/RS3iU873QG",
+        "username": "Google",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-29T19:34:47.000Z",
+        "description": "Tune in to The Android Show | XR Edition to learn about everything Android XR. Watch now at https://t.co/nDuvmCbZEu\n#TheAndroidShow",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 116,
+                "tag": "TheAndroidShow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Android.com/xr/show",
+                "end": 115,
+                "expanded_url": "http://Android.com/xr/show",
+                "start": 92,
+                "url": "https://t.co/nDuvmCbZEu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "android.com",
+                "end": 23,
+                "expanded_url": "http://www.android.com",
+                "start": 0,
+                "url": "https://t.co/kSUycBr4VQ"
+              }
+            ]
+          }
+        },
+        "id": "382267114",
+        "location": "Mountain View, CA",
+        "name": "Android",
+        "pinned_tweet_id": "1998101696619446706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998088595656396800/bg9LfaWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10268966,
+          "following_count": 159,
+          "like_count": 1003,
+          "listed_count": 24024,
+          "media_count": 1456,
+          "tweet_count": 8587
+        },
+        "url": "https://t.co/kSUycBr4VQ",
+        "username": "Android",
+        "verified": true
+      }
+    ]
+  }
+}

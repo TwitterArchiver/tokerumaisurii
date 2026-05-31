@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2026493396957757778",
+    "created_at": "2026-02-25T03:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026501414957060259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667550141065097217",
+          "start": 0,
+          "username": "VP51Archive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026501414957060259",
+    "in_reply_to_user_id": "1667550141065097217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026501179891421416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VP51Archive 哇哦……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2026501179891421416].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2026501179891421416",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2026501179891421416"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2026493396957757778",
+        "created_at": "2026-02-25T03:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026501414957060259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667550141065097217",
+              "start": 0,
+              "username": "VP51Archive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026501414957060259",
+        "in_reply_to_user_id": "1667550141065097217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026501179891421416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VP51Archive 哇哦……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 271,
+          "like_count": 80499,
+          "listed_count": 7,
+          "media_count": 1066,
+          "tweet_count": 15132
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T15:11:59.000Z",
+        "description": "Move with the tide.",
+        "id": "1667550141065097217",
+        "location": "Lupinland",
+        "name": "Alan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023708078001012736/GOwYoWAf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1274,
+          "like_count": 10303,
+          "listed_count": 1,
+          "media_count": 762,
+          "tweet_count": 10788
+        },
+        "username": "VP51Archive",
+        "verified": false
+      }
+    ]
+  }
+}

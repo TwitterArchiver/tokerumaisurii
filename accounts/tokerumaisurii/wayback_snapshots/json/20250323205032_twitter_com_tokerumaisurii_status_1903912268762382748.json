@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1895346888435810382",
+    "created_at": "2025-03-23T20:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T21:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903912268762382748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2743741315",
+          "start": 0,
+          "username": "LightQuantumhah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903912268762382748",
+    "in_reply_to_user_id": "2743741315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895346888435810382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightQuantumhah 抱抱你quq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1895346888435810382",
+        "created_at": "2025-03-23T20:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T21:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903912268762382748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2743741315",
+              "start": 0,
+              "username": "LightQuantumhah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903912268762382748",
+        "in_reply_to_user_id": "2743741315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895346888435810382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightQuantumhah 抱抱你quq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2743741315",
+        "conversation_id": "1895346888435810382",
+        "created_at": "2025-02-28T05:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T06:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895346888435810382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895346888435810382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4565,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😨写 compiler 作业写崩溃了，ta 给的 code template 关了 rtti 但又在疯狂用 typeid 和 dynamic_cast，在我的环境里直接 nullpo 💀\n但其他同学似乎就没撞到，也不知道为什么，一整个崩溃\n我恨 C++😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité",
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 57,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 85
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-19T02:15:51.000Z",
+        "description": "CS PhD student @UofT | call-by-need | PLT/FP | zh-CN daily life | 生活推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 15,
+                "username": "UofT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightquantum.me",
+                "end": 23,
+                "expanded_url": "https://lightquantum.me",
+                "start": 0,
+                "url": "https://t.co/qX6S9Fuk2I"
+              }
+            ]
+          }
+        },
+        "id": "2743741315",
+        "location": "Toronto, Ontario",
+        "name": "LightQuantum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775197881831690240/LRoMNrab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8308,
+          "following_count": 758,
+          "like_count": 28891,
+          "listed_count": 36,
+          "media_count": 883,
+          "tweet_count": 11841
+        },
+        "url": "https://t.co/qX6S9Fuk2I",
+        "username": "LightQuantumhah",
+        "verified": false
+      }
+    ]
+  }
+}

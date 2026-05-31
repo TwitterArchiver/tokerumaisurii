@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1935244038976000000"
+      ],
+      "media_source_tweet_id": [
+        "1935244101164875864"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1936074193306894570",
+    "created_at": "2025-06-20T14:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T15:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936074193306894570"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "YouTube",
+          "probability": 0.8298,
+          "start": 24,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1899452889090994176",
+          "start": 3,
+          "username": "beni_hari1110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bDjFmo4jER",
+          "end": 79,
+          "expanded_url": "https://x.com/beni_hari1110/status/1935244101164875864/video/1",
+          "media_key": "13_1935244038976000000",
+          "start": 56,
+          "url": "https://t.co/bDjFmo4jER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936074193306894570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1148
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935244101164875864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beni_hari1110: 完成したらYouTubeにあげます……\nアニメーション難しいですね。。。 https://t.co/bDjFmo4jER"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12966,
+        "height": 1280,
+        "media_key": "13_1935244038976000000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935244038976000000/img/6OG0Dsl3qD7Kq702.jpg",
+        "public_metrics": {
+          "view_count": 44065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935244038976000000/vid/avc1/320x568/2ES0_HnCNje0CI_R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935244038976000000/vid/avc1/480x852/IrzcQlbZB1E8TJ_u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935244038976000000/vid/avc1/720x1280/Qh80dDYzxkkaIQGQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935244038976000000/pl/L8g5VcVmoNudDpRp.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935244038976000000"
+          ],
+          "media_source_tweet_id": [
+            "1935244101164875864"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1936074193306894570",
+        "created_at": "2025-06-20T14:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936074193306894570"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "YouTube",
+              "probability": 0.8298,
+              "start": 24,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1899452889090994176",
+              "start": 3,
+              "username": "beni_hari1110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDjFmo4jER",
+              "end": 79,
+              "expanded_url": "https://x.com/beni_hari1110/status/1935244101164875864/video/1",
+              "media_key": "13_1935244038976000000",
+              "start": 56,
+              "url": "https://t.co/bDjFmo4jER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936074193306894570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1148
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935244101164875864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beni_hari1110: 完成したらYouTubeにあげます……\nアニメーション難しいですね。。。 https://t.co/bDjFmo4jER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935244038976000000"
+          ]
+        },
+        "author_id": "1899452889090994176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1935244101164875864",
+        "created_at": "2025-06-18T07:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935244101164875864"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "YouTube",
+              "probability": 0.8231,
+              "start": 5,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDjFmo4jER",
+              "end": 60,
+              "expanded_url": "https://x.com/beni_hari1110/status/1935244101164875864/video/1",
+              "media_key": "13_1935244038976000000",
+              "start": 37,
+              "url": "https://t.co/bDjFmo4jER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935244101164875864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1365,
+          "impression_count": 91902,
+          "like_count": 10266,
+          "quote_count": 14,
+          "reply_count": 11,
+          "retweet_count": 1148
+        },
+        "reply_settings": "everyone",
+        "text": "完成したらYouTubeにあげます……\nアニメーション難しいですね。。。 https://t.co/bDjFmo4jER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 唉，重金求主.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 171,
+          "like_count": 23895,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 4203
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T13:30:46.000Z",
+        "description": "主にYouTubeで活動してます。 紅玻璃と申します。同人サークル〈Лазурит〉代理ちゃんファンアート→ #玻璃の彩 今年からJKです。レミフラばっか描く人です。春例サークル参加しました✨️たのしかた！Я люблю Россия",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "玻璃の彩"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E7%B4%85.%E7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E7%B4%85.%E7%8E%BB%E7%92%83",
+                "start": 0,
+                "url": "https://t.co/CKX7NL28MO"
+              }
+            ]
+          }
+        },
+        "id": "1899452889090994176",
+        "location": "紅魔館",
+        "name": "紅玻璃",
+        "pinned_tweet_id": "1932426107015639304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899453631109439488/O1Aacern_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 262,
+          "like_count": 3268,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/CKX7NL28MO",
+        "username": "beni_hari1110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2039567431849640340",
+    "created_at": "2026-04-02T18:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T19:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039778944895832353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970459002099363840",
+          "start": 0,
+          "username": "Fengze276235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039778944895832353",
+    "in_reply_to_user_id": "1970459002099363840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039567431849640340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fengze276235 我觉得说Canton或者读Kwangchow可能洋人比较容易知道，因为像Peking Canton Tsingtao Nanking Tientsin Amoy都是中国很早就比较知名的城市，如果略有些中国通的就容易知道。不过拿香港这种最有名的来定位确实也好（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 462,
+        "media_key": "3_2039567426342555648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3_xKabEAAvn1k.jpg",
+        "width": 359
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2039567431849640340",
+        "created_at": "2026-04-02T18:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039778944895832353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970459002099363840",
+              "start": 0,
+              "username": "Fengze276235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039778944895832353",
+        "in_reply_to_user_id": "1970459002099363840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039567431849640340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fengze276235 我觉得说Canton或者读Kwangchow可能洋人比较容易知道，因为像Peking Canton Tsingtao Nanking Tientsin Amoy都是中国很早就比较知名的城市，如果略有些中国通的就容易知道。不过拿香港这种最有名的来定位确实也好（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039567426342555648"
+          ]
+        },
+        "author_id": "1970459002099363840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2039567431849640340",
+        "created_at": "2026-04-02T04:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039567431849640340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6xYlWNZdt",
+              "end": 162,
+              "expanded_url": "https://x.com/Fengze276235/status/2039567431849640340/photo/1",
+              "media_key": "3_2039567426342555648",
+              "start": 139,
+              "url": "https://t.co/w6xYlWNZdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039567431849640340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3549,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何和白人同学准确讲出自己的家乡\n老外： Which city in China are you in?\n我：Guangzhou\n老外：Where it is\n我：An hour high speed railway from Hong Kong\n老外：ohhhh I see https://t.co/w6xYlWNZdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 298,
+          "like_count": 93995,
+          "listed_count": 9,
+          "media_count": 1168,
+          "tweet_count": 17385
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T12:03:38.000Z",
+        "description": "Base📌@Melbourne & @Guangzhou_City 苦命商科男｜Furry｜求世界善待｜小话：@yyng386268",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Melbourne"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "Guangzhou_City"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "yyng386268"
+              }
+            ]
+          }
+        },
+        "id": "1970459002099363840",
+        "name": "Fengze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017534564449853440/-3boEhnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 117,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1054
+        },
+        "username": "Fengze276235",
+        "verified": false
+      }
+    ]
+  }
+}

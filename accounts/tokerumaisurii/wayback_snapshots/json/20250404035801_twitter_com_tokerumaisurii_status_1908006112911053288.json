@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1908004074424865078",
+    "created_at": "2025-04-04T03:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T04:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908006112911053288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1635834366478938112",
+          "start": 0,
+          "username": "B737_9VTRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908006112911053288",
+    "in_reply_to_user_id": "1635834366478938112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908004661363351737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B737_9VTRF 贴着耳朵吹吹妹妹w"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908004661363351737].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1908004661363351737",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1908004661363351737"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1908004074424865078",
+        "created_at": "2025-04-04T03:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T04:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908006112911053288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1635834366478938112",
+              "start": 0,
+              "username": "B737_9VTRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908006112911053288",
+        "in_reply_to_user_id": "1635834366478938112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908004661363351737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B737_9VTRF 贴着耳朵吹吹妹妹w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 109,
+          "like_count": 2971,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 607
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T02:44:50.000Z",
+        "description": "",
+        "id": "1635834366478938112",
+        "location": "Lost Civilisation",
+        "name": "BTS Skytrain- Siemens modular metro",
+        "pinned_tweet_id": "1810904846611992650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843479396168179712/ptdogUCO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 162,
+          "like_count": 15893,
+          "listed_count": 0,
+          "media_count": 1846,
+          "tweet_count": 12214
+        },
+        "username": "B737_9VTRF",
+        "verified": false
+      }
+    ]
+  }
+}

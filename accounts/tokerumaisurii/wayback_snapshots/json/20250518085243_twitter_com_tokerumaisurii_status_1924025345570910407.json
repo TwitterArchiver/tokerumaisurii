@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1924025345570910407",
+    "created_at": "2025-05-18T08:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T09:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924025345570910407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "44677280",
+          "start": 3,
+          "username": "mikonyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924025345570910407",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923980997126914494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikonyu: まさかの杭州の街中で自分の声を聞く羽目に…w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1924025345570910407",
+        "created_at": "2025-05-18T08:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T09:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924025345570910407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "44677280",
+              "start": 3,
+              "username": "mikonyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924025345570910407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923980997126914494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikonyu: まさかの杭州の街中で自分の声を聞く羽目に…w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44677280",
+        "conversation_id": "1923980997126914494",
+        "created_at": "2025-05-18T05:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T06:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923980997126914494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tracy_amateras…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/tracy_amateras/status/1923980865329393890",
+              "start": 23,
+              "url": "https://t.co/PqPBsJKF2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923980997126914494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9456,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923980865329393890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まさかの杭州の街中で自分の声を聞く羽目に…w https://t.co/PqPBsJKF2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 免责声明：所有的非国服舞萌记录都是在日本游玩的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 150,
+          "like_count": 13153,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2480
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-04T18:08:28.000Z",
+        "description": "歌って喋る金融系SE。所属フリー、宅録可。 代表作→チルノのパーフェクトさんすう教室/魔理沙は大変なものを盗んでいきました/スカーレット警察のゲットーパトロール24時/日本マクドナルドCM いまだけダブチ食べ美・サムライたまご食べ美◇TV番組楽曲・ナレ◇商業ゲーム・遊戯機楽曲◇商業ライブ◇銚子市特別観光大使◇他実績多数",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miko-nyu.booth.pm",
+                "end": 23,
+                "expanded_url": "https://miko-nyu.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/yXqIEFFlgZ"
+              }
+            ]
+          }
+        },
+        "id": "44677280",
+        "location": "mail:ae.mikonyu@gmail.com",
+        "name": "miko🥂💓",
+        "pinned_tweet_id": "1919225246516949314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680490211871199232/V00baFws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47758,
+          "following_count": 1517,
+          "like_count": 35018,
+          "listed_count": 610,
+          "media_count": 4866,
+          "tweet_count": 63247
+        },
+        "url": "https://t.co/yXqIEFFlgZ",
+        "username": "mikonyu",
+        "verified": false
+      }
+    ]
+  }
+}

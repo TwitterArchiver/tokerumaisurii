@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Red Hat",
+          "id": "1037073332359725057",
+          "name": "Red Hat"
+        }
+      }
+    ],
+    "conversation_id": "1974503340932276334",
+    "created_at": "2025-10-04T15:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974503340932276334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/landiantech/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/landiantech/status/1974042947894296921",
+          "start": 12,
+          "url": "https://t.co/BV8a0DaaD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974503340932276334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974042947894296921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一种奇妙的幽默感…… https://t.co/BV8a0DaaD4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1974042939858006017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2U1mEmasAEpPtE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Red Hat",
+              "id": "1037073332359725057",
+              "name": "Red Hat"
+            }
+          }
+        ],
+        "conversation_id": "1974503340932276334",
+        "created_at": "2025-10-04T15:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974503340932276334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/landiantech/status/1974042947894296921",
+              "start": 12,
+              "url": "https://t.co/BV8a0DaaD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974503340932276334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974042947894296921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一种奇妙的幽默感…… https://t.co/BV8a0DaaD4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974042939858006017"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Red Hat",
+              "id": "1037073332359725057",
+              "name": "Red Hat"
+            }
+          }
+        ],
+        "conversation_id": "1974042947894296921",
+        "created_at": "2025-10-03T09:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974042947894296921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 121,
+              "tag": "RedHat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEBsGuWjqA",
+              "end": 152,
+              "expanded_url": "https://x.com/landiantech/status/1974042947894296921/photo/1",
+              "media_key": "3_1974042939858006017",
+              "start": 129,
+              "url": "https://t.co/HEBsGuWjqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974042947894296921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 39920,
+          "like_count": 183,
+          "quote_count": 19,
+          "reply_count": 20,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "黑客攻击红帽托管存储库窃取 570GB 数据试图勒索赎金，结果红帽要求黑客提交 SRC 安全报告走漏洞通报途径。黑客称发送给红帽官方的邮件只有模板回复并要求按安全通报提交事件，创建的勒索工单则被反复分配给法务、安全团队或其他人，但没有人回复。#RedHat https://t.co/HEBsGuWjqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 219,
+          "like_count": 51144,
+          "listed_count": 7,
+          "media_count": 663,
+          "tweet_count": 9681
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27553,
+          "following_count": 645,
+          "like_count": 3676,
+          "listed_count": 246,
+          "media_count": 4116,
+          "tweet_count": 12387
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

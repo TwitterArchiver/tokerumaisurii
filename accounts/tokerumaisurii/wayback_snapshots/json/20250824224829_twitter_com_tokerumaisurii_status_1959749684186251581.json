@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959461884999892994"
+      ],
+      "media_source_tweet_id": [
+        "1959461892700930311"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "1959749684186251581",
+    "created_at": "2025-08-24T22:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T23:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959749684186251581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4827298289",
+          "start": 3,
+          "username": "GabrielMB__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRVwEbo4wI",
+          "end": 42,
+          "expanded_url": "https://x.com/GabrielMB__/status/1959461892700930311/photo/1",
+          "media_key": "3_1959461884999892994",
+          "start": 19,
+          "url": "https://t.co/TRVwEbo4wI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959749684186251581",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959461892700930311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GabrielMB__: 7 https://t.co/TRVwEbo4wI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1959461884999892994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFoM-ZWAAI4vHL.jpg",
+        "width": 1742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959461884999892994"
+          ],
+          "media_source_tweet_id": [
+            "1959461892700930311"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "1959749684186251581",
+        "created_at": "2025-08-24T22:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T23:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959749684186251581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4827298289",
+              "start": 3,
+              "username": "GabrielMB__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRVwEbo4wI",
+              "end": 42,
+              "expanded_url": "https://x.com/GabrielMB__/status/1959461892700930311/photo/1",
+              "media_key": "3_1959461884999892994",
+              "start": 19,
+              "url": "https://t.co/TRVwEbo4wI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959749684186251581",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959461892700930311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GabrielMB__: 7 https://t.co/TRVwEbo4wI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959461884999892994"
+          ]
+        },
+        "author_id": "4827298289",
+        "conversation_id": "1959461892700930311",
+        "created_at": "2025-08-24T03:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959461892700930311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRVwEbo4wI",
+              "end": 25,
+              "expanded_url": "https://x.com/GabrielMB__/status/1959461892700930311/photo/1",
+              "media_key": "3_1959461884999892994",
+              "start": 2,
+              "url": "https://t.co/TRVwEbo4wI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959461892700930311",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1253,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "7 https://t.co/TRVwEbo4wI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 198,
+          "like_count": 39383,
+          "listed_count": 6,
+          "media_count": 556,
+          "tweet_count": 7281
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-19T19:07:26.000Z",
+        "description": "実は……僕、ネズミなんだよ\n\nᗜ˰ᗜ Gabriel Tenma White irl",
+        "id": "4827298289",
+        "name": "Tei",
+        "pinned_tweet_id": "1642643061904752640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876736415418953728/zM3v5eQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10171,
+          "following_count": 397,
+          "like_count": 44731,
+          "listed_count": 25,
+          "media_count": 13791,
+          "tweet_count": 18191
+        },
+        "username": "GabrielMB__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1966699540683387039",
+    "created_at": "2025-09-14T00:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T01:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967020138567528873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644550289922592768",
+          "start": 0,
+          "username": "JasonG912763731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967020138567528873",
+    "in_reply_to_user_id": "1644550289922592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966699778906943872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JasonG912763731 蘑菇好品！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1966699540683387039",
+        "created_at": "2025-09-14T00:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T01:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967020138567528873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644550289922592768",
+              "start": 0,
+              "username": "JasonG912763731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967020138567528873",
+        "in_reply_to_user_id": "1644550289922592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966699778906943872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JasonG912763731 蘑菇好品！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644550289922592768",
+        "conversation_id": "1966699540683387039",
+        "created_at": "2025-09-13T03:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T04:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966699778906943872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966699778906943872",
+        "in_reply_to_user_id": "1644550289922592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966699540683387039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里面最好吃的是用黄油炒的口蘑（被茄汁焗豆盖住了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 209,
+          "like_count": 44220,
+          "listed_count": 6,
+          "media_count": 606,
+          "tweet_count": 8354
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T03:58:59.000Z",
+        "description": "The fear of the LORD is the beginning of wisdom/neo-conservatism/Choir",
+        "id": "1644550289922592768",
+        "location": "Dubai UAE",
+        "name": "Jagsane",
+        "pinned_tweet_id": "1944775281690198181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944745614253903872/Rt2lfJ1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 415,
+          "like_count": 13747,
+          "listed_count": 6,
+          "media_count": 479,
+          "tweet_count": 5048
+        },
+        "username": "JasonG912763731",
+        "verified": false
+      }
+    ]
+  }
+}

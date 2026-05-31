@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008972114628628484",
+        "3_2008972114662170624"
+      ],
+      "media_source_tweet_id": [
+        "2008972128440471867",
+        "2008972128440471867"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364368",
+          "name": "HP"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364368",
+          "name": "HP"
+        }
+      }
+    ],
+    "conversation_id": "2009083221255078330",
+    "created_at": "2026-01-08T02:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009083221255078330"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Elite",
+          "probability": 0.6548,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "14546264",
+          "start": 3,
+          "username": "BenBajarin"
+        },
+        {
+          "end": 36,
+          "id": "17193794",
+          "start": 33,
+          "username": "HP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvwaBSlmyj",
+          "end": 114,
+          "expanded_url": "https://x.com/BenBajarin/status/2008972128440471867/photo/1",
+          "media_key": "3_2008972114628628484",
+          "start": 91,
+          "url": "https://t.co/pvwaBSlmyj"
+        },
+        {
+          "display_url": "pic.x.com/pvwaBSlmyj",
+          "end": 114,
+          "expanded_url": "https://x.com/BenBajarin/status/2008972128440471867/photo/1",
+          "media_key": "3_2008972114662170624",
+          "start": 91,
+          "url": "https://t.co/pvwaBSlmyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009083221255078330",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 651
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008972128440471867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BenBajarin: More pics of the @HP Elite board.  Open so you can see it’s actually a PC. https://t.co/pvwaBSlmyj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008972114628628484",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-FNfoga0AQf8wY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008972114662170624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-FNfooaoAAFyvg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008972114628628484",
+            "3_2008972114662170624"
+          ],
+          "media_source_tweet_id": [
+            "2008972128440471867",
+            "2008972128440471867"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364368",
+              "name": "HP"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364368",
+              "name": "HP"
+            }
+          }
+        ],
+        "conversation_id": "2009083221255078330",
+        "created_at": "2026-01-08T02:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009083221255078330"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Elite",
+              "probability": 0.6548,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "14546264",
+              "start": 3,
+              "username": "BenBajarin"
+            },
+            {
+              "end": 36,
+              "id": "17193794",
+              "start": 33,
+              "username": "HP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvwaBSlmyj",
+              "end": 114,
+              "expanded_url": "https://x.com/BenBajarin/status/2008972128440471867/photo/1",
+              "media_key": "3_2008972114628628484",
+              "start": 91,
+              "url": "https://t.co/pvwaBSlmyj"
+            },
+            {
+              "display_url": "pic.x.com/pvwaBSlmyj",
+              "end": 114,
+              "expanded_url": "https://x.com/BenBajarin/status/2008972128440471867/photo/1",
+              "media_key": "3_2008972114662170624",
+              "start": 91,
+              "url": "https://t.co/pvwaBSlmyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009083221255078330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 651
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008972128440471867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BenBajarin: More pics of the @HP Elite board.  Open so you can see it’s actually a PC. https://t.co/pvwaBSlmyj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008972114628628484",
+            "3_2008972114662170624"
+          ]
+        },
+        "author_id": "14546264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364368",
+              "name": "HP"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364368",
+              "name": "HP"
+            }
+          }
+        ],
+        "conversation_id": "2008972128440471867",
+        "created_at": "2026-01-07T18:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T19:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008972128440471867"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Elite board",
+              "probability": 0.6135,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "17193794",
+              "start": 17,
+              "username": "HP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvwaBSlmyj",
+              "end": 98,
+              "expanded_url": "https://x.com/BenBajarin/status/2008972128440471867/photo/1",
+              "media_key": "3_2008972114628628484",
+              "start": 75,
+              "url": "https://t.co/pvwaBSlmyj"
+            },
+            {
+              "display_url": "pic.x.com/pvwaBSlmyj",
+              "end": 98,
+              "expanded_url": "https://x.com/BenBajarin/status/2008972128440471867/photo/1",
+              "media_key": "3_2008972114662170624",
+              "start": 75,
+              "url": "https://t.co/pvwaBSlmyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008972128440471867",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2232,
+          "impression_count": 687393,
+          "like_count": 13874,
+          "quote_count": 209,
+          "reply_count": 275,
+          "retweet_count": 651
+        },
+        "reply_settings": "everyone",
+        "text": "More pics of the @HP Elite board.  Open so you can see it’s actually a PC. https://t.co/pvwaBSlmyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 256,
+          "like_count": 72129,
+          "listed_count": 7,
+          "media_count": 941,
+          "tweet_count": 13605
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-26T15:13:01.000Z",
+        "description": "CEO and Principal Analyst, @creativestrat | Technology Industry Analysis-Market Intelligence | Technical Analysis | Technologist at Heart | Looking Forward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "creativestrat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "creativestrategies.com",
+                "end": 23,
+                "expanded_url": "http://www.creativestrategies.com",
+                "start": 0,
+                "url": "https://t.co/dEwfOJixIJ"
+              }
+            ]
+          }
+        },
+        "id": "14546264",
+        "location": "San Jose, CA",
+        "name": "Ben Bajarin",
+        "pinned_tweet_id": "1387857744170917890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007193847433179139/N4Z9gIsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34994,
+          "following_count": 2138,
+          "like_count": 9721,
+          "listed_count": 1588,
+          "media_count": 2681,
+          "tweet_count": 54493
+        },
+        "url": "https://t.co/dEwfOJixIJ",
+        "username": "BenBajarin",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-05T18:01:46.000Z",
+        "description": "HP is redefining the future of work through technology.  \nLooking for support? Tweet: @HPSupport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "HPSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hp.com",
+                "end": 23,
+                "expanded_url": "http://www.hp.com",
+                "start": 0,
+                "url": "https://t.co/frP2lm8yJg"
+              }
+            ]
+          }
+        },
+        "id": "17193794",
+        "location": "USA",
+        "name": "HP",
+        "pinned_tweet_id": "1747287788381241503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896962758408613899/LYPOMDg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097342,
+          "following_count": 88,
+          "like_count": 8440,
+          "listed_count": 5901,
+          "media_count": 4176,
+          "tweet_count": 68014
+        },
+        "url": "https://t.co/frP2lm8yJg",
+        "username": "HP",
+        "verified": true
+      }
+    ]
+  }
+}

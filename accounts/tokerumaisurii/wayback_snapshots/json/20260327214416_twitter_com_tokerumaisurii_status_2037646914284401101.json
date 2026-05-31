@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2037104297947914590",
+    "created_at": "2026-03-27T21:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T22:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037646914284401101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2157111990",
+          "start": 0,
+          "username": "JinsokuLu"
+        },
+        {
+          "end": 25,
+          "id": "163839131",
+          "start": 11,
+          "username": "yosugano_sora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037646914284401101",
+    "in_reply_to_user_id": "2157111990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037132203227013546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinsokuLu @yosugano_sora 说错了吧，你是不是想说“你是审核爹？”来着……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2037104297947914590",
+        "created_at": "2026-03-27T21:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037646914284401101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2157111990",
+              "start": 0,
+              "username": "JinsokuLu"
+            },
+            {
+              "end": 25,
+              "id": "163839131",
+              "start": 11,
+              "username": "yosugano_sora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037646914284401101",
+        "in_reply_to_user_id": "2157111990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037132203227013546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinsokuLu @yosugano_sora 说错了吧，你是不是想说“你是审核爹？”来着……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2157111990",
+        "conversation_id": "2037104297947914590",
+        "created_at": "2026-03-26T11:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037132203227013546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "163839131",
+              "start": 0,
+              "username": "yosugano_sora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037132203227013546",
+        "in_reply_to_user_id": "163839131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26179,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037104297947914590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yosugano_sora 審核是你爹？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 294,
+          "like_count": 91809,
+          "listed_count": 8,
+          "media_count": 1163,
+          "tweet_count": 16955
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-26T16:00:13.000Z",
+        "description": "“普通”とか”あたりまえ”ってなんだろう",
+        "id": "2157111990",
+        "location": "Taichung City, Taiwan",
+        "name": "陣則 魯",
+        "pinned_tweet_id": "1932581838524199025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/898069561571815425/Bg6Iq0W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 696,
+          "like_count": 143382,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 17280
+        },
+        "username": "JinsokuLu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-07T12:06:19.000Z",
+        "description": "TVアニメ「ヨスガノソラ」の公式Xです！おかげさまでアニメ放送15周年を迎えることができました🎂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "king-cr.jp/special/yosuga…",
+                "end": 23,
+                "expanded_url": "http://king-cr.jp/special/yosuganosora/",
+                "start": 0,
+                "url": "https://t.co/CzmPPERNUE"
+              }
+            ]
+          }
+        },
+        "id": "163839131",
+        "location": "奥木染町",
+        "name": "アニメ「ヨスガノソラ」15th Anniversary",
+        "pinned_tweet_id": "2036025795140087912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064608498/______normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21396,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 396,
+          "media_count": 39,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/CzmPPERNUE",
+        "username": "yosugano_sora",
+        "verified": false
+      }
+    ]
+  }
+}

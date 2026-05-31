@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905371859677315074"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "1905372144617341031",
+    "created_at": "2025-03-27T21:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T22:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905372144617341031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fMpX50qntk",
+          "end": 106,
+          "expanded_url": "https://x.com/tokerumaisurii/status/1905372144617341031/photo/1",
+          "media_key": "3_1905371859677315074",
+          "start": 83,
+          "url": "https://t.co/fMpX50qntk"
+        },
+        {
+          "display_url": "x.com/yihong0618/sta…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/yihong0618/status/1904830926812831842",
+          "start": 107,
+          "url": "https://t.co/Peb0P0zjFM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905372144617341031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904830926812831842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个除了把上游当本地交导致骑脸改图标以外还有一点好笑的地方……\nB E G I N   P R I V A T E   K E Y\n那可能在搞赛博公有化需要斗私说是 https://t.co/fMpX50qntk https://t.co/Peb0P0zjFM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905371859677315074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnE9nH0XgAIe5V6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905371859677315074"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "1905372144617341031",
+        "created_at": "2025-03-27T21:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T22:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905372144617341031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMpX50qntk",
+              "end": 106,
+              "expanded_url": "https://x.com/tokerumaisurii/status/1905372144617341031/photo/1",
+              "media_key": "3_1905371859677315074",
+              "start": 83,
+              "url": "https://t.co/fMpX50qntk"
+            },
+            {
+              "display_url": "x.com/yihong0618/sta…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/yihong0618/status/1904830926812831842",
+              "start": 107,
+              "url": "https://t.co/Peb0P0zjFM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905372144617341031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904830926812831842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个除了把上游当本地交导致骑脸改图标以外还有一点好笑的地方……\nB E G I N   P R I V A T E   K E Y\n那可能在搞赛博公有化需要斗私说是 https://t.co/fMpX50qntk https://t.co/Peb0P0zjFM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1017648622668795904",
+        "conversation_id": "1904830926812831842",
+        "created_at": "2025-03-26T09:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T10:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904830926812831842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Summary Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change. TipClose issue...",
+              "display_url": "github.com/langgenius/dif…",
+              "end": 75,
+              "expanded_url": "https://github.com/langgenius/dify/pull/16819",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1904830927852965888/C8bU5Zzd?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1904830927852965888/C8bU5Zzd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "合并 by isenham-lsj11 · Pull Request #16819 · langgenius/dify",
+              "unwound_url": "https://github.com/langgenius/dify/pull/16819",
+              "url": "https://t.co/IJvkFpFkzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904830926812831842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 123772,
+          "like_count": 284,
+          "quote_count": 19,
+          "reply_count": 33,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "vibe coding 以前学一些基本的编程，安全，和 git 是多么重要。\n不信看看这个 issue\nhttps://t.co/IJvkFpFkzE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🍄 @VentusUta ::\n🎇 @Acetylene04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 87,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 275
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-13T05:55:13.000Z",
+        "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/yihong0618/2024",
+                "end": 48,
+                "expanded_url": "http://github.com/yihong0618/2024",
+                "start": 25,
+                "url": "https://t.co/HfDF6oduB7"
+              },
+              {
+                "display_url": "github.com/yihong0618/2023",
+                "end": 80,
+                "expanded_url": "http://github.com/yihong0618/2023",
+                "start": 57,
+                "url": "https://t.co/QyV8PiZmOY"
+              },
+              {
+                "display_url": "github.com/yihong0618/2022",
+                "end": 111,
+                "expanded_url": "http://github.com/yihong0618/2022",
+                "start": 88,
+                "url": "https://t.co/NLYTn7xtta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yihong.run",
+                "end": 23,
+                "expanded_url": "https://yihong.run",
+                "start": 0,
+                "url": "https://t.co/jC9yT8us8S"
+              }
+            ]
+          }
+        },
+        "id": "1017648622668795904",
+        "name": "yihong0618",
+        "pinned_tweet_id": "1783309983884710176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72987,
+          "following_count": 3364,
+          "like_count": 60852,
+          "listed_count": 534,
+          "media_count": 2726,
+          "tweet_count": 25707
+        },
+        "url": "https://t.co/jC9yT8us8S",
+        "username": "yihong0618",
+        "verified": false
+      }
+    ]
+  }
+}

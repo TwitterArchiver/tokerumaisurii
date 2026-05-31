@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037085908051386372"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2037086748983873830",
+    "created_at": "2026-03-26T08:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037086748983873830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3K9iQGNKpU",
+          "end": 191,
+          "expanded_url": "https://x.com/tokerumaisurii/status/2037086748983873830/photo/1",
+          "media_key": "3_2037085908051386372",
+          "start": 168,
+          "url": "https://t.co/3K9iQGNKpU"
+        },
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 215,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2037007211122049466",
+          "start": 192,
+          "url": "https://t.co/OuohJmWzdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037086748983873830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037007211122049466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我（带着Claude）破案了……估计调Apple给的包装会自动给实际clang生成-std=nnn的参数，脚本根本没考虑到这个可能，截出了一个\"clang -std\"的命令，然后clang因为不认不带等号的-std参数就会error退出。我测试了gcc也不认，但可能调gcc因为是我给的非系统路径直接调，所以没有被系统生成多余的参数？ https://t.co/3K9iQGNKpU https://t.co/OuohJmWzdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2154,
+        "media_key": "3_2037085908051386372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUu1yZbYAQMdxH.jpg",
+        "width": 3192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037085908051386372"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2037086748983873830",
+        "created_at": "2026-03-26T08:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037086748983873830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3K9iQGNKpU",
+              "end": 191,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2037086748983873830/photo/1",
+              "media_key": "3_2037085908051386372",
+              "start": 168,
+              "url": "https://t.co/3K9iQGNKpU"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 215,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2037007211122049466",
+              "start": 192,
+              "url": "https://t.co/OuohJmWzdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037086748983873830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037007211122049466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我（带着Claude）破案了……估计调Apple给的包装会自动给实际clang生成-std=nnn的参数，脚本根本没考虑到这个可能，截出了一个\"clang -std\"的命令，然后clang因为不认不带等号的-std参数就会error退出。我测试了gcc也不认，但可能调gcc因为是我给的非系统路径直接调，所以没有被系统生成多余的参数？ https://t.co/3K9iQGNKpU https://t.co/OuohJmWzdd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2037007211122049466",
+        "created_at": "2026-03-26T03:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037007211122049466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037007211122049466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给OCaml跪下了。在默认系统Apple clang的时候，用opam构建安装ocaml-variants的过程中有Apple clang不认识的参数写法会死，于是我Homebrew装了个GCC编译终于不死了，结果ocamlopt直接写死默认用这个二进制，之后安装构建Dune的时候fsevents_stubs.c拉了CoreServices依赖，GCC不认识Blocks语法死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14851 ¦ 计算机 语言学 东方Project 舞萌DX 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 293,
+          "like_count": 91557,
+          "listed_count": 8,
+          "media_count": 1162,
+          "tweet_count": 16904
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

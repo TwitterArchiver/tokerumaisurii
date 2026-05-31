@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "1943743744441770239",
+    "created_at": "2025-07-11T18:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T19:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943743744441770239"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "SEGA",
+          "probability": 0.3448,
+          "start": 21,
+          "type": "Organization"
+        },
+        {
+          "end": 51,
+          "normalized_text": "maimai でらっくす PRiSM PLUS",
+          "probability": 0.4534,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1629059945667891200",
+          "start": 3,
+          "username": "fhjUtQbYJgGVvRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943743744441770239",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 549
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943575276069490798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fhjUtQbYJgGVvRo: SEGA様の 『maimai でらっくす PRiSM PLUS』 7sRefちほー4 にてハグキング名義で「W?K?Y?」を描かせて頂きました！\n素敵な作品に携わることが出来て本当に光栄です！どうぞよろしくお願いいたします！\n#maim…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1373,
+        "media_key": "3_1943575213389524992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvj3W-xWMAA80Au.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1943743744441770239",
+        "created_at": "2025-07-11T18:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943743744441770239"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "SEGA",
+              "probability": 0.3448,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 51,
+              "normalized_text": "maimai でらっくす PRiSM PLUS",
+              "probability": 0.4534,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1629059945667891200",
+              "start": 3,
+              "username": "fhjUtQbYJgGVvRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943743744441770239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943575276069490798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fhjUtQbYJgGVvRo: SEGA様の 『maimai でらっくす PRiSM PLUS』 7sRefちほー4 にてハグキング名義で「W?K?Y?」を描かせて頂きました！\n素敵な作品に携わることが出来て本当に光栄です！どうぞよろしくお願いいたします！\n#maim…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943575213389524992"
+          ]
+        },
+        "author_id": "1629059945667891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1943575276069490798",
+        "created_at": "2025-07-11T07:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T08:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943575276069490798"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "SEGA",
+              "probability": 0.3865,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 30,
+              "normalized_text": "maimai でらっくす PRiSM PLUS",
+              "probability": 0.4666,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TAlYiCnLW",
+              "end": 144,
+              "expanded_url": "https://x.com/fhjUtQbYJgGVvRo/status/1943575276069490798/photo/1",
+              "media_key": "3_1943575213389524992",
+              "start": 121,
+              "url": "https://t.co/0TAlYiCnLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943575276069490798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 109007,
+          "like_count": 2916,
+          "quote_count": 43,
+          "reply_count": 10,
+          "retweet_count": 549
+        },
+        "reply_settings": "everyone",
+        "text": "SEGA様の 『maimai でらっくす PRiSM PLUS』 7sRefちほー4 にてハグキング名義で「W?K?Y?」を描かせて頂きました！\n素敵な作品に携わることが出来て本当に光栄です！どうぞよろしくお願いいたします！\n#maimai https://t.co/0TAlYiCnLW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 186,
+          "like_count": 30186,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 5340
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T10:05:46.000Z",
+        "description": "20↑ 好きなものを描く 作品の無断使用禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/14282689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/14282689",
+                "start": 0,
+                "url": "https://t.co/iKPps6h5zs"
+              }
+            ]
+          }
+        },
+        "id": "1629059945667891200",
+        "location": "ンガイの森",
+        "name": "ハエたたきバシバシ",
+        "pinned_tweet_id": "1871134384042258528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642000505554759681/ekH9bQYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80668,
+          "following_count": 75,
+          "like_count": 11246,
+          "listed_count": 288,
+          "media_count": 82,
+          "tweet_count": 3349
+        },
+        "url": "https://t.co/iKPps6h5zs",
+        "username": "fhjUtQbYJgGVvRo",
+        "verified": false
+      }
+    ]
+  }
+}

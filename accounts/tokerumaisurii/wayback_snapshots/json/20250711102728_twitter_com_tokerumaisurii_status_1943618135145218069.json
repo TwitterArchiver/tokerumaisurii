@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1943518698519605505",
+    "created_at": "2025-07-11T10:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T11:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943618135145218069"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "ReM",
+          "probability": 0.3845,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 41,
+          "normalized_text": "Xaleid◆scopiX",
+          "probability": 0.9314,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 96,
+          "normalized_text": "BLACKBOX MAS",
+          "probability": 0.7144,
+          "start": 85,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1731998505080950784",
+          "start": 0,
+          "username": "ITIGON0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943618135145218069",
+    "in_reply_to_user_id": "1731998505080950784",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943603010111721728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ITIGON0921 The ReM chart of Xaleid◆scopiX is said to be Lv. 15, and for World's end BLACKBOX MAS I think it will be 14.9, since it's the sequel of loneliness (which is already 14.9), and usually the sequel will have a constant not lower than the original."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1943518698519605505",
+        "created_at": "2025-07-11T10:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T11:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943618135145218069"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ReM",
+              "probability": 0.3845,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Xaleid◆scopiX",
+              "probability": 0.9314,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "BLACKBOX MAS",
+              "probability": 0.7144,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1731998505080950784",
+              "start": 0,
+              "username": "ITIGON0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943618135145218069",
+        "in_reply_to_user_id": "1731998505080950784",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943603010111721728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ITIGON0921 The ReM chart of Xaleid◆scopiX is said to be Lv. 15, and for World's end BLACKBOX MAS I think it will be 14.9, since it's the sequel of loneliness (which is already 14.9), and usually the sequel will have a constant not lower than the original."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731998505080950784",
+        "conversation_id": "1943518698519605505",
+        "created_at": "2025-07-11T09:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T10:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943603010111721728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943603010111721728",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943518698519605505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 상수는?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 怎么样才能有互相喜欢的相爱的人？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 186,
+          "like_count": 30146,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 5328
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T11:26:56.000Z",
+        "description": "馴れ馴れしくないと思うドッキリしかしない 人 ファンアートはこちらから #ゆっきーart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "ゆっきーart"
+              }
+            ]
+          }
+        },
+        "id": "1731998505080950784",
+        "name": "夜白 ユキ #IRIAM準備中",
+        "pinned_tweet_id": "1869364810804351155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869551034244472832/vA519jAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 858,
+          "like_count": 21955,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1124
+        },
+        "username": "ITIGON0921",
+        "verified": false
+      }
+    ]
+  }
+}

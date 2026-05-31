@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "1962383926669807954",
+    "created_at": "2025-09-01T05:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962383926669807954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youyume0225/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/youyume0225/status/1962030810024079811",
+          "start": 10,
+          "url": "https://t.co/IsiLABbadd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962383926669807954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962030810024079811",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "东 方 永 夜 抄 https://t.co/IsiLABbadd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962030773231648768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqIl8zbgAAEPwV.jpg",
+        "width": 1764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1962383926669807954",
+        "created_at": "2025-09-01T05:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962383926669807954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youyume0225/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/youyume0225/status/1962030810024079811",
+              "start": 10,
+              "url": "https://t.co/IsiLABbadd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962383926669807954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962030810024079811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "东 方 永 夜 抄 https://t.co/IsiLABbadd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962030773231648768"
+          ]
+        },
+        "author_id": "1905799618077884416",
+        "conversation_id": "1962030810024079811",
+        "created_at": "2025-08-31T05:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T06:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962030810024079811"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "おそフラン",
+              "probability": 0.4131,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BykAzLjukw",
+              "end": 30,
+              "expanded_url": "https://x.com/youyume0225/status/1962030810024079811/photo/1",
+              "media_key": "3_1962030773231648768",
+              "start": 7,
+              "url": "https://t.co/BykAzLjukw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962030810024079811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 86317,
+          "like_count": 5687,
+          "quote_count": 21,
+          "reply_count": 33,
+          "retweet_count": 658
+        },
+        "reply_settings": "everyone",
+        "text": "おそフラン〜 https://t.co/BykAzLjukw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 204,
+          "like_count": 40941,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 7552
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T01:50:24.000Z",
+        "description": "",
+        "id": "1905799618077884416",
+        "name": "健全を目指す妖夢くん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905802260065730560/g-4852QI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28031,
+          "following_count": 67,
+          "like_count": 4,
+          "listed_count": 71,
+          "media_count": 110,
+          "tweet_count": 122
+        },
+        "username": "youyume0225",
+        "verified": false
+      }
+    ]
+  }
+}

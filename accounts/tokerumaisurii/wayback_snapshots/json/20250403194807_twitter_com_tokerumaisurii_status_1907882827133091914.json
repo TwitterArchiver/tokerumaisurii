@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      }
+    ],
+    "conversation_id": "1907818399285354895",
+    "created_at": "2025-04-03T19:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T20:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907882827133091914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749604765267632128",
+          "start": 0,
+          "username": "nandequ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907882827133091914",
+    "in_reply_to_user_id": "1749604765267632128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907818399285354895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nandequ4 怎么底下有好多Mortis头像ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6493,
+        "height": 1280,
+        "media_key": "13_1907818307862073344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1907818307862073344/img/k0Zc194h1uJaa9gd.jpg",
+        "public_metrics": {
+          "view_count": 1639
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907818307862073344/vid/avc1/320x568/9YZ-QNXN8OCCkfcw.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907818307862073344/vid/avc1/480x852/8mhtaS0wtPGzL0zv.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907818307862073344/vid/avc1/720x1280/gAlQEm_1v2n8js_g.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1907818307862073344/pl/c5t3q9b13s8ts98l.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          }
+        ],
+        "conversation_id": "1907818399285354895",
+        "created_at": "2025-04-03T19:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T20:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907882827133091914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749604765267632128",
+              "start": 0,
+              "username": "nandequ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907882827133091914",
+        "in_reply_to_user_id": "1749604765267632128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907818399285354895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nandequ4 怎么底下有好多Mortis头像ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907818307862073344"
+          ]
+        },
+        "author_id": "1749604765267632128",
+        "conversation_id": "1907818399285354895",
+        "created_at": "2025-04-03T15:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907818399285354895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "露出"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "伪娘"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "线下可约"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "母狗"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "母狗曝光"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q14iwikPNw",
+              "end": 62,
+              "expanded_url": "https://x.com/nandequ4/status/1907818399285354895/video/1",
+              "media_key": "13_1907818307862073344",
+              "start": 39,
+              "url": "https://t.co/q14iwikPNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907818399285354895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3623,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "战斗完了，全裸取外卖 #男娘 #露出 #伪娘 #线下可约 #母狗 #母狗曝光 https://t.co/q14iwikPNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité ::\n🪼 @VentusUta ::\n🎇 @Acetylene04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903111088406691840/eX3W0FYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 106,
+          "like_count": 2805,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 555
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T01:27:38.000Z",
+        "description": "出圈炒作网图内容自辩真假 🚪88 无福利不卖图包视频 普通长发男（男娘 我家小蛋糕 @chun131428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "chun131428"
+              }
+            ]
+          }
+        },
+        "id": "1749604765267632128",
+        "location": "Hana Don",
+        "name": "一家鼠（下海版",
+        "pinned_tweet_id": "1889905191459365264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889905973495734276/rKv9ey8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25693,
+          "following_count": 658,
+          "like_count": 4778,
+          "listed_count": 88,
+          "media_count": 736,
+          "tweet_count": 11651
+        },
+        "username": "nandequ4",
+        "verified": true
+      }
+    ]
+  }
+}

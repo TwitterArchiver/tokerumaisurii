@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Drink Novelty",
+          "id": "867371273248047104",
+          "name": "Drink Novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Bars and nightlife",
+          "id": "847861743699099649",
+          "name": "Nightlife"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bars and nightlife",
+          "id": "847861743699099649",
+          "name": "Nightlife"
+        }
+      }
+    ],
+    "conversation_id": "1994879257936318832",
+    "created_at": "2025-11-29T21:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T22:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994879257936318832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokifyi/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/tokifyi/status/1994267140598452451",
+          "start": 7,
+          "url": "https://t.co/xkLgpErimU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994879257936318832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994267140598452451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已严肃急眼😭 https://t.co/xkLgpErimU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994267118666477568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60PYNtbcAAXoH5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994267118683246592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60PYNxbUAAtBVL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drink Novelty",
+              "id": "867371273248047104",
+              "name": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          }
+        ],
+        "conversation_id": "1994879257936318832",
+        "created_at": "2025-11-29T21:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T22:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994879257936318832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokifyi/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/tokifyi/status/1994267140598452451",
+              "start": 7,
+              "url": "https://t.co/xkLgpErimU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994879257936318832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994267140598452451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃急眼😭 https://t.co/xkLgpErimU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994267118666477568",
+            "3_1994267118683246592"
+          ]
+        },
+        "author_id": "1621665026611515392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drink Novelty",
+              "id": "867371273248047104",
+              "name": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          }
+        ],
+        "conversation_id": "1994267140598452451",
+        "created_at": "2025-11-28T04:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994267140598452451"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "japan",
+              "probability": 0.8608,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 30,
+              "normalized_text": "canada",
+              "probability": 0.7105,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6doB3Atbh",
+              "end": 55,
+              "expanded_url": "https://x.com/tokifyi/status/1994267140598452451/photo/1",
+              "media_key": "3_1994267118666477568",
+              "start": 32,
+              "url": "https://t.co/z6doB3Atbh"
+            },
+            {
+              "display_url": "pic.x.com/z6doB3Atbh",
+              "end": 55,
+              "expanded_url": "https://x.com/tokifyi/status/1994267140598452451/photo/1",
+              "media_key": "3_1994267118683246592",
+              "start": 32,
+              "url": "https://t.co/z6doB3Atbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994267140598452451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 411,
+          "impression_count": 273544,
+          "like_count": 6688,
+          "quote_count": 198,
+          "reply_count": 219,
+          "retweet_count": 427
+        },
+        "reply_settings": "everyone",
+        "text": "my nightlife in japan vs canada https://t.co/z6doB3Atbh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgM9gF"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 232,
+          "like_count": 62403,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 11792
+        },
+        "url": "https://t.co/zmQgbgM9gF",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T00:20:59.000Z",
+        "description": "founded @vancouverdev_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "vancouverdev_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/tokih",
+                "end": 23,
+                "expanded_url": "https://www.linkedin.com/in/tokih",
+                "start": 0,
+                "url": "https://t.co/0RfYt2HswM"
+              }
+            ]
+          }
+        },
+        "id": "1621665026611515392",
+        "location": "Vancouver 🇨🇦",
+        "name": "toki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979801508087570432/1S2QfJ5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 3997,
+          "like_count": 44944,
+          "listed_count": 11,
+          "media_count": 400,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/0RfYt2HswM",
+        "username": "tokifyi",
+        "verified": true
+      }
+    ]
+  }
+}
