@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061846469351727107"
+      ],
+      "media_source_tweet_id": [
+        "2061846473764205040"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2061924027120111667",
+    "created_at": "2026-06-02T21:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T22:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061924027120111667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1419896612155904004",
+          "start": 3,
+          "username": "nnn__lu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dy4BeEbfHU",
+          "end": 40,
+          "expanded_url": "https://x.com/nnn__lu/status/2061846473764205040/photo/1",
+          "media_key": "3_2061846469351727107",
+          "start": 17,
+          "url": "https://t.co/Dy4BeEbfHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061924027120111667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061846473764205040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @nnn__lu: アリス https://t.co/Dy4BeEbfHU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1649,
+        "media_key": "3_2061846469351727107",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0mcJMaYAM-WpO.jpg",
+        "width": 1398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061846469351727107"
+          ],
+          "media_source_tweet_id": [
+            "2061846473764205040"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2061924027120111667",
+        "created_at": "2026-06-02T21:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061924027120111667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1419896612155904004",
+              "start": 3,
+              "username": "nnn__lu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dy4BeEbfHU",
+              "end": 40,
+              "expanded_url": "https://x.com/nnn__lu/status/2061846473764205040/photo/1",
+              "media_key": "3_2061846469351727107",
+              "start": 17,
+              "url": "https://t.co/Dy4BeEbfHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061924027120111667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061846473764205040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @nnn__lu: アリス https://t.co/Dy4BeEbfHU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061846469351727107"
+          ]
+        },
+        "author_id": "1419896612155904004",
+        "conversation_id": "2061846473764205040",
+        "created_at": "2026-06-02T16:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061846473764205040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dy4BeEbfHU",
+              "end": 27,
+              "expanded_url": "https://x.com/nnn__lu/status/2061846473764205040/photo/1",
+              "media_key": "3_2061846469351727107",
+              "start": 4,
+              "url": "https://t.co/Dy4BeEbfHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061846473764205040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 1734,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "アリス https://t.co/Dy4BeEbfHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14936 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4019,
+          "following_count": 315,
+          "like_count": 113005,
+          "listed_count": 12,
+          "media_count": 1322,
+          "tweet_count": 20421
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T05:45:19.000Z",
+        "description": "",
+        "id": "1419896612155904004",
+        "name": "にぼし",
+        "pinned_tweet_id": "2058458872772538395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011480198248894464/F2psCnRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 7,
+          "media_count": 66,
+          "tweet_count": 68
+        },
+        "username": "nnn__lu",
+        "verified": false
+      }
+    ]
+  }
+}

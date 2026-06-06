@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SoundCloud is an online audio distribution platform and music sharing website that was founded in 2007 by Alexander Ljung and Eric Wahlforss. SoundCloud enables its users to upload, promote, and share audio, as well as a digital signal processor enabling listeners to stream audio.",
+          "id": "1502365475413520388",
+          "name": "SoundCloud"
+        }
+      }
+    ],
+    "conversation_id": "2062049365418484125",
+    "created_at": "2026-06-03T06:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062057883030659257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062057883030659257",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062049365418484125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可惜没有罗密欧与辛德瑞拉的Zekk Remix，没有黑皇帝的神（经乐）曲qu'ils mangent des プチパステル，是不是这些比较非商业的创作出于某种原因都只上SoundCloud的……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062049361761083392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3e-CUXIAABixm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SoundCloud is an online audio distribution platform and music sharing website that was founded in 2007 by Alexander Ljung and Eric Wahlforss. SoundCloud enables its users to upload, promote, and share audio, as well as a digital signal processor enabling listeners to stream audio.",
+              "id": "1502365475413520388",
+              "name": "SoundCloud"
+            }
+          }
+        ],
+        "conversation_id": "2062049365418484125",
+        "created_at": "2026-06-03T06:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062057883030659257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062057883030659257",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062049365418484125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可惜没有罗密欧与辛德瑞拉的Zekk Remix，没有黑皇帝的神（经乐）曲qu'ils mangent des プチパステル，是不是这些比较非商业的创作出于某种原因都只上SoundCloud的……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062049361761083392"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040276682",
+              "name": "Apple Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276682",
+              "name": "Apple Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          }
+        ],
+        "conversation_id": "2062049365418484125",
+        "created_at": "2026-06-03T05:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062049365418484125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnwWuVhH4b",
+              "end": 70,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2062049365418484125/photo/1",
+              "media_key": "3_2062049361761083392",
+              "start": 47,
+              "url": "https://t.co/UnwWuVhH4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062049365418484125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Apple Music日区真的好啊，原本用着加区Spotify根本没有这些小众（？）歌曲的。 https://t.co/UnwWuVhH4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14945 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4019,
+          "following_count": 315,
+          "like_count": 113134,
+          "listed_count": 12,
+          "media_count": 1326,
+          "tweet_count": 20440
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}

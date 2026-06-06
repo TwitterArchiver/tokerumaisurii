@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061420245802520577"
+      ],
+      "media_source_tweet_id": [
+        "2061420256464429104"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2061644823661031787",
+    "created_at": "2026-06-02T03:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061644823661031787"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "Columbina"
+        },
+        {
+          "end": 50,
+          "start": 36,
+          "tag": "GenshinImpact"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1263136178942824454",
+          "start": 3,
+          "username": "Dogface59085274"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c43gSCYP3U",
+          "end": 74,
+          "expanded_url": "https://x.com/Dogface59085274/status/2061420256464429104/photo/1",
+          "media_key": "3_2061420245802520577",
+          "start": 51,
+          "url": "https://t.co/c43gSCYP3U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061644823661031787",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061420256464429104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dogface59085274: ✨🎈🕊️#Columbina #GenshinImpact https://t.co/c43gSCYP3U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061420245802520577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuiyqvbkAELGqN.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061420245802520577"
+          ],
+          "media_source_tweet_id": [
+            "2061420256464429104"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2061644823661031787",
+        "created_at": "2026-06-02T03:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061644823661031787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "Columbina"
+            },
+            {
+              "end": 50,
+              "start": 36,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1263136178942824454",
+              "start": 3,
+              "username": "Dogface59085274"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c43gSCYP3U",
+              "end": 74,
+              "expanded_url": "https://x.com/Dogface59085274/status/2061420256464429104/photo/1",
+              "media_key": "3_2061420245802520577",
+              "start": 51,
+              "url": "https://t.co/c43gSCYP3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061644823661031787",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061420256464429104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dogface59085274: ✨🎈🕊️#Columbina #GenshinImpact https://t.co/c43gSCYP3U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061420245802520577"
+          ]
+        },
+        "author_id": "1263136178942824454",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2061420256464429104",
+        "created_at": "2026-06-01T12:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061420256464429104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 4,
+              "tag": "Columbina"
+            },
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c43gSCYP3U",
+              "end": 53,
+              "expanded_url": "https://x.com/Dogface59085274/status/2061420256464429104/photo/1",
+              "media_key": "3_2061420245802520577",
+              "start": 30,
+              "url": "https://t.co/c43gSCYP3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061420256464429104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 33087,
+          "like_count": 4610,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "✨🎈🕊️#Columbina #GenshinImpact https://t.co/c43gSCYP3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14936 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 314,
+          "like_count": 112827,
+          "listed_count": 12,
+          "media_count": 1320,
+          "tweet_count": 20394
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-20T15:55:16.000Z",
+        "description": "ゝω・´★)illustrator～✿Pixiv : https://t.co/gj9p0R6sJU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15034125",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/15034125",
+                "start": 27,
+                "url": "https://t.co/gj9p0R6sJU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/yIdffDc",
+                "end": 23,
+                "expanded_url": "https://b23.tv/yIdffDc",
+                "start": 0,
+                "url": "https://t.co/SKwK71WsDV"
+              }
+            ]
+          }
+        },
+        "id": "1263136178942824454",
+        "name": "Dogface狗脸脸",
+        "pinned_tweet_id": "1775525373427786174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263136491795972098/ZkDgBGlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80886,
+          "following_count": 265,
+          "like_count": 1018,
+          "listed_count": 465,
+          "media_count": 214,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/SKwK71WsDV",
+        "username": "Dogface59085274",
+        "verified": false
+      }
+    ]
+  }
+}

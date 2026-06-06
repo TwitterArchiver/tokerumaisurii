@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062756293723455488"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490784337469472768",
+          "name": "Crossword puzzles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491040597867589632",
+          "name": "Word games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "2062757844084994157",
+    "created_at": "2026-06-05T04:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062757844084994157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/44MYfhdTzi",
+          "end": 106,
+          "expanded_url": "https://x.com/tokerumaisurii/status/2062757844084994157/photo/1",
+          "media_key": "3_2062756293723455488",
+          "start": 83,
+          "url": "https://t.co/44MYfhdTzi"
+        },
+        {
+          "display_url": "x.com/rebane2001/sta…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/rebane2001/status/2058693153121542388",
+          "start": 107,
+          "url": "https://t.co/cLReB7CuGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062757844084994157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058693153121542388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请继续制作这种残忍地肏烂我的大脑的游戏吧，这是我学习JavaScript这门语言及认识其形象的唯一方式了。\n\n好评，真好玩，在同类游戏里我会给出至少9/10的评分。 https://t.co/44MYfhdTzi https://t.co/cLReB7CuGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1838,
+        "media_key": "3_2062756293723455488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBh65GWgAAgW-N.jpg",
+        "width": 2574
+      },
+      {
+        "alt_text": "JS Crossword\na crossword where the clue = eval(answer)\n\nWelcome to JS Crossword! Every clue is a JS eval of its answer - for example, 7 could be solved with 3+4 and [object Object] could be solved with []+{}. This crossword uses some lesser-known and cursed JS features, so I'd recommend it for people already somewhat familiar with JavaScript.\n\nYou're allowed to use the following characters: A-Za-z0-9!\"()*+-./<=>[]`{}. This means that no spaces (empty squares), commas, or semicolons are allowed to be used. The crossword is case-sensitive. The final answer consists only of english words, so it must match A-Za-z.\n\nYour answers will be evaluated within an eval() sandbox, you can try it out at the playground below. You're of course also allowed to use other resources, such as DevTools, MDN, searching etc. This crossword is human-made, so if you solve it with AI you're lame, learn to have fun.\n\nYou can change the writing direction by clicking a square or pressing ctrl. Your progress is saved",
+        "height": 387,
+        "media_key": "3_2058689351203127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHvDrlXgAAg_9M.png",
+        "width": 875
+      },
+      {
+        "alt_text": "banner image - JS Crossword, a crossword where the clue = eval(answer)\n\na mini-crossword is pictured underneath as a visual example",
+        "height": 418,
+        "media_key": "3_2058689591771529216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHvRrxWAAAASSK.png",
+        "width": 800
+      },
+      {
+        "alt_text": "gameplay screenshot showing the crossword partially filled in\n\nthe status at the bottom can be seen saying:\nacross (green)\nexpect: cw==\nactual: cw==\ndown (red)\nexpect: -Infinity\nerror: SyntaxError: Unexpected end of input",
+        "height": 417,
+        "media_key": "3_2058689606451662848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHvSidXEAAbT5K.png",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062756293723455488"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490784337469472768",
+              "name": "Crossword puzzles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491040597867589632",
+              "name": "Word games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2062757844084994157",
+        "created_at": "2026-06-05T04:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062757844084994157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44MYfhdTzi",
+              "end": 106,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2062757844084994157/photo/1",
+              "media_key": "3_2062756293723455488",
+              "start": 83,
+              "url": "https://t.co/44MYfhdTzi"
+            },
+            {
+              "display_url": "x.com/rebane2001/sta…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/rebane2001/status/2058693153121542388",
+              "start": 107,
+              "url": "https://t.co/cLReB7CuGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062757844084994157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058693153121542388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请继续制作这种残忍地肏烂我的大脑的游戏吧，这是我学习JavaScript这门语言及认识其形象的唯一方式了。\n\n好评，真好玩，在同类游戏里我会给出至少9/10的评分。 https://t.co/44MYfhdTzi https://t.co/cLReB7CuGF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058689351203127296",
+            "3_2058689591771529216",
+            "3_2058689606451662848"
+          ]
+        },
+        "author_id": "44606815",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490784337469472768",
+              "name": "Crossword puzzles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491040597867589632",
+              "name": "Word games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2058693153121542388",
+        "created_at": "2026-05-24T23:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058693153121542388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVe83YluhR",
+              "end": 278,
+              "expanded_url": "https://x.com/rebane2001/status/2058693153121542388/photo/1",
+              "media_key": "3_2058689351203127296",
+              "start": 255,
+              "url": "https://t.co/JVe83YluhR"
+            },
+            {
+              "display_url": "pic.x.com/JVe83YluhR",
+              "end": 278,
+              "expanded_url": "https://x.com/rebane2001/status/2058693153121542388/photo/1",
+              "media_key": "3_2058689591771529216",
+              "start": 255,
+              "url": "https://t.co/JVe83YluhR"
+            },
+            {
+              "display_url": "pic.x.com/JVe83YluhR",
+              "end": 278,
+              "expanded_url": "https://x.com/rebane2001/status/2058693153121542388/photo/1",
+              "media_key": "3_2058689606451662848",
+              "start": 255,
+              "url": "https://t.co/JVe83YluhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058693153121542388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 30443,
+          "like_count": 415,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "i made a new game called js crossword where you have to solve it by literally writing javascript code that eval()'s into the correct values!\n\ncheck it out if you're into ctfs or wanna challenge your javascript skills\n\nhope y'all have fun playing it &lt;3 https://t.co/JVe83YluhR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14945 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 316,
+          "like_count": 113888,
+          "listed_count": 12,
+          "media_count": 1334,
+          "tweet_count": 20518
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-04T12:43:42.000Z",
+        "description": "🇪🇪🏳️‍⚧️ | Archivist | 12 CVEs in Chrome | CSS sophomore | MapartCraft | Puppy | Horse | rebane2001#3716 | Lyra (she/her) 🦊 \n\n@rebane2001@infosec.exchange",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lyra.horse",
+                "end": 23,
+                "expanded_url": "https://lyra.horse",
+                "start": 0,
+                "url": "https://t.co/46QO0enzfE"
+              }
+            ]
+          }
+        },
+        "id": "44606815",
+        "location": "she/herstonia",
+        "name": "Rebane",
+        "pinned_tweet_id": "2058693153121542388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062347942736871424/sVL_kuT1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14809,
+          "following_count": 1788,
+          "like_count": 71155,
+          "listed_count": 56,
+          "media_count": 2163,
+          "tweet_count": 14498
+        },
+        "url": "https://t.co/46QO0enzfE",
+        "username": "rebane2001",
+        "verified": false
+      }
+    ]
+  }
+}
