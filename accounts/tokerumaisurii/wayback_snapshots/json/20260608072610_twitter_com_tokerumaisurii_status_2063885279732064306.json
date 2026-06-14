@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2063587367404102114",
+    "created_at": "2026-06-08T07:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063885279732064306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556688770594131969",
+          "start": 0,
+          "username": "bbrrrrr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063885279732064306",
+    "in_reply_to_user_id": "1556688770594131969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063587367404102114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbrrrrr7 好看w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063587357824282624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNVxMIacAA-ZcB.jpg",
+        "width": 1028
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063587357820170240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNVxMHbsAAvV8X.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2063587367404102114",
+        "created_at": "2026-06-08T07:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063885279732064306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556688770594131969",
+              "start": 0,
+              "username": "bbrrrrr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063885279732064306",
+        "in_reply_to_user_id": "1556688770594131969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063587367404102114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbrrrrr7 好看w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063587357824282624",
+            "3_2063587357820170240"
+          ]
+        },
+        "author_id": "1556688770594131969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2063587367404102114",
+        "created_at": "2026-06-07T11:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063587367404102114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "鸣潮"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "鸣潮千咲"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "千咲cos"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "男娘"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "男娘cos"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "JK"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcvIQbSkDc",
+              "end": 100,
+              "expanded_url": "https://x.com/bbrrrrr7/status/2063587367404102114/photo/1",
+              "media_key": "3_2063587357824282624",
+              "start": 77,
+              "url": "https://t.co/vcvIQbSkDc"
+            },
+            {
+              "display_url": "pic.x.com/vcvIQbSkDc",
+              "end": 100,
+              "expanded_url": "https://x.com/bbrrrrr7/status/2063587367404102114/photo/1",
+              "media_key": "3_2063587357820170240",
+              "start": 77,
+              "url": "https://t.co/vcvIQbSkDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063587367404102114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2864,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "千咲只是普通的展示身材 &amp; 急不可耐的想给前辈你一个人看小裙子里的棒棒🖤\n#鸣潮 #鸣潮千咲 #千咲cos #男娘 #男娘cos #JK #黑丝 https://t.co/vcvIQbSkDc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14952 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4066,
+          "following_count": 319,
+          "like_count": 114924,
+          "listed_count": 12,
+          "media_count": 1340,
+          "tweet_count": 20624
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T17:08:30.000Z",
+        "description": "如果不能成为女孩子的话，那就当个小男娘吧！\n是个双/互fo转推okk/不线下不视频/纯爱好不赚米/同是小男娘的话关注会主动回fo",
+        "id": "1556688770594131969",
+        "name": "Hoshino🔆星野 羽",
+        "pinned_tweet_id": "2040821100666581299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040242877083844608/CRAW9KHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 307,
+          "like_count": 305,
+          "listed_count": 9,
+          "media_count": 120,
+          "tweet_count": 154
+        },
+        "username": "bbrrrrr7",
+        "verified": false
+      }
+    ]
+  }
+}

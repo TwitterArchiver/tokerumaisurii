@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063540477962698752"
+      ],
+      "media_source_tweet_id": [
+        "2063540481662050673"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2063638949000618072",
+    "created_at": "2026-06-07T15:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063638949000618072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1667794974266777602",
+          "start": 3,
+          "username": "UM__111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rTjFkWuX6I",
+          "end": 44,
+          "expanded_url": "https://x.com/UM__111/status/2063540481662050673/photo/1",
+          "media_key": "3_2063540477962698752",
+          "start": 21,
+          "url": "https://t.co/rTjFkWuX6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063638949000618072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063540481662050673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UM__111: キサキの包装紙 https://t.co/rTjFkWuX6I"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063638949000618072].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063638949000618072",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063638949000618072"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Blue Archive Kisaki",
+        "height": 2048,
+        "media_key": "3_2063540477962698752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMrIbCbQAA27WI.jpg",
+        "width": 1379
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063540477962698752"
+          ]
+        },
+        "author_id": "1667794974266777602",
+        "conversation_id": "2063540481662050673",
+        "created_at": "2026-06-07T08:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063540481662050673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTjFkWuX6I",
+              "end": 31,
+              "expanded_url": "https://x.com/UM__111/status/2063540481662050673/photo/1",
+              "media_key": "3_2063540477962698752",
+              "start": 8,
+              "url": "https://t.co/rTjFkWuX6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063540481662050673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2948,
+          "impression_count": 68555,
+          "like_count": 12971,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 1335
+        },
+        "reply_settings": "everyone",
+        "text": "キサキの包装紙 https://t.co/rTjFkWuX6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14952 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4048,
+          "following_count": 317,
+          "like_count": 114547,
+          "listed_count": 12,
+          "media_count": 1339,
+          "tweet_count": 20581
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T07:25:07.000Z",
+        "description": "drawing / 그리고싶은거 그립니다!\n\nAI❌️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/52886522",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/52886522",
+                "start": 0,
+                "url": "https://t.co/zQR9pWiBwV"
+              }
+            ]
+          }
+        },
+        "id": "1667794974266777602",
+        "name": "UM 옘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667795078776254465/zlgrBx9W_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55277,
+          "following_count": 220,
+          "like_count": 799,
+          "listed_count": 298,
+          "media_count": 98,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/zQR9pWiBwV",
+        "username": "UM__111",
+        "verified": true
+      }
+    ]
+  }
+}

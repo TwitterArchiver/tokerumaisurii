@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2063816266759164105",
+    "created_at": "2026-06-08T06:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063875847694536994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663205241419100162",
+          "start": 0,
+          "username": "CaramelAster00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063875847694536994",
+    "in_reply_to_user_id": "1663205241419100162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063816266759164105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaramelAster00 辛苦了……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063816266759164105].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063816266759164105",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063816266759164105"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2063816266759164105",
+        "created_at": "2026-06-08T06:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063875847694536994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663205241419100162",
+              "start": 0,
+              "username": "CaramelAster00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063875847694536994",
+        "in_reply_to_user_id": "1663205241419100162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063816266759164105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaramelAster00 辛苦了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14952 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4063,
+          "following_count": 317,
+          "like_count": 114900,
+          "listed_count": 12,
+          "media_count": 1340,
+          "tweet_count": 20622
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T15:27:27.000Z",
+        "description": "巨人啊 请你奔跑吧\n三重伟大赫尔墨斯  德勒兹\n潮酷骚孩/后人类主义/超个体主义/无性恋\n支持二元性别/“生理性别”的别来沾边",
+        "id": "1663205241419100162",
+        "location": "405,500km",
+        "name": "焦糖星",
+        "pinned_tweet_id": "1983477626032558312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058528155342934016/Bo8YJnzu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 463,
+          "like_count": 28923,
+          "listed_count": 5,
+          "media_count": 392,
+          "tweet_count": 4691
+        },
+        "username": "CaramelAster00",
+        "verified": false
+      }
+    ]
+  }
+}
