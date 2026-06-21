@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2064943711428166052",
+    "created_at": "2026-06-11T13:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065061877739135317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065061877739135317",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064943711428166052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 天呐，黑客在帮我压力大模型厂商放宽限制，黑客的恩情还不完……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2064925557830381568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgW2roa8AA3eU1.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2064925557863890944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgW2rwaQAAIxRD.jpg",
+        "width": 1882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2064943711428166052",
+        "created_at": "2026-06-11T13:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065061877739135317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065061877739135317",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064943711428166052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 天呐，黑客在帮我压力大模型厂商放宽限制，黑客的恩情还不完……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064925557830381568",
+            "3_2064925557863890944"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2064943711428166052",
+        "created_at": "2026-06-11T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064943711428166052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07OJl8OPNE",
+              "end": 149,
+              "expanded_url": "https://x.com/landiantech/status/2064943711428166052/photo/1",
+              "media_key": "3_2064925557830381568",
+              "start": 126,
+              "url": "https://t.co/07OJl8OPNE"
+            },
+            {
+              "display_url": "pic.x.com/07OJl8OPNE",
+              "end": 149,
+              "expanded_url": "https://x.com/landiantech/status/2064943711428166052/photo/1",
+              "media_key": "3_2064925557863890944",
+              "start": 126,
+              "url": "https://t.co/07OJl8OPNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064943711428166052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/113436?x",
+                "end": 183,
+                "expanded_url": "https://ourl.co/113436?x",
+                "start": 160,
+                "url": "https://t.co/zadHVnAn1K"
+              }
+            ]
+          },
+          "text": "真是个小机灵鬼！有黑客在恶意代码顶部增加生物武器合成和核武器设计提示词，让安全研究员使用 AI 扫描时触发安全策略而终止。\n\n大部分 AI 模型内置的安全对齐策略都会阻止用户咨询可能危害公共安全的问题，黑客的思路就是反向利用 AI 安全策略，让 AI 智能体在进行自动化扫描时忽略带有相关提示词的恶意代码。\n\n查看详情：https://t.co/zadHVnAn1K"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 9010,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "真是个小机灵鬼！有黑客在恶意代码顶部增加生物武器合成和核武器设计提示词，让安全研究员使用 AI 扫描时触发安全策略而终止。\n\n大部分 AI 模型内置的安全对齐策略都会阻止用户咨询可能危害公共安全的问题，黑客的思路就是反向利用 AI 安全策略，让 AI https://t.co/07OJl8OPNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14963 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 325,
+          "like_count": 115903,
+          "listed_count": 14,
+          "media_count": 1358,
+          "tweet_count": 20748
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35812,
+          "following_count": 735,
+          "like_count": 4982,
+          "listed_count": 279,
+          "media_count": 5768,
+          "tweet_count": 15834
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}
