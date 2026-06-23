@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2068925172195672200",
+    "created_at": "2026-06-22T05:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068925172195672200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903099585129816064",
+          "start": 3,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068925172195672200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029466808462217401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerumaisurii: 原来是你老公和你赚够钱了之后辞职一起经营着一家音游窝，而你因为实验性的全身骨重造手术需要静养恢复，被医师们和期待这台手术成功推广的同类们寄予期待，待在家里休养，每天刷刷新闻、写点文字。曾经爹妈喊了一万遍，舅舅不惜正月里有生命危险让你去理掉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068925172195672200",
+        "created_at": "2026-06-22T05:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068925172195672200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903099585129816064",
+              "start": 3,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068925172195672200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029466808462217401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerumaisurii: 原来是你老公和你赚够钱了之后辞职一起经营着一家音游窝，而你因为实验性的全身骨重造手术需要静养恢复，被医师们和期待这台手术成功推广的同类们寄予期待，待在家里休养，每天刷刷新闻、写点文字。曾经爹妈喊了一万遍，舅舅不惜正月里有生命危险让你去理掉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2029466808462217401",
+        "created_at": "2026-03-05T07:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029466808462217401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029466808462217401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "原来是你老公和你赚够钱了之后辞职一起经营着一家音游窝，而你因为实验性的全身骨重造手术需要静养恢复，被医师们和期待这台手术成功推广的同类们寄予期待，待在家里休养，每天刷刷新闻、写点文字。曾经爹妈喊了一万遍，舅舅不惜正月里有生命危险让你去理掉的长发，历经磨难之后柔顺光滑，爹给你买了梳子套装，妈会在你犯懒她又有闲的时候给你吹头发，就连舅舅都偷偷打听你最爱的护发素款式送了一罐以表歉意。无声无息的角落，维持矫正机构的黑工作人员们都被送了进去踩缝纫机，清洗他们对每一个身心受伤的孩子所犯下的罪孽，只是不知道为什么，有些玩躲猫猫撞死了，有些抠粉刺抠死了，还有些洗脸洗死了。\n你有时吃爸妈做的饭，有时候吃男朋友回家带的食物，恢复好一些之后偶尔逞强自己做顿饭，你已经快忘了饿是一种什么滋味了。皮埋激素让你再也不用担心忘吃补佳乐，好几年才要换一次。每隔一段时间还可以去医院做医保范围内的氙气疗法。\n你有时也怀念以前那些日子，当时很难想到可以成为现在这样。你和老公去漫展的照片还夹在一本书里，那时你和爹妈为了跨性别的事情氛围紧张，你只能偷偷把cos服塞在背的电脑包里假装出门自习，再去老公家里换好衣服上妆，偷偷摸摸又幸福地牵着手逛了一整天，留念的照片最后洗出来只能藏着。但你还是被一个多事的巨魔同学把事捅到了爹妈耳朵里，你好怕买的二次元海报、手办和女装cos服都被抄走烧掉，连带毛绒娃娃也被扔了，只是幸运眷顾，你的爹妈至少护短，有原则，比起不规矩的孩子，更厌恶碎嘴打小报告想让自己孩子遭罪的外人，因为这事反而促成了爹妈最后接纳你的选择。\n你有时会几个小时没收到老公的消息，自从认识他的第一天他就不太黏人。不过每到真的相隔很远的时候，他会开始发好多消息给你，说他哪怕几天没见也好想念和你在一起的日子，从前下班躺在沙发上和你吃着外卖打着游戏，他的手摸着你的牛子，术后换成了摸着你的肉穴，亲着你的耳朵说，宝宝我好爱你，我们永远在一起好不好。\n现在你不仅会打游戏还会做一部分游戏，在家赋闲也可以写自己觉得漂亮的音游谱子，写不出来了就起身走走摸摸猫咪。珠玉般温润的阳光从大大的窗户外照进来，是你最喜欢的不晒不阴的天气，你的心情变得好好。回想生活变化的样子，糖也不愁吃了，这玩意儿被许多年前的一场抗议击破了限制管制，不再要找路子跨远洋才能拿到一份成品药。你也参与过那一回，当时和好几个胆大的亲友摸进供应链企业下手，第二天政府新装的本要用作宣传攻心的投影灯直接打出了自由权利解放好一些振奋人心的词。你也会资助想资助的生活仍有困难的朋友。最近，很少再听说有人自杀了，虽然很多年下来总有些人走了，并且没能过两天再秽土转生，大概是真的凉了。\n35岁生日的那天晚上，你从衣柜的最里面翻出一个盒子，然后把窗帘拉得严严实实，准备把里面的东西拿出来换上。那是一套八重樱的cos服，正是曾经你们一起逛漫展你穿的那一套，当年和爹妈冷战时被你藏在猫砂盆里才躲过一劫。你小心翼翼穿上白丝，套上裙子，手术效果异常良好，镜子里的你比当年充满魅惑的小男娘还要更漂亮。你对着镜子里的自己比了一个心，又指尖点脸嘟了个嘴，被自己狠狠萌了一把。你轻轻拉开自己的房门，悄悄摸进老公的房间里从背后抱住他，然后把脑袋蹭了上去。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4977,
+          "like_count": 64,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "原来是你老公和你赚够钱了之后辞职一起经营着一家音游窝，而你因为实验性的全身骨重造手术需要静养恢复，被医师们和期待这台手术成功推广的同类们寄予期待，待在家里休养，每天刷刷新闻、写点文字。曾经爹妈喊了一万遍，舅舅不惜正月里有生命危险让你去理掉的长发，历经磨难之后柔顺光滑，爹给你买了梳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15006 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4163,
+          "following_count": 329,
+          "like_count": 118642,
+          "listed_count": 14,
+          "media_count": 1380,
+          "tweet_count": 21029
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}
