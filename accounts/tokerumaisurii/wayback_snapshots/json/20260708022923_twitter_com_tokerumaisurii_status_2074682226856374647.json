@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074680877473230848"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2074682226856374647",
+    "created_at": "2026-07-08T02:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074682226856374647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xbrjohl7cj",
+          "end": 143,
+          "expanded_url": "https://x.com/tokerumaisurii/status/2074682226856374647/photo/1",
+          "media_key": "3_2074680877473230848",
+          "start": 120,
+          "url": "https://t.co/Xbrjohl7cj"
+        },
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2021502550810505726",
+          "start": 144,
+          "url": "https://t.co/5Z5ExqdwKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074682226856374647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "依旧：新的模型Fable 5不仅继承了说中文时分不清弯引号的上下引号的问题，甚至连在中文里要使用全角逗号、分号、括号（等具有半角和全角双形式的符号）的基本操守都保持不住了，只剩句号还不会打成点号了。我也不知道他们怎么炼的模型能毁成这样子。\n\n提示词如下。你的个人审美和我不同的话，你可以把「，及在汉字与西文字母、数字间不加入空格」这个部分去掉。\n\n<language>简体中文</language>\n<chinese_text_layout>在中文为正文时，应当对中文使用全角形式的中文标点符号，遵守中文标点的习惯用法，及在汉字与西文字母、数字间不加入空格。</chinese_text_layout>"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021502550810505726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧：新的模型Fable 5不仅继承了说中文时分不清弯引号的上下引号的问题，甚至连在中文里要使用全角逗号、分号、括号（等具有半角和全角双形式的符号）的基本操守都保持不住了，只剩句号还不会打成点号了。我也不知道他们怎么炼的模型能毁成这样子。 https://t.co/Xbrjohl7cj https://t.co/5Z5ExqdwKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 356,
+        "media_key": "3_2074680877473230848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq_RBQWcAADS7a.jpg",
+        "width": 1510
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021502545852510209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3R2uYWMAEHiLW.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021502545760268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3R2uCWsAAPESk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074680877473230848"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2074682226856374647",
+        "created_at": "2026-07-08T02:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074682226856374647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xbrjohl7cj",
+              "end": 143,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2074682226856374647/photo/1",
+              "media_key": "3_2074680877473230848",
+              "start": 120,
+              "url": "https://t.co/Xbrjohl7cj"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2021502550810505726",
+              "start": 144,
+              "url": "https://t.co/5Z5ExqdwKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074682226856374647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "依旧：新的模型Fable 5不仅继承了说中文时分不清弯引号的上下引号的问题，甚至连在中文里要使用全角逗号、分号、括号（等具有半角和全角双形式的符号）的基本操守都保持不住了，只剩句号还不会打成点号了。我也不知道他们怎么炼的模型能毁成这样子。\n\n提示词如下。你的个人审美和我不同的话，你可以把「，及在汉字与西文字母、数字间不加入空格」这个部分去掉。\n\n<language>简体中文</language>\n<chinese_text_layout>在中文为正文时，应当对中文使用全角形式的中文标点符号，遵守中文标点的习惯用法，及在汉字与西文字母、数字间不加入空格。</chinese_text_layout>"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021502550810505726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧：新的模型Fable 5不仅继承了说中文时分不清弯引号的上下引号的问题，甚至连在中文里要使用全角逗号、分号、括号（等具有半角和全角双形式的符号）的基本操守都保持不住了，只剩句号还不会打成点号了。我也不知道他们怎么炼的模型能毁成这样子。 https://t.co/Xbrjohl7cj https://t.co/5Z5ExqdwKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021502545852510209",
+            "3_2021502545760268288"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2021502550810505726",
+        "created_at": "2026-02-11T08:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:28:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021501565035741449",
+          "2021502550810505726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/Chinese_p…",
+              "end": 156,
+              "expanded_url": "https://en.wikipedia.org/wiki/Chinese_punctuation",
+              "start": 133,
+              "status": 200,
+              "title": "Chinese punctuation - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Chinese_punctuation",
+              "url": "https://t.co/bFWfyhQ8EP"
+            },
+            {
+              "display_url": "pic.x.com/2rgHkPhDcj",
+              "end": 180,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2021502550810505726/photo/1",
+              "media_key": "3_2021502545852510209",
+              "start": 157,
+              "url": "https://t.co/2rgHkPhDcj"
+            },
+            {
+              "display_url": "pic.x.com/2rgHkPhDcj",
+              "end": 180,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2021502550810505726/photo/1",
+              "media_key": "3_2021502545760268288",
+              "start": 157,
+              "url": "https://t.co/2rgHkPhDcj"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2021432753745707045",
+              "start": 181,
+              "url": "https://t.co/yAaFL1As4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021502550810505726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1622,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021432753745707045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果是语料级别的污染，那么就用一样的办法解决。一键到位的解决方案就是指导Claude对所有中文文本使用直角引号，效果立竿见影，除了没分清直角引号的单双引号之外（暂时懒得优化）已近完美。\n我写提示词的时候参考了以下这条维基百科条目，刚好是以英语描写中文符号使用的。\n\nhttps://t.co/bFWfyhQ8EP https://t.co/2rgHkPhDcj https://t.co/yAaFL1As4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15010 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4222,
+          "following_count": 340,
+          "like_count": 121585,
+          "listed_count": 14,
+          "media_count": 1407,
+          "tweet_count": 21480
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}
