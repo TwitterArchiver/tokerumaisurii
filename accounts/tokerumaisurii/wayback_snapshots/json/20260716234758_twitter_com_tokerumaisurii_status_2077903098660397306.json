@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077357193813487616"
+      ],
+      "media_source_tweet_id": [
+        "2077357198775386312"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2077903098660397306",
+    "created_at": "2026-07-16T23:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T00:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077903098660397306"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "原神"
+        },
+        {
+          "end": 44,
+          "start": 30,
+          "tag": "GenshinImpact"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801568159184654337",
+          "start": 3,
+          "username": "sh4i6o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bNLXyo2WSY",
+          "end": 68,
+          "expanded_url": "https://x.com/sh4i6o/status/2077357198775386312/photo/1",
+          "media_key": "3_2077357193813487616",
+          "start": 45,
+          "url": "https://t.co/bNLXyo2WSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077903098660397306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5050
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077357198775386312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sh4i6o: 今年の夏は宇宙にいこう🌟\n #原神 #GenshinImpact https://t.co/bNLXyo2WSY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077357193813487616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRBXIja8AAPFR8.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077357193813487616"
+          ]
+        },
+        "author_id": "1801568159184654337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2077357198775386312",
+        "created_at": "2026-07-15T11:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077357198775386312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "原神"
+            },
+            {
+              "end": 32,
+              "start": 18,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNLXyo2WSY",
+              "end": 56,
+              "expanded_url": "https://x.com/sh4i6o/status/2077357198775386312/photo/1",
+              "media_key": "3_2077357193813487616",
+              "start": 33,
+              "url": "https://t.co/bNLXyo2WSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077357198775386312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2346,
+          "impression_count": 262608,
+          "like_count": 29425,
+          "quote_count": 22,
+          "reply_count": 9,
+          "retweet_count": 5050
+        },
+        "reply_settings": "everyone",
+        "text": "今年の夏は宇宙にいこう🌟\n #原神 #GenshinImpact https://t.co/bNLXyo2WSY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077357193813487616"
+          ],
+          "media_source_tweet_id": [
+            "2077357198775386312"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2077903098660397306",
+        "created_at": "2026-07-16T23:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077903098660397306"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "原神"
+            },
+            {
+              "end": 44,
+              "start": 30,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801568159184654337",
+              "start": 3,
+              "username": "sh4i6o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNLXyo2WSY",
+              "end": 68,
+              "expanded_url": "https://x.com/sh4i6o/status/2077357198775386312/photo/1",
+              "media_key": "3_2077357193813487616",
+              "start": 45,
+              "url": "https://t.co/bNLXyo2WSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077903098660397306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5050
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077357198775386312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sh4i6o: 今年の夏は宇宙にいこう🌟\n #原神 #GenshinImpact https://t.co/bNLXyo2WSY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15011 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4243,
+          "following_count": 342,
+          "like_count": 123003,
+          "listed_count": 14,
+          "media_count": 1423,
+          "tweet_count": 21689
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-14T10:51:50.000Z",
+        "description": "原神┋ゼンゼロ┋好きなもの描いてます\n※AI学習・無断使用禁止┋ Unauthorized use prohibited\n✉ shiro.cyan46@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/107122520",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/107122520",
+                "start": 0,
+                "url": "https://t.co/I2r4htnyux"
+              }
+            ]
+          }
+        },
+        "id": "1801568159184654337",
+        "location": "46(しろ)",
+        "name": "46",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942576883410841600/khNZnwlB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12103,
+          "following_count": 31,
+          "like_count": 909,
+          "listed_count": 73,
+          "media_count": 98,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/I2r4htnyux",
+        "username": "sh4i6o",
+        "verified": true
+      }
+    ]
+  }
+}

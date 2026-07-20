@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1492635984709636098",
+          "name": "Ghana Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492635984709636098",
+          "name": "Ghana Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2077242098852475286",
+    "created_at": "2026-07-15T04:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077242098852475286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vermaden/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/vermaden/status/2077124610592575734",
+          "start": 5,
+          "url": "https://t.co/RvYm46QAOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077242098852475286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077124610592575734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇哦…… https://t.co/RvYm46QAOu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2077124170912006144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNtbamWgAAhwQt.jpg",
+        "width": 671
+      },
+      {
+        "height": 460,
+        "media_key": "3_2077124317351956480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNtj8IW0AAiEY_.png",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2077242098852475286",
+        "created_at": "2026-07-15T04:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077242098852475286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vermaden/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/vermaden/status/2077124610592575734",
+              "start": 5,
+              "url": "https://t.co/RvYm46QAOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077242098852475286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077124610592575734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇哦…… https://t.co/RvYm46QAOu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077124170912006144",
+            "3_2077124317351956480"
+          ]
+        },
+        "author_id": "372895194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2077124610592575734",
+        "created_at": "2026-07-14T20:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077124610592575734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "With GNU diff and cdialog gone, this is now an empty shell. Reviewed by: markj Differential Revision: https://reviews.freebsd.org/D55425",
+              "display_url": "github.com/freebsd/freebs…",
+              "end": 106,
+              "expanded_url": "https://github.com/freebsd/freebsd-src/commit/134a4c78d070f8c4ea43a060a7ae28d22ac39558",
+              "start": 83,
+              "status": 200,
+              "title": "Retire the GNU subtree · freebsd/freebsd-src@134a4c7",
+              "unwound_url": "https://github.com/freebsd/freebsd-src/commit/134a4c78d070f8c4ea43a060a7ae28d22ac39558",
+              "url": "https://t.co/seoUrWBfDK"
+            },
+            {
+              "display_url": "pic.x.com/rvRCpo6jog",
+              "end": 130,
+              "expanded_url": "https://x.com/vermaden/status/2077124610592575734/photo/1",
+              "media_key": "3_2077124170912006144",
+              "start": 107,
+              "url": "https://t.co/rvRCpo6jog"
+            },
+            {
+              "display_url": "pic.x.com/rvRCpo6jog",
+              "end": 130,
+              "expanded_url": "https://x.com/vermaden/status/2077124610592575734/photo/1",
+              "media_key": "3_2077124317351956480",
+              "start": 107,
+              "url": "https://t.co/rvRCpo6jog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077124610592575734",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 9242,
+          "like_count": 174,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "FreeBSD UNIX is finally free from any GPL licensed software in its 'Base System'.\n\nhttps://t.co/seoUrWBfDK https://t.co/rvRCpo6jog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15011 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 342,
+          "like_count": 122764,
+          "listed_count": 14,
+          "media_count": 1421,
+          "tweet_count": 21643
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-13T16:27:57.000Z",
+        "description": "Lets say it using a \"cloud tag\" ...\n\nFreeBSD BSD UNIX Linux Backup Restore Storage Clusters Distributed Desktop Laptop X11 ThinkPad AMIGA Shell POSIX ZSH ZFS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vermaden.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://vermaden.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/zQGv4iP580"
+              }
+            ]
+          }
+        },
+        "id": "372895194",
+        "location": "Europe/Poland",
+        "name": "vermaden",
+        "pinned_tweet_id": "1141331114105221121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985867862576435200/wpeV1OqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3543,
+          "following_count": 1057,
+          "like_count": 38737,
+          "listed_count": 129,
+          "media_count": 2021,
+          "tweet_count": 58149
+        },
+        "url": "https://t.co/zQGv4iP580",
+        "username": "vermaden",
+        "verified": false
+      }
+    ]
+  }
+}
