@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2090830394820042806",
+    "created_at": "2026-08-21T20:31:43.000Z",
+    "display_text_range": [
+      9,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090899673225506923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251444237222240258",
+          "start": 0,
+          "username": "IIInoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090899673225506923",
+    "in_reply_to_user_id": "1251444237222240258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090830394820042806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIInoki 卧槽！！卧槽！！我就说为什么我连不上我Win的远程桌面了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2090830394820042806",
+        "created_at": "2026-08-21T20:31:43.000Z",
+        "display_text_range": [
+          9,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090899673225506923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251444237222240258",
+              "start": 0,
+              "username": "IIInoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090899673225506923",
+        "in_reply_to_user_id": "1251444237222240258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090830394820042806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIInoki 卧槽！！卧槽！！我就说为什么我连不上我Win的远程桌面了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251444237222240258",
+        "conversation_id": "2090830394820042806",
+        "created_at": "2026-08-21T15:56:26.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090830394820042806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "家里那台 Windows 台式机，前段时间 Win 11 系统更新失败，只好重装。重装之前，用微软账户从 Mac 远程桌面连它一直好好的；重装之后，机器名、账户、网络、客户端一样都没变，连过去却永远是一句冷冰冰的 “The credentials did not work”。 诡异的是，家里另外两台老机器，同样走 Tailscale、同样的客户端，一切正常。同一个微软账户、正确的密码（网页登录验证",
+              "display_url": "blog.inoki.cc/2026/08/21/msa…",
+              "end": 80,
+              "expanded_url": "https://blog.inoki.cc/2026/08/21/msa-rdp-hello-only/",
+              "images": [
+                {
+                  "height": 934,
+                  "url": "https://pbs.twimg.com/news_img/2090830439015497728/7iph7DtW?format=jpg&name=orig",
+                  "width": 1206
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090830439015497728/7iph7DtW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "密码是对的，但 Windows 说不：一次 RDP 认证失败的全面排查",
+              "unwound_url": "https://blog.inoki.cc/2026/08/21/msa-rdp-hello-only/",
+              "url": "https://t.co/Ijo2IOoa8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090830394820042806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 955,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们都在远程桌面，只有咱在修远程桌面😭😭😭\n和 AI 一起排查了一下午，发现是新版 Win11 禁用了密码登录：\nhttps://t.co/Ijo2IOoa8j\n🤡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090899673225506923",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4266,
+          "following_count": 347,
+          "like_count": 127974,
+          "listed_count": 17,
+          "media_count": 1475,
+          "tweet_count": 22646
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-18T09:35:39.000Z",
+        "description": "Nobody “文科”博士🐶 人间不值得 生活推 風立ちぬ、いざ生きめやも OSS @kdecommunity 背景图 by @IIInoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "kdecommunity"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "username": "IIInoki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inoki.cc",
+                "end": 23,
+                "expanded_url": "https://www.inoki.cc",
+                "start": 0,
+                "url": "https://t.co/4mBacSf4mT"
+              }
+            ]
+          }
+        },
+        "id": "1251444237222240258",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090887125503807685",
+        "name": "AI𝕚𝕟𝕠𝕜𝕚",
+        "pinned_tweet_id": "2039681735181402316",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251444237222240258/1631568734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831914566684438528/Tjbm3SmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10583,
+          "following_count": 1847,
+          "like_count": 66058,
+          "listed_count": 83,
+          "media_count": 2592,
+          "tweet_count": 35913
+        },
+        "url": "https://t.co/4mBacSf4mT",
+        "username": "IIInoki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

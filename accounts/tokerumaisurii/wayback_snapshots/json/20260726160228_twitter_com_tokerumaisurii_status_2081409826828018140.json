@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2081330122309931118",
+    "created_at": "2026-07-26T16:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081409826828018140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "982427797296594945",
+          "start": 0,
+          "username": "G36_maid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081409826828018140",
+    "in_reply_to_user_id": "982427797296594945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081330122309931118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G36_maid 阅后感觉水平太低，彻底打破我对Anthropic里面应该都是天才的想象。我认知水平也不比这种人低啊。彼可取而代也。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2081330122309931118",
+        "created_at": "2026-07-26T16:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081409826828018140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "982427797296594945",
+              "start": 0,
+              "username": "G36_maid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081409826828018140",
+        "in_reply_to_user_id": "982427797296594945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081330122309931118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G36_maid 阅后感觉水平太低，彻底打破我对Anthropic里面应该都是天才的想象。我认知水平也不比这种人低啊。彼可取而代也。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982427797296594945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2081330122309931118",
+        "created_at": "2026-07-26T10:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081330122309931118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mononofu/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/mononofu/status/2080937562739531837",
+              "start": 3,
+              "url": "https://t.co/XTV3gqvihG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081330122309931118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080937562739531837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "急了 https://t.co/XTV3gqvihG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15032 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 345,
+          "like_count": 124146,
+          "listed_count": 15,
+          "media_count": 1440,
+          "tweet_count": 21898
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-07T01:20:14.000Z",
+        "description": "Let's all love Lain. Rust | Homelab | I use Arch BTW CS/ME@ntnu bu//ding systems, breaking i//usions.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100010414500933",
+                "start": 0,
+                "url": "https://t.co/MNaZCz25vQ"
+              }
+            ]
+          }
+        },
+        "id": "982427797296594945",
+        "location": "taiwan",
+        "name": "G36_maid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941323178271440896/0WbCmhkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 2402,
+          "like_count": 61174,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 8944
+        },
+        "url": "https://t.co/MNaZCz25vQ",
+        "username": "G36_maid",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087033665968898048"
+      ],
+      "media_source_tweet_id": [
+        "2087033676135854320"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2087161467254542730",
+    "created_at": "2026-08-11T12:57:26.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087161467254542730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "712276817218932736",
+          "start": 3,
+          "username": "eon_ephemeral"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ArcfAQC3oK",
+          "end": 53,
+          "expanded_url": "https://x.com/eon_ephemeral/status/2087033676135854320/photo/1",
+          "media_key": "3_2087033665968898048",
+          "start": 30,
+          "url": "https://t.co/ArcfAQC3oK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087161467254542730",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087033665968898048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087033676135854320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eon_ephemeral: 落とし物拾うのも大変 https://t.co/ArcfAQC3oK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2087033665968898048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaiD8ZbgAAT8z6.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087033665968898048"
+          ]
+        },
+        "author_id": "712276817218932736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2087033676135854320",
+        "created_at": "2026-08-11T04:29:38.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087033676135854320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArcfAQC3oK",
+              "end": 34,
+              "expanded_url": "https://x.com/eon_ephemeral/status/2087033676135854320/photo/1",
+              "media_key": "3_2087033665968898048",
+              "start": 11,
+              "url": "https://t.co/ArcfAQC3oK"
+            },
+            {
+              "display_url": "x.com/eon_ephemeral/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/eon_ephemeral/status/2071092699995033770",
+              "start": 35,
+              "url": "https://t.co/ljnnVKjkOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087033676135854320",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087033665968898048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3117,
+          "impression_count": 235070,
+          "like_count": 15082,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 1307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071092699995033770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "落とし物拾うのも大変 https://t.co/ArcfAQC3oK https://t.co/ljnnVKjkOk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087033665968898048"
+          ],
+          "media_source_tweet_id": [
+            "2087033676135854320"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2087161467254542730",
+        "created_at": "2026-08-11T12:57:26.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087161467254542730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "712276817218932736",
+              "start": 3,
+              "username": "eon_ephemeral"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArcfAQC3oK",
+              "end": 53,
+              "expanded_url": "https://x.com/eon_ephemeral/status/2087033676135854320/photo/1",
+              "media_key": "3_2087033665968898048",
+              "start": 30,
+              "url": "https://t.co/ArcfAQC3oK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087161467254542730",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087033665968898048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087033676135854320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eon_ephemeral: 落とし物拾うのも大変 https://t.co/ArcfAQC3oK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087161467254542730",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 345,
+          "like_count": 126315,
+          "listed_count": 17,
+          "media_count": 1459,
+          "tweet_count": 22314
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-22T13:56:41.000Z",
+        "description": "最近はボイロ絵描いてます\nほぼただの日記",
+        "id": "712276817218932736",
+        "is_identity_verified": false,
+        "location": "作品の無断利用・AIへの使用禁止",
+        "most_recent_tweet_id": "2087033676135854320",
+        "name": "えふぇ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390501907559501825/ASCC2wuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27607,
+          "following_count": 1435,
+          "like_count": 10733,
+          "listed_count": 269,
+          "media_count": 340,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "eon_ephemeral",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

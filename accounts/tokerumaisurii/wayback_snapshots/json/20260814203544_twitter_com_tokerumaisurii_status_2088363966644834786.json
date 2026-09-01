@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2088220239062524329",
+    "created_at": "2026-08-14T20:35:44.000Z",
+    "display_text_range": [
+      15,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T21:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088363966644834786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1285577648861659137",
+          "start": 0,
+          "username": "vanillaCitron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088363966644834786",
+    "in_reply_to_user_id": "1285577648861659137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088220239062524329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanillaCitron 自从更新iOS 27测试版之后天天遇到，因为新功能快速粘贴很容易触发，拷贝一张图片想发推，结果编辑界面这样按了快速粘贴之后不仅一口气出来两份图片而且输入法进程直接爆了不出候选词了，因为输入法是个跟着每个App起一份实例的东西所以就要重启整个App……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2088220228388102144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrZO93boAAjDU7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2088220239062524329",
+        "created_at": "2026-08-14T20:35:44.000Z",
+        "display_text_range": [
+          15,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088363966644834786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1285577648861659137",
+              "start": 0,
+              "username": "vanillaCitron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088363966644834786",
+        "in_reply_to_user_id": "1285577648861659137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088220239062524329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanillaCitron 自从更新iOS 27测试版之后天天遇到，因为新功能快速粘贴很容易触发，拷贝一张图片想发推，结果编辑界面这样按了快速粘贴之后不仅一口气出来两份图片而且输入法进程直接爆了不出候选词了，因为输入法是个跟着每个App起一份实例的东西所以就要重启整个App……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088220228388102144"
+          ]
+        },
+        "author_id": "1285577648861659137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2088220239062524329",
+        "created_at": "2026-08-14T11:04:36.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088220239062524329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfzKMZeb49",
+              "end": 53,
+              "expanded_url": "https://x.com/vanillaCitron/status/2088220239062524329/photo/1",
+              "media_key": "3_2088220228388102144",
+              "start": 30,
+              "url": "https://t.co/vfzKMZeb49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088220239062524329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088220228388102144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 145180,
+          "like_count": 1303,
+          "quote_count": 3,
+          "reply_count": 79,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "刷 threads 看到一个跟帖，原来不只是我偶尔会这样！ https://t.co/vfzKMZeb49"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088363966644834786",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 346,
+          "like_count": 126572,
+          "listed_count": 17,
+          "media_count": 1464,
+          "tweet_count": 22414
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design engineer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "is_identity_verified": false,
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "most_recent_tweet_id": "2088220239062524329",
+        "name": "citron🍢🍋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285577648861659137/1637980528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4932,
+          "following_count": 1189,
+          "like_count": 20855,
+          "listed_count": 24,
+          "media_count": 1020,
+          "tweet_count": 7508
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

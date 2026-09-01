@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2085656223752638574",
+    "created_at": "2026-08-07T10:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085674339806916769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "982427797296594945",
+          "start": 0,
+          "username": "G36_maid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085674339806916769",
+    "in_reply_to_user_id": "982427797296594945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085656223752638574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G36_maid 卧槽我在推上不时路过遇到的推友竟然是这样的大神.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2085656223752638574",
+        "created_at": "2026-08-07T10:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085674339806916769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "982427797296594945",
+              "start": 0,
+              "username": "G36_maid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085674339806916769",
+        "in_reply_to_user_id": "982427797296594945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085656223752638574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G36_maid 卧槽我在推上不时路过遇到的推友竟然是这样的大神.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982427797296594945",
+        "conversation_id": "2085656223752638574",
+        "created_at": "2026-08-07T09:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085656223752638574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "54954134",
+              "start": 44,
+              "username": "coscup"
+            },
+            {
+              "end": 165,
+              "id": "1471128655699062784",
+              "start": 155,
+              "username": "zeddotdev"
+            }
+          ],
+          "urls": [
+            {
+              "description": "程式編輯器是開發者每天接觸最核心的工具。過去十年間，Atom 的誕生將 Web 前端技術（DOM/JS）帶入桌面應用，催生了 Electron 框架，並奠定了 VS Code 的統治地位，但也帶來了效能與記憶體消耗的隱憂。 本議程將帶領聽眾回顧這段第二次「編輯器之戰」的歷史。我們將首先剖析 Atom 的技術架構與隕落原因，並探討 VS Code 如何透過開源與擴充套件生態贏得開發者喜愛。接著，我們將焦點轉向 Atom 核心團隊重頭打造的開源編輯器——Zed。 議程將深入解析 Zed 如何捨棄沉重的 Web 框架，運用 Rust 語言與自主研發的 GPUI 框架，將 UI 元件直接交由 GPU 渲染，實現 120 FPS 的極致效能。此外，我們也會探討在 AI 時代下，現代編輯器如何原生整合 MCP/ACP 協定，以及講者參與 Zed 開源社群的實務經驗。無論你是工具控、Rust 愛好者，還是對底層架構感興趣的工程師，都能從中獲得技術啟發。",
+              "display_url": "coscup.org/2026/session/T…",
+              "end": 216,
+              "expanded_url": "https://coscup.org/2026/session/T37ECE",
+              "start": 193,
+              "status": 200,
+              "title": "編輯器的歷史、現況與未來：從 Electron 到 Rust 與 GPU 驅動的現代化架構 (以 Zed 為例)",
+              "unwound_url": "https://coscup.org/2026/session/T37ECE/",
+              "url": "https://t.co/gtq51k0nAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085656223752638574",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Glad to share that I’ll be giving a talk at @coscup this weekend!\n\nAs a Zed Guild member, I’ll be talking about the history of code editors — from Atom to @zeddotdev.\n\nHope to see you there! 🚀\nhttps://t.co/gtq51k0nAN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15033 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 346,
+          "like_count": 125459,
+          "listed_count": 16,
+          "media_count": 1455,
+          "tweet_count": 22197
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-07T01:20:14.000Z",
+        "description": "Let's all love Lain. Rust | Homelab | I use Arch BTW CS/ME@ntnu bu//ding systems, breaking i//usions.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100010414500933",
+                "start": 0,
+                "url": "https://t.co/MNaZCz1xGi"
+              }
+            ]
+          }
+        },
+        "id": "982427797296594945",
+        "location": "taiwan",
+        "name": "G36_maid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085657296085164032/p0iRBiHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 2426,
+          "like_count": 63020,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 9167
+        },
+        "url": "https://t.co/MNaZCz1xGi",
+        "username": "G36_maid",
+        "verified": false
+      }
+    ]
+  }
+}

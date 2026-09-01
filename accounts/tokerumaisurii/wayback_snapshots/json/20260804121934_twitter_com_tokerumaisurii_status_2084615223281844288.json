@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "2084527346460275124",
+    "created_at": "2026-08-04T12:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084615223281844288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599012090517540869",
+          "start": 0,
+          "username": "loveforeversfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084615223281844288",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084527346460275124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveforeversfy 等新歌吧，Unfinished Epic/Magical Cure/Lover's Trick什么的好像都不难，Refrain你应该可以直接收获一个14.0鸟加。不过B35我唯一一个有了你没有的是.7的魂温泉II，感觉不难，但是你也只能吃两分了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2084527334456193024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO26kP7acAAun5q.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2084527346460275124",
+        "created_at": "2026-08-04T12:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084615223281844288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084615223281844288",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084527346460275124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 等新歌吧，Unfinished Epic/Magical Cure/Lover's Trick什么的好像都不难，Refrain你应该可以直接收获一个14.0鸟加。不过B35我唯一一个有了你没有的是.7的魂温泉II，感觉不难，但是你也只能吃两分了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084527334456193024"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2084527346460275124",
+        "created_at": "2026-08-04T06:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084527346460275124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eq7who4vDY",
+              "end": 35,
+              "expanded_url": "https://x.com/loveforeversfy/status/2084527346460275124/photo/1",
+              "media_key": "3_2084527334456193024",
+              "start": 12,
+              "url": "https://t.co/Eq7who4vDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084527346460275124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能指导一下我 。。。 https://t.co/Eq7who4vDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15033 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4248,
+          "following_count": 347,
+          "like_count": 125128,
+          "listed_count": 16,
+          "media_count": 1452,
+          "tweet_count": 22097
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 1558,
+          "like_count": 35877,
+          "listed_count": 10,
+          "media_count": 1259,
+          "tweet_count": 11642
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2092978273185616062",
+    "created_at": "2026-08-27T14:11:20.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092978273185616062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2092804291777937813",
+          "start": 5,
+          "url": "https://t.co/pr2NLEtW9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092978273185616062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092804291777937813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "民营央企 https://t.co/pr2NLEtW9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2092659506035793920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqeu70boAALsSV.jpg",
+        "width": 764
+      },
+      {
+        "height": 2069,
+        "media_key": "3_2092659558623977472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqex_uboAA--gQ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2255,
+        "media_key": "3_2092659598419496960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqe0T-bEAAXKpC.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1875,
+        "media_key": "3_2092659613514846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqe1MNb0AAEQYE.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2092978273185616062",
+        "created_at": "2026-08-27T14:11:20.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092978273185616062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2092804291777937813",
+              "start": 5,
+              "url": "https://t.co/pr2NLEtW9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092978273185616062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092804291777937813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民营央企 https://t.co/pr2NLEtW9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092659506035793920",
+            "3_2092659558623977472",
+            "3_2092659598419496960",
+            "3_2092659613514846208"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2092804291777937813",
+        "created_at": "2026-08-27T02:40:00.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092804291777937813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nnYYf3ulPn",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092804291777937813/photo/1",
+              "media_key": "3_2092659506035793920",
+              "start": 62,
+              "url": "https://t.co/nnYYf3ulPn"
+            },
+            {
+              "display_url": "pic.x.com/nnYYf3ulPn",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092804291777937813/photo/1",
+              "media_key": "3_2092659558623977472",
+              "start": 62,
+              "url": "https://t.co/nnYYf3ulPn"
+            },
+            {
+              "display_url": "pic.x.com/nnYYf3ulPn",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092804291777937813/photo/1",
+              "media_key": "3_2092659598419496960",
+              "start": 62,
+              "url": "https://t.co/nnYYf3ulPn"
+            },
+            {
+              "display_url": "pic.x.com/nnYYf3ulPn",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092804291777937813/photo/1",
+              "media_key": "3_2092659613514846208",
+              "start": 62,
+              "url": "https://t.co/nnYYf3ulPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092804291777937813",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092659506035793920"
+          },
+          {
+            "media_key": "3_2092659558623977472"
+          },
+          {
+            "media_key": "3_2092659598419496960"
+          },
+          {
+            "media_key": "3_2092659613514846208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 174702,
+          "like_count": 999,
+          "quote_count": 7,
+          "reply_count": 187,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：因东莞华为终端总部周五下班人数较多，经东莞市协调，周边学校由双休改为单休。\n此外，该传言在社交网络引发多方讨论。 https://t.co/nnYYf3ulPn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092978273185616062",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 348,
+          "like_count": 129410,
+          "listed_count": 17,
+          "media_count": 1490,
+          "tweet_count": 22806
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2092977937117008068",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256940,
+          "following_count": 1081,
+          "like_count": 10260,
+          "listed_count": 8892,
+          "media_count": 52806,
+          "tweet_count": 60122
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

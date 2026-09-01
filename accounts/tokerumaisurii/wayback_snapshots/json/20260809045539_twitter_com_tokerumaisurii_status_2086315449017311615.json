@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2086217331374530751",
+    "created_at": "2026-08-09T04:55:39.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086315449017311615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861389716656144384",
+          "start": 0,
+          "username": "Poi74103175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086315449017311615",
+    "in_reply_to_user_id": "1861389716656144384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086311668049756597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poi74103175 我感觉主要还是需要运气😵‍💫"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086311668049756597].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086311668049756597",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086311668049756597"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2086217331374530751",
+        "created_at": "2026-08-09T04:55:39.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086315449017311615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861389716656144384",
+              "start": 0,
+              "username": "Poi74103175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086315449017311615",
+        "in_reply_to_user_id": "1861389716656144384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086311668049756597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poi74103175 我感觉主要还是需要运气😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086315449017311615",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4257,
+          "following_count": 346,
+          "like_count": 125930,
+          "listed_count": 17,
+          "media_count": 1457,
+          "tweet_count": 22266
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T12:41:17.000Z",
+        "description": "Poi家的🐧。由于是🐧所以不懂人类（",
+        "id": "1861389716656144384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2069306503950205045",
+        "name": "🐧ioq",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861389716656144384/1778129990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059803925461729280/cK0ZGfUH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 143,
+          "like_count": 3424,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 2473
+        },
+        "url": "",
+        "username": "Poi74103175",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

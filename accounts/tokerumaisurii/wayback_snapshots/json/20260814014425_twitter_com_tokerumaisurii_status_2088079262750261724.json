@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2087852023299592545",
+    "created_at": "2026-08-14T01:44:25.000Z",
+    "display_text_range": [
+      15,
+      182
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088079262750261724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1285577648861659137",
+          "start": 0,
+          "username": "vanillaCitron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088079262750261724",
+    "in_reply_to_user_id": "1285577648861659137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087852023299592545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanillaCitron 我写代码的一样会有你说的情况，因为Not now是一个缓和的选项，但Don't Allow很直接而且会有点舍不得下刀/怕错过重要通知的心情（FOMO了）。我觉得其实OS自带也应该做成Not now + Allow，默认状态本身确实也是Disallow，尤其是你苹果强调隐私——OS帮用户默认一个立场，用户“得选边站”的心智负担就小了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2087852023299592545",
+        "created_at": "2026-08-14T01:44:25.000Z",
+        "display_text_range": [
+          15,
+          182
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088079262750261724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1285577648861659137",
+              "start": 0,
+              "username": "vanillaCitron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088079262750261724",
+        "in_reply_to_user_id": "1285577648861659137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087852023299592545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanillaCitron 我写代码的一样会有你说的情况，因为Not now是一个缓和的选项，但Don't Allow很直接而且会有点舍不得下刀/怕错过重要通知的心情（FOMO了）。我觉得其实OS自带也应该做成Not now + Allow，默认状态本身确实也是Disallow，尤其是你苹果强调隐私——OS帮用户默认一个立场，用户“得选边站”的心智负担就小了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285577648861659137",
+        "conversation_id": "2087852023299592545",
+        "created_at": "2026-08-13T10:41:27.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087852023299592545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yatingzhao_ux/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/yatingzhao_ux/status/2087695637592600764",
+              "start": 144,
+              "url": "https://t.co/PHERSEtFJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087852023299592545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 8378,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087695637592600764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "FYI，据我的身边统计学来看，非互联网从业使用者使用时，右侧会让人觉得自己有选择，面对一无所知的 App 时一般会点 Not now。反而左侧这种一上来二话不说弹个系统提示框，会减少给人的思考空间，甚至有的小白用户觉得要继续就得同意，所以反而更多人点击同意。（dark pattern） https://t.co/PHERSEtFJw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088079262750261724",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4255,
+          "following_count": 346,
+          "like_count": 126719,
+          "listed_count": 17,
+          "media_count": 1463,
+          "tweet_count": 22396
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design engineer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "is_identity_verified": false,
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "most_recent_tweet_id": "2087962327861891541",
+        "name": "citron🍢🍋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285577648861659137/1637980528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 1187,
+          "like_count": 20850,
+          "listed_count": 24,
+          "media_count": 1019,
+          "tweet_count": 7507
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

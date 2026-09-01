@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2090728511346774475",
+    "created_at": "2026-08-21T13:22:07.000Z",
+    "display_text_range": [
+      13,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090791560656949558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090791560656949558",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090728511346774475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 我很震惊竟然是GPT这种随便subscription登录的最先和sub2api明着开杠，而不是Claude这种订阅除了官方产品之外几乎用不了的东西……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2090728421022367745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPCa_jaAAENVwy.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2090728511346774475",
+        "created_at": "2026-08-21T13:22:07.000Z",
+        "display_text_range": [
+          13,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090791560656949558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090791560656949558",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090728511346774475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 我很震惊竟然是GPT这种随便subscription登录的最先和sub2api明着开杠，而不是Claude这种订阅除了官方产品之外几乎用不了的东西……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090728421022367745"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2090728511346774475",
+        "created_at": "2026-08-21T09:11:35.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090728511346774475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 - 哥别睡了，该起来和 openai 对线了 · Issue #5959 · Wei-Shaw/sub2api",
+              "display_url": "github.com/Wei-Shaw/sub2a…",
+              "end": 44,
+              "expanded_url": "https://github.com/Wei-Shaw/sub2api/issues/5959",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2090700989447950336/iZkggCFP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090700989447950336/iZkggCFP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "哥别睡了，该起来和 openai 对线了 · Issue #5959 · Wei-Shaw/sub2api",
+              "unwound_url": "https://github.com/Wei-Shaw/sub2api/issues/5959",
+              "url": "https://t.co/hrAIxDv3l1"
+            },
+            {
+              "display_url": "pic.x.com/tsJe6L5QpW",
+              "end": 68,
+              "expanded_url": "https://x.com/realNyarime/status/2090728511346774475/photo/1",
+              "media_key": "3_2090728421022367745",
+              "start": 45,
+              "url": "https://t.co/tsJe6L5QpW"
+            },
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2090675027670978569",
+              "start": 69,
+              "url": "https://t.co/u8JBZaHKar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090728511346774475",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090728421022367745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16884,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090675027670978569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥别睡了，Tibo要干你Sub2API了\nhttps://t.co/hrAIxDv3l1 https://t.co/tsJe6L5QpW https://t.co/u8JBZaHKar"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090791560656949558",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 347,
+          "like_count": 127861,
+          "listed_count": 17,
+          "media_count": 1474,
+          "tweet_count": 22623
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2090791270591742260",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44312,
+          "following_count": 667,
+          "like_count": 21736,
+          "listed_count": 192,
+          "media_count": 2637,
+          "tweet_count": 18034
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

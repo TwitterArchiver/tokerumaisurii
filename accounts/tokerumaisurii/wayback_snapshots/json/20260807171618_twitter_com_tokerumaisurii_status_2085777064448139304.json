@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085663875660476416"
+      ],
+      "media_source_tweet_id": [
+        "2085663880139981147"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2085777064448139304",
+    "created_at": "2026-08-07T17:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085777064448139304"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "原神"
+        },
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "コロンビーナ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2081649240481370112",
+          "start": 3,
+          "username": "kw7j9k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Foli7828Bt",
+          "end": 50,
+          "expanded_url": "https://x.com/kw7j9k/status/2085663880139981147/photo/1",
+          "media_key": "3_2085663875660476416",
+          "start": 27,
+          "url": "https://t.co/Foli7828Bt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085777064448139304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085663880139981147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kw7j9k: 🌙🪽\n#原神 #コロンビーナ https://t.co/Foli7828Bt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085663875660476416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHEPp2bcAAEAAc.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085663875660476416"
+          ]
+        },
+        "author_id": "2081649240481370112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2085663880139981147",
+        "created_at": "2026-08-07T09:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085663880139981147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "原神"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "コロンビーナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Foli7828Bt",
+              "end": 38,
+              "expanded_url": "https://x.com/kw7j9k/status/2085663880139981147/photo/1",
+              "media_key": "3_2085663875660476416",
+              "start": 15,
+              "url": "https://t.co/Foli7828Bt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085663880139981147",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 13375,
+          "like_count": 2222,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "🌙🪽\n#原神 #コロンビーナ https://t.co/Foli7828Bt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085663875660476416"
+          ],
+          "media_source_tweet_id": [
+            "2085663880139981147"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2085777064448139304",
+        "created_at": "2026-08-07T17:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085777064448139304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "原神"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "コロンビーナ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2081649240481370112",
+              "start": 3,
+              "username": "kw7j9k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Foli7828Bt",
+              "end": 50,
+              "expanded_url": "https://x.com/kw7j9k/status/2085663880139981147/photo/1",
+              "media_key": "3_2085663875660476416",
+              "start": 27,
+              "url": "https://t.co/Foli7828Bt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085777064448139304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085663880139981147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kw7j9k: 🌙🪽\n#原神 #コロンビーナ https://t.co/Foli7828Bt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15033 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4257,
+          "following_count": 346,
+          "like_count": 125538,
+          "listed_count": 16,
+          "media_count": 1455,
+          "tweet_count": 22211
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-27T07:55:55.000Z",
+        "description": "雑多垢/ホヨバ作品多め",
+        "id": "2081649240481370112",
+        "name": "ボブ山田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083043471489896448/yoczjuPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 47,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "kw7j9k",
+        "verified": false
+      }
+    ]
+  }
+}

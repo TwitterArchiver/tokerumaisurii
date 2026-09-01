@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1427786661203562498",
+          "name": "AliExpress"
+        }
+      }
+    ],
+    "conversation_id": "2089832836530315694",
+    "created_at": "2026-08-18T21:52:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089832836530315694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1236903146846183424",
+          "start": 3,
+          "username": "sakanananami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089832836530315694",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089734887355859226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakanananami: plz help share！\nGuys!! Our Reimilia Apple is finally here! 🍎✨\nShe’s now available on AliExpress, complete with her little…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2089733702305579008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA5uvkWAAAtF7p.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1139,
+        "media_key": "3_2089733697331216385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA5udCXQAE4cJC.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1427786661203562498",
+              "name": "AliExpress"
+            }
+          }
+        ],
+        "conversation_id": "2089832836530315694",
+        "created_at": "2026-08-18T21:52:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089832836530315694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1236903146846183424",
+              "start": 3,
+              "username": "sakanananami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089832836530315694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089734887355859226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakanananami: plz help share！\nGuys!! Our Reimilia Apple is finally here! 🍎✨\nShe’s now available on AliExpress, complete with her little…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089733702305579008",
+            "3_2089733697331216385"
+          ]
+        },
+        "author_id": "1236903146846183424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1427786661203562498",
+              "name": "AliExpress"
+            }
+          }
+        ],
+        "conversation_id": "2089734887355859226",
+        "created_at": "2026-08-18T15:23:17.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089734887355859226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Smarter Shopping, Better Living! Aliexpress.com",
+              "display_url": "de.aliexpress.com/item/100501297…",
+              "end": 201,
+              "expanded_url": "https://de.aliexpress.com/item/1005012975996167.html?gatewayAdapt=glo2deu",
+              "start": 178,
+              "status": 200,
+              "title": "【Original】Remilia Apple Flandre Plush Toy Fan Project Mysterious Sea Touhou Project Cotton Doll, Collectible Soft Gift",
+              "unwound_url": "https://www.aliexpress.us/item/3256812789681415.html?gatewayAdapt=deu2usa4itemAdapt&_randl_shipto=US",
+              "url": "https://t.co/b7NCbNEn0E"
+            },
+            {
+              "display_url": "pic.x.com/jZTUbt8s8o",
+              "end": 225,
+              "expanded_url": "https://x.com/sakanananami/status/2089734887355859226/photo/1",
+              "media_key": "3_2089733702305579008",
+              "start": 202,
+              "url": "https://t.co/jZTUbt8s8o"
+            },
+            {
+              "display_url": "pic.x.com/jZTUbt8s8o",
+              "end": 225,
+              "expanded_url": "https://x.com/sakanananami/status/2089734887355859226/photo/1",
+              "media_key": "3_2089733697331216385",
+              "start": 202,
+              "url": "https://t.co/jZTUbt8s8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089734887355859226",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089733702305579008"
+          },
+          {
+            "media_key": "3_2089733697331216385"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 4227,
+          "like_count": 363,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "plz help share！\nGuys!! Our Reimilia Apple is finally here! 🍎✨\nShe’s now available on AliExpress, complete with her little hat and wings!\nCome grab one and take her home! ❤️\nlink：https://t.co/b7NCbNEn0E https://t.co/jZTUbt8s8o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15052 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089832836530315694",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 347,
+          "like_count": 127527,
+          "listed_count": 17,
+          "media_count": 1468,
+          "tweet_count": 22560
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-09T06:34:41.000Z",
+        "description": "普通人\n东方同人社团【秘海潮汐】主催，简繁中文/English/日本語\nTouhou doujin circle 【 Mysterious Sea 】 main reminder",
+        "id": "1236903146846183424",
+        "is_identity_verified": false,
+        "location": "♞",
+        "most_recent_tweet_id": "2089753046851223883",
+        "name": "🌸はなみ",
+        "pinned_tweet_id": "2055681440478859281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236903146846183424/1648368938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906370243959926784/P9yY4-N0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 939,
+          "like_count": 15185,
+          "listed_count": 6,
+          "media_count": 314,
+          "tweet_count": 2897
+        },
+        "url": "",
+        "username": "sakanananami",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
