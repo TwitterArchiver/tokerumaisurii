@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2100866639113732366",
+    "created_at": "2026-09-18T08:36:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T09:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100866639113732366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "180651861",
+          "start": 3,
+          "username": "ferstar_org"
+        },
+        {
+          "end": 29,
+          "id": "1726486879456096256",
+          "start": 21,
+          "username": "Zai_org"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100866639113732366",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100805861002355154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ferstar_org: Hey @Zai_org , why does ZCode silently pack entire workspaces + full .git history and upload to Aliyun OSS on login?\n- Ser…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2100866639113732366",
+        "created_at": "2026-09-18T08:36:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100866639113732366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "180651861",
+              "start": 3,
+              "username": "ferstar_org"
+            },
+            {
+              "end": 29,
+              "id": "1726486879456096256",
+              "start": 21,
+              "username": "Zai_org"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100866639113732366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100805861002355154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ferstar_org: Hey @Zai_org , why does ZCode silently pack entire workspaces + full .git history and upload to Aliyun OSS on login?\n- Ser…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "180651861",
+        "conversation_id": "2100805861002355154",
+        "created_at": "2026-09-18T04:35:23.000Z",
+        "display_text_range": [
+          0,
+          268
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100805861002355154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726486879456096256",
+              "start": 4,
+              "username": "Zai_org"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ZCode silently packages your entire workspace along with full Git history and uploads it to cloud object storage with server-exclusive decryption keys; this post reconstructs the complete upload pipeline and encryption scheme via local forensics and reverse engineering, and provides a filesystem immutability lock to terminate the behavior permanently.",
+              "display_url": "blog.ferstar.org/en/posts/zcode…",
+              "end": 268,
+              "expanded_url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+              "start": 245,
+              "status": 200,
+              "title": "Inside ZCode: Silently Uploading Your Entire Git History to the Cloud",
+              "unwound_url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+              "url": "https://t.co/N3HnwZdQOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100805861002355154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 194210,
+          "like_count": 944,
+          "quote_count": 125,
+          "reply_count": 83,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "Hey @Zai_org , why does ZCode silently pack entire workspaces + full .git history and upload to Aliyun OSS on login?\n- Server holds the only decryption key\n- No UI toggle to disable\n- Zero disclosure in privacy policy\n\nFull forensics &amp; fix:\nhttps://t.co/N3HnwZdQOQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100866639113732366",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 352,
+          "like_count": 133277,
+          "listed_count": 17,
+          "media_count": 1541,
+          "tweet_count": 23471
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-20T04:02:18.000Z",
+        "description": "",
+        "id": "180651861",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100840390073139637",
+        "name": "ferstar",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180651861/1447396470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/665055292460171265/oQjDE7r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 160,
+          "like_count": 784,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "ferstar_org",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-20T06:25:51.000Z",
+        "description": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\nhttps://t.co/gOw7WpwkJt\nhttps://t.co/ot9sGVXU8x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/zai-org",
+                "end": 120,
+                "expanded_url": "http://huggingface.co/zai-org",
+                "start": 97,
+                "url": "https://t.co/gOw7WpwkJt"
+              },
+              {
+                "display_url": "discord.com/invite/QR7SARH…",
+                "end": 144,
+                "expanded_url": "http://discord.com/invite/QR7SARHRxK",
+                "start": 121,
+                "url": "https://t.co/ot9sGVXU8x"
+              }
+            ]
+          }
+        },
+        "id": "1726486879456096256",
+        "is_identity_verified": false,
+        "location": "user_feedback@z.ai",
+        "most_recent_tweet_id": "2100482396676112856",
+        "name": "Z.ai",
+        "pinned_tweet_id": "2100481236364079277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726486879456096256/1786708959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970775077181411328/W8XKaUIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160616,
+          "following_count": 268,
+          "like_count": 1515,
+          "listed_count": 1562,
+          "media_count": 235,
+          "tweet_count": 1252
+        },
+        "url": "",
+        "username": "Zai_org",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098423420421836800"
+      ],
+      "media_source_tweet_id": [
+        "2098423447240028200"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2098787761851441435",
+    "created_at": "2026-09-12T14:56:10.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098787761851441435"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 14,
+          "tag": "chunithm_art"
+        },
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "chunithm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692616953196617728",
+          "start": 3,
+          "username": "weros_23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4fIPrcvi6",
+          "end": 69,
+          "expanded_url": "https://x.com/weros_23/status/2098423447240028200/photo/1",
+          "media_key": "3_2098423420421836800",
+          "start": 46,
+          "url": "https://t.co/W4fIPrcvi6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098787761851441435",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098423420421836800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098423447240028200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weros_23: #chunithm_art \n#chunithm \n\n旧图重绘 https://t.co/W4fIPrcvi6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2098423420421836800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8Y-6KakAAsx6j.jpg",
+        "width": 773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098423420421836800"
+          ],
+          "media_source_tweet_id": [
+            "2098423447240028200"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2098787761851441435",
+        "created_at": "2026-09-12T14:56:10.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098787761851441435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 14,
+              "tag": "chunithm_art"
+            },
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "chunithm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692616953196617728",
+              "start": 3,
+              "username": "weros_23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4fIPrcvi6",
+              "end": 69,
+              "expanded_url": "https://x.com/weros_23/status/2098423447240028200/photo/1",
+              "media_key": "3_2098423420421836800",
+              "start": 46,
+              "url": "https://t.co/W4fIPrcvi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098787761851441435",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098423420421836800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098423447240028200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weros_23: #chunithm_art \n#chunithm \n\n旧图重绘 https://t.co/W4fIPrcvi6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098423420421836800"
+          ]
+        },
+        "author_id": "1692616953196617728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2098423447240028200",
+        "created_at": "2026-09-11T14:48:31.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098423447240028200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "chunithm_art"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "chunithm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4fIPrcvi6",
+              "end": 55,
+              "expanded_url": "https://x.com/weros_23/status/2098423447240028200/photo/1",
+              "media_key": "3_2098423420421836800",
+              "start": 32,
+              "url": "https://t.co/W4fIPrcvi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098423447240028200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098423420421836800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 5838,
+          "like_count": 589,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "#chunithm_art \n#chunithm \n\n旧图重绘 https://t.co/W4fIPrcvi6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098787761851441435",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4367,
+          "following_count": 352,
+          "like_count": 132352,
+          "listed_count": 17,
+          "media_count": 1530,
+          "tweet_count": 23277
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-18T19:18:33.000Z",
+        "description": "絵を描くのが好き(`･ω･´)｜ai學習🚫｜R₁₈向→@suzuno114514｜彼氏:@Kuclly77ox｜裏垢→@rinamesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "suzuno114514"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Kuclly77ox"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "rinamesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/68361718",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/68361718",
+                "start": 0,
+                "url": "https://t.co/1ZBFXdZKsa"
+              }
+            ]
+          }
+        },
+        "id": "1692616953196617728",
+        "is_identity_verified": false,
+        "location": "ウミウシの家 ₍ ᐢ⑉  ⑉ᐢ   ₎๑",
+        "most_recent_tweet_id": "2098659269780312475",
+        "name": "weros🫧",
+        "pinned_tweet_id": "2096369298209976641",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692616953196617728/1781461670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089319230596374528/wXfKjcbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 108,
+          "like_count": 2176,
+          "listed_count": 5,
+          "media_count": 689,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/1ZBFXdZKsa",
+        "username": "weros_23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

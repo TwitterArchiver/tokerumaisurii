@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2097981072944296153",
+    "created_at": "2026-09-11T02:02:33.000Z",
+    "display_text_range": [
+      9,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098230687991988718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3412724687",
+          "start": 0,
+          "username": "BtreeWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098230687991988718",
+    "in_reply_to_user_id": "3412724687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097981072944296153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BtreeWw （-----  发布自 iPhone）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2097981072944296153",
+        "created_at": "2026-09-11T02:02:33.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098230687991988718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3412724687",
+              "start": 0,
+              "username": "BtreeWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098230687991988718",
+        "in_reply_to_user_id": "3412724687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097981072944296153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BtreeWw （-----  发布自 iPhone）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3412724687",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2097981072944296153",
+        "created_at": "2026-09-10T09:30:41.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097981072944296153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097981072944296153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "长文吐槽为什么Gooogle/Android做不好折叠屏。\n\n我也是多年的Android开发者了，曾经短暂的在谷歌工作过，好巧不巧所在的组就是负责折叠屏的System API，所以这一块我还是比较有发言权。\n看到苹果折叠屏完成度这么高，确实有点不吐不快。\n我总结了下大概有四个最大的问题：\n\n1. Google对硬件完全没有掌控权\n\n谷歌对比苹果最大的劣势就是对硬件没有掌控权，这导致系统API和硬件是割裂的。\n三星早早在Google没想过的时候就已经在研究折叠屏了。导致的结果就是三星自己已经魔改了很多AOSP的代码来适配他们的折叠屏，而这些代码又由于很多因素并不可能反馈给AOSP进主分支。\n这也就意味着Android系统更新永远比硬件慢一拍。有多慢呢？至少是一到两年。\n所以三星不想和谷歌合作这个API，国内厂商更需要速度。导致的结果就是每个Android OEM都有自己的一套适配方案。那开发者必然就不会为每一个厂商做适配。做过适配的就应该知道如果把App修改到完美适配有多复杂，多少工作量。所以很多App大概也就是保证折叠屏下是一个能看的程度就可以了。\n类似的问题在Android也算是屡见不鲜了，比如消息推送，在2026年的今天，国产Android仍然没有统一的消息推送渠道。每个开发者只能尽可能覆盖各个厂商。\n\n2. 谷歌内部混乱\n\n谷歌这家公司大家了解的都知道，有时候组和组的沟通那可能比你和另一个公司沟通都难。\n折叠屏当年也算是一个很高的优先级，甚至是整个PA的OKR，这也就是为什么你能看到谷歌在某一个时期非常重视宣传折叠屏并给出了整套的开发者工具。但是后来Pixel从AOSP分叉，再加上全球裁员，ChatGPT的冲击等等。导致谷歌内部优先级都管理不好，折叠屏这种“小众”需求也不一定有那么高的优先级了。即便有，加上公司内部组沟通的问题，Pixel组想做的东西AOSP组不一定能支持。AOSP组一方面想支持Pixel另一方面又要考虑其他OEM，做出来的API就肯定不如iOS那么高度集成。\n举个大家能看到的例子：众所周知苹果的端上大模型也是谷歌做的。但是iOS的LLM API完成度要远高于Android。就算今天，structured output的API仍在Alpha，而苹果年初就已经有整个LLM Session/ToolCall/Structure output的API了。\n甚至我个人猜测，做API的组可能和Deepmind的合作密切程度不如苹果和GDM更深入。\n\n3. 国产厂商不敢尝试\n\n国产Android大家也都知道了。做东西经常畏首畏尾。销量不好的东西立马砍掉，头部公司（多数指苹果）不做的东西能不做就不做。\n即便能找来优秀的设计师，软硬件工程师。仍要无脑抄袭苹果。阔折叠这种形态Oppo Find N2就探索过了，甚至刘作虎本人在发布会预言：“如果苹果有一天做折叠屏，我相信也是这个尺寸”。甚至现在我们看到他都已经预言成功了。\n但是结果呢？从此以后再也没人尝试了，反而今年大家听说苹果要出阔折叠了。各家胆子又大起来了，立马出了自己的阔折叠手机。\n\n4. 苹果独特的生态位\n\n苹果生态位对比Android太特殊了。苹果出新功能，比如灵动岛。大家只会抢着去适配。如果你不适配，用户只会骂你App垃圾。\n但是Android折叠屏呢? 你不适配大概率用户还是会自适应，或者骂两句三星不行，或者OV不行，适配做的不好。\n开发者不适配，用户就不爱买，用户不爱买，市场份额就越来越小，市场份额小，开发者就更没有动机去适配。\n每一个Android上的独特功能都几乎必然会经历这个死亡螺旋。\n唯一破解的方案就是等苹果出个类似的功能，然后大家抢着适配，祈祷公司能看到 哦，原来Android也有早就有类似的功能，那我们趁机也适配一下吧。而实际其实也不一定能发生，因为适配了就会发现，别人iOS大概率只做一套。Android需要华为小米Oppo,Vivo，三星,Pixel都做一套。结果就是那就谁都别做了，或者只做华为。\n\n综上，我真心希望在我有生之年，Android也能不靠苹果来打破这个死亡螺旋。不过就目前来看，在我可见的未来，应该很难看到了。\n\n                                                            -----  发布自 iPhone"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 23871,
+          "like_count": 224,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "长文吐槽为什么Gooogle/Android做不好折叠屏。\n\n我也是多年的Android开发者了，曾经短暂的在谷歌工作过，好巧不巧所在的组就是负责折叠屏的System API，所以这一块我还是比较有发言权。\n看到苹果折叠屏完成度这么高，确实有点不吐不快。\n我总结了下大概有四个最大的问题：\n\n1."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098230687991988718",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 352,
+          "like_count": 131857,
+          "listed_count": 17,
+          "media_count": 1524,
+          "tweet_count": 23213
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-10T13:45:45.000Z",
+        "description": "SWE @Uber mobile ML/AI platform. Ex: Tesla/Google\nHuman Native.\nTry Decoder to decode your dota2!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "Uber"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "phylactery.dota2tavern.org",
+                "end": 23,
+                "expanded_url": "https://phylactery.dota2tavern.org/",
+                "start": 0,
+                "url": "https://t.co/0gK9RjuSDF"
+              }
+            ]
+          }
+        },
+        "id": "3412724687",
+        "is_identity_verified": false,
+        "location": "Amsterdam",
+        "most_recent_tweet_id": "2098086204193325078",
+        "name": "BinaryTree",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3412724687/1780234524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061078915087581190/T24A1lu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 295,
+          "like_count": 2131,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/0gK9RjuSDF",
+        "username": "BtreeWw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

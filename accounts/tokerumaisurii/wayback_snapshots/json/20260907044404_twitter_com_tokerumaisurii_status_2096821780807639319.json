@@ -1,0 +1,613 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096256696087908352"
+      ],
+      "media_source_tweet_id": [
+        "2096256704174538925"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "2096821780807639319",
+    "created_at": "2026-09-07T04:44:04.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096821780807639319"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 39,
+          "tag": "珠洲島有栖生誕祭2026"
+        },
+        {
+          "end": 64,
+          "start": 53,
+          "tag": "ongeki_art"
+        },
+        {
+          "end": 81,
+          "start": 65,
+          "tag": "有栖ちゃんにプレゼントを贈ろう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1546050762995707906",
+          "start": 3,
+          "username": "nyapumikan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YgZTrsQWsf",
+          "end": 105,
+          "expanded_url": "https://x.com/nyapumikan_/status/2096256704174538925/photo/1",
+          "media_key": "3_2096256696087908352",
+          "start": 82,
+          "url": "https://t.co/YgZTrsQWsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096821780807639319",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096256696087908352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096256704174538925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyapumikan_: という事で、私からはお誕生日ラーメンを🥰🍜\n#珠洲島有栖生誕祭2026\n#ongeki_art\n#有栖ちゃんにプレゼントを贈ろう https://t.co/YgZTrsQWsf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096256696087908352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdmW9BakAAzCDC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096256696087908352"
+          ],
+          "media_source_tweet_id": [
+            "2096256704174538925"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2096821780807639319",
+        "created_at": "2026-09-07T04:44:04.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096821780807639319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 39,
+              "tag": "珠洲島有栖生誕祭2026"
+            },
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "ongeki_art"
+            },
+            {
+              "end": 81,
+              "start": 65,
+              "tag": "有栖ちゃんにプレゼントを贈ろう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546050762995707906",
+              "start": 3,
+              "username": "nyapumikan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgZTrsQWsf",
+              "end": 105,
+              "expanded_url": "https://x.com/nyapumikan_/status/2096256704174538925/photo/1",
+              "media_key": "3_2096256696087908352",
+              "start": 82,
+              "url": "https://t.co/YgZTrsQWsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096821780807639319",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096256696087908352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096256704174538925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyapumikan_: という事で、私からはお誕生日ラーメンを🥰🍜\n#珠洲島有栖生誕祭2026\n#ongeki_art\n#有栖ちゃんにプレゼントを贈ろう https://t.co/YgZTrsQWsf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096256696087908352"
+          ]
+        },
+        "author_id": "1546050762995707906",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2096256704174538925",
+        "created_at": "2026-09-05T15:18:39.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096256704174538925"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 22,
+              "tag": "珠洲島有栖生誕祭2026"
+            },
+            {
+              "end": 47,
+              "start": 36,
+              "tag": "ongeki_art"
+            },
+            {
+              "end": 64,
+              "start": 48,
+              "tag": "有栖ちゃんにプレゼントを贈ろう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgZTrsQWsf",
+              "end": 88,
+              "expanded_url": "https://x.com/nyapumikan_/status/2096256704174538925/photo/1",
+              "media_key": "3_2096256696087908352",
+              "start": 65,
+              "url": "https://t.co/YgZTrsQWsf"
+            },
+            {
+              "display_url": "x.com/nyapumikan_/st…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/nyapumikan_/status/2096255949363429754",
+              "start": 89,
+              "url": "https://t.co/Et2pjrPPnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096256704174538925",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096256696087908352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 29675,
+          "like_count": 1469,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096255949363429754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "という事で、私からはお誕生日ラーメンを🥰🍜\n#珠洲島有栖生誕祭2026\n#ongeki_art\n#有栖ちゃんにプレゼントを贈ろう https://t.co/YgZTrsQWsf https://t.co/Et2pjrPPnU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096821780807639319",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 353,
+          "like_count": 131203,
+          "listed_count": 17,
+          "media_count": 1509,
+          "tweet_count": 23114
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-10T08:37:17.000Z",
+        "description": "5歳児のママです。 イラスト描きます。余裕が出てきたらまたパン焼きたい。skeb (停止中)→https://t.co/F5djaYK8i4 pixiv→ https://t.co/u5dJlamGES",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nyapumikan_",
+                "end": 70,
+                "expanded_url": "https://skeb.jp/@nyapumikan_",
+                "start": 47,
+                "url": "https://t.co/F5djaYK8i4"
+              },
+              {
+                "display_url": "pixiv.net/users/18918373",
+                "end": 101,
+                "expanded_url": "https://www.pixiv.net/users/18918373",
+                "start": 78,
+                "url": "https://t.co/u5dJlamGES"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/GA37wtug4Icv…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/GA37wtug4IcvQkguER6Lzba09452",
+                "start": 0,
+                "url": "https://t.co/mOhPs4fVQx"
+              }
+            ]
+          }
+        },
+        "id": "1546050762995707906",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096466600019062969",
+        "name": "まなぷしゅ",
+        "pinned_tweet_id": "2096256704174538925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546050762995707906/1663792600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096476517337632768/4zhd0yR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 490,
+          "like_count": 1858,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 1937
+        },
+        "url": "https://t.co/mOhPs4fVQx",
+        "username": "nyapumikan_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

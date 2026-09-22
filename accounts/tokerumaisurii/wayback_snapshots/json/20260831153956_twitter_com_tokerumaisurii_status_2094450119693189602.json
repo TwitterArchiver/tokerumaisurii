@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2094404180761035172",
+    "created_at": "2026-08-31T15:39:56.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094450119693189602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094450119693189602",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094404180761035172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RETURN8964 我记得是退学了要重新高考？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094404180761035172].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094404180761035172",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094404180761035172"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2094404180761035172",
+        "created_at": "2026-08-31T15:39:56.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094450119693189602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094450119693189602",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094404180761035172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RETURN8964 我记得是退学了要重新高考？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094450119693189602",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4275,
+          "following_count": 350,
+          "like_count": 130104,
+          "listed_count": 17,
+          "media_count": 1493,
+          "tweet_count": 22923
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "你将见证kvk分越高apex kd越低的奇观\n\n❤️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091586798858256641",
+        "name": "A3phys1a",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044319134326964224/1788034398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092007987997011968/Ssn7tOmE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 485,
+          "like_count": 27138,
+          "listed_count": 5,
+          "media_count": 599,
+          "tweet_count": 4464
+        },
+        "url": "",
+        "username": "RETURN8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

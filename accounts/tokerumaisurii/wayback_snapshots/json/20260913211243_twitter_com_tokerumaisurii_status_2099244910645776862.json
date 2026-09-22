@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2098925710366900227",
+    "created_at": "2026-09-13T21:12:43.000Z",
+    "display_text_range": [
+      25,
+      154
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T22:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099244910645776862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "277900089",
+          "start": 0,
+          "username": "geekterryc"
+        },
+        {
+          "end": 24,
+          "id": "1984941058929971200",
+          "start": 12,
+          "username": "0xCatCrypto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099244910645776862",
+    "in_reply_to_user_id": "277900089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099202170952581447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekterryc @0xCatCrypto 因为大多数代理软件（尤其移动端）和配置的过滤方法不是（或者说没有接口/能力进行）按本机源进程身份过滤，而是目标域名或者目标IP的GeoIP信息。除非你的配置是黑名单制，只代理确切知道被墙的网站和IP且回退默认直连，并且被墙的里面也没有美团可以用于收信的服务。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2098925710366900227",
+        "created_at": "2026-09-13T21:12:43.000Z",
+        "display_text_range": [
+          25,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T22:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099244910645776862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "277900089",
+              "start": 0,
+              "username": "geekterryc"
+            },
+            {
+              "end": 24,
+              "id": "1984941058929971200",
+              "start": 12,
+              "username": "0xCatCrypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099244910645776862",
+        "in_reply_to_user_id": "277900089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099202170952581447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekterryc @0xCatCrypto 因为大多数代理软件（尤其移动端）和配置的过滤方法不是（或者说没有接口/能力进行）按本机源进程身份过滤，而是目标域名或者目标IP的GeoIP信息。除非你的配置是黑名单制，只代理确切知道被墙的网站和IP且回退默认直连，并且被墙的里面也没有美团可以用于收信的服务。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "277900089",
+        "conversation_id": "2098925710366900227",
+        "created_at": "2026-09-13T18:22:53.000Z",
+        "display_text_range": [
+          13,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099202170952581447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984941058929971200",
+              "start": 0,
+              "username": "0xCatCrypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099202170952581447",
+        "in_reply_to_user_id": "1984941058929971200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2857,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098925710366900227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xCatCrypto 不懂，美团必定在白名单里，它的流量不过VPN，它要怎么知道我的国外IP？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099244910645776862",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4364,
+          "following_count": 351,
+          "like_count": 132721,
+          "listed_count": 17,
+          "media_count": 1531,
+          "tweet_count": 23320
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-06T06:54:45.000Z",
+        "description": "15年老号，网管，交易新手",
+        "id": "277900089",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099202170952581447",
+        "name": "特里",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000089404670/da3c81d89e1489a6e2ea2387d0d66017_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1558,
+          "like_count": 561,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "geekterryc",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-02T11:10:27.000Z",
+        "description": "币圈小韭菜/间歇性赌狗/Web3电子宠物/非主流定投交易员/目前正在学习ing/商务合作Tg:@CatEacc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "CatEacc"
+              }
+            ]
+          }
+        },
+        "id": "1984941058929971200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099197497298362820",
+        "name": "猫e/acc",
+        "pinned_tweet_id": "2099036196102119928",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984941058929971200/1768666297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984943727861739520/EHVruddG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 437,
+          "like_count": 1996,
+          "listed_count": 5,
+          "media_count": 638,
+          "tweet_count": 3697
+        },
+        "url": "",
+        "username": "0xCatCrypto",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

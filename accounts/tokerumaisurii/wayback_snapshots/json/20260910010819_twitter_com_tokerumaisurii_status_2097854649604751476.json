@@ -1,0 +1,594 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "847869481888096256",
+          "name": "Gambling"
+        }
+      }
+    ],
+    "conversation_id": "2097854649604751476",
+    "created_at": "2026-09-10T01:08:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T02:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097854649604751476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422573760083791877",
+          "start": 3,
+          "username": "ParkerThayer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097854649604751476",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3078
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097759699626328575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ParkerThayer: This post looks like the start of a VERY sophisticated and well-funded PR operation to get support for Democrats to regul…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2097854649604751476",
+        "created_at": "2026-09-10T01:08:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097854649604751476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422573760083791877",
+              "start": 3,
+              "username": "ParkerThayer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097854649604751476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3078
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097759699626328575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ParkerThayer: This post looks like the start of a VERY sophisticated and well-funded PR operation to get support for Democrats to regul…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422573760083791877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2097759699626328575",
+        "created_at": "2026-09-09T18:51:01.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:02:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097747606797734173",
+          "2097759699626328575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hilbertspaess/…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+              "start": 276,
+              "url": "https://t.co/lUFpCC6zoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097759699626328575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 842,
+                "id": "2349089630",
+                "start": 828,
+                "username": "_NathanCalvin"
+              },
+              {
+                "end": 890,
+                "id": "25776739",
+                "start": 875,
+                "username": "peterwildeford"
+              },
+              {
+                "end": 949,
+                "id": "1726760827452350464",
+                "start": 938,
+                "username": "DKokotajlo"
+              },
+              {
+                "end": 2566,
+                "id": "935718892546220034",
+                "start": 2555,
+                "username": "MaxNadeau_"
+              }
+            ]
+          },
+          "text": "This post looks like the start of a VERY sophisticated and well-funded PR operation to get support for Democrats to regulate AI into oblivion. Let me show you how it works:\n1.) This guy, with minimal followers and no previous account activity, goes to the Wall Street Journal which publishes an exclusive with quotes from him on his resignation 18 minutes BEFORE this post goes up. Planning was clearly done in advance.\n\n2.) Within hours, it has tens of thousands of reposts and the account has 100k+ followers. The post is punchy, quotable, it almost seems professionally written. The first three accounts to quote tweet it all do so within 15 minutes of the initial posting. Remember, this account had basically zero engagement beforehand, so an organic reach explanation seems unlikely.\n\nAccording to Grok those accounts are @_NathanCalvin (General Counsel at Encode AI), @peterwildeford (Head of Policy at the AI Policy Network), and @DKokotajlo (Head of the AI Futures Project), all of which are up-and-coming AI-Doomer policy advocacy nonprofits.\n\nThe AI Futures Project website says it is funded “primarily” by the Survival and Flourishing Fund, which says on its own website that it has advised Jaan Tallinn, Skype creator and one of the leading investors in Anthropic, to grant over $2.5 million to the AI Futures Project since 2024.\n\nEncode AI says on its website that it is ALSO funded by the Survival and Flourishing Fund, which in turn says that it told Anthropic investor Jaan Tallinn to grant $516,000 to Encode AI in 2025.\n\nAnd wouldn’t you know it, the Survival and Flourishing Fund ALSO says it told Jaan Tallinn to grant $2 million to the AI Policy Institute, the 501(c)(3) affiliate of the AI Policy Network, as well.\n\nWhat are the odds that the first three quote tweets of Coxon’s post would all be major AI-restriction policy advocates funded generously by the same donor, who also happens to be one of the leading investors in, and a board member of, Anthropic, the company Coxon was resigning from? And all within 15 minutes of posting (two within ten)?\n\n3.) Jacob Coxon doesn’t have much of a resume, but we do know that, in 2022, he got a $20,159 scholarship for the “long term future scholarship program” from the Good Ventures Foundation, one of the philanthropic vehicles of Dustin Moskovitz, a notorious AI-doomer who has spent tens if not hundreds of millions on policy advocacy to strictly regulate AI, while also being an Anthropic Investor himself.\n\nIt also just so happens that the 14th person to quote Coxon’s post was @MaxNadeau_ (27 minutes after posting) who is the program officer for the Technical AI Safety team at Coefficient Giving, another of Moskovitz’s philanthropic spending vehicles. Max is not a frequent poster, his last posts before quoting Coxon were before Labor Day, but he was remarkably quick off the mark for this one.\n\n4.) Basically every major Democrat politician and candidate has suddenly glommed on to this post, and conveniently, as the people cry out foe answers, Bernie Sanders already has a bill written to “ban super intelligence” and regulate AI into oblivion, and will be releasing later this week. The bill, among many other things, will create “a new cabinet-level federal agency to safeguard the public from the dangers of artificial intelligence” that will be “advised by an Artificial Intelligence Advisory Board comprised of experts on artificial intelligence.” Do you think, perhaps, Anthropic and its many investors who fund AI policy advocacy might have interest in getting to place a pet “expert” on the board of an entity that dictates what AI is and isn’t allowed to do? And isn’t it fortuitous that this whistleblower came forward  with his oh-so scary stories so close in proximity to the release of the most radical piece of AI legislation ever introduced?"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6057,
+          "impression_count": 2495598,
+          "like_count": 15888,
+          "quote_count": 1073,
+          "reply_count": 934,
+          "retweet_count": 3078
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097476196791709843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This post looks like the start of a VERY sophisticated and well-funded PR operation to get support for Democrats to regulate AI into oblivion. Let me show you how it works:\n1.) This guy, with minimal followers and no previous account activity, goes to the Wall Street Journal https://t.co/lUFpCC6zoT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097854649604751476",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4352,
+          "following_count": 352,
+          "like_count": 131658,
+          "listed_count": 17,
+          "media_count": 1521,
+          "tweet_count": 23179
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-03T15:03:17.000Z",
+        "description": "Investigative Researcher for @capitalresearch | Hillsdale College ‘21 | Opinions my own",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "capitalresearch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "capitalresearch.org",
+                "end": 23,
+                "expanded_url": "https://capitalresearch.org",
+                "start": 0,
+                "url": "https://t.co/2dQZAhM4Cj"
+              }
+            ]
+          }
+        },
+        "id": "1422573760083791877",
+        "is_identity_verified": true,
+        "location": "United States",
+        "most_recent_tweet_id": "2097851278655144142",
+        "name": "Parker Thayer",
+        "pinned_tweet_id": "2097763599267565940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422573760083791877/1679364989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899973763795410944/AHvEOJAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16275,
+          "following_count": 1797,
+          "like_count": 111800,
+          "listed_count": 99,
+          "media_count": 2106,
+          "tweet_count": 15628
+        },
+        "url": "https://t.co/2dQZAhM4Cj",
+        "username": "ParkerThayer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

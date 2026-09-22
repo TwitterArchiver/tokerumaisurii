@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2100836472844661184",
+    "created_at": "2026-09-18T06:37:01.000Z",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100836472844661184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2100235677048709216",
+          "start": 161,
+          "url": "https://t.co/L5trrJEMek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100836472844661184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100235677048709216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于把电话短信VoLTE之类的东西修完了。\n话说原来老中是没有Wi-Fi Calling的吗，我都没意识到，移植原厂配置的时候看到他们给全部MCC 460配置声明了不支持VoWiFi……\n\n之后得修好OTA能力，适配这台手机的特殊硬件（水冷、风扇、呼吸灯和肩键）。以及试着打开MTE，芯片是支持的，好像是固件没暴露出来？ https://t.co/L5trrJEMek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2100235672707579906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWJN4BWwAIBhrW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2100836472844661184",
+        "created_at": "2026-09-18T06:37:01.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100836472844661184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2100235677048709216",
+              "start": 161,
+              "url": "https://t.co/L5trrJEMek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100836472844661184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100235677048709216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于把电话短信VoLTE之类的东西修完了。\n话说原来老中是没有Wi-Fi Calling的吗，我都没意识到，移植原厂配置的时候看到他们给全部MCC 460配置声明了不支持VoWiFi……\n\n之后得修好OTA能力，适配这台手机的特殊硬件（水冷、风扇、呼吸灯和肩键）。以及试着打开MTE，芯片是支持的，好像是固件没暴露出来？ https://t.co/L5trrJEMek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100235672707579906"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2100235677048709216",
+        "created_at": "2026-09-16T14:49:40.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100235677048709216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXuiUS6bae",
+              "end": 154,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2100235677048709216/photo/1",
+              "media_key": "3_2100235672707579906",
+              "start": 131,
+              "url": "https://t.co/dXuiUS6bae"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2100064297535574506",
+              "start": 155,
+              "url": "https://t.co/HIezwHpQ9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100235677048709216",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100235672707579906"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3084,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100064297535574506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦呵呵呵呵呵最后一点GPT额度之前调试好了……小虚空不是蛆……\n\n免责声明：我移植着玩的。我知道可能缺内存安全标签机制，而且也没有Pixel那样的自签vbmeta支持。我有做过前期纯DSU启动测试，调试完一些严重问题例如SIM会死之后才上的实机刷写。只是好玩。 https://t.co/dXuiUS6bae https://t.co/HIezwHpQ9g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100836472844661184",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4391,
+          "following_count": 352,
+          "like_count": 133260,
+          "listed_count": 17,
+          "media_count": 1540,
+          "tweet_count": 23467
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

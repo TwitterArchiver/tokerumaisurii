@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "2098842613256200566",
+    "created_at": "2026-09-12T18:34:08.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098842613256200566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/twaystone/stat…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/twaystone/status/2098806499682205931",
+          "start": 77,
+          "url": "https://t.co/PCHnhheCsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098842613256200566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098806499682205931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道说Amodai其实是好人，他也非常愿意AI继续快速发展，只是面对压力才故作支持监管态，但是又故意政治激进以确保中国不会减速AI从而能让自己又有活路？ https://t.co/PCHnhheCsr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2098842613256200566",
+        "created_at": "2026-09-12T18:34:08.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098842613256200566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/twaystone/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/twaystone/status/2098806499682205931",
+              "start": 77,
+              "url": "https://t.co/PCHnhheCsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098842613256200566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098806499682205931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道说Amodai其实是好人，他也非常愿意AI继续快速发展，只是面对压力才故作支持监管态，但是又故意政治激进以确保中国不会减速AI从而能让自己又有活路？ https://t.co/PCHnhheCsr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217594292904124418",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2098778956791202028",
+        "created_at": "2026-09-12T16:10:38.000Z",
+        "display_text_range": [
+          13,
+          239
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098806499682205931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3216158848",
+              "start": 0,
+              "username": "Jsevillamol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098806499682205931",
+        "in_reply_to_user_id": "3216158848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 728,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098778956791202028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jsevillamol Having a normal relationship with China is extremly important for \"pacing\" part and yet he keeps on creating a hostile vibe.\n\nTime and time again his writing keeps poisoning the AI coordination trust well between China and US."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098842613256200566",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4366,
+          "following_count": 352,
+          "like_count": 132429,
+          "listed_count": 17,
+          "media_count": 1530,
+          "tweet_count": 23287
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-15T23:48:13.000Z",
+        "description": "reward maximizer & circuit weaver",
+        "id": "1217594292904124418",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098806499682205931",
+        "name": "Tway Stone",
+        "pinned_tweet_id": "1995601547477352694",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097597597586440192/eddfk9eQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 26,
+          "like_count": 5536,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "TwayStone",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-04-28T07:25:38.000Z",
+        "description": "CEO of @EpochAIResearch. Trying to glimpse the future of AI.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "EpochAIResearch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaimesevilla.me",
+                "end": 23,
+                "expanded_url": "https://jaimesevilla.me/",
+                "start": 0,
+                "url": "https://t.co/3BJgUIsfCd"
+              }
+            ]
+          }
+        },
+        "id": "3216158848",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098809121692877275",
+        "name": "Jaime Sevilla",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3216158848/1566597784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1470038309581864976/IZYOuUAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 704,
+          "like_count": 27543,
+          "listed_count": 155,
+          "media_count": 867,
+          "tweet_count": 10629
+        },
+        "url": "https://t.co/3BJgUIsfCd",
+        "username": "Jsevillamol",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

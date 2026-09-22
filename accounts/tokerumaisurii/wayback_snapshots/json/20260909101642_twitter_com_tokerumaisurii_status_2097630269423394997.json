@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2097414864389988412",
+    "created_at": "2026-09-09T10:16:42.000Z",
+    "display_text_range": [
+      10,
+      162
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T11:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097630269423394997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829109586571513856",
+          "start": 0,
+          "username": "fish2lab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097630269423394997",
+    "in_reply_to_user_id": "1829109586571513856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097623499263365593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish2lab 我现在的键盘也差不多，但这种其实最多叫macOS兼容键盘而不是标准的Mac配列。苹果键盘左command右侧和x右侧对齐、空格左侧和c左侧对齐是铁律，空格右侧也要和含c第五个的m右侧、或者第六个的逗号右侧对齐，fn也从来不在底行的空格右侧区域内（要么在左下角要么在主键区右侧的导航区Home旁边），等等。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2097414864389988412",
+        "created_at": "2026-09-09T10:16:42.000Z",
+        "display_text_range": [
+          10,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097630269423394997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829109586571513856",
+              "start": 0,
+              "username": "fish2lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097630269423394997",
+        "in_reply_to_user_id": "1829109586571513856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097623499263365593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish2lab 我现在的键盘也差不多，但这种其实最多叫macOS兼容键盘而不是标准的Mac配列。苹果键盘左command右侧和x右侧对齐、空格左侧和c左侧对齐是铁律，空格右侧也要和含c第五个的m右侧、或者第六个的逗号右侧对齐，fn也从来不在底行的空格右侧区域内（要么在左下角要么在主键区右侧的导航区Home旁边），等等。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829109586571513856",
+        "conversation_id": "2097414864389988412",
+        "created_at": "2026-09-09T09:49:48.000Z",
+        "display_text_range": [
+          16,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097623499263365593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097623499263365593",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097414864389988412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 洛斐小顺 flow2 倒是完全的 MAC 配列，但是续航和品控都一坨。最后还是回归妙控了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097630269423394997",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 353,
+          "like_count": 131434,
+          "listed_count": 17,
+          "media_count": 1518,
+          "tweet_count": 23158
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T10:51:43.000Z",
+        "description": "💻CS Senior | 🎓Incoming PhD Student | 📷GFX100s & GF45",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fish2lab.com",
+                "end": 23,
+                "expanded_url": "http://fish2lab.com",
+                "start": 0,
+                "url": "https://t.co/GuYd4IAvw3"
+              }
+            ]
+          }
+        },
+        "id": "1829109586571513856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097630250494722263",
+        "name": "Silas Su",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829109586571513856/1784192289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083898473683021824/TymDXDNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 138,
+          "like_count": 9619,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2623
+        },
+        "url": "https://t.co/GuYd4IAvw3",
+        "username": "fish2lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

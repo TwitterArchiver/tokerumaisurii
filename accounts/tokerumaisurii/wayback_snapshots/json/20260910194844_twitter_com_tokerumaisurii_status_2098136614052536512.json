@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2098136614052536512",
+    "created_at": "2026-09-10T19:48:44.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T20:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098136614052536512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/riba2534/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/riba2534/status/2098120354879459542",
+          "start": 10,
+          "url": "https://t.co/p97IGzrv31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098136614052536512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098120354879459542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "月之暗面要爆炸了啊 https://t.co/p97IGzrv31"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2098136614052536512",
+        "created_at": "2026-09-10T19:48:44.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098136614052536512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riba2534/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/riba2534/status/2098120354879459542",
+              "start": 10,
+              "url": "https://t.co/p97IGzrv31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098136614052536512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098120354879459542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "月之暗面要爆炸了啊 https://t.co/p97IGzrv31"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2992860902",
+        "conversation_id": "2098120354879459542",
+        "created_at": "2026-09-10T18:44:08.000Z",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098120354879459542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.",
+              "display_url": "anthropic.com/threat-intelli…",
+              "end": 23,
+              "expanded_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+              "start": 0,
+              "status": 200,
+              "title": "Countering misuse of AI: September 2026 / Anthropic",
+              "unwound_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+              "url": "https://t.co/zUlrYDNgUI"
+            },
+            {
+              "display_url": "x.com/AnthropicAI/st…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/AnthropicAI/status/2098097512544444447",
+              "start": 194,
+              "url": "https://t.co/4wGokK1HCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098120354879459542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "anthropic.com/threat-intelli…",
+                "end": 23,
+                "expanded_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+                "start": 0,
+                "url": "https://t.co/r1m5AlVMJl"
+              },
+              {
+                "display_url": "Z.ai",
+                "end": 434,
+                "expanded_url": "http://Z.ai",
+                "start": 411,
+                "url": "https://t.co/I5VZxu5EFq"
+              }
+            ]
+          },
+          "text": "https://t.co/r1m5AlVMJl\nAnthropic 公开点名 7 家中国大模型 “非法蒸馏”\n\n- 阿里千问（Qwen）：被指开展史上最大规模思维链（CoT）蒸馏，5-7 月达 1.51 亿次交互，峰值日请求 300 万次，用 3500+ 虚假账号抽取 Opus 4.6/4.7 推理链，用于训练 Qwen 3.5/3.6/3.7。\n- 月之暗面（Kimi）：被指在后台 “偷换后端”，把用户请求静默转发给 Claude Opus，再把结果还给用户。因数据截留，导致中国某地涉军 / 涉密单位监控画面、重大国企系统内部代码与生产密钥外泄至 Anthropic。\n- DeepSeek：同样被指使用跨会话重放破解思维签名，专门定向拦截使用 Claude Code / SDK 等工具的开发者流量转给 Claude。外泄数据包含某科技公司旗舰 AI 架构、俄国防部关联数据库凭据及地方公安维稳代码。\n- 智谱（https://t.co/I5VZxu5EFq）：试图蒸馏顶尖模型 Fable 网络攻防能力未果后，转用 Opus 4.6 评估打分其他被攻破的美国模型。\n- 小米、商汤、MiniMax：小米被指在公测期利用海外开发者会话重放给 Claude 洗数据；商汤采购黑产交互语料；MiniMax 被指通过空壳代理中继专卖美系模型以收割训练语料。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2143,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098097512544444447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/zUlrYDNgUI\nAnthropic 公开点名 7 家中国大模型 “非法蒸馏”\n\n- 阿里千问（Qwen）：被指开展史上最大规模思维链（CoT）蒸馏，5-7 月达 1.51 亿次交互，峰值日请求 300 万次，用 3500+ 虚假账号抽取 Opus 4.6/4.7 推理链，用于训练 Qwen 3.5/3.6/3.7。\n- 月之暗面（Kimi）：被指在后台 https://t.co/4wGokK1HCO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098136614052536512",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 352,
+          "like_count": 131796,
+          "listed_count": 17,
+          "media_count": 1524,
+          "tweet_count": 23203
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-23T03:37:52.000Z",
+        "description": "💻 服务端程序员 | Go/Py/Rs/C/C++\n🪙 BTC HODL | Don't Trust, Verify\n💰 DeFi 套利 | CeFi量化 | Yield Farmer\n📌 凡事有交代，件件有着落，事事有回音\n🤖 ALL IN AI.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/riba2534",
+                "end": 23,
+                "expanded_url": "https://github.com/riba2534",
+                "start": 0,
+                "url": "https://t.co/durR3xzU0w"
+              }
+            ]
+          }
+        },
+        "id": "2992860902",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2098120354879459542",
+        "name": "riba2534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2992860902/1507797583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984416007822225408/6iKVCdxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3664,
+          "following_count": 1412,
+          "like_count": 116,
+          "listed_count": 27,
+          "media_count": 176,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/durR3xzU0w",
+        "username": "riba2534",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

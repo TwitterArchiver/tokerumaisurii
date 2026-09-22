@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2095340950054940691",
+    "created_at": "2026-09-04T02:01:23.000Z",
+    "display_text_range": [
+      7,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T03:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095693678312354196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1823331804902051841",
+          "start": 0,
+          "username": "0z5aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095693678312354196",
+    "in_reply_to_user_id": "1823331804902051841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095340950054940691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0z5aa 好牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2095340950054940691",
+        "created_at": "2026-09-04T02:01:23.000Z",
+        "display_text_range": [
+          7,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095693678312354196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1823331804902051841",
+              "start": 0,
+              "username": "0z5aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095693678312354196",
+        "in_reply_to_user_id": "1823331804902051841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095340950054940691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0z5aa 好牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823331804902051841",
+        "conversation_id": "2095340950054940691",
+        "created_at": "2026-09-03T02:39:46.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095340950054940691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095340950054940691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8029,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的PR被vLLM-Omni合并了，正式成为contributor"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095693678312354196",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4309,
+          "following_count": 352,
+          "like_count": 130660,
+          "listed_count": 17,
+          "media_count": 1501,
+          "tweet_count": 23017
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T12:12:41.000Z",
+        "description": "B.A. Complinguistcs @uni_tue Contributor to @vllm_project Creator of InfraSWE \nAI Infra Lead of a startup in Shenzhen 非二元ADHD 皮下精神小妹偶尔弄点低质Cos 项目合作欢迎私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "uni_tue"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "vllm_project"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/0z5a",
+                "end": 23,
+                "expanded_url": "https://github.com/0z5a",
+                "start": 0,
+                "url": "https://t.co/E9ct6RxGch"
+              }
+            ]
+          }
+        },
+        "id": "1823331804902051841",
+        "is_identity_verified": false,
+        "location": "Tübingen, Deutschland",
+        "most_recent_tweet_id": "2095684929313202457",
+        "name": "天使向量機🖤⁺˚",
+        "pinned_tweet_id": "2082267536314528166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823331804902051841/1785157194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089362262045892608/egbL9d9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 273,
+          "like_count": 7656,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 3158
+        },
+        "url": "https://t.co/E9ct6RxGch",
+        "username": "0z5aa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

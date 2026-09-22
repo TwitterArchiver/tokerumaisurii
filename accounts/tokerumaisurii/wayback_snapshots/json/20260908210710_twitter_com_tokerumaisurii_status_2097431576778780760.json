@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097431571993169920"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "conversation_id": "2097431576778780760",
+    "created_at": "2026-09-08T21:07:10.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T22:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097431576778780760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QoqqBEQJ2",
+          "end": 134,
+          "expanded_url": "https://x.com/tokerumaisurii/status/2097431576778780760/photo/1",
+          "media_key": "3_2097431571993169920",
+          "start": 111,
+          "url": "https://t.co/8QoqqBEQJ2"
+        },
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2097414864389988412",
+          "start": 135,
+          "url": "https://t.co/ckEEYEAe9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097431576778780760",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097431571993169920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "这帮人真是手握生产线随便玩的艺术疯子，那几个功能键恐怕没有一个是正整的.25倍数u的，如果直接买市面上最接近的.25倍数u的键帽就必然没法配平出全键盘相同的键帽边缘间距，每行之间甚至单行之内都会不一样。\n\n一则例子如下：\n\n先以主流6.25u的空格作为确定项，要使“C左、逗号右”的两端对齐实现，那么（第五行的）键帽间空隙就是g=0.05u。此时，再考虑shift左到X右应与fn左到command右相等，而Z X fn control option均为标准1u，即α + g + 1u + g + 1u = 1u + g + 1u + g + 1u + g + β，或α = 1.05u + β，无法实现α与β均为0.25u的倍数；哪怕空格键订制，即不预设g与u的比例，也有α = 1u + g + β，此时除非g为0.25u的正整倍数，否则依旧无法用通用键帽做出，而哪怕g取最小的0.25u也是过于巨大反人体工学的键间空隙了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097414864389988412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这帮人真是手握生产线随便玩的艺术疯子，那几个功能键恐怕没有一个是正整的.25倍数u的，如果直接买市面上最接近的.25倍数u的键帽就必然没法配平出全键盘相同的键帽边缘间距，每行之间甚至单行之内都会不一样。\n\n一则例子如下： https://t.co/8QoqqBEQJ2 https://t.co/ckEEYEAe9N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2097431571993169920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuS5u1XkAAB-vn.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097431571993169920"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2097431576778780760",
+        "created_at": "2026-09-08T21:07:10.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097431576778780760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QoqqBEQJ2",
+              "end": 134,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2097431576778780760/photo/1",
+              "media_key": "3_2097431571993169920",
+              "start": 111,
+              "url": "https://t.co/8QoqqBEQJ2"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2097414864389988412",
+              "start": 135,
+              "url": "https://t.co/ckEEYEAe9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097431576778780760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097431571993169920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这帮人真是手握生产线随便玩的艺术疯子，那几个功能键恐怕没有一个是正整的.25倍数u的，如果直接买市面上最接近的.25倍数u的键帽就必然没法配平出全键盘相同的键帽边缘间距，每行之间甚至单行之内都会不一样。\n\n一则例子如下：\n\n先以主流6.25u的空格作为确定项，要使“C左、逗号右”的两端对齐实现，那么（第五行的）键帽间空隙就是g=0.05u。此时，再考虑shift左到X右应与fn左到command右相等，而Z X fn control option均为标准1u，即α + g + 1u + g + 1u = 1u + g + 1u + g + 1u + g + β，或α = 1.05u + β，无法实现α与β均为0.25u的倍数；哪怕空格键订制，即不预设g与u的比例，也有α = 1u + g + β，此时除非g为0.25u的正整倍数，否则依旧无法用通用键帽做出，而哪怕g取最小的0.25u也是过于巨大反人体工学的键间空隙了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097414864389988412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这帮人真是手握生产线随便玩的艺术疯子，那几个功能键恐怕没有一个是正整的.25倍数u的，如果直接买市面上最接近的.25倍数u的键帽就必然没法配平出全键盘相同的键帽边缘间距，每行之间甚至单行之内都会不一样。\n\n一则例子如下： https://t.co/8QoqqBEQJ2 https://t.co/ckEEYEAe9N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2097414864389988412",
+        "created_at": "2026-09-08T20:00:46.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097414864389988412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097414864389988412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一定要做出一把真正果式配列的客制化键盘……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097431576778780760",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4354,
+          "following_count": 353,
+          "like_count": 131358,
+          "listed_count": 17,
+          "media_count": 1517,
+          "tweet_count": 23142
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

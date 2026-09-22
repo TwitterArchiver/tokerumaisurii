@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2094891951153709294",
+    "created_at": "2026-09-01T22:26:31.000Z",
+    "display_text_range": [
+      23,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T23:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094914829844705513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1180145574030532608",
+          "start": 0,
+          "username": "y1kaah"
+        },
+        {
+          "end": 22,
+          "id": "1608817124704923648",
+          "start": 8,
+          "username": "Hyperbubuemia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094914829844705513",
+    "in_reply_to_user_id": "1180145574030532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094910926835106184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y1kaah @Hyperbubuemia 我好想要这个，这样就可以直接考试了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094910926835106184].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094910926835106184",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094910926835106184"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2094891951153709294",
+        "created_at": "2026-09-01T22:26:31.000Z",
+        "display_text_range": [
+          23,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T23:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094914829844705513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1180145574030532608",
+              "start": 0,
+              "username": "y1kaah"
+            },
+            {
+              "end": 22,
+              "id": "1608817124704923648",
+              "start": 8,
+              "username": "Hyperbubuemia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094914829844705513",
+        "in_reply_to_user_id": "1180145574030532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094910926835106184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y1kaah @Hyperbubuemia 我好想要这个，这样就可以直接考试了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094914829844705513",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4295,
+          "following_count": 352,
+          "like_count": 130379,
+          "listed_count": 17,
+          "media_count": 1497,
+          "tweet_count": 22967
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-04T15:40:15.000Z",
+        "description": "加拿大难民｜byelingual｜Class of 2029 @McMasterU ｜小号@cshak1y 不随便通过｜自用 https://t.co/oVbYTPbum2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "McMasterU"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "cshak1y"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 86,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=SHhtE0sI",
+                "start": 63,
+                "url": "https://t.co/oVbYTPbum2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y1kahsc.cv",
+                "end": 23,
+                "expanded_url": "http://y1kahsc.cv",
+                "start": 0,
+                "url": "https://t.co/LdyCXhaqEP"
+              }
+            ]
+          }
+        },
+        "id": "1180145574030532608",
+        "is_identity_verified": false,
+        "location": "距离你560m",
+        "most_recent_tweet_id": "2060230773131653286",
+        "name": "明太子重度依赖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180145574030532608/1725746068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864931538237890560/hvijzZWu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 660,
+          "like_count": 114755,
+          "listed_count": 4,
+          "media_count": 1325,
+          "tweet_count": 9153
+        },
+        "url": "https://t.co/LdyCXhaqEP",
+        "username": "y1kaah",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T13:28:18.000Z",
+        "description": "🐹🤍🏳️‍⚧️🍥",
+        "id": "1608817124704923648",
+        "is_identity_verified": false,
+        "location": "Hamilton 厦门",
+        "most_recent_tweet_id": "2094892846608248844",
+        "name": "布",
+        "pinned_tweet_id": "1753991720667083028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608817124704923648/1730001726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070640516044148736/NyR_id8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 860,
+          "like_count": 13255,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 7440
+        },
+        "url": "",
+        "username": "Hyperbubuemia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

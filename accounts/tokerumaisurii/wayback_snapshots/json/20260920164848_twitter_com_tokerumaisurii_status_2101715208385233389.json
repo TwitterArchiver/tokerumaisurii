@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101327803195277312",
+        "3_2101327803144863744"
+      ],
+      "media_source_tweet_id": [
+        "2101327807821615348",
+        "2101327807821615348"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2101715208385233389",
+    "created_at": "2026-09-20T16:48:48.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101715208385233389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "501756370",
+          "start": 3,
+          "username": "amakage4961"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CYlxOLt6Bw",
+          "end": 78,
+          "expanded_url": "https://x.com/amakage4961/status/2101327807821615348/photo/1",
+          "media_key": "3_2101327803195277312",
+          "start": 55,
+          "url": "https://t.co/CYlxOLt6Bw"
+        },
+        {
+          "display_url": "pic.x.com/CYlxOLt6Bw",
+          "end": 78,
+          "expanded_url": "https://x.com/amakage4961/status/2101327807821615348/photo/1",
+          "media_key": "3_2101327803144863744",
+          "start": 55,
+          "url": "https://t.co/CYlxOLt6Bw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101715208385233389",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101327803195277312"
+      },
+      {
+        "media_key": "3_2101327803144863744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101327807821615348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amakage4961: YouTubeのヘッダーとサムネイルをMAGiCAL仕様にして頂きました！ https://t.co/CYlxOLt6Bw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2101327803195277312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlqgPIbQAAicyc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2101327803144863744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlqgO8aAAAfL01.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101327803195277312",
+            "3_2101327803144863744"
+          ],
+          "media_source_tweet_id": [
+            "2101327807821615348",
+            "2101327807821615348"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2101715208385233389",
+        "created_at": "2026-09-20T16:48:48.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101715208385233389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "501756370",
+              "start": 3,
+              "username": "amakage4961"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYlxOLt6Bw",
+              "end": 78,
+              "expanded_url": "https://x.com/amakage4961/status/2101327807821615348/photo/1",
+              "media_key": "3_2101327803195277312",
+              "start": 55,
+              "url": "https://t.co/CYlxOLt6Bw"
+            },
+            {
+              "display_url": "pic.x.com/CYlxOLt6Bw",
+              "end": 78,
+              "expanded_url": "https://x.com/amakage4961/status/2101327807821615348/photo/1",
+              "media_key": "3_2101327803144863744",
+              "start": 55,
+              "url": "https://t.co/CYlxOLt6Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101715208385233389",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101327803195277312"
+          },
+          {
+            "media_key": "3_2101327803144863744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101327807821615348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amakage4961: YouTubeのヘッダーとサムネイルをMAGiCAL仕様にして頂きました！ https://t.co/CYlxOLt6Bw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101327803195277312",
+            "3_2101327803144863744"
+          ]
+        },
+        "author_id": "501756370",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2101327807821615348",
+        "created_at": "2026-09-19T15:09:24.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101327807821615348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYlxOLt6Bw",
+              "end": 61,
+              "expanded_url": "https://x.com/amakage4961/status/2101327807821615348/photo/1",
+              "media_key": "3_2101327803195277312",
+              "start": 38,
+              "url": "https://t.co/CYlxOLt6Bw"
+            },
+            {
+              "display_url": "pic.x.com/CYlxOLt6Bw",
+              "end": 61,
+              "expanded_url": "https://x.com/amakage4961/status/2101327807821615348/photo/1",
+              "media_key": "3_2101327803144863744",
+              "start": 38,
+              "url": "https://t.co/CYlxOLt6Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101327807821615348",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101327803195277312"
+          },
+          {
+            "media_key": "3_2101327803144863744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 17404,
+          "like_count": 582,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "YouTubeのヘッダーとサムネイルをMAGiCAL仕様にして頂きました！ https://t.co/CYlxOLt6Bw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101715208385233389",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 351,
+          "like_count": 133787,
+          "listed_count": 17,
+          "media_count": 1546,
+          "tweet_count": 23552
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-24T13:04:22.000Z",
+        "description": "第二回天下一音ゲ祭のmaimaiで優勝した音ゲー楽しんでいる人。 maimaiをメインに、色々な音ゲーをやってます！ アイコン→@matagi_14 Tシャツ→https://t.co/jwO3FNxXse リクエスト等質問は→amakage257400@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "matagi_14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amakage4961.designstore.jp",
+                "end": 103,
+                "expanded_url": "https://amakage4961.designstore.jp/",
+                "start": 80,
+                "url": "https://t.co/jwO3FNxXse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/amakage49…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/user/amakage4961",
+                "start": 0,
+                "url": "https://t.co/buXz9SeToD"
+              }
+            ]
+          }
+        },
+        "id": "501756370",
+        "is_identity_verified": false,
+        "location": "おきなわ⇒とうきょう",
+        "most_recent_tweet_id": "2101493039151906973",
+        "name": "あまかげ",
+        "pinned_tweet_id": "2033761708859384028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/501756370/1686733236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086927898083282944/p6QZM981_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26291,
+          "following_count": 4199,
+          "like_count": 21881,
+          "listed_count": 81,
+          "media_count": 4253,
+          "tweet_count": 26016
+        },
+        "url": "https://t.co/buXz9SeToD",
+        "username": "amakage4961",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099052621768368128"
+      ],
+      "media_source_tweet_id": [
+        "2099400255821488280"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2099471745941930238",
+    "created_at": "2026-09-14T12:14:05.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T13:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099471745941930238"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 29,
+          "tag": "東方Project"
+        },
+        {
+          "end": 47,
+          "start": 40,
+          "tag": "古明地こいし"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1212603422345584640",
+          "start": 3,
+          "username": "shiratama_chi2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mQfMDBCeah",
+          "end": 71,
+          "expanded_url": "https://x.com/shiratama_chi2/status/2099400255821488280/photo/1",
+          "media_key": "3_2099052621768368128",
+          "start": 48,
+          "url": "https://t.co/mQfMDBCeah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099471745941930238",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099052621768368128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099400255821488280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiratama_chi2: こうぃしちゃん\n\n#東方Project #古明地こいし https://t.co/mQfMDBCeah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2099052621768368128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFVPP1bIAAXjv9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099052621768368128"
+          ],
+          "media_source_tweet_id": [
+            "2099400255821488280"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2099471745941930238",
+        "created_at": "2026-09-14T12:14:05.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099471745941930238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "東方Project"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "古明地こいし"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1212603422345584640",
+              "start": 3,
+              "username": "shiratama_chi2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQfMDBCeah",
+              "end": 71,
+              "expanded_url": "https://x.com/shiratama_chi2/status/2099400255821488280/photo/1",
+              "media_key": "3_2099052621768368128",
+              "start": 48,
+              "url": "https://t.co/mQfMDBCeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099471745941930238",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099052621768368128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099400255821488280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiratama_chi2: こうぃしちゃん\n\n#東方Project #古明地こいし https://t.co/mQfMDBCeah"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099052621768368128"
+          ]
+        },
+        "author_id": "1212603422345584640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2099400255821488280",
+        "created_at": "2026-09-14T07:30:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099400255821488280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 9,
+              "tag": "東方Project"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "古明地こいし"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQfMDBCeah",
+              "end": 51,
+              "expanded_url": "https://x.com/shiratama_chi2/status/2099400255821488280/photo/1",
+              "media_key": "3_2099052621768368128",
+              "start": 28,
+              "url": "https://t.co/mQfMDBCeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099400255821488280",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099052621768368128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 14078,
+          "like_count": 2039,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "こうぃしちゃん\n\n#東方Project #古明地こいし https://t.co/mQfMDBCeah"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099471745941930238",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4373,
+          "following_count": 352,
+          "like_count": 132954,
+          "listed_count": 17,
+          "media_count": 1534,
+          "tweet_count": 23355
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-02T05:16:15.000Z",
+        "description": "ﾋﾟｬｰ\npixiv:\nhttps://t.co/elLFR98M8L\nHoYoLAB:\nhttps://t.co/Wpf8xG2CQn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/948338",
+                "end": 35,
+                "expanded_url": "https://www.pixiv.net/users/948338",
+                "start": 12,
+                "url": "https://t.co/elLFR98M8L"
+              },
+              {
+                "display_url": "hoyolab.com/accountCenter/…",
+                "end": 68,
+                "expanded_url": "https://www.hoyolab.com/accountCenter/postList?id=10012041",
+                "start": 45,
+                "url": "https://t.co/Wpf8xG2CQn"
+              }
+            ]
+          }
+        },
+        "id": "1212603422345584640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099400255821488280",
+        "name": "白玉筑前",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478713220694017/U4GS8W_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17138,
+          "following_count": 28,
+          "like_count": 1990,
+          "listed_count": 132,
+          "media_count": 189,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "shiratama_chi2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

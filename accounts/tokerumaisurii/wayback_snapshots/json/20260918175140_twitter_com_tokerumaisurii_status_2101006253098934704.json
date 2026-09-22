@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2100755937245942147",
+    "created_at": "2026-09-18T17:51:40.000Z",
+    "display_text_range": [
+      13,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101006253098934704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101006253098934704",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100755937245942147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech M5 Ultra都才刚出呀，那不是意味着这个服务器也要三年以后了……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2100588055988236288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbJtSCbcAAUk1N.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2100755937245942147",
+        "created_at": "2026-09-18T17:51:40.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101006253098934704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101006253098934704",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100755937245942147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech M5 Ultra都才刚出呀，那不是意味着这个服务器也要三年以后了……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100588055988236288"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2100755937245942147",
+        "created_at": "2026-09-18T01:17:00.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100755937245942147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bfiPz2gcb",
+              "end": 153,
+              "expanded_url": "https://x.com/landiantech/status/2100755937245942147/photo/1",
+              "media_key": "3_2100588055988236288",
+              "start": 130,
+              "url": "https://t.co/9bfiPz2gcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100755937245942147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100588055988236288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/126913?x",
+                "end": 186,
+                "expanded_url": "https://ourl.co/126913?x",
+                "start": 163,
+                "url": "https://t.co/JXMbUnne3W"
+              }
+            ]
+          },
+          "text": "有消息称苹果准备重新推出服务器产品，将基于双路或四路 M8 Ultra 芯片构建，当然侧重点就是本地 AI 算力。\n\n该项目在 1 年前启动，负责该项目的就是时任苹果硬件工程团队领导的约翰特纳斯。\n\n值得注意的是消息还称苹果有可能会采用英伟达的 NVLink 高速互联技术，可能用于将多台服务器连接并部署为集群。\n\n查看全文：https://t.co/JXMbUnne3W"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5668,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有消息称苹果准备重新推出服务器产品，将基于双路或四路 M8 Ultra 芯片构建，当然侧重点就是本地 AI 算力。\n\n该项目在 1 年前启动，负责该项目的就是时任苹果硬件工程团队领导的约翰特纳斯。\n\n值得注意的是消息还称苹果有可能会采用英伟达的 NVLink https://t.co/9bfiPz2gcb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101006253098934704",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4395,
+          "following_count": 352,
+          "like_count": 133390,
+          "listed_count": 17,
+          "media_count": 1541,
+          "tweet_count": 23493
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2100980455516352884",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2100482591640244256",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37730,
+          "following_count": 814,
+          "like_count": 6543,
+          "listed_count": 284,
+          "media_count": 6690,
+          "tweet_count": 18055
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
