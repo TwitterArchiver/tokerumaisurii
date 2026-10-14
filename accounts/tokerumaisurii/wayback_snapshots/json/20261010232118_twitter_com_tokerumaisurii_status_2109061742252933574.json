@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2109061742252933574",
+    "created_at": "2026-10-10T23:21:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T00:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109061742252933574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1363127588701368323",
+          "start": 3,
+          "username": "Ion_Mio_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109061742252933574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108570520157626385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ion_Mio_: 可能很多人还不知道，New API 的格式转换已拆成一个独立的 Go 包 RelayKit，支持 OpenAI Chat/Responses、Claude、Gemini 的转换，AstrLink 用的也是这套转换器。\n我们想为社区多做些基础建设，让大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2109061742252933574",
+        "created_at": "2026-10-10T23:21:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T00:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109061742252933574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1363127588701368323",
+              "start": 3,
+              "username": "Ion_Mio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109061742252933574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108570520157626385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ion_Mio_: 可能很多人还不知道，New API 的格式转换已拆成一个独立的 Go 包 RelayKit，支持 OpenAI Chat/Responses、Claude、Gemini 的转换，AstrLink 用的也是这套转换器。\n我们想为社区多做些基础建设，让大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363127588701368323",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2108570520157626385",
+        "created_at": "2026-10-09T14:49:22.000Z",
+        "display_text_range": [
+          0,
+          168
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108570520157626385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/QuantumNous/ne…",
+              "end": 168,
+              "expanded_url": "https://github.com/QuantumNous/new-api/tree/main/relaykit",
+              "start": 145,
+              "unwound_url": "https://github.com/QuantumNous/new-api/tree/main/relaykit",
+              "url": "https://t.co/yqUbtedX2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108570520157626385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 61473,
+          "like_count": 529,
+          "quote_count": 12,
+          "reply_count": 34,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "可能很多人还不知道，New API 的格式转换已拆成一个独立的 Go 包 RelayKit，支持 OpenAI Chat/Responses、Claude、Gemini 的转换，AstrLink 用的也是这套转换器。\n我们想为社区多做些基础建设，让大家少重复造轮子，多花时间做自己的产品。\nhttps://t.co/yqUbtedX2z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15076 オンゲキ bMA.3 14.02 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 122,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 99,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109061742252933574",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2106617527715684702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 360,
+          "like_count": 137794,
+          "listed_count": 18,
+          "media_count": 1604,
+          "tweet_count": 24269
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2102284878695768064/ySD0k11F_bigger.jpg",
+          "description": "New API",
+          "url": "https://twitter.com/newapi_ai",
+          "user_id": [
+            "1869426462929104897"
+          ]
+        },
+        "created_at": "2021-02-20T14:05:27.000Z",
+        "description": "Creator of @newapi_ai ｜Building https://t.co/bPSgnaY5dV｜❤️ @Seefs_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "newapi_ai"
+              },
+              {
+                "end": 66,
+                "start": 59,
+                "username": "Seefs_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "astrlink.com",
+                "end": 55,
+                "expanded_url": "https://astrlink.com",
+                "start": 32,
+                "url": "https://t.co/bPSgnaY5dV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Calcium-Ion",
+                "end": 23,
+                "expanded_url": "https://github.com/Calcium-Ion",
+                "start": 0,
+                "url": "https://t.co/Z3Se1igA1c"
+              }
+            ]
+          }
+        },
+        "id": "1363127588701368323",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108943877914956063",
+        "name": "离离子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363127588701368323/1637432972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798068602555551744/VQ2uYuyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6783,
+          "following_count": 933,
+          "like_count": 10450,
+          "listed_count": 43,
+          "media_count": 168,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/Z3Se1igA1c",
+        "username": "Ion_Mio_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

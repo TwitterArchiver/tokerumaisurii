@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108829771987857408"
+      ],
+      "media_source_tweet_id": [
+        "2108829776916226559"
+      ]
+    },
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2109118898624766160",
+    "created_at": "2026-10-11T03:08:25.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T04:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109118898624766160"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2104189001322389504",
+          "start": 3,
+          "username": "k4iwa_U"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXkx2Oiv2r",
+          "end": 55,
+          "expanded_url": "https://x.com/k4iwa_U/status/2108829776916226559/photo/1",
+          "media_key": "3_2108829771987857408",
+          "start": 32,
+          "url": "https://t.co/QXkx2Oiv2r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109118898624766160",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2108829771987857408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108829776916226559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @k4iwa_U: メガネパチェ\n #東方Project https://t.co/QXkx2Oiv2r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108829771987857408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUQRgSsasAAbzDJ.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108829771987857408"
+          ],
+          "media_source_tweet_id": [
+            "2108829776916226559"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2109118898624766160",
+        "created_at": "2026-10-11T03:08:25.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109118898624766160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2104189001322389504",
+              "start": 3,
+              "username": "k4iwa_U"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXkx2Oiv2r",
+              "end": 55,
+              "expanded_url": "https://x.com/k4iwa_U/status/2108829776916226559/photo/1",
+              "media_key": "3_2108829771987857408",
+              "start": 32,
+              "url": "https://t.co/QXkx2Oiv2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109118898624766160",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108829771987857408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108829776916226559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @k4iwa_U: メガネパチェ\n #東方Project https://t.co/QXkx2Oiv2r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108829771987857408"
+          ]
+        },
+        "author_id": "2104189001322389504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2108829776916226559",
+        "created_at": "2026-10-10T07:59:33.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T08:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108829776916226559"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXkx2Oiv2r",
+              "end": 42,
+              "expanded_url": "https://x.com/k4iwa_U/status/2108829776916226559/photo/1",
+              "media_key": "3_2108829771987857408",
+              "start": 19,
+              "url": "https://t.co/QXkx2Oiv2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108829776916226559",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108829771987857408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 9135,
+          "like_count": 1295,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "reply_settings": "following",
+        "text": "メガネパチェ\n #東方Project https://t.co/QXkx2Oiv2r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15076 オンゲキ bMA.3 14.02 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 122,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 99,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109118898624766160",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2106617527715684702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 360,
+          "like_count": 137936,
+          "listed_count": 18,
+          "media_count": 1605,
+          "tweet_count": 24279
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-27T12:40:35.000Z",
+        "description": "絵を描くだけ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/130083972",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/130083972",
+                "start": 0,
+                "url": "https://t.co/fM9Xhc47Vx"
+              }
+            ]
+          }
+        },
+        "id": "2104189001322389504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108829776916226559",
+        "name": "柏 雪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107021593109266432/55kMeB95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 25,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/fM9Xhc47Vx",
+        "username": "k4iwa_U",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

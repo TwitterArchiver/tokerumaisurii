@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2109360382888530064",
+    "created_at": "2026-10-11T22:20:08.000Z",
+    "display_text_range": [
+      19,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T23:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109408737752489986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1223056130223378432",
+          "start": 0,
+          "username": "c1oudtide"
+        },
+        {
+          "end": 18,
+          "id": "147786784",
+          "start": 11,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109408737752489986",
+    "in_reply_to_user_id": "1223056130223378432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109360382888530064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c1oudtide @yetone 我觉得Claude Code C Compiler那种东西一次vibe终生不管的才叫快餐式，一直有更新维护的为什么能叫快餐式啊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2109360382888530064",
+        "created_at": "2026-10-11T22:20:08.000Z",
+        "display_text_range": [
+          19,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T23:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109408737752489986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1223056130223378432",
+              "start": 0,
+              "username": "c1oudtide"
+            },
+            {
+              "end": 18,
+              "id": "147786784",
+              "start": 11,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109408737752489986",
+        "in_reply_to_user_id": "1223056130223378432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109360382888530064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c1oudtide @yetone 我觉得Claude Code C Compiler那种东西一次vibe终生不管的才叫快餐式，一直有更新维护的为什么能叫快餐式啊（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223056130223378432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2109360382888530064",
+        "created_at": "2026-10-11T19:07:59.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T20:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109360382888530064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "147786784",
+              "start": 2,
+              "username": "yetone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Seefs_/status/…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/Seefs_/status/2109325243898880133",
+              "start": 175,
+              "url": "https://t.co/FJYFc6FYlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109360382888530064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109325243898880133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从@yetone的 avante.nvim 一路用过来，虽然后来 avante.nvim 后面的一些改动比较多所以我就没用了，但是说到底这是oss项目，作者没有义务为你负责，这样扣所谓“快餐式”的略带贬义的帽子，又有什么意义呢...\nyetone 也没有义务展示自己的 ai  开发-测试管线，说到底还是那句话\n it's open source https://t.co/FJYFc6FYlT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15076 オンゲキ R:FA.1 16.730 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109408737752489986",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2106617527715684702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4522,
+          "following_count": 360,
+          "like_count": 138100,
+          "listed_count": 18,
+          "media_count": 1607,
+          "tweet_count": 24317
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T01:31:30.000Z",
+        "description": "杜野凛世推し／Computer Science／ジライ系\n拍照纯爱好 本人阴暗地雷男 不约不线下\n现实熟人请装没看到",
+        "id": "1223056130223378432",
+        "is_identity_verified": false,
+        "location": "月球",
+        "most_recent_tweet_id": "2109360997555491076",
+        "name": "汐",
+        "pinned_tweet_id": "2103530741250547918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223056130223378432/1580650652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041413356092076032/8HseRy_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 659,
+          "like_count": 9791,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 1040
+        },
+        "url": "",
+        "username": "c1oudtide",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Built: avante.nvim\n\nBuilding:\n\nhttps://t.co/kQss3piJs8\n\nhttps://t.co/pfq9srNgsd\n\nhttps://t.co/fpGnPR5t9C\n\nhttps://t.co/cBN1yzJPIG\n\nhttps://t.co/6ERz2HMx0f\n\nhttps://t.co/QhQRLD4zQo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "usemagpie.ai",
+                "end": 54,
+                "expanded_url": "https://usemagpie.ai",
+                "start": 31,
+                "url": "https://t.co/kQss3piJs8"
+              },
+              {
+                "display_url": "alma.now",
+                "end": 79,
+                "expanded_url": "https://alma.now",
+                "start": 56,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 104,
+                "expanded_url": "https://confirmo.love",
+                "start": 81,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 129,
+                "expanded_url": "https://swordgame.ai",
+                "start": 106,
+                "url": "https://t.co/cBN1yzJPIG"
+              },
+              {
+                "display_url": "yansu.app",
+                "end": 154,
+                "expanded_url": "https://yansu.app",
+                "start": 131,
+                "url": "https://t.co/6ERz2HMx0f"
+              },
+              {
+                "display_url": "cumora.ai",
+                "end": 179,
+                "expanded_url": "https://cumora.ai",
+                "start": 156,
+                "url": "https://t.co/QhQRLD4zQo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "is_identity_verified": true,
+        "location": "无",
+        "most_recent_tweet_id": "2109398834057248851",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/147786784/1635109454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92295,
+          "following_count": 4558,
+          "like_count": 19717,
+          "listed_count": 1110,
+          "media_count": 2353,
+          "tweet_count": 20895
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

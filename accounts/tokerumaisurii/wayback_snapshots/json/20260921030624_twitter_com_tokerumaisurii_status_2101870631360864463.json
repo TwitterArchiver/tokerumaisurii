@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2101870631360864463",
+    "created_at": "2026-09-21T03:06:24.000Z",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T04:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101870631360864463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zcode_ai/statu…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/zcode_ai/status/2101844704933621971",
+          "start": 161,
+          "url": "https://t.co/0rMbueEm4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101870631360864463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101844704933621971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原本我觉得这种认错态度还可以，定睛一看，纯粹的排泄式开源，一个initial commit +1,033,262 lines就敷衍完了。\n而且这里更排泄的地方是甚至一样会先重吸收，伪开源ZCode和私有源码做了A/B版，移除了一圈权益和能力。\n说真的，你不如只写外部审查那部分就好，没必要不想开源还硬是跟风用开源来谢罪。 https://t.co/0rMbueEm4c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2101870631360864463",
+        "created_at": "2026-09-21T03:06:24.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101870631360864463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zcode_ai/statu…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/zcode_ai/status/2101844704933621971",
+              "start": 161,
+              "url": "https://t.co/0rMbueEm4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101870631360864463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101844704933621971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原本我觉得这种认错态度还可以，定睛一看，纯粹的排泄式开源，一个initial commit +1,033,262 lines就敷衍完了。\n而且这里更排泄的地方是甚至一样会先重吸收，伪开源ZCode和私有源码做了A/B版，移除了一圈权益和能力。\n说真的，你不如只写外部审查那部分就好，没必要不想开源还硬是跟风用开源来谢罪。 https://t.co/0rMbueEm4c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991449975298162688",
+        "conversation_id": "2101844704933621971",
+        "created_at": "2026-09-21T01:23:22.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101844704933621971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible. - zai-org/ZCode",
+              "display_url": "github.com/zai-org/ZCode",
+              "end": 216,
+              "expanded_url": "https://github.com/zai-org/ZCode",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2101837449962160128/WXB0HNLM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101837449962160128/WXB0HNLM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 193,
+              "status": 200,
+              "title": "GitHub - zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+              "unwound_url": "https://github.com/zai-org/ZCode",
+              "url": "https://t.co/mCqWhrMzXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101844704933621971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/zai-org/ZCode",
+                "end": 216,
+                "expanded_url": "https://github.com/zai-org/ZCode",
+                "start": 193,
+                "url": "https://t.co/oADgletuha"
+              }
+            ]
+          },
+          "text": "In response to the ZCode product security issues reported by the community, we have completed the necessary remediation and sincerely apologize to all our users.\n\nWe have open-sourced ZCode at https://t.co/oADgletuha, placing the code under community scrutiny and making ZCode more open and transparent.\n\nWe sincerely thank the community developers who previously identified issues in ZCode. Going forward, we will establish an ongoing product security vulnerability reporting and response process. We welcome developers to continue reviewing ZCode and reporting potential issues, and we will provide rewards based on the severity of the issues reported.\n\nWith respect to the code data referenced by the community, we confirm that no such data is retained and that it has never been used for model training.\n\nFollowing the remediation, we invited the China Academy of Information and Communications Technology (CAICT) and NSFOCUS to conduct security assessments. The results are as follows:\n\nThrough its technical assessment, CAICT confirmed that the zcode-prod Alibaba Cloud OSS bucket is in a zero-data state. Security remediation has been completed in the ZCode v3.14.0 client. The Repo Wiki feature has been removed, and the workflow for generating and uploading local repository snapshots has been disabled.\n\nNSFOCUS confirmed that all data objects in the zcode-prod Alibaba Cloud OSS bucket, as well as the bucket itself, have been deleted. Remediation has been completed in the ZCode v3.14.0 client. The Repo Wiki entry point and the associated generation workflow have been removed, and no functional path capable of triggering the generation of local repository snapshots or transmitting local files externally was identified.\n\nOnce again, we sincerely apologize and welcome continued scrutiny from the community. The full security assessment report will be released soon."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 83981,
+          "like_count": 878,
+          "quote_count": 83,
+          "reply_count": 142,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "In response to the ZCode product security issues reported by the community, we have completed the necessary remediation and sincerely apologize to all our users.\n\nWe have open-sourced ZCode at https://t.co/mCqWhrMzXm, placing the code under community scrutiny and making ZCode"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101870631360864463",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 351,
+          "like_count": 133836,
+          "listed_count": 17,
+          "media_count": 1551,
+          "tweet_count": 23572
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T10:14:23.000Z",
+        "description": "🎉 The Z Code community is here! We've created a Discord server for all ZCode users — https://t.co/oK1pV02Prf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/EpH5XkTyhu",
+                "end": 108,
+                "expanded_url": "https://discord.gg/EpH5XkTyhu",
+                "start": 85,
+                "url": "https://t.co/oK1pV02Prf"
+              }
+            ]
+          }
+        },
+        "id": "1991449975298162688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101844704933621971",
+        "name": "ZCode",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991449975298162688/1782472151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066234804325289984/oEcGryOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15771,
+          "following_count": 4,
+          "like_count": 42,
+          "listed_count": 81,
+          "media_count": 22,
+          "tweet_count": 400
+        },
+        "url": "",
+        "username": "zcode_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

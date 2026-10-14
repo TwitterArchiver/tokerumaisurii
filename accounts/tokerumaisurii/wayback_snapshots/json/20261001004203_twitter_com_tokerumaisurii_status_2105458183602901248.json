@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2105319977972818002",
+    "created_at": "2026-10-01T00:42:03.000Z",
+    "display_text_range": [
+      45,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T01:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105458183602901248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015263254646304768",
+          "start": 0,
+          "username": "PrISm0sis"
+        },
+        {
+          "end": 27,
+          "id": "1356434353623093249",
+          "start": 11,
+          "username": "greg16676935420"
+        },
+        {
+          "end": 44,
+          "id": "1634248890",
+          "start": 28,
+          "username": "kenklippenstein"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105458183602901248",
+    "in_reply_to_user_id": "2015263254646304768",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105356180210225456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrISm0sis @greg16676935420 @kenklippenstein Obviously he prefers to use gdb for debugging instead of lldb or others"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2105356176883924992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTe6ScjXQAAmgdt.jpg",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2105319977972818002",
+        "created_at": "2026-10-01T00:42:03.000Z",
+        "display_text_range": [
+          45,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105458183602901248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015263254646304768",
+              "start": 0,
+              "username": "PrISm0sis"
+            },
+            {
+              "end": 27,
+              "id": "1356434353623093249",
+              "start": 11,
+              "username": "greg16676935420"
+            },
+            {
+              "end": 44,
+              "id": "1634248890",
+              "start": 28,
+              "username": "kenklippenstein"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105458183602901248",
+        "in_reply_to_user_id": "2015263254646304768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105356180210225456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrISm0sis @greg16676935420 @kenklippenstein Obviously he prefers to use gdb for debugging instead of lldb or others"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105356176883924992"
+          ]
+        },
+        "author_id": "2015263254646304768",
+        "conversation_id": "2105319977972818002",
+        "created_at": "2026-09-30T17:56:43.000Z",
+        "display_text_range": [
+          34,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105356180210225456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356434353623093249",
+              "start": 0,
+              "username": "greg16676935420"
+            },
+            {
+              "end": 33,
+              "id": "1634248890",
+              "start": 17,
+              "username": "kenklippenstein"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqMrpdKmho",
+              "end": 139,
+              "expanded_url": "https://x.com/PrISm0sis/status/2105356180210225456/photo/1",
+              "media_key": "3_2105356176883924992",
+              "start": 116,
+              "url": "https://t.co/cqMrpdKmho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105356180210225456",
+        "in_reply_to_user_id": "1356434353623093249",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105356176883924992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12076,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105319977972818002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@greg16676935420 @kenklippenstein What, is this guy illiterate? What kind of signature is this for the ultra elite? https://t.co/cqMrpdKmho"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105458183602901248",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 356,
+          "like_count": 136049,
+          "listed_count": 18,
+          "media_count": 1574,
+          "tweet_count": 23927
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-25T03:19:55.000Z",
+        "description": "",
+        "id": "2015263254646304768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105387256135483609",
+        "name": "PrISm0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015263254646304768/1769757799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015530021830451200/I67CjUK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 996,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "PrISm0sis",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-02T02:48:53.000Z",
+        "description": "im greg I like football and stocks and my birthday im from kentuckey. I'm a investor. I like to golf at the golf course. subscribe for just 10¢ a day ⤴️",
+        "id": "1356434353623093249",
+        "is_identity_verified": false,
+        "location": "Kentucky, USA",
+        "most_recent_tweet_id": "2105418446238597406",
+        "name": "greg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356434353623093249/1768322541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581014308397502464/NPogKMyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099560,
+          "following_count": 554,
+          "like_count": 32146,
+          "listed_count": 4220,
+          "media_count": 11851,
+          "tweet_count": 62221
+        },
+        "url": "",
+        "username": "greg16676935420",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-31T01:41:01.000Z",
+        "description": "Independent journalist. Join my newsletter: https://t.co/NnMpNEOP2K👈 Signal: 202-510-1268",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kenklippenstein.com",
+                "end": 67,
+                "expanded_url": "http://kenklippenstein.com",
+                "start": 44,
+                "url": "https://t.co/NnMpNEOP2K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kenklippenstein.com",
+                "end": 23,
+                "expanded_url": "http://kenklippenstein.com",
+                "start": 0,
+                "url": "https://t.co/NnMpNEOP2K"
+              }
+            ]
+          }
+        },
+        "id": "1634248890",
+        "is_identity_verified": true,
+        "location": "Madison, Wisconsin",
+        "most_recent_tweet_id": "2105432464462344233",
+        "name": "Ken Klippenstein",
+        "pinned_tweet_id": "1879295879670268126",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634248890/1724185061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807166962604326913/ETuPXAKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568197,
+          "following_count": 3670,
+          "like_count": 134941,
+          "listed_count": 3770,
+          "media_count": 10700,
+          "tweet_count": 61932
+        },
+        "url": "https://t.co/NnMpNEOP2K",
+        "username": "kenklippenstein",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

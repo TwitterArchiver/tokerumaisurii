@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2106159086496850197",
+    "created_at": "2026-10-03T07:11:30.000Z",
+    "display_text_range": [
+      23,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106280970521383236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1950226934807306240",
+          "start": 0,
+          "username": "meowsky431"
+        },
+        {
+          "end": 22,
+          "id": "756779273155858432",
+          "start": 12,
+          "username": "ScarletKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106280970521383236",
+    "in_reply_to_user_id": "1950226934807306240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106255567723659584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowsky431 @ScarletKc 其实这个需求很久以前用UML就算是实现了，现在也可以直接要求AI这样做，以及有些语言具有效应系统和capability机制和很强的可验证机制，所以理论上你可以只用扫一眼传入的capability和进入退出时的contracts等等。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2106159086496850197",
+        "created_at": "2026-10-03T07:11:30.000Z",
+        "display_text_range": [
+          23,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106280970521383236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1950226934807306240",
+              "start": 0,
+              "username": "meowsky431"
+            },
+            {
+              "end": 22,
+              "id": "756779273155858432",
+              "start": 12,
+              "username": "ScarletKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106280970521383236",
+        "in_reply_to_user_id": "1950226934807306240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106255567723659584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowsky431 @ScarletKc 其实这个需求很久以前用UML就算是实现了，现在也可以直接要求AI这样做，以及有些语言具有效应系统和capability机制和很强的可验证机制，所以理论上你可以只用扫一眼传入的capability和进入退出时的contracts等等。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950226934807306240",
+        "conversation_id": "2106159086496850197",
+        "created_at": "2026-10-03T05:30:34.000Z",
+        "display_text_range": [
+          11,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106255567723659584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106255567723659584",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106159086496850197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc 现在还不能完全脱离人手，人类还要读这个代码所以会显得很难受。突然有一种想法，未来会不会出现类似 面向人类是 scratch 一类的简单图形化容易理解的，ai 侧直接是面向硬件底层的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106280970521383236",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4494,
+          "following_count": 357,
+          "like_count": 136497,
+          "listed_count": 19,
+          "media_count": 1585,
+          "tweet_count": 24010
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-29T16:08:41.000Z",
+        "description": "",
+        "id": "1950226934807306240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106266859200999819",
+        "name": "Meowsky",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226987051864065/0dzzVpzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "meowsky431",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "Indie developer building games & open-source tools\nSharing AI news, model impressions, and opinions\nOccasional thoughts on life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106255918753267949",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 966,
+          "like_count": 107210,
+          "listed_count": 26,
+          "media_count": 420,
+          "tweet_count": 12612
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

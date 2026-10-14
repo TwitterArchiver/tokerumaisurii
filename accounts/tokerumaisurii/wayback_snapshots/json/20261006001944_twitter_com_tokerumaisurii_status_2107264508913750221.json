@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "2107230853525037391",
+    "created_at": "2026-10-06T00:19:44.000Z",
+    "display_text_range": [
+      12,
+      190
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T01:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107264508913750221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107264508913750221",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "GPT最近是这样的，一般AI软件都有专门的标题总结小模型，快速拿你问题和即将给出的回复跑个标题出来，但他们的经常出错。大多数是后面加了莫名其妙的外语词或符号，有次生成了个标题是“苹果键盘Fn位置 is too long? 4 words Chinese okay. Need action/content type maybe \"比较苹果键盘Fn布局\" 8 Chinese tokens but words unclear. 1-4”直接把思考都倒出来了。\n因为训练数据浩如烟海不是全部都精选的，所以模型脑袋里注定有很多脏语料（不是指色情脏，而是指低质量spam卖片网站那种），可能小体量模型不如大体量的聪明就容易出错。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107230853525037391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot GPT最近是这样的，一般AI软件都有专门的标题总结小模型，快速拿你问题和即将给出的回复跑个标题出来，但他们的经常出错。大多数是后面加了莫名其妙的外语词或符号，有次生成了个标题是“苹果键盘Fn位置 is too long? 4 words Chinese okay. Need action/content type maybe \"比较苹果键盘Fn布局\" 8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107230846214426624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT5jSkBbUAACOxu.jpg",
+        "width": 942
+      },
+      {
+        "height": 551,
+        "media_key": "3_2107230846205956097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT5jSj_aEAE080U.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2107230853525037391",
+        "created_at": "2026-10-06T00:19:44.000Z",
+        "display_text_range": [
+          12,
+          190
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T01:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107264508913750221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107264508913750221",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "GPT最近是这样的，一般AI软件都有专门的标题总结小模型，快速拿你问题和即将给出的回复跑个标题出来，但他们的经常出错。大多数是后面加了莫名其妙的外语词或符号，有次生成了个标题是“苹果键盘Fn位置 is too long? 4 words Chinese okay. Need action/content type maybe \"比较苹果键盘Fn布局\" 8 Chinese tokens but words unclear. 1-4”直接把思考都倒出来了。\n因为训练数据浩如烟海不是全部都精选的，所以模型脑袋里注定有很多脏语料（不是指色情脏，而是指低质量spam卖片网站那种），可能小体量模型不如大体量的聪明就容易出错。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107230853525037391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot GPT最近是这样的，一般AI软件都有专门的标题总结小模型，快速拿你问题和即将给出的回复跑个标题出来，但他们的经常出错。大多数是后面加了莫名其妙的外语词或符号，有次生成了个标题是“苹果键盘Fn位置 is too long? 4 words Chinese okay. Need action/content type maybe \"比较苹果键盘Fn布局\" 8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107230846214426624",
+            "3_2107230846205956097"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "conversation_id": "2107230853525037391",
+        "created_at": "2026-10-05T22:06:00.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T23:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107230853525037391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/muD9kaOdGV",
+              "end": 27,
+              "expanded_url": "https://x.com/Glagagapot/status/2107230853525037391/photo/1",
+              "media_key": "3_2107230846214426624",
+              "start": 4,
+              "url": "https://t.co/muD9kaOdGV"
+            },
+            {
+              "display_url": "pic.x.com/muD9kaOdGV",
+              "end": 27,
+              "expanded_url": "https://x.com/Glagagapot/status/2107230853525037391/photo/1",
+              "media_key": "3_2107230846205956097",
+              "start": 4,
+              "url": "https://t.co/muD9kaOdGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107230853525037391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107230846214426624"
+          },
+          {
+            "media_key": "3_2107230846205956097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和意为 https://t.co/muD9kaOdGV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 オンゲキ bMA.3 14.02 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 122,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 99,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107264508913750221",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2106617527715684702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4512,
+          "following_count": 359,
+          "like_count": 137080,
+          "listed_count": 19,
+          "media_count": 1592,
+          "tweet_count": 24115
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "有蛇爱鸟爱沼岁静Canadian",
+        "id": "1657055349982244865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107263052404101599",
+        "name": "嘎堡",
+        "pinned_tweet_id": "2013048657990312418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657055349982244865/1779678822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077978402968268800/T-eyNPN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 1064,
+          "like_count": 92851,
+          "listed_count": 7,
+          "media_count": 2624,
+          "tweet_count": 30612
+        },
+        "url": "",
+        "username": "Glagagapot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

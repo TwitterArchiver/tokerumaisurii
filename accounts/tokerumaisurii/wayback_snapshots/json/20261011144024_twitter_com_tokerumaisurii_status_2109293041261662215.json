@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2109186216931578001",
+    "created_at": "2026-10-11T14:40:24.000Z",
+    "display_text_range": [
+      13,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T15:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109293041261662215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109293041261662215",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109186216931578001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 再见了人小弟😭不要这样说啊人小弟你会死的😭最后一篇😭你的报道很喜欢你的评论记得关😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2109185819127033856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUVVU9pbsAA4isH.jpg",
+        "width": 1067
+      },
+      {
+        "duration_ms": 203880,
+        "height": 1280,
+        "media_key": "13_2109185832208977920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109185832208977920/img/R4ZYWKECJSTCbVH1.jpg",
+        "public_metrics": {
+          "view_count": 4879
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109185832208977920/vid/avc1/320x568/svqDpHNTKNGhnGuZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109185832208977920/vid/avc1/480x852/MJ9ldV5foGI3RyUL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109185832208977920/vid/avc1/720x1280/LLl6mn28CUeV5Ddg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109185832208977920/pl/2XX5pZczt4okFMEk.m3u8?v=a9d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2109186216931578001",
+        "created_at": "2026-10-11T14:40:24.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109293041261662215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109293041261662215",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109186216931578001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 再见了人小弟😭不要这样说啊人小弟你会死的😭最后一篇😭你的报道很喜欢你的评论记得关😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109185819127033856",
+            "13_2109185832208977920"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2109186216931578001",
+        "created_at": "2026-10-11T07:35:55.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T08:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109186216931578001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "安全是汽车工业不可逾越的红线，保障安全是中国汽车最重要的功能。",
+              "display_url": "peopleapp.com/column/3005331…",
+              "end": 65,
+              "expanded_url": "https://www.peopleapp.com/column/30053315972-500007734240",
+              "images": [
+                {
+                  "height": 120,
+                  "url": "https://pbs.twimg.com/news_img/2109151403478503424/Vk4gpOSa?format=png&name=orig",
+                  "width": 120
+                },
+                {
+                  "height": 120,
+                  "url": "https://pbs.twimg.com/news_img/2109151403478503424/Vk4gpOSa?format=png&name=150x150",
+                  "width": 120
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "超话车｜四部门联手，对“速成车”说不！",
+              "unwound_url": "https://www.peopleapp.com/column/30053315972-500007734240",
+              "url": "https://t.co/0wqwdxzdU4"
+            },
+            {
+              "display_url": "pic.x.com/NGAWf5Z0WU",
+              "end": 176,
+              "expanded_url": "https://x.com/realNyarime/status/2109186216931578001/video/1",
+              "media_key": "3_2109185819127033856",
+              "start": 153,
+              "url": "https://t.co/NGAWf5Z0WU"
+            },
+            {
+              "display_url": "pic.x.com/NGAWf5Z0WU",
+              "end": 176,
+              "expanded_url": "https://x.com/realNyarime/status/2109186216931578001/video/1",
+              "media_key": "13_2109185832208977920",
+              "start": 153,
+              "url": "https://t.co/NGAWf5Z0WU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109186216931578001",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109185819127033856"
+          },
+          {
+            "media_key": "13_2109185832208977920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "peopleapp.com/column/3005331…",
+                "end": 65,
+                "expanded_url": "https://www.peopleapp.com/column/30053315972-500007734240",
+                "start": 42,
+                "url": "https://t.co/FOHKDYRkra"
+              }
+            ]
+          },
+          "text": "人民日报发文：对“速成车”说不！一辆汽车的刹车踏板，绝不应该在驾驶中出现“断裂”！\nhttps://t.co/FOHKDYRkra\n\n此前，懂车帝 100-0 km/h 刹车实测中，3 台尊界 V800 的刹车踏板支架全部被踩断，断裂时受力约为 1612 N。\n\n网传测试画面显示，同为华为系的智界 V9 在同类测试中无恙，两者质量表现差距引发网友热议。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14609,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人民日报发文：对“速成车”说不！一辆汽车的刹车踏板，绝不应该在驾驶中出现“断裂”！\nhttps://t.co/0wqwdxzdU4\n\n此前，懂车帝 100-0 km/h 刹车实测中，3 台尊界 V800 的刹车踏板支架全部被踩断，断裂时受力约为 1612 N。\n\n网传测试画面显示，同为华为系的智界 V9 https://t.co/NGAWf5Z0WU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15076 オンゲキ R:FA.1 16.730 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109293041261662215",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2106617527715684702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4518,
+          "following_count": 360,
+          "like_count": 138001,
+          "listed_count": 18,
+          "media_count": 1606,
+          "tweet_count": 24297
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2109292328762679563",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51126,
+          "following_count": 678,
+          "like_count": 23981,
+          "listed_count": 225,
+          "media_count": 3147,
+          "tweet_count": 20019
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

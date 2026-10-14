@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2106594369516212346",
+    "created_at": "2026-10-04T11:39:47.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106710870780776714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2486675130",
+          "start": 0,
+          "username": "yangyuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106710870780776714",
+    "in_reply_to_user_id": "2486675130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106594369516212346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyuc 哇，好善良"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106594364374024192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwgacZagAAF5am.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106594364369801216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwgacYaEAAxgI7.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2106594369516212346",
+        "created_at": "2026-10-04T11:39:47.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106710870780776714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2486675130",
+              "start": 0,
+              "username": "yangyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106710870780776714",
+        "in_reply_to_user_id": "2486675130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106594369516212346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyuc 哇，好善良"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106594364374024192",
+            "3_2106594364369801216"
+          ]
+        },
+        "author_id": "2486675130",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347260913552789506",
+              "name": "Apple iMessage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2106594369516212346",
+        "created_at": "2026-10-04T03:56:50.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106594369516212346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Un5ncjatpr",
+              "end": 145,
+              "expanded_url": "https://x.com/yangyuc/status/2106594369516212346/photo/1",
+              "media_key": "3_2106594364374024192",
+              "start": 122,
+              "url": "https://t.co/Un5ncjatpr"
+            },
+            {
+              "display_url": "pic.x.com/Un5ncjatpr",
+              "end": 145,
+              "expanded_url": "https://x.com/yangyuc/status/2106594369516212346/photo/1",
+              "media_key": "3_2106594364369801216",
+              "start": 122,
+              "url": "https://t.co/Un5ncjatpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106594369516212346",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106594364374024192"
+          },
+          {
+            "media_key": "3_2106594364369801216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12928,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天旅行途中捡到了别人掉在地上的行李领取书，最后打电话对方5分钟就走过来拿到了东西。感叹 FaceTime Audio 和iMessage 真好用，看到 +886 我第一反应去找 Line 结果搜不到，如果走国际漫游电话做个好事的成本也太高了 https://t.co/Un5ncjatpr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 オンゲキ bMA.3 14.02 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 122,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 99,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106710870780776714",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 357,
+          "like_count": 136643,
+          "listed_count": 19,
+          "media_count": 1587,
+          "tweet_count": 24036
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-10T04:18:53.000Z",
+        "description": "Ph.D. Student. Open-source enthusiast. Computer Architecture and software co-design. Intern at $INTC.\n\nIG:  https://t.co/6pRXbIBnH5\nTG: https://t.co/kcQfYBxujK",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "INTC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/chenyyself",
+                "end": 131,
+                "expanded_url": "http://instagram.com/chenyyself",
+                "start": 108,
+                "url": "https://t.co/6pRXbIBnH5"
+              },
+              {
+                "display_url": "t.me/chenyy",
+                "end": 159,
+                "expanded_url": "http://t.me/chenyy",
+                "start": 136,
+                "url": "https://t.co/kcQfYBxujK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cyyself.name",
+                "end": 23,
+                "expanded_url": "https://blog.cyyself.name",
+                "start": 0,
+                "url": "https://t.co/kDZbvPRs8L"
+              }
+            ]
+          }
+        },
+        "id": "2486675130",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106708963115008017",
+        "name": "0!=1",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2486675130/1790153002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/480524039127982082/sb9NzwG7_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 458,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/kDZbvPRs8L",
+        "username": "yangyuc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

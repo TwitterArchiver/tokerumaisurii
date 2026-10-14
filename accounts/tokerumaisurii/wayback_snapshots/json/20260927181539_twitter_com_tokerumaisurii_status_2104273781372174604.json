@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2104273781372174604",
+    "created_at": "2026-09-27T18:15:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104273781372174604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2103672611226137048",
+          "start": 141,
+          "url": "https://t.co/DjSv44ONU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104273781372174604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103672611226137048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自动亮度做好了。本来一个小小的自动亮度可用性开关不是什么值得说的事情，但是启用了之后发现实际怎么亮度只上不下，然后才发现这台机器的光感是埋在屏幕下面的，读环境光强度的时候就会把屏幕自己的亮度也漏进去，简直处处是惊吓，所以最后要把原厂的一套自发光补偿机制给移植进来，终于就是能用了。 https://t.co/DjSv44ONU0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2104273781372174604",
+        "created_at": "2026-09-27T18:15:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104273781372174604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2103672611226137048",
+              "start": 141,
+              "url": "https://t.co/DjSv44ONU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104273781372174604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103672611226137048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自动亮度做好了。本来一个小小的自动亮度可用性开关不是什么值得说的事情，但是启用了之后发现实际怎么亮度只上不下，然后才发现这台机器的光感是埋在屏幕下面的，读环境光强度的时候就会把屏幕自己的亮度也漏进去，简直处处是惊吓，所以最后要把原厂的一套自发光补偿机制给移植进来，终于就是能用了。 https://t.co/DjSv44ONU0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2103672611226137048",
+        "created_at": "2026-09-26T02:26:49.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103672611226137048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2102790105849369023",
+              "start": 148,
+              "url": "https://t.co/gB4ZPBjs6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103672611226137048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102790105849369023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "液冷支持也恢复出来了（不过不算NX809J通用，只有Pro有，普通11是没有硬件的），接下来差不多的风冷应该也会很快做好。肩键就比较麻烦了，因为我不知道要不要把原厂整个游戏中心带相关系统框架全搬来，不搬的话这个键还能干嘛来着……？还有很多零散的东西，DTS、快充和温控等等，要确认是不是需要修。 https://t.co/gB4ZPBjs6s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104273781372174604",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4430,
+          "following_count": 354,
+          "like_count": 135343,
+          "listed_count": 19,
+          "media_count": 1565,
+          "tweet_count": 23822
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

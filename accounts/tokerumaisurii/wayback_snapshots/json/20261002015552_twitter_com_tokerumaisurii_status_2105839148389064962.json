@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2105585261073530909",
+    "created_at": "2026-10-02T01:55:52.000Z",
+    "display_text_range": [
+      9,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T02:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105839148389064962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "259611996",
+          "start": 0,
+          "username": "bearliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105839148389064962",
+    "in_reply_to_user_id": "259611996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105585261073530909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bearliu 我感觉你没把人家的课学进去啊。你说的这一切也都是讲细节，那结果呢？你优化版的portfolio对比原本带来更好的触及了吗？你活用相同方法分析自己生活更多部分并达成什么优化和有什么经验感悟了吗？更进一步，有具体的结果数据吗？你到底认不认同人家说的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2105585261073530909",
+        "created_at": "2026-10-02T01:55:52.000Z",
+        "display_text_range": [
+          9,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105839148389064962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "259611996",
+              "start": 0,
+              "username": "bearliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105839148389064962",
+        "in_reply_to_user_id": "259611996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105585261073530909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bearliu 我感觉你没把人家的课学进去啊。你说的这一切也都是讲细节，那结果呢？你优化版的portfolio对比原本带来更好的触及了吗？你活用相同方法分析自己生活更多部分并达成什么优化和有什么经验感悟了吗？更进一步，有具体的结果数据吗？你到底认不认同人家说的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "259611996",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2105585261073530909",
+        "created_at": "2026-10-01T09:07:00.000Z",
+        "display_text_range": [
+          0,
+          168
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105585261073530909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105585261073530909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 71364,
+          "like_count": 324,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "最有用的建议，是让你不舒服的那种。\n\n今天一个在 LinkedIn 上认识的设计师，给我做了 40 分钟 portfolio review。非常不舒服，但非常有价值。\n\n原话：“你这儿干嘛要放这种？你有他妈 16 年的设计经验，不用讲这些细节了，直接给结果！”\n\n结束后我才知道，他是 Netflix 的 Staff Designer。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105839148389064962",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4483,
+          "following_count": 356,
+          "like_count": 136238,
+          "listed_count": 19,
+          "media_count": 1579,
+          "tweet_count": 23962
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-03-02T06:53:54.000Z",
+        "description": "16 years in design. Fractional product designer for founders. I share product decisions, design craft and shipping. HQ: https://t.co/Qr2bzq9Ea9, cooking: https://t.co/DGThQE8WN1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bearliu.com",
+                "end": 143,
+                "expanded_url": "http://bearliu.com",
+                "start": 120,
+                "url": "https://t.co/Qr2bzq9Ea9"
+              },
+              {
+                "display_url": "typeincube.com",
+                "end": 177,
+                "expanded_url": "http://typeincube.com",
+                "start": 154,
+                "url": "https://t.co/DGThQE8WN1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newsletter.bearliu.com",
+                "end": 23,
+                "expanded_url": "https://newsletter.bearliu.com",
+                "start": 0,
+                "url": "https://t.co/xSkjpTMZJp"
+              }
+            ]
+          }
+        },
+        "id": "259611996",
+        "is_identity_verified": false,
+        "location": "Weekly product notes ↓",
+        "most_recent_tweet_id": "2105822074241425587",
+        "name": "Bear Liu",
+        "pinned_tweet_id": "2105076409794175468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259611996/1746610243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/803996540696084480/Z-uk8--s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121912,
+          "following_count": 2744,
+          "like_count": 6533,
+          "listed_count": 756,
+          "media_count": 7748,
+          "tweet_count": 22698
+        },
+        "url": "https://t.co/xSkjpTMZJp",
+        "username": "bearliu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "conversation_id": "2102933829770174931",
+    "created_at": "2026-09-24T13:58:21.000Z",
+    "display_text_range": [
+      42,
+      202
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103121867343118444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427141496407420929",
+          "start": 0,
+          "username": "__soragoto__"
+        },
+        {
+          "end": 29,
+          "id": "2984628696",
+          "start": 14,
+          "username": "yeager_journey"
+        },
+        {
+          "end": 41,
+          "id": "61072465",
+          "start": 30,
+          "username": "duartethy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103121867343118444",
+    "in_reply_to_user_id": "1427141496407420929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103075413866221575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__soragoto__ @yeager_journey @duartethy_ 现在主要是地方反诈利用DNS，他们也不会管你连哪国的服务器，但是他们会阻断DoH/T/QUIC之类加密查询并且对任何敏感（主要是淫秽色情涉嫌诈骗）网站报127.0.0.1，而且如果是移动数据访问而不是Wi-Fi的话过几分钟一个96110电话就打过来了。最后只能Surge设先用非加密建立代理，然后DNS查询包塞进代理里。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2102933829770174931",
+        "created_at": "2026-09-24T13:58:21.000Z",
+        "display_text_range": [
+          42,
+          202
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103121867343118444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427141496407420929",
+              "start": 0,
+              "username": "__soragoto__"
+            },
+            {
+              "end": 29,
+              "id": "2984628696",
+              "start": 14,
+              "username": "yeager_journey"
+            },
+            {
+              "end": 41,
+              "id": "61072465",
+              "start": 30,
+              "username": "duartethy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103121867343118444",
+        "in_reply_to_user_id": "1427141496407420929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103075413866221575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__soragoto__ @yeager_journey @duartethy_ 现在主要是地方反诈利用DNS，他们也不会管你连哪国的服务器，但是他们会阻断DoH/T/QUIC之类加密查询并且对任何敏感（主要是淫秽色情涉嫌诈骗）网站报127.0.0.1，而且如果是移动数据访问而不是Wi-Fi的话过几分钟一个96110电话就打过来了。最后只能Surge设先用非加密建立代理，然后DNS查询包塞进代理里。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427141496407420929",
+        "conversation_id": "2102933829770174931",
+        "created_at": "2026-09-24T10:53:46.000Z",
+        "display_text_range": [
+          28,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103075413866221575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2984628696",
+              "start": 0,
+              "username": "yeager_journey"
+            },
+            {
+              "end": 27,
+              "id": "61072465",
+              "start": 16,
+              "username": "duartethy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103075413866221575",
+        "in_reply_to_user_id": "2984628696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103075238645059891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeager_journey @duartethy_ 现在改 sni 阻断了 dns 一般懒得管你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103121867343118444",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4422,
+          "following_count": 354,
+          "like_count": 134742,
+          "listed_count": 19,
+          "media_count": 1554,
+          "tweet_count": 23706
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T05:34:01.000Z",
+        "description": "彩笔程序员/在尝试写些小段子/想要变得可爱/如果你有什么装逼小故事或者技术冷知识，或许你可以投稿给我 soragoto@soragoto.io",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soragoto.io",
+                "end": 23,
+                "expanded_url": "https://soragoto.io/",
+                "start": 0,
+                "url": "https://t.co/gaCiutX5TW"
+              }
+            ]
+          }
+        },
+        "id": "1427141496407420929",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2103111568687014008",
+        "name": "空言",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427141496407420929/1696514814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427144661861158914/qtfZPSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5035,
+          "following_count": 296,
+          "like_count": 632,
+          "listed_count": 13,
+          "media_count": 274,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/gaCiutX5TW",
+        "username": "__soragoto__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-15T22:49:22.000Z",
+        "description": "dead and reborn？well，right.I am back to revenge",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "journeyyeager.lofter.com",
+                "end": 23,
+                "expanded_url": "http://journeyyeager.lofter.com",
+                "start": 0,
+                "url": "https://t.co/o3P4C5ebnl"
+              }
+            ]
+          }
+        },
+        "id": "2984628696",
+        "is_identity_verified": false,
+        "location": "Beijing, People's Republic of China",
+        "most_recent_tweet_id": "2103075238645059891",
+        "name": "Call me Yeager",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2984628696/1659117142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288394242272854016/3lQYfNWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 347,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/o3P4C5ebnl",
+        "username": "yeager_journey",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-29T01:06:41.000Z",
+        "description": "@flamengo • 30y • 🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "flamengo"
+              }
+            ]
+          }
+        },
+        "id": "61072465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103107054202241109",
+        "name": "thay ⚢",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61072465/1780625683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101486550445871104/ZG5tRc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 550,
+          "like_count": 14135,
+          "listed_count": 0,
+          "media_count": 1565,
+          "tweet_count": 39804
+        },
+        "url": "",
+        "username": "duartethy_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

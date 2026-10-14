@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      }
+    ],
+    "conversation_id": "2104558909357019371",
+    "created_at": "2026-09-28T13:08:39.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104558909357019371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ventusuta/stat…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/ventusuta/status/2104495159526445546",
+          "start": 116,
+          "url": "https://t.co/MzvlMmnYVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104558909357019371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104495159526445546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在给网站选型字体的时候真的想过霞鹜新晰黑，就是因为觉得做这个换回支持实在是太麻烦了于是放弃了。\n以及原来叫霞鹜啊，我不注意的时候老是会脑读觉得是yuānxiá（鸳霞？），哪怕我意识得到霞在第一个鸟在第二个仍然如此，大脑混乱中…… https://t.co/MzvlMmnYVl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "2104558909357019371",
+        "created_at": "2026-09-28T13:08:39.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104558909357019371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ventusuta/stat…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/ventusuta/status/2104495159526445546",
+              "start": 116,
+              "url": "https://t.co/MzvlMmnYVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104558909357019371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104495159526445546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在给网站选型字体的时候真的想过霞鹜新晰黑，就是因为觉得做这个换回支持实在是太麻烦了于是放弃了。\n以及原来叫霞鹜啊，我不注意的时候老是会脑读觉得是yuānxiá（鸳霞？），哪怕我意识得到霞在第一个鸟在第二个仍然如此，大脑混乱中…… https://t.co/MzvlMmnYVl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629428861690843136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "2104495159526445546",
+        "created_at": "2026-09-28T08:55:20.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104495159526445546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "即使在几乎不可能被追责的情况下，遵守许可证也是重要的。",
+              "display_url": "ventusuta.com/blog/20260928-…",
+              "end": 78,
+              "expanded_url": "https://ventusuta.com/blog/20260928-common-violations-of-ipa-license/",
+              "start": 55,
+              "status": 200,
+              "title": "IPA授权字体的许可证问题_网络日志_Ventus Uta",
+              "unwound_url": "https://ventusuta.com/blog/20260928-common-violations-of-ipa-license/",
+              "url": "https://t.co/vIHnJ46mGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104495159526445546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新日志：“IPA授权字体的许可证问题”（Common Violations of IPA License）\n\nhttps://t.co/vIHnJ46mGB\n\n中文圈犯这个错的太多了，求转（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104558909357019371",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4431,
+          "following_count": 354,
+          "like_count": 135419,
+          "listed_count": 18,
+          "media_count": 1566,
+          "tweet_count": 23839
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-25T10:31:36.000Z",
+        "description": "@VentusUta@stelpolva.moe | 黑木智子一生推 | 🌙 @tokerumaisurii, 👺 @WinslowHee | Aromantic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "tokerumaisurii"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "WinslowHee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ventusuta.com",
+                "end": 23,
+                "expanded_url": "https://ventusuta.com",
+                "start": 0,
+                "url": "https://t.co/tomeJv3sXk"
+              }
+            ]
+          }
+        },
+        "id": "1629428861690843136",
+        "is_identity_verified": false,
+        "location": "Mississauga, Ontario",
+        "most_recent_tweet_id": "2104495159526445546",
+        "name": "Ventus Uta",
+        "pinned_tweet_id": "2054151547114975649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629428861690843136/1789357621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059699974955491328/sPVaS9H1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 1134,
+          "like_count": 34866,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 6614
+        },
+        "url": "https://t.co/tomeJv3sXk",
+        "username": "VentusUta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1903099585129816064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2103220153215504484",
+    "created_at": "2026-09-25T00:16:06.000Z",
+    "display_text_range": [
+      13,
+      169
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T01:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103277326725157090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035898194366963712",
+          "start": 0,
+          "username": "ApplerinQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103277326725157090",
+    "in_reply_to_user_id": "2035898194366963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103220153215504484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ApplerinQAQ 可是它确实是试验场（（\n我觉得这帮人“太理想不工程”的点不在于说dsh不行（这个harness的架构和背后的引擎我认为是Mythos之于模型界一样的顶级），而在于发在最容易访问的平台GitHub，还贴心地做了桌面端打了包放仓库里，无论谁都会自然而然产生服务需求感。扔个公开的自建git/svn上不打包就啥事没有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2103220153215504484",
+        "created_at": "2026-09-25T00:16:06.000Z",
+        "display_text_range": [
+          13,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103277326725157090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035898194366963712",
+              "start": 0,
+              "username": "ApplerinQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103277326725157090",
+        "in_reply_to_user_id": "2035898194366963712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103220153215504484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ApplerinQAQ 可是它确实是试验场（（\n我觉得这帮人“太理想不工程”的点不在于说dsh不行（这个harness的架构和背后的引擎我认为是Mythos之于模型界一样的顶级），而在于发在最容易访问的平台GitHub，还贴心地做了桌面端打了包放仓库里，无论谁都会自然而然产生服务需求感。扔个公开的自建git/svn上不打包就啥事没有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035898194366963712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2103220153215504484",
+        "created_at": "2026-09-24T20:28:55.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103220153215504484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShiZheng24517/…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/ShiZheng24517/status/2103211762510405764",
+              "start": 121,
+              "url": "https://t.co/R79kaND5EU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103220153215504484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 598,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103211762510405764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有的时候也有这种感觉，现在的dsh不知道为什么给人一种很混乱的体验...\n\n他似乎完全不是一个可以稳定使用的开发工具，而只是一个试验场，一个乐高积木或者3D打印机拼出来的玩具，并且在奇怪的地方莫名的臃肿...我不知道该如何形容这一点... https://t.co/R79kaND5EU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103277326725157090",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4427,
+          "following_count": 354,
+          "like_count": 134784,
+          "listed_count": 19,
+          "media_count": 1556,
+          "tweet_count": 23730
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "🎶 Maybe I just want to fly. Wanna live I don't want to die.\n💕ENTP-T / Maybe She or Her or u like ~ / Monitoring Al\n🕊️Peace & Love...No Politics Please!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/peerin00",
+                "end": 23,
+                "expanded_url": "https://t.me/peerin00",
+                "start": 0,
+                "url": "https://t.co/x4cTdVCd7E"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With MEEP",
+        "most_recent_tweet_id": "2103232720923173211",
+        "name": "Applerin🍎",
+        "pinned_tweet_id": "2101230269445615842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1780554317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101496538996580352/XhwCKsTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 183,
+          "like_count": 3123,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1845
+        },
+        "url": "https://t.co/x4cTdVCd7E",
+        "username": "ApplerinQAQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
